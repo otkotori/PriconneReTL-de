@@ -50,9 +50,9 @@ Folgende Dateien müssen für die Deinstallation gelöscht werden:
 ```
 BepInEx
 dotnet
-doorstop_config.ini
-winhttp.dll
+dxgi.dll
 .doorstop_version
+doorstop_config.ini
 ```
 
 Der Vanilla-Status des Ordners „priconner“ sieht wie folgt aus:
