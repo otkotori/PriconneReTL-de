@@ -1,7 +1,7 @@
 <h2 align="center">
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
-<i>A German patch for Princess Connect! ReDive on DMM</i>
+<i>A Conversion patch for Princess Connect! ReDive on DMM</i>
 </h2>
 
 ---
