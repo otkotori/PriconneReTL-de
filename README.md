@@ -22,12 +22,13 @@ The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Cygames' Pr
 ## ![Nozomi](https://static.wikia.nocookie.net/princess-connect/images/4/46/Nozomi_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925084658) BEI DER INSTALLATION
 
 1. Vergewissern Sie sich, dass Sie [priconner](https://dmg.priconne-redive.jp/) von DMM GAMES installiert haben, nicht von einen Android-Emulator.
-2. Laden Sie die neueste Version von [Veröffentlicht Versionen](https://github.com/otkotori/PriconneRe-TL-DE-/releases) herunter. Ältere Versionen funktionieren nicht, wenn das Spiel aktualisiert wird.
+2. Laden Sie die neueste Version von [Veröffentlicht Versionen](https://github.com/otkotori/PriconneReTL-de/releases) herunter. Ältere Versionen funktionieren nicht, wenn das Spiel aktualisiert wird.
 3. Entpacken Sie alle Dateien aus der Zip-Datei in Ihren `priconner`-Ordner
 - (Standardspeicherort: "C:\Benutzer(Users)\%username%\priconner)
 4. Stellen Sie sicher, dass Ihr `priconner`-Ordner wie folgt aussieht
 
-![Patched](https://github.com/ImaterialC/PriconneRe-TL/assets/105358849/f9ef7290-1ed4-41d4-b55e-616cb3d84636)
+![patchapply](https://github.com/user-attachments/assets/03b5ef06-ab1d-4ee4-aedd-3ca2575179da)
+
 
 _Nach der Installation kommt es beim ersten Durchlauf zu einer Startverzögerung, beim zweiten Durchlauf und danach läuft alles wie gewohnt._
 
@@ -47,16 +48,13 @@ Ihr Spiel wird in seinen normalen Zustand zurückkehren.
 Wenn das Spiel nach dem Löschen des Patches nicht startet, deinstallieren Sie das Spiel und installieren Sie es erneut über DMM GAMES.
 
 Folgende Dateien müssen für die Deinstallation gelöscht werden:
-```
-BepInEx
-dotnet
-dxgi.dll
-.doorstop_version
-doorstop_config.ini
-```
+
+![removal](https://github.com/user-attachments/assets/bdb9b596-3199-4268-971b-2c0e5f23cc08)
 
 Der Vanilla-Status des Ordners „priconner“ sieht wie folgt aus:
-![Originalinstallation](https://github.com/ImaterialC/PriconneRe-TL/assets/105358849/3d5823e6-5f67-42be-aaa7-dd2c452535a5)
+
+![normal](https://github.com/user-attachments/assets/eee6872a-b8c1-478e-b949-6a6e3963d95a)
+
 
 ## ![Kyouka](https://static.wikia.nocookie.net/princess-connect/images/3/39/Kyouka_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113712) EINSTELLUNGEN UND FUNKTIONEN
 
