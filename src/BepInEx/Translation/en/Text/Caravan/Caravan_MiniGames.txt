@@ -1,0 +1,93 @@
+r:"^([0-9,]+)マイル([×\d]{2})? 獲得！$"=$1$2 Meilen erworben!
+獲得トレジャーはありません。=Keiner Schatz(e) erhalten.
+獲得トレジャー=Erhaltene Schatz(e)
+個=
+アイテム獲得数=Erworbene Artikel
+マイル=Meilen
+キャラバンで用いる特別な通貨。マイルショップやマイルガチャ利用時に必要となる。=Eine spezielle Währung, die in der Wohnwagen verwendet wird. Sie wird für Einkäufe im Meilenshop und die Nutzung der Meilen-Gacha benötigt.
+今回の獲得マイル=Erreichte Meilen
+r:"^(\d+)ターン以内に到着$"=in $1 Runden ankommen
+個= 
+
+平凡なインゴット=Gewöhnlicher Barren
+平凡なルーン=Gewöhnliche Runen
+平凡なスクロール=Gewöhnliche Schriftrolle
+平凡なアーティファクト=Gewöhnliche Artefakt
+平凡なティアラ=Gewöhnliche Tiara
+平凡なジェムストーン=Gewöhnliche Edelstein
+平凡なクラウン=Gewöhnliche Krone
+
+貴重なインゴット=Edelmetallbarren
+貴重なルーン=Kostbare Runen
+貴重なスクロール=Kostbare Schriftrolle
+貴重なアーティファクト=Kostbare Artefakt
+貴重なティアラ=Kostbare Tiara
+貴重なジェムストーン=Kostbare Edelstein
+貴重なクラウン=Kostbare Krone
+
+至高のインゴット=Höchster Barren
+至高のルーン=Höchster Runen
+至高のスクロール=Höchster Schriftrolle
+至高のアーティファクト=Höchster Artefakt
+至高のティアラ=Höchster Tiara
+至高のジェムストーン=Höchster Edelstein
+至高のクラウン=Höchster Krone
+
+至高の未鑑定トレジャー=Höchster unbewerteter Schatz
+貴重な未鑑定トレジャー=Kostbare unbewerteter Schatz
+平凡な未鑑定トレジャー=Gewöhnliche unbewerteter Schatz
+以下のトレジャーを獲得しました。=Folgende Schätze erlangt:
+
+[f6d75e,f68600]至高のスクロール[-]=[f6d75e,f68600]Höchster Schriftrolle[-]
+[f6d75e,f68600]至高のインゴット[-]=[f6d75e,f68600]Höchster Barren[-]
+[f6d75e,f68600]至高のルーン[-]=[f6d75e,f68600]Höchster Runen[-]
+[f6d75e,f68600]至高のアーティファクト[-]=[f6d75e,f68600]Supreme Artifact[-]
+[f6d75e,f68600]至高のティアラ[-]=[f6d75e,f68600]Höchster Artefakt[-]
+[f6d75e,f68600]至高のクラウン[-]=[f6d75e,f68600]Höchster Krone[-]
+[f6d75e,f68600]至高のジェムストーン[-]=[f6d75e,f68600]Höchster Edelstein[-]
+[f6d75e,f68600]至高の未鑑定トレジャー[-]=[f6d75e,f68600]Höchster unbewerteter Schatz[-]
+
+正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。鑑定の結果、レアリティが上がる場合がある。=Ein nicht identifizierter, geheimnisvoller Schatz. Karin wird ihn begutachten, wenn du ihn bis zur Geschäftsstelle der Gilde bringst. Schätzungen können die Seltenheit erhöhen.
+正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。=Ein nicht identifizierter, geheimnisvoller Schatz. Wenn du ihn in die Geschäftsstelle des Gildenverbandes bringst, wird er von Karin begutachtet.
+非常に珍しいトレジャー。ギルド管理協会出張所まで持ち込むと、多額のキャラバンコインに換金できる。=Ein äußerst seltener Schatz. Wenn du ihn zum Büro des Gildenverbandes bringst, kannst du ihn gegen eine große Menge Wohnwagenmünzen eintauschen.
+珍しいトレジャー。ギルド管理協会出張所まで持ち込むと、キャラバンコインに換金できる。=Ein seltener Schatz. Wenn du ihn zum Büro des Gildenverbandes bringst, kannst du ihn gegen Wohnwagenmünzen eintauschen.
+平凡なトレジャー。ギルド管理協会出張所まで持ち込むと、少額のキャラバンコインに換金できる。=Gewöhnlicher Schatz. Wenn du ihn zum Büro des Gildenverbandes bringst, kannst du ihn gegen ein paar Wohnwagenmünzen eintauschen.
+
+落ちてくるリンゴや宝箱をキャッチしましょう！\n画面の左右をタッチすると移動できますよ！=Lass uns fallende Äpfel und Schatztruhen fangen! Da du am PC spielst, kannst du die Pfeiltasten ← und → auf der Tastatur oder einen Controller verwenden.
+スタート=Starten
+集めたリンゴはマイルと交換させていただきます。\n金リンゴはなんと、赤リンゴ5個分の価値がありますよ♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Die gesammelten Äpfel werden gegen Meilen getauscht. Und wisst ihr was? Ein goldener Apfel ist fünf rote Äpfel wert! Und wenn du eine Schatztruhe fängst, bekommst du einen Schatz!
+トゲトゲにぶつかると、少しの間動けなくなるので注意してください。\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Pass auf, dass du nicht mit dornigen Hindernissen kollidierst, denn das macht dich vorübergehend bewegungsunfähig. Wenn ihr einen Magneten fangt, zieht er für eine bestimmte Zeit Früchte und Schatztruhen in seiner Reichweite an.
+トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のリンゴや宝箱を一定時間\n引き寄せることができますよ♪=Pass auf, dass du nicht mit dornigen Hindernissen kollidierst, denn das macht dich vorübergehend bewegungsunfähig. Wenn ihr einen Magneten fangt, zieht er für eine bestimmte Zeit Früchte und Schatztruhen in seiner Reichweite an.
+リンゴや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=Äpfel und Schatztruhen werden in den Ergebnissen in Belohnungen umgewandelt! Fangen Sie viele von ihnen und erhalten Sie Meilen und Schätze.
+
+マイルガチャ=Meilen-Gacha
+ガチャ台を選択してください。ガチャはいずれか1台を1度だけ利用できます。=Bitte wählen Sie einen Gacha-Automaten. Du kannst nur einen Gacha-Automat benutzen.
+ミニゲームをリタイアしました。=Aus dem Minispiel zurückgezogen.
+参加報酬を入手しました。=Erhaltene Teilnahmegebühr.
+獲得マイルアップ効果を適用しました。=Erreichter Meilen-↑-Effekt angewendet.
+
+ガチャ詳細=Gacha-Info
+マイルを消費せず、無料で回せるガチャです。\nトレジャーか料理を1品獲得できます。=Dies ist ein Gacha, bei dem du drehen kannst, ohne Meilen auszugeben. Du hast die Chance, entweder einen Schatz oder ein Gericht zu erhalten.
+1500マイルを消費して回せるガチャです。\nお得にトレジャーや料理を入手するチャンス！=Dies ist ein Gacha, das man durch den Verbrauch von 1500 Meilen auslösen kann. Es bietet eine kostengünstige Möglichkeit, Schätze und Gerichte zu erhalten.
+3000マイルを消費して回せるガチャです。\n大量のトレジャーや料理が手に入ることも…！？=Dies ist ein Gacha, das man durch den Verbrauch von 3000 Meilen auslösen kann. Es bietet auch die Möglichkeit, eine große Menge an Schätzen und Gerichten zu erhalten.
+ダイスまたは料理を使用する前であれば\n再度開くことができます。=Wenn du den Würfel oder ein Gericht noch nicht\nbenutzt hast, kannst du es noch einmal öffnen.
+利用可能なガチャがあります。\nダイアログを閉じてもよろしいですか？\n=Es steht ein Gacha zur Verfügung.\nMöchten Sie den Dialog noch schließen?
+
+マイルが不足しています。=Ungenügende Meilen.
+マイルを消費して\nレアガチャを引きます。\nよろしいですか？=Meilen ausgeben, um das Seltene Gacha zu ziehen?
+マイルを消費して\nプレミアムガチャを引きます。\nよろしいですか？=Meilen ausgeben, um das Prämien-Gacha zu ziehen?
+ノーマルガチャを無料で引きます。\n\nよろしいですか？=Die normale Gacha zeichnen?
+
+sr:"^(?:\[3C404E\])?(.+)を \[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]個獲得しました。(?:\[-\])?$"=[3C404E]Erhälte\n[FFBB00,CE4F00]$2 × [-]$1![-]
+
+再開=Fortsetzen
+ミニゲームを中断しました。=Das Minispiel wurde ausgesetzt.
+もう一度中断した場合、リタイアとなります。=Wenn Sie noch einmal unterbrechen,\nführt das zur Pensionierung.
+一時停止=Pausiern
+[FF7C4E,D62146]リタイアした場合、集めた報酬は獲得できません。\nまた、再挑戦はできません。[-]=[FF7C4E, D62146]Wenn Sie sich zurückziehen, können Sie die gesammelten\nBelohnungen nicht mehr erhalten.[-]
+ミニゲームをリタイアしますか？=Willst du das Minispiel beenden?
+トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Wenn du in einen Dorn gerätst, kannst du dich eine Zeit lang nicht bewegen, also sei vorsichtig! Wenn du einen Magneten fängst, kannst du für eine bestimmte Zeit Früchte und Schatztruhen in seine Reichweite ziehen.
+
+強力なハンマーに要注意です！攻撃地点からはフルーツや宝箱が\nドロップしますが、すぐに消えてしまうので急いでGETしましょう！\n「練習する」から何度でも実際のゲームの動きが確認できますよ♪=Nimm dich vor dem mächtigen Hammer in Acht! Von den Angriffspunkten fallen Früchte und Schatztruhen herunter, aber sie verschwinden schnell, also beeilen wir uns, sie einzusammeln! Du kannst das tatsächliche Spiel unter „Üben“ so oft üben und bestätigen, wie du willst.
+集めたフルーツはマイルと交換させていただきます\nSPECIALのフルーツは、NORMALの5個分の価値があります♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Die Früchte, die du sammelst, werden gegen Meilen getauscht. SPEZIAL-Früchte sind fünfmal so viel wert wie NORMAL-Früchte. Außerdem bekommst du Schätze, wenn du Schatztruhen fängst!
+フルーツや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=In den Ergebnissen werden Früchte und Schatztruhen in Massen gegen Belohnungen eingetauscht! Lasst uns viel fangen und Meilen und Schätze sammeln♪

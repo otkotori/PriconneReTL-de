@@ -1,0 +1,189 @@
+キャラバン=Wohnwagen
+ボーナス一覧=Bonusliste
+経過ターン=Abgelaufene Runden
+
+グルメチェイサー号=Gourmet-Chaser
+バンディシャーク号=Bandyshark
+追加ボーナス発生中!=Zusätzlicher Bonus
+
+バンディシャーク号との距離=Bandyshark-Entfernung
+目標到着ボーナス=Zielankunftsbonus
+到着までにかかったターン数=Gesamte Runden
+ライバルに勝利=Sieg
+r:"^(\d+)ターン休み$"=$1 Runde(n) Pause
+練習する=Üben
+練習中=Während der Übung
+ライバル=Rivalen
+ライバル勝利ボーナス=Siegprämie für Rivalen
+
+r:"^ダイスを(\d+)個入手した。$"=$1 Würfel erhalten.
+\nマイルを支払って\n「ちかみち」を開通させます。\nよろしいですか？=\nZahlen Sie Meilen, um die Verknüpfung zu öffnen.\nIst das in Ordnung?
+
+[FF7C4E,D62146]1[-][3C404E]ターン[-]=[FF7C4E,D62146]1[-][3C404E] Runde[-]
+r:"^\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]ターン\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Runden[-]
+チェックポイント=Kontrollpunkt
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]マス[-]=[FF7C4E,D62146]1[-][3C404E] Flies übrig[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]マス\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Fliese übrig[-]
+シーズン切替=Saisonwechsel
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]日[-]=[FF7C4E,D62146]1[-][3C404E] Tag übrig[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]日\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Tage übrig[-]
+
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]時間\[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E]St[-][FF7C4E,D62146]$2[-][3C404E]M übrig[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E]M übrig[-]
+発動中の効果=Effekte während der Aktivierung
+サイコロを振る=Würfeln
+料理を食べる=Ein Gericht essen
+使用済=Genutzt
+本日の消費スタミナ=Ausdauerverbrauch
+[FF7C4E,D62146]本日分は獲得済みです[-]=[FF7C4E,D62146]Tagesziel erreicht[-]
+追加サイコロをゲット！=Extrawürfel!
+追加ダイスをゲット！=Hol dir einen Extrawürfel!
+ダイスを所持していません。=Keine Würfel mehr.
+トレジャー=Schatz
+現在位置に戻る=Rückkehr
+チェックポイントまで=Zum Kontrollpunkt
+
+ダイスを振る=Würfeln
+シーズン終了=Ende der Saison
+料理を所持していません。=Sie haben keine Gerichte.
+料理は1ターンに1品までしか食べられません。=Du kannst nur ein Gericht pro Runde essen.
+1ターン以内にギルド管理協会出張所へ到着=1 weitere Runde zur GV-Geschäftsstelle.
+r:"^(\d+)ターン以内にギルド管理協会出張所へ到着$"=$1 mehr Runden zur GV-Geschäftsstelle.
+ダイスを１個入手した。=Erhaltene Würfel x1.
+残り99ターン=99 Runden übrig
+
+上書き前効果=Aktueller Effekt
+上書き後効果=Neues Effekt
+この料理を食べると発動中の効果が上書きされます。=Der Verzehr dieses Gerichten überschreibt die Wirkung des vorherigen Gerichten.
+
+r:"^(\d+)ターン以内に到達$"=Innerhalb von $1 Runden
+r:"^(\d+)ターンで到達$"=Innerhalb von $1 Runden
+r:"^レベル(\d)$"=Runde $1
+ターン数ボーナス=Wende-Bonus
+一定のターン以内にチェックポイントへ到達すると\nボーナスが獲得できます！=Wenn du den Kontrollpunkt innerhalb einer bestimmten Anzahl von Runden erreichst, erhältst du einen Bonus!
+
+次にミニゲームに挑戦した際の\n獲\r得マイルが100%アップする。=Wenn Sie das nächste Mal ein Minispiel herausfordern, erhöhen sich Ihre Bonusmeilen um 100%.
+次にマイルマスに止まった際の\n獲得マイルが100%アップする。=Wenn Sie das nächste Mal auf einem Meilenstein anhalten, erhalten Sie 100% mehr Meilen.
+次のターン数のカウントを\nスキッ\rプする。=Überspringen Sie die Zählung für die nächste Runde.
+
+以下のアイテムを獲得しました。=Folgende Artikel wurden beschafft:
+ボーナスレベル=Bonusrunde
+到達までにかかったターン数=Kontrollpunkt-Runden
+
+sr:"^(?:\[3B3F4D\])?(.+)を売却して\n?\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しました。(?:\[-\])?$"=[3B3F4D]$1\n verkauft und [FFBB00,CE4F00]$2[-] Meilen verdient[-]
+
+福引券=Lotterielose
+福引結果=Lotterieergebnisse
+所持していた福引券の抽選を行いました。=Die Lotterielose sind gezogen worden.
+
+福引券はチェックポイント到達時に抽選が行われます。=Die Lotterielose werden am Kontrollpunkt gezogen.
+福引券を獲得しました。=Lotterielos erhalten.
+福引券獲得=Ein Lotterielos erworben
+ショップマス=Kauf-Fliese
+
+鑑定結果=Beurteilungsergebnisse
+合計獲得コイン=Erhaltene Münzen
+以下の通りトレジャーを清算しました。=Schätzte den folgenden Schatz:
+以下の通り、トレジャーをお引き受けしました。=Schätzte den folgenden Schatz
+平凡なトレジャー=Gewöhnlicher Schatz
+貴重なトレジャー=Kostbarer Schatz
+至高のトレジャー=Höchster Schatz
+
+所持トレジャー一覧=Besessenen-Schatzliste
+トレジャーを所持していません。=Kein Schatz in Ihrem Besitz.
+現在トレジャーを所持していません。=Sie haben derzeit keinen Schatz.
+
+マイルショップ=Meilenshop
+マップに戻る=Zurück zur Karte
+売却する=Verkaufen
+まとめて売却する=Alles verkaufen
+所持マイル=Meilen:
+必要マイル=Meilen erfor.
+合計マイル=Gesamtmeilen
+売却メニュー=Menü „Verkaufen"
+購入メニュー=Menü „Kaufen"
+売却できるアイテムがありません。=Keine Artikel zu verkaufen.
+これ以上売却できません。=Kann nicht mehr verkaufen.
+これ以上購入できません。=Kann nicht mehr kaufen.
+マイルでアイテムを購入することができます。=Sie können Artikel mit Meilen kaufen.
+料理を売却してマイルを得ることができます。=Durch den Verkauf von Gerichten können Sie Meilen verdienen.
+売却確認=Verkauf bestätigen
+売却完了=Verkauf abgeschlossen
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しますか\?\[-\]$"=[3B3F4D]Verkaufen Sie das/die folgende Gericht(e) für [-][FFBB00,CE4F00] $1[-][3B3F4D] Meilen?[-]
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しました。\[-\]$"=[3B3F4D]Verkaufte folgend Gericht(e) für [-][FFBB00,CE4F00] $1[-][3B3F4D] Meilen.[-]
+
+現在マイルショップが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=Der Meilenshop ist derzeit geöffnet.\nEr ist nicht mehr verfügbar, wenn man den\nWürfel oder eine Schüssel benutzt.\nWeiter?
+
+料理=Gericht
+特殊系=Spezial
+補助系=Unterstützung
+移動系=Bewegung
+サブ=Unter
+サブ効果=Untereffekt
+メイン効果=Haupteffekt
+料理詳細=Gericht-Info
+獲得料理=Erworbenes Gericht
+以下の料理を獲得しました。=Die folgenden Gerichte erhalten:
+食べる=Essen
+r:"^料理所持数 ([0-9/]+)$"=Anzahl der Gerichte: $1
+食べる料理を選択してください。=Wählen Sie ein Gericht zum Essen.
+所持している料理=Gehaltene Gerichte
+食事確認=Mahlzeit-Bestätigung
+食事済=Gegessen
+以下の料理を食べます。よろしいですか？=Das folgende Gericht essen?
+ワカナの施し=Wakana Almosen
+敗北=Niederlage
+
+移動確認=Umzug bestätigt
+このマスに移動しますか？=Auf diese Kachel umziehen?
+立ち去る=Verlassen
+「ちかみち」を開通させずに立ち去ります。\nよろしいですか？\n\n=Sie werden gehen, ohne „Abkürzung“ zu öffnen.\nSind Sie sicher?
+
+立ち去るを選ぶとイベントが終了します。\n終了後に選択し直すことはできません。=Wenn Sie sich dafür entscheiden, die Veranstaltung zu verlassen, wird sie beendet.\nSie können nach dem Ende der Veranstaltung nicht mehr wählen.
+r:"^(\d)ターンの間ターン数のカウントをスキップする。$"=Für $1 Runde(n) zählen die Runden nicht.
+r:"^料理が所持上限を超えています。\n所持数が(\d+)個以下になるように料理を売却してください。$"=Du hast die maximale Anzahl an Schalen überschritten, die du besitzen kannst. Bitte verkaufe die Schale(n), bis nur noch $1 oder weniger übrig ist.
+
+料理所持数上限=Maximal erreichte Gerichte
+料理が所持上限に達しています。\n新たに料理を入手した場合、超過分の売却が必要です。\n\nこのままダイスを振ってもよろしいですか？=Ihr Geschirrvorrat ist derzeit erschöpft.\nWenn Sie neues Geschirr erwerben, müssen Sie die überzähligen verkaufen.\nWürfeln Sie trotzdem?
+購入に必要なマイルが不足しています。=Nicht genug Meilen, um es zu kaufen.
+食べられる料理を所持していません。=Keine essbaren Nahrungsmittel.
+所持数がいっぱいです。売却する料理を選んでください。=Inventar voll. Wählen Sie das/die zu verkaufenden Gericht(e).
+r:"^\[3C404E\]料理所持数 \[-\]\[FF7C4E,D62146\]([0-9,]+)\[-\]\[3C404E\]/([0-9,]+)\[-\]$"=[3C404E]Gerichte:[-][FF7C4E,D62146] $1[-][3C404E]/$2[-]
+
+現在マイルガチャが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=Das Meilengacha ist derzeit geöffnet.\nSie können es nicht benutzen, nachdem Sie gewürfelt oder etwas gegessen haben.\n\nIst das in Ordnung?
+
+バンディ・シスターズに差をつけて先に\nチェックポイントへ到達するとボーナスが獲得できます!=Sei den Bandy Sisters voraus und \nden Kontrollpunkt als Erster, um einen Bonus zu erhalten!
+
+r:"^\[FF7C4E,D62146\]このコインの使用期限は([0-9/ :]+)までです。\[-\]$"=[FF7C4E,D62146]Diese Münze kann bis $1 verwendet werden.[-]
+r:"^キャラバンコイン(?:（シーズン(\d)）)?ｘ(\d+)$"=Wohnwagen-Münze (Saison $1)ｘ$2
+
+まとめて３個=Drei auf einmal
+
+シーズン切り替わり=Neue Wohnwagensaison
+新シーズンが始まったため、\n所持していたトレジャーをコインに変換しました。=Seit die neue Saison begonnen hat,\nsind alle Ihre Schätze in Münzen umgewandelt worden.
+
+皆さま、オニギリさまと共にグルメチェイサー号で冒険に出発\nいたしましょう。ダイスを振って出た目の数だけマップを進み、\nカリンさまの待つギルド管理協会出張所を目指してくださいまし。=Alle zusammen, lasst uns an Bord der Gourmet-Chaser mit Onigiri-sama auf ein Abenteuer gehen. Würfelt und bewegt euch auf der Karte vorwärts. Unser Ziel ist das Büro der Gildenverband, wo Lady Karin auf uns wartet.
+ギルド管理協会出張所では集めたトレジャーをキャラバンコインに換金し\nてくださいます。また、到達までのターン数が少ないほどボーナスを獲得\nできるようです。コインはショップでアイテムと交換いたしましょう。=In der Niederlassung der Gildenverband können Sie die gesammelten Schätze gegen Wohnwagen-Münze eintauschen. Und je weniger Runden du brauchst, um dorthin zu gelangen, desto größer ist der Bonus, den du erhältst. Lasst uns Münzen sammeln und sie im Laden gegen Artikel eintauschen.
+料理からは、冒険を有利に進める効果が得られますよ。1ターンに1品\nまで召し上がることができ、同じカテゴリーの効果は重複いたしません。\n…あぁっペコリーヌさま、おかわりは次のターンまで我慢でございます。=Du kannst bis zu einem Gericht pro Runde essen, um vorteilhafte Effekte zu erhalten, allerdings sind die Effekte von Gerichten der gleichen Kategorie nicht stapelbar-
+道中には様々なマスがございます。「マイルマス」で集めたマイルは料理\nやトレジャーの購入にお使いいただけますよ。「トレジャーマス」や\n「料理マス」ではスロットを回して出たアイテムを獲得できるとか。=Es gibt verschiedene Plättchen, auf denen du landen kannst. Mit den Meilen, die Sie auf einem „Meilenplättchen“ erhalten, können Sie Gerichte und Schätze kaufen. Bei der „Schatzkachel“ und der „Geschirrkachel“ können Sie ein Rad drehen und Artikel erhalten.
+「ショップマス」ではマイルを用いたアイテムの購入が可能です。\n「イベントマス」では嬉しい効果を得られるイベントが起きるようです。\n「移動マス」に止まると、そこからさらに先へ進めるのでございますね。=An einem „Kauf-Fliese“ kannst du mit Meilen Artikel kaufen. Auf einem „Ereignis-Plättchen“ können verschiedene Dinge passieren, die nützliche Effekte haben. Wenn Sie auf einem „Bewegungsplättchen“ anhalten, können Sie sich weiterbewegen.
+「ミニゲームマス」に止まったら、ミニゲームに挑戦いたしましょう。\n結果に応じた報酬が獲得できるのですね。「福引券マス」は福引券を入手\nでき、「ガチャマス」ではマイルガチャが回せるようですよ、主さま。=Du kannst ein Minispiel spielen, wenn du auf einer „Minispiel-Kachel“ anhältst, und du erhältst Belohnungen für deine Leistung. Mit dem „Lotterielos“-Plättchen können Sie ein Lotterielos erhalten, und mit dem „Gacha“-Plättchen können Sie das Meilengacha drehen, mein Herr.
+
+1～14マス差で勝利=Sieg mit 1-14 Feldern
+15マス差以上で勝利=Sieg mit mehr als 15 Feldern
+シーズン最速到達記録=Schnellste Saisonrekord
+シーズン最速到達ターン数=Schnellste Saisonrekord
+シーズン最速到達ターン=Schnellste Saisonrunde
+r:"^(\d+)ターン経過$"=$1 Runde(n) vergangen
+区間スキップ=Sektionsübersprung
+ボーナスレベル2=Bonusstufe 2
+所持ダイス=Würfel
+シーズン中、チェックポイント到達までにかかった\n最速ターン数に応じてボーナスが獲得できます！=Während der Saison können Sie Boni für die schnellste Runde\nverdienen, die Sie gebraucht haben, um einen Kontrollpunkt zu erreichen!
+15ターン以内にチェックポイントに到達すると解放されます。=Erreichen Sie innerhalb von 15 Runden einen Kontrollpunkt, um freizuschalten.
+区間スキップを実行した場合、出現中の仲間効果、\nおよび発動中の料理効果、マス効果は消失します。\nまた、ライバル出現時は勝敗が無効となります。=Wenn du einen Sektion überspringst, entfernen alle Effekte\nder Gruppenmitglieder, Kocheffekte und Forelleneffekte.\nAußerdem werden Sieg oder Niederlage annulliert,\nwenn ein Rivale erscheint.
+[3C404E]ダイスを[FFBB00,CE4F00]15個[-]使って区間スキップを実行しますか？[3C404E]=[3C404E]Verwenden [FFBB00, CE4F0015[-]Würfel, um das\nSektionsübersprung durchzuführen?
+区間スキップの実行にはダイスが15個必要です。=Sie benötigen 15 Würfel, um das Sektionsübersprung durchzuführen.
+
+「ちかみちマス」でマイルを支払うと、チェックポイントまでの短縮\nルートが開かれるようです。「パーティマス」に止まった翌ターンは最大\n３品まで料理を召し上がれますよ。組み合わせが重要でございますね。=Wenn Sie an den „Abkürzungs-Kacheln“ Meilen bezahlen, wird eine Abkürzung zum Kontrollpunkt geöffnet. Wenn Sie an einem „Party-Plättchen“ anhalten, können Sie bei der nächsten Runde bis zu drei Gerichte genießen. Die Kombination ist wichtig.
+ダイスを一度に３個振ることができる「まとめて３個」モードが\n新たに追加されました。お手持ちのダイスを用いて、効率的に冒険を\n進めることができるようでございます。ぜひご活用くださいまし。=Ein neuer Modus, „Drei auf einmal würfeln“, wurde hinzugefügt, der es Ihnen ermöglicht, drei Würfel gleichzeitig zu werfen. Dies wird euch helfen, mit euren Würfeln effizienter durch euer Abenteuer zu kommen. Bitte macht von diesem Modus Gebrauch.
+「まとめて３個」モードの使用中は、マス効果の発動頻度や出現する\nお仲間の制限など、ダイスを1個ずつ振って遊ぶときとは異なる点が\nあるようです。詳細は「ヘルプ」をご覧ください、主さま。=Wenn Sie den Modus „Drei auf einmal würfeln“ verwenden, können sich die Häufigkeit der Plättcheneffekte und das Auftreten von Begleitern von dem unterscheiden, wenn Sie jeweils nur einen Würfel werfen. Weitere Informationen finden Sie in der „Hilfe“, mein Herr.

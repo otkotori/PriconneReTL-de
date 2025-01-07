@@ -1,0 +1,46 @@
+キャラバンショップ=Wohnwagen-Shop
+r:"^あと (\d{1,2})日$"=$1 tage übrig
+r:"^シーズン(\d+)$"=Saison $1
+r:"^シーズン(\d+)は開催されていません。$"=Saison $1 ist noch nicht eröffnet.
+キャラバンコイン=Wohnwagen-Münze
+トレジャーは売却できません。=Schätze sind unverkäuflich.
+
+r:"^キャラバンコイン（シーズン([0-9,]+)）$"=Wohnwagen-Münzen (Saison $1)
+r:"^トレジャーの清算で獲得できる特別\nな通貨。キャラバンショップの\n「シーズン([0-9,]+)」タブで買い物ができ\nる。$"=Eine besondere Währung, die durch die Bewertung von Schätzen erhalten werden kann. Sie kann im Wohnwagen-Shop auf der Registerkarte Saison $1 zum Einkaufen verwendet werden.
+
+所持キャラバンコイン=Wohnwagen-Münzen
+キャラバンに戻りますか?=Willst du zur Wohnwagen zurückkehren?
+購入に必要なキャラバンコインが不足しています。=Nicht genügend Wohnwagen-Münzen für den Kauf.
+必要キャラバンコイン=Wohnwagen-Münzkosten
+キャラバンへ=Zum Wohnwagen
+キャラバンコイン不足=Unzureichende Wohnwagenmünze
+
+いらっしゃいませっ♪\nキャラバンコインを使って\n買い物ができますよっ！=Willkommen im Shop♪ Mit Wohnwagen-Münzen kannst du hier einkaufen!
+ショップへようこそ\nキャラバンコインはこちら\nで買い物に使えますよ=Willkommen im Shop. Wohnwagen-Münzen können hier zum Einkaufen verwendet werden.
+こちらのショップで\n買い物をして、素敵な\n旅を楽しんでくださいね=Ich wünsche Ihnen viel Spaß beim Einkaufen in diesem Shop und eine gute Reise.
+素敵な品が揃ってるので\nたーっくさん買っていって\nくださいねっ♪=Es gibt eine Menge toller Sachen hier, also viel Spaß beim Shoppen!♪
+ショップへようこそ\nキャラバンコインと品物を\n交換できるんで、よければ=Willkommen im Shop! Du kannst hier Wohnwagen-Münzen gegen Artikel eintauschen, also fühl dich frei.
+いらっしゃいませ\nキャラバンコインを使って\nお買い物ができますよ=Herzlich willkommen! Sie können Wohnwagen-Münzen verwenden, um hier einzukaufen.
+なんで店番なんか…\nま、やりますけど\n好きな品物をどうぞ=Warum ich den Laden führe... Nun, ich werde es tun. Bitte wählen Sie die Artikel aus, die Ihnen gefallen.
+ショップの掃除は完璧です\n姫さま直営のお店として\n当然のことですから=Der Laden ist absolut sauber. Es ist ein Geschäft, das direkt von der Prinzessin geführt wird, also ist es nur natürlich.
+──いらっしゃいませ\n買い物しても、いいですよ\nキャラバンコインがあれば=──Herzlich willkommen. Sie können hier alles kaufen. Solange Sie Wohnwagenmünzen haben.
+あら、あたくしをご所望？\nお生憎様、そんな小銭では\n…買えちゃうんですの！？=Oh, du willst mich? Leider kann man es mit so viel Kleingeld nicht kaufen?
+ようこそおいでなんし\nキャラバンコインをこちら\nで交換して進ぜんしょう=Willkommen! Warum tauschen wir nicht hier Wohnwagenmünzen und ziehen weiter?
+い、いらっしゃいませっ！\n…くっ…このあたくし様が\n店番なんて…屈辱ですわっ=W-Willkommen! ...Igitt... Es ist erniedrigend, zu denken, dass ich derjenige bin, der für den Laden verantwortlich ist!
+ところで、お前さまは\nいくらで贖えるのか喃？\n──フフ、冗談でありんす=Übrigens, wie viel können Sie wiedergutmachen, Nanan? Hehe, war nur ein Scherz.
+いらっしゃいませ～♪\nきゃらばんこいん？を\n交換できるんだってー=Willkommen~♪ Ich habe gehört, man kann Kyarabankoin tauschen?
+──もっと笑顔がほしい？\nいくらコインを積まれても\n売れない物はありますから=Sie wollen mehr Lächeln? Egal wie viele Münzen du anhäufst, es gibt Dinge, die du nicht verkaufen kannst
+甘いのくれたら、\nお礼にナーナの拾った\n松ぼっくりあげちゃうよ！=Wenn du mir etwas Süßes gibst, gebe ich dir zum Dank die Tannenzapfen, die Nana gesammelt hat!
+うﾞぇぇえんっ！まﾞだごの\n格好になっぢゃいまじだ！\n寄付をお願いじまず～っ！=Bwaaah! Ich wollte nicht so gekleidet enden! Bitte denken Sie über eine Spende nach!
+ところで、騎士きゅんは\nおいくら万ルピ？\nジョーダンぬ・き・で♡=Übrigens, wie viele hunderttausend Rupien ist Knight-kun wert? Natürlich nur ein Scherz♡
+おっすー♪\nなんでも交換してけー\nカリザきゅん以外で=Hallo zusammen! Tausche alles, was du willst - außer Kariza-kun natürlich.
+ショップへようこそ\nこの鳳凰が、皆さんに\n祝福を差し上げましょう=Willkommen im Shop! Dieser Phönix bietet seine Segnungen für alle.
+ほーちゃんと呼ぶ権利は\n売っていませんよ？\n騎士さんへの、特別です！=Das Recht, mich Hoo-chan zu nennen, ist nicht käuflich, weißt du? Es ist ein besonderes Privileg nur für Sie, Knight-san!
+い、言わなきゃダメか？\n「…いらっしゃいませ…」\nクソッ、笑うんじゃねー！=-Muss ich es sagen? ...Willkommen. Scheiße, lacht nicht über mich!
+ケッ、なんでオレ様が店番\nなんざ…って来んなキイロ\nオレは売りモンじゃねー！=Ha, warum muss ich auf den Laden aufpassen... Warte, komm mir nicht so! Ich bin nicht käuflich!
+ショップへようこそ～\nネラさまの腹心…的な私が\n店番させていただきま～す=Willkommen im Laden~\nch werde Ihr Vertrauter sein, Lady Miia~
+じめじめした商品は\nございませんので\n安心してお買い求め下さい=Wir haben keine feuchten Waren, also können Sie sich entspannen und sie kaufen.
+ようこそいらっしゃいませ\n…接客とは、このような\n振舞で宜しいでしょうか？=Willkommen, willkommen... Ist es das, was es bedeutet, Kunden zu bedienen?
+へい、らっしゃい\nさ、騎士氏。冥土の土産は\nなにがいいですか？=Hallo, Mr. Knight. Was möchten Sie als Souvenir aus der Unterwelt?
+商品をお買い上げ毎に\nグレイスちゃんポイントを\n差し上げます。嘘ですが=Ich gebe Ihnen für jeden Einkauf Grace-Punkte. Das ist allerdings eine Lüge.
+
