@@ -28,16 +28,3 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の�
 ##UE##
 夏の聖騎士ジョッキ=Holy Knight Summer Tankard
 
-##Comments##
-ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=*Sigh* It's so hot... If you're thirsty, tell me right away so you don't get heatstroke, okay? I've got everything you need than just barley soda♪
-夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=Everyone said swimsuits are more efficient when it comes to beach work in the summer, but maybe... maybe it was just common sense only in my guild...
-聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=I ordered a Holy Knight-esque swimsuit... I wonder what part of it looks like that? Could it be the color?
-キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=If you were going to see it, I might have preferred a slightly more subdued design... N-No... It's nothing.
-この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=What do you think of this swimsuit? I thought it'd be cooler if I wore something a little summery, but...
-せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=Since we're at the beach, let's have so much fun that we won't lose to Tamaki-san and Mifuyu-san♪
-暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=When it's hot, the refreshing Saizon drink is nice, but... I also like the Abbay drink with a solid texture♪
-普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=The busier you are, the more you should play when you can to keep your daily life in balance. That's some advice from a working adult♪
-青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=Blue sea! White foam! And you...! I have everything I need! Hehehe, this is like heaven.
-せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=It's a bit of a shame that my vacation isn't just alone with you, but... I'll save that for another time♪
-お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Happy Birthday♪ I came in a hurry, so I'm sorry I dressed like this, okay? I wanted to celebrate as soon as possible.
-ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Happy Birthday, dear♪ Now, it's a happy day, so we've gotta celebrate it with all our might! Here we go! Cheers!

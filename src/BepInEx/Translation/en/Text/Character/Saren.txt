@@ -50,21 +50,3 @@ r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力�
 ##UE##
 グロリアスフェザー=Glorious Feather
 
-##Comments##
-クレヨンと絵本と積み木が\nいっぺんに買えて\nしかも安い店を見つけたの！\n選ぶのを手伝ってくれない？=I found a store that sells crayons, coloring books, and blocks for cheap! Help me shop!
-料理をする時は、\n食材の隅から隅まで\n使い切らないとね\nもったいないじゃない！=When cooking, you need to use every last bit of your ingredients. Waste not, want not!
-お金も大事だけど、あたしはただ\nみんなの笑顔が見たいの\nもちろん、その中には\nあんたも入ってるんだからね=Money is important, but I just want to see a smile on everyone's face. Including yours!
-あんたと今度、\nどこかに遊びに行きたいわね\nあ、もちろん、\nお金のかからないところによ？=You and I should go somewhere fun sometime. Just as long as it's free, of course.
-お茶会を開こうと思うの\nもちろん、\nあんたも招待してあげるから\n楽しみにしてなさい！=I want to have a tea party. You'll be invited, of course. It'll be lots of fun!
-限定アイテムの列はこちらが\n最後尾です…あら、奇遇ね\nあんたも寄ってかない？\nあたしたちが主催するバザー！=The line for limited items starts here... Oh, you came too! Welcome to our bazaar!
-あたしがお客さん呼び込むから、\nあんたはこの看板持って\n誘導してくれる？=I'll call out to the customers. Can you twirl this sign to draw them in?
-予想以上にお客さんが来てくれて\nビックリだわ！　せっかくだし\nあんたも寄ってきなさいよ！=I can't believe we got so many customers! You may as well go do your shopping, too!
-整列手伝ってくれてありがと♪\nあんたと一緒だといつもより\n何倍も仕事が楽しいわ♪\nまたお願いね！=Thanks for helping me manage the lines. Work is so much more fun with you around!
-バザーは大盛況よ♪\nこのあとパーッとご飯でも\n行きましょ！　あんたがいれば\n疲れなんか吹っ飛んじゃう♪=The bazaar was a hit! Let's celebrate with a feast. You'll be the ultimate refreshment!
-ハッピーバースデー♪\n救護院のみんながプレゼントを\n選んだわ。もちろんあたしもね\nありがたく受け取りなさい！=Happy birthday! ♪ Here's a present from everyone at the orphanage. Myself included, of course. I hope you'll accept it!
-誕生日だったわね？\nお祝いに遊びに行くわよ\nこんな日くらいはしっかり休んで\nたまには楽しみましょ♪=It's your birthday, right? Then let's take the day off and have some fun. Days like this are meant to be enjoyed! ♪
-みんなが楽しそうに笑ってるのが\n何よりもうれしいの\nそんな場所であんたと過ごせるの\n本当に幸せよ=I'm happier than ever to see everyone laughing and having fun. Being able to spend time with you makes me really happy.
-帰れる場所があるって、本当に\n素敵よね。あんたも疲れたら\nいつでもここに来なさい\n待ってるから=It's so wonderful to have a place to return to. If you ever get tired, come here anytime. I'll be waiting for you.
-見慣れた何気ない光景だけど\nこういう当たり前の日々を\n大切にしていきたいわよね=It's just a familiar, casual sight, but I want to treasure these ordinary days.
-あんたもだいぶここに\nなじんでるわよね\nこのままずっと\n居てくれてもいいのよ？=You're pretty familiar with this place, right? You can stay as long as you want, you know?
-あんたの前でくらい、肩の力を\n抜いてもいいわよね\nママ・サレンはちょっとお休み\n…なんてね♪=I can relax in front of you, can't I? Mama Saren is taking a break... just kidding♪

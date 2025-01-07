@@ -36,16 +36,3 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 繊麗剣サマーブライト=Graceful Summer Bright Sword
 ブライトサマーメモリー=Summer Bright Memory
 
-##Comments##
-あははっ\n日が暮れるまで浜辺でゆっくり…\nこんな日があってもいいわよね=Ahaha. Sometimes it's nice to just relax on the beach until the sun sets, isn't it?
-貝殻を集めてアクセサリー作り\nなんてのも悪くないわね\n思い出作りよ？　売ろうなんて\n考えてないわよ？　たぶんね=Collecting seashells and making accessories out of them sounds like a good idea. Not for selling or anything, though. Probably.
-海の砂ってサラサラしてて気持ち\nいいわよね。持ち帰って救護院に\n砂場を作ったりできないかしら？=Sand from the beach feels so smooth and nice. What if we take some back to the orphanage and make a sand pit?
-子どもたちと賑やかに\n過ごすのはもちろん楽しいけど\nあんたと二人きりで過ごすのも\nなかなかいいわね=Don't get me wrong, I love having fun with the children. But sometimes it's nice to spend time alone together with you, too.
-あたしの水着をこんな間近で\n見られるなんて、あんた本当に\n得してるわよ♪=You best count yourself lucky. Not many people get to see me in a swimsuit, let alone up this close. ♪
-エレガントじゃないかもだけど\n今だけは許してね\nあたし今、とびっきり\n舞い上がっちゃってる！=I'm hardly at my most elegant right now, but it'd be nice if you let it slide this time. I'm just so excited!
-夏の日差しって、開放的な\n気分にさせるわよね！\nあたしももう少し\n冒険してみようかしら♪=Summer sunshine really gives you that sense of freedom, doesn't it? I'm feeling up for a little adventure. ♪
-海に来るのなんて久しぶりね～\nせっかくのバカンスなんだから\n楽しまなきゃ損よ！=It's been a while since I last came to the beach. And it'd be a waste to not make the most of this vacation!
-本当にきれいな海よね\nもし誰もいない浜辺であんたと\n二人っきりだったら…って！\nなんであたしそんなことを！=The ocean's so lovely. If we ended up alone on the beach, I'd… Wait, what am I saying?!
-捕まえてみなさ～い♪\nな、なんてことあたしが\nできるわけないじゃない！！=Catch me if you can! ♪ Th-there's no way I'd actually be able to say something like that!
-誕生日おめでとう♪\n救護院のみんなもあんたの\n誕生日を祝いたがってるから\n楽しみにしてなさいね！=Happy Birthday! ♪ Everyone at the orphanage wants to celebrate with you, so look forward to what we've got in store!
-誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね=Happy birthday! How about we have a little birthday party together, just the two of us? Just kidding.
