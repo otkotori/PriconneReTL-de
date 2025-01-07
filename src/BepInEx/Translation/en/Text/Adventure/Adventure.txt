@@ -1,0 +1,170 @@
+アドベンチャー=Abenteuer
+冒険先一覧=Abenteuerliste
+遺跡調査=Ruinen-Untersuchung
+まとめて\n帰還確認=Masse\nRückkehr
+まとめて\n出発=Masse\nAbflug
+パーティ上限=Parteigrenze
+r:"^冒険中PT\n\(([0-9/]+)\)$"=Abenteuer\nPartei\n($1)
+冒険中=Erkundung
+sr:"^(.+)が現れた！$"=$1 erschienen!
+メモピ数=#Gedac.
+メモピ=Gedac.
+メモリーピース対象=G.Splitterziel
+人数=Mitglieder
+人数:=Mitglieder
+10キャラ=10 Charaktere
+おまかせ=Zufall
+全選択解除=Alle abbrechen
+必要戦力=Anforderung
+時間短縮=Zeitreduzierung
+繰り返し出発=Abfahrt wiederholen
+出発する=Abfahrt
+
+成功報酬=Erfolgsbonus
+以下のクエストが進行中です。\n状態を確認しますか？=Die folgenden Quests sind in Arbeit.\nSiehst du dir den Status an?
+アドベンチャー確認=Abenteuer bestätigt
+アドベンチャー画面に移動します。=Zum Abenteuerbildschirm wechseln.
+
+まとめて出発確認 =Abfahrt prüfen
+時間短縮設定=Zeitreduzierung
+r:"^(\d+)ジュエル1時間短縮$"=$1 Juwelen für 1St Reduktion
+1チケット1時間短縮=1 Ticket für 1St Reduktion
+ジュエルを使って必要時間を短縮！=Mit Juwelen schneller werden!
+チケットを使って必要時間を短縮！=Mit Tickets schneller werden!
+r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Übrig[-]
+チケットが不足しています。=Nicht genügend Tickets.
+チケットやジュエルを使って時間を短縮！=Mit Tickets und Juwelen Zeit sparen!
+1日の時間短縮可能回数の上限に達しているため時間短縮できません。=Für heute können Sie das Abenteuer nicht mehr beschleunigen.
+戦力オーバーによる時間短縮の上限になりました。=Sie haben bereits die Obergrenze der Zeit erreicht, die Leistung verkürzt werden kann.
+自動分解設定確認=Automatische Demontage-Bestätigung
+アドベンチャーで獲得した際、\n以下のEX装備を自動で分解します。=Die folgenden EX-Ausrüstungen werden automatisch\nabgebaut, wenn sie bei einem Abenteuer erworben werden:
+ファストチケットを所持していません。=Sie haben kein Schnellticket.
+これ以上短縮できません。=Kann nicht mehr gekürzt werden.
+帰還したパーティはありません。=Noch ist keine Partei zurückgekehrt.
+冒険中のパーティはありません。=Keine Parteien für Abenteuer wurde entsandt.
+時間短縮アイテムが設定されていません。=Zeitverkürzungen sind nicht vorgesehen.
+現在は別の画面に移動できません。=Sie können im Moment nicht zu einem anderen Bildschirm wechseln.
+時間短縮詳細=Details zur Zeitreduzierung
+繰り返し出発5回目=5. Abfahrt
+繰り返し出発4回目=4. Abfahrt
+繰り返し出発3回目=3. Abfahrt
+繰り返し出発2回目=2. Abfahrt
+繰り返し出発1回目=1. Abfahrt
+合計必要時間=Zeit insgesamt
+戦力時間短縮=Überschüssige Stärke
+合計短縮時間=Ermäßigung
+周回数上限です。=Maximale Anzahl von Fahrten.
+
+撤退=Rückzug
+結果確認=Ergebnisse
+パーティ確認=Bestätigte Gruppe
+
+このパーティは帰還していません。=Diese Gruppe ist noch nicht zurückgekehrt.
+パーティ数上限=Parteigrenze
+冒険中のパーティが上限に達しています。=Die Gruppe hat während des Abenteuers die Höchstgrenze erreicht.
+この操作には対応していません。=Für diesen Vorgang nicht unterstützt.
+
+短縮する=Verkürzen
+周回追加=+Runde
+周回詳細=Rundendetails
+遠征中のパーティーはありません。=Keine Expeditionsgruppe entsandt.
+冒険中パーティの状態を確認できます。=Sie können den Zustand der Gruppe während des Abenteuers überprüfen.
+アドベンチャーパーティ一覧=Abenteuer-Partyliste
+周回数が指定されていません。=Die Anzahl der Fahrten ist nicht angegeben.
+他の冒険に参加しています。=Geh auf ein anderes Abenteuer.
+
+残り必要時間=Verbleibende Zeit
+撤退確認=Rückzug-Bestätigung
+r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Heutiger Rückzug: $1
+時間短縮に使用したアイテムは返却されません。=Verbrauchte Artikel werden nicht zurückgenommen.
+帰還していないアドベンチャーの報酬は獲得できず、\n必要時間もリセットされます。\n\nよろしいですか？=Ihr erhaltet keine Belohnungen für den Rückzug und die benötigte Zeit wird zurückgesetzt.\nIst das in Ordnung?
+
+報酬詳細=Details zur Belohnung
+キャンペーン=Kampagne
+終了日時=Abschlussdatum
+戦力が不足しています。=Ungenügende Gesamtleistung.
+人数が不足しています。=Ungenügende Mitglieder.
+冒険開始に必要な戦力が不足しています。=Unzureichende Leistung zum Starten des Abenteuers.
+戦力不足=Fehlender Leistung
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Abenteuer, bei denen weniger als $1M verbleiben, werden mit Juwelen beschleunigt.\n※Zeitverkürzungen werden in Vielfachen von 1 Stunde vorgenommen.
+
+r:"^本日のジュエルでの短縮残り回数　([0-9/]+)$"=Juwelen-Nutzung: $1
+r:"^本日のジュエルでの時間短縮可能回数 ([0-9/]+)$"=Juwelen-Nutzung: $1
+ジュエルを消費して\n時間短縮を行います。よろしいですか？=Verbrauche Juwelen und beschleunige den Prozess.\nIst das in Ordnung?
+[FD8F00]帰還[-]=[FD8F00]Ruckzug[-]
+[FF7C4E,D62146]0[-]/10キャラ=[FFF7C4E, D621466] 0 [-]/10 charaktere
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Abenteuer, bei denen weniger als $1M verbleiben, werden mit Schnelltickets beschleunigt.\n※Zeitverkürzungen werden in Vielfachen von 1 Stunde vorgenommen.
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットとジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Abenteuer, bei denen weniger als $1M verbleiben, werden mit Schnelltickets beschleunigt.\n※Zeitverkürzungen werden in Vielfachen von 1 Stunde vorgenommen.
+r:"^本日のチケットでの短縮残り回数　([0-9/]+)$"=Schnellticket Nutzung: $1
+r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Heutige Schnellticket Nutzung: $1
+ファストチケットを消費して\n時間短縮を行います。よろしいですか？=Verbrauchen Sie Schnelltickets und verkürzen Sie die Zeit.\nIst das in Ordnung?
+ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Konsumieren Sie Schnelltickets und Juwelen, um die Zeit zu verkürzen.\nIst das in Ordnung?
+
+再出発しない=Rückkehr
+再出発する=Neu starten
+レースの神様=Ethnie-Gottheit
+ファントムキャッツ登場！=Phantomkatze erscheint!
+
+r:"^([0-9/]+)キャラ$"=$1 Chara.
+戦力不足のため実行できない遠征があります。=Es gibt Abenteuer, die nicht durchgeführt werden können, weil die Stärke nicht ausreicht.
+対象のアドベンチャーポイントがありません。=Es gibt keine Zielabenteuerpunkte.
+編成クリア=Klare Formation
+メモリーピース優先設定=Gedac.-Priorität
+アドベンチャーポイント一覧=Liste der Abenteuerziel
+優先編成=Liste
+最大人数=Max. Mitglieder
+おまかせ編成時に、優先設定されたキャラクターが優先的に編成されます。=Bei Zufallsgruppen werden die Charaktere entsprechend Ihrer Prioritätsoptionen bevorzugt.
+優先キャラクター設定=Prioritätszeichen
+チェックしたアドベンチャーがありません。=Es gibt kein kontrolliertes Abenteuer.
+優先設定の情報がありません。=Es sind keine Prioritätsoptionen festgelegt.
+出発可能パーティが上限に達しています。=Die Höchstzahl der für die Abreise verfügbaren Gruppen ist erreicht.
+以下のアドベンチャーに出発します。よろしいですか？=Aufbruch zum nächsten Abenteuer. Ist das in Ordnung?
+1時間未満の時間短縮が設定されています。=Die Zeitersparnis wird auf weniger als eine Stunde festgelegt.
+出発確認=Abfahrtsbestätigung
+繰り返し回数=Wiederholte Nummer
+r:"^(\d+)回追加$"=+$1 Abfahrt
+周回数を追加しました。=Die Anzahl der Fahrten wurde festgelegt.
+周回追加完了=Der Reisezusatz ist abgeschlossen.
+
+ガイド=Leitfaden
+コンテンツ=Inhalt
+自動分解\n設定=Automatische Demontage\nOption
+優先度\n設定=Priorität\nOption
+思い出イベント=Gedenkveranstaltung
+これまでに発見した思い出イベントのイラストを確認出来ます。=Sie können die Abbildungen der Gedenkveranstaltungen, die Sie bisher entdeckt haben, überprüfen.
+まだ発見していない思い出イベントです。=Diese Gedenkveranstaltung wurde noch nicht gefunden.
+r:"^選択は(\d+)キャラまでです。$"=Bis zu $1 Zeichen können ausgewählt werden.
+
+メモピドロップ枠=Gedächtnissplitterabwurf
+冒険へ出発する時メモリーピース対象に編成されたキャラは、冒険\nから帰還した際の報酬としてメモリーピースを獲得できる可能性が\nあります。強化したいキャラクターを優先的に編成しましょう。=Charaktere, die für Gedächtnissplitter ausgewählt werden, wenn sie auf ein Abenteuer geschickt werden, können diese als Belohnung erhalten, wenn sie von einem Abenteuer zurückkehren. Setzen Sie Prioritäten bei den Charakteren, die Sie stärken wollen.
+優先度設定されたキャラクターは、おまかせ編成時にメモリーピース対象の枠に優先的に編成されます。強化したいキャラクターに優先度を設定しましょう。=Charaktere, die als Priorität eingestellt sind, werden bei der Bildung von Zufallsgruppen zuerst als Ziel für Gedächtnissplitter ausgewählt. Legen Sie Prioritäten für die Charaktere fest, die Sie stärken wollen.
+パーティの戦力が高くなるほど、冒険から帰還する時間が短くなり\nます。キャラクターを強化して戦力アップさせましょう。=Je höher die Macht der Gruppe ist, desto schneller kehrt sie von einem Abenteuer zurück. Lasst uns unsere Verbündeten stärken, damit wir selbst stärker werden können.
+冒険出発前と出発後に、チケットやジュエルを使用して時間短縮が\nできます。時間短縮は１日で上限があり、日が変わると上限はリ\nセットされます。アイテムを使用して効率よく冒険をしましょう。=Vor und nach der Abreise können Sie mit Schnelltickets und Juwelen Zeit sparen. Es gibt eine Obergrenze für die Zeitersparnis, die jeden Tag neu festgelegt wird. Verwende Artikel, um unsere Abenteuer zu beschleunigen.
+
+5人以上編成してください。=Geben Sie 5 oder mehr Zeichen ein.
+変更先のキャラクターを選択してください。=Bitte wählen Sie das Zeichen, in das Sie wechseln möchten.
+優先度を変更するキャラクターを選択してください。=Wählen Sie das Zeichen aus,\ndessen Priorität Sie ändern möchten.
+優先度変更=Priorität ändern
+
+遠征中=Während der Expedition
+帰還したパーティがあります。=Es gibt eine Partei, die zurückgekehrt ist.
+一括帰還確認=Stapelrückgabe
+アドベンチャー遷移時に、帰還したパーティがある場合\nアドベンチャーパーティ一覧を表示するか設定します。=Sie können wählen, ob die Abenteuergruppenliste automatisch angezeigt\nwerden soll, wenn Sie das Abenteuermenü aufrufen, wenn eine Gruppe zurückgekehrt ist.
+アドベンチャー設定=Abenteuer
+アドベンチャーパーティ一覧表示=Abenteuergruppenliste
+「表示する」を選択すると、帰還したパーティがある場合\n「アドベンチャーパーティ一覧」を表示します。=Wenn Sie „Anzeigen“ wählen, wird die Abenteuergruppenliste angezeigt,\nwenn eine Gruppe zurückgekehrt ist.
+
+ファストチケットを消費して以下のアドベンチャーに出発します。よろしいですか？=Konsumieren Sie ein Schnellticket und brechen Sie zum nächsten Abenteuer auf.\nIst das in Ordnung?
+設定されている内容がリセットされます。\nよろしいですか？=Die Optionen werden zurückgesetzt.\nIst das in Ordnung?
+
+sr:"^(.+)のアドベンチャーから撤退しました。$"=Rückzug aus dem $1-Abenteuer.
+アドベンチャー撤退=Abenteuer-Rückzug
+
+アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=In Abenteuer können Sie Ihre Verbündeten auf eine gemeinsame Reise schicken. Nach einer bestimmten Zeit kehren sie mit einer Reihe von Artikel von ihrem Abenteuer zurück, darunter auch „EX-Ausrüstung“. Prüfen Sie die Ergebnisse und ernten Sie die Belohnungen.
+
+【美食殿】を訪れたカリンは、アストライア大陸の各地で見つ\nかった新たな冒険先の調査をぺコリーヌたちに依頼する。ぺコ\nリーヌたちは新たな冒険に心を躍らせて依頼を快諾し、お宝を\n求めて旅立つのだった。=Karin, die die [Gourmet-Gilde] besucht hat, bittet Pecorine und die anderen, neue Abenteuerziele in verschiedenen Teilen des Kontinents Astraea zu erkunden. Pecorine und die anderen waren begeistert von dem neuen Abenteuer, nahmen die Bitte bereitwillig an und machten sich auf die Suche nach dem Schatz.
+アストライア大陸の未踏地=Unerforschte Länder von Astraea
+
+チェックされていないアドベンチャーポイントの\n設定はクリアされます。\n\nよろしいですか？=Optionen für Abenteuerziele, die nicht markiert sind, werden gelöscht.\n\nSind Sie sicher?

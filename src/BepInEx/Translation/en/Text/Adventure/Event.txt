@@ -1,0 +1,9 @@
+足元注意！=Vorsicht, Stufe!
+怪鳥、襲来=Monstervogel, Anflug
+もがいて逃げる=Streit und Flucht
+おとなしくしている=Ruhe bewahren
+追われて大ピンチ！=Gefährliche Verfolgungsjagd!
+木の陰に隠れる=Hinter einem Baum verstecken
+岩の陰に隠れる=Hinter einen Felsen verstrecken
+森のトランポリン？=Ein Trampolin im Wald?
+起こさないように…=Bitte nicht aufwachen...

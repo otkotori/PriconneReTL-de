@@ -1,0 +1,22 @@
+1.ユピテル樹海=1. Jupiterbaum-Meer
+スィオネ\n樹林=Sion-Wald
+スィオネ樹林=Sion-Wald
+ヘリケ巨木=Riesenhelixbaum
+イオカステ\n岩山=Locaste-Berg
+イオカステ岩山=Locaste-Berg
+ハルパリ\n大滝=Harpari-Wasserfälle
+ハルパリ大滝=Harpari-Wasserfälle
+ムネメー川=Mooneme-Fluss
+
+2.マーキュリア湾口=2. Mercuria-Bucht Ausfahrt
+ダクビア森林=Dakuba-Wald
+アンカル川=Ankarfluss
+ダルリク巨岩=Darliker Giganten
+サダルスド砂浜=Sadalsud-Strand
+アルバ浜堤=Aruba-Damm
+
+3.スカディア山脈=3. Skádia-Gebirge
+ミーマス洞穴=Mimashöhle
+レアント川=Reanto-Fluss
+ケランド廃墟=Kjelland-Ruinen
+デオネカ氷海=Deoneca-Eismeer
