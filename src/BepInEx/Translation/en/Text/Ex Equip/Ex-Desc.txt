@@ -1,0 +1,511 @@
+量産型フブキちゃんレンチ=Verbrauchermodell Fubuki-chan Schraubenschlüssel
+バトル中敵防御中ダウン=Feindliche DEF während des Kampfes ausgeschaltet
+バトル開始後90秒間敵全体の物理防御力を５％ダウンさせる。=Für 90sek nach Beginn des Kampfes wird die P.DEF aller Gegner um 5% verringert.
+
+量産型ワカナのフライパン=Wakana's Bratpfanne in Massenproduktion
+バトル中盤攻撃力中アップ=P.ATK-Bonus in der Mitte des Kampfes
+バトルの残り時間が45秒を切ると味方全体の物理攻撃力を５％アップさせる。=Wenn die verbleibende Zeit des Kampfes weniger als 45sek beträgt, wird die physische Angriffskraft aller Verbündeten um 5% erhöht.
+
+量産型ヤマトの蛇腹剣=Serienmäßig hergestellte Yamato-Schlangenschwerter
+
+愛情つなぐ健康エプロン=Liebe-Heilung-Schürze
+ユイが料理をする時に着用していたエプロン。食べる人のことを一番に考えることで優しい想いがつまった素敵なお弁当を作ることができる。=Eine Schürze, die von Yui beim Kochen getragen wird. Indem sie die Person, die essen wird, in den Vordergrund stellt, kann sie eine wunderbare Bentokiste voller sanfter Gefühle kreieren.
+
+心想いエプロン=Herzliche-Schürze
+コッコロが新たなレシピに挑戦した際着用したエプロン。主さまの為に想いを込め一生懸命考えて作られたお弁当は慈母の愛の如く皆を癒す。=Eine Schürze, die von Kokkoro getragen wird, wenn sie ein neues Rezept ausprobiert. Das Bento, das mit herzlicher Hingabe für ihren Meister zubereitet wird, heilt alle wie die Liebe einer fürsorglichen Mutter.
+
+残痕の盾アブソリュート=Restliche Abschirmung Absolute
+残炎の拳フォイア・ドラッヘ=Restliche Flammenfaust Feuerdrachen
+覇瞳神弓アメノマカコユミ=Oberster göttlicher Bogen Amenomakakoyumi
+残壊の斧シュライエン=Restruine Axtschrei
+覇瞳神槍アメノヌボコ=Oberste göttlicher Speer Amenonuboko
+覇瞳霊刃フツノミタマ=Oberste göttliche Geistklinge Futsunomitama
+残懐の大剣ブラウ・イデア=Restspeicher-Großschwert Blau Idee
+残燭の刃リジル・レギオン=Restkerzenblatt Rigel Legion
+特殊装備=Speizaller Ausstat.
+覇瞳神言フルコトフミ=Oberste göttliche Worte Furukotofumi
+覇瞳神杖アメノミハシラ=Oberste göttlicher Stab Amenomihashira
+ソードオブエレメント=Schwert des Elements
+貴忠装リヴガルデット=Tadatada-Live-Gardette
+ルミナスエンゲージメント=Leuchtender Einsatz
+疾風弓ワールウィンド=Orkanbogen Weltwind
+アメイジングアーケイン=Erstaunliche Archine
+福音装イノセントプレイヤー=Unschuldiges Gebet Evangelium
+エンドレスエクリプス=Endlose Sonnenfinsternis
+ゲーズオブジャッジメント=Spiel des Urteils
+暗夜剣アルプトラオム=Dunkles Nachtschwert Alptraom
+アースオブジャイアント=Erde der Riesen
+ホープフルブルー=Hoffnungsvolles Blau
+ブルーノヴァ=Brunova
+雷鳴剣ユニコーンヴォルト=Donnerschwert Einhorngewölbe
+ヘブンリーナックル=Himmelsknöchel
+イモータルティアーズ=Unsterbliche Tränen
+とある騎士の愛用バット=Die Lieblingsfledermaus eines Ritters
+アルベドの剣=Albedos Schwert
+
+ヒヒイロカネの盾=Hihiirokane-Schild
+ルイズマリーがアルケス錬金堂の秘術の粋を凝らして生み出した無垢なる剣。如何なる物質へも変性可能な無限の可能性を秘めている。=Ein makelloses Schwert, das Louise Marie nach den geheimen Künsten der Alchemieschule Alces erschaffen hat. Es hat das unendliche Potenzial, in jedes Material verwandelt zu werden.
+【シルバーオクトパス商会】が特別な顧客に配布した耳飾り。同商会の看板メニュー『たこ焼』をモチーフにしたユニークかつ高性能な逸品。=Ohrringe, die von der Silver Octopus Company an besondere Kunden verschenkt werden. Ein einzigartiger und hochfunktioneller Gegenstand mit einem Motiv, das auf dem Takoyaki, dem typischen Gericht des Unternehmens, basiert.
+六凶が一角、魔蜘アラクネの遺した骸片を用いジオ・ゲヘナの鍛冶師が造り出した呪槍。爪、宝玉、蜘蛛糸の布、全素材が特級の厄物である。=Ein verfluchter Speer, der von einem Schmied in Geo-Gehenna aus den Überresten eines der Sechs Unholde, der Dämonenspinne Arachne, hergestellt wurde. Alle verwendeten Materialien, einschließlich der Klauen, Juwelen und des Spinnenseidenstoffs, sind von höchster Qualität.
+討伐された魔物の怨嗟が宿る鮮赤の肉片を象ったイヤリング。血の滴るような鮮やかな赤色が食欲を掻きたて、危険な魔物を惹きつける。=Ein Ohrring, der wie ein Stück frisches rotes Fleisch geformt ist, in dem der Groll eines unterworfenen Monsters steckt. Das leuchtende, bluttriefende Rot weckt den Appetit und lockt gefährliche Monster an.
+グラッジチャンクの耳飾り=Gradge Chank-Ohrring
+不死者の涙を繋いで作ったとされる首飾り。身に着けた者は死の運命さえ変えられるほどの力を宿すことができるという。=Eine Halskette, die aus den Tränen der Untoten hergestellt worden sein soll. Es wird gesagt, dass diejenigen, die sie tragen, genug Macht haben, um das Schicksal des Todes zu ändern.
+憤激の破壊神との戦いの果てに生み出された、此岸の全てを焼き尽くす神威の劫火を放つ杖。紅蓮の焔は世界を深紅に塗り替える。=Ein Stab, der am Ende des Kampfes gegen den empörten Gott der Zerstörung geschaffen wurde. Er strahlt ein Inferno göttlicher Macht aus, das alles an diesem Ufer verbrennt. Karminrote Flammen färben die Welt in ein tiefes Karminrot.
+ニーラカンタ=Neelakanta
+異国で見つかる非常に希少な金属、ヒヒイロカネで作られた盾。その希少さに見合っただけの強度を誇り如何なる攻撃も受け止める。=Ein Schild aus Hirokane, einem extrem seltenen Metall, das in einem fremden Land gefunden wurde. Es ist stolz auf seine Stärke, die seiner Seltenheit entspricht, und kann jeden Angriff abwehren.
+保護を解除できないEX装備です。=EX-Ausrüstung, die nicht aus dem Schutz entfernt werden können.
+創世樹から一人の騎空士に託された弓。射抜いた獲物を喰らい糧とし、その花は異なる空の下であっても静寂の元に咲き誇る。=Ein Bogen, der einem Ritter vom Genesisbaum anvertraut wurde. Er verschlingt die Beute, die er durchbohrt, und seine Blüten blühen in der Stille sogar unter anderen Himmeln.
+究極の拳打を追求した鉄拳。伝説の職人と魔法使いが持てる技の全てを費やし、あらゆる魔物を一撃で昇天させる威力を実現した。=Eine eiserne Faust auf der Suche nach dem ultimativen Faustschlag. Es bedurfte all der Fähigkeiten eines legendären Handwerkers und Magiers, um die Macht zu erlangen, alle Monster mit einem einzigen Schlag aufsteigen zu lassen.
+厳しい修行を乗り越えた者だけが手にすることを許された籠手。ひと度身に着ければ精霊の力が漲り、黄金に輝く拳は如何なる岩盤をも穿つ。=Diese Fehdehandschuhe durften nur von denen getragen werden, die eine strenge Ausbildung durchlaufen hatten. Sobald sie getragen wurden, waren sie mit der Macht der Geister erfüllt, und ihre goldenen Fäuste bohrten sich in jedes Gestein.
+ワカナ愛用フライパン…の複製品。フブキに無理矢理改造されており凶悪な見た目になっているが何故か作る料理まで美味しくなっている。=Eine Nachbildung von Wakanas Lieblingsbratpfanne. Sie wurde gewaltsam in Fubuki umgewandelt, wodurch sie bösartig aussieht, aber aus irgendeinem Grund ist sogar das Essen, das sie zubereitet, köstlich.
+ヤマト御用達のスネークソード…の複製品。折れた剣を直すついでにフブキが伸縮機構を追加。鞭の如く扱えるが、自傷には注意が必要。=Es ist eine Nachbildung von Yamatos Schlangenschwert. Während er das kaputte Schwert repariert, fügt Fubuki einen Verlängerungsmechanismus hinzu. Es kann wie eine Peitsche geschwungen werden, aber man muss aufpassen, dass man sich nicht verletzt.
+ただ一人で戦を勝利に導いた、ある戦士の大剣。一振りで数百人は薙ぎ払えたとされ、敵対国が次の夜明けを迎えることはなかったという。=Es war das Großschwert eines Kriegers, der den Krieg allein zum Sieg führte. Es hieß, es könne Hunderte mit einem einzigen Schlag niedermähen, und das feindliche Volk erreichte nie die nächste Morgendämmerung.
+フブキ特製万能レンチ…の複製品。本来の変形機構を削除し、剣モードに固定されているが、動くギザ刃は切れ味が良く工作などにも使える。=Eine Nachbildung von Fubukis speziellem, allmächtigem Schraubenschlüssel. Sein ursprünglicher Verwandlungsmechanismus wurde gelöscht und auf den Schwertmodus festgelegt, aber die bewegliche, gezackte Klinge ist scharf und kann zum Basteln und dergleichen verwendet werden.
+苦しみ嘆く人々のため悪を斬る心と呼応し真なる姿を解放した剣。絶望に沈みゆく人々の心を掬い、邪悪の心を持つ存在を滅し、安寧を齎す。=Ein Schwert, das seine wahre Gestalt als Antwort auf das Herz freigab, das das Böse um der Leidenden und Klagenden willen tötete. Es nahm die Herzen derer auf, die in Verzweiflung versanken, zerstörte jene, die böse Herzen besaßen, und brachte Frieden.
+
+インファーナルオーブ=Höllenkreisel
+冥府から現世に運び込まれたとされる宝玉。玉の中では邪悪な竜の魂がのたうち回っており、もし解放すれば破壊の限りを尽くすという。=Eine Kugel, von der man glaubt, dass sie aus der Unterwelt in die Welt der Sterblichen gebracht wurde. Im Inneren des Edelsteins windet sich die bösartige Seele eines Drachens, und es heißt, dass sie, wenn sie freigesetzt wird, völlige Zerstörung anrichten würde.
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した弓。絆の力を弦に宿すことで、あらゆる鎧を貫く必殺の一矢を放つことができる。=Ein Bogen, der von den besten Handwerkern aus einem Regenbogenerz hergestellt wurde. Es ist möglich, einen tödlichen Pfeil abzufeuern, der jede Art von Rüstung durchbohren kann.
+伝承において、大地の巨人が鋳造したとされる大斧。地面をたたき割るほどの一撃は、巨人の怒りにも例えられる。=Eine große Axt, die der Legende nach von einem Erdriesen geschmiedet worden sein soll. Ein Schlag, der den Boden spaltet, kann mit dem Zorn eines Riesen verglichen werden.
+恒星の生命力を宿す杖。そのひと振りは新星の誕生を思わせる爆発を引き起こし、敵対者を極光で焼き尽くすという。=Ein Stab, der die Lebenskraft eines Sterns enthält. Es heißt, dass ein Schwung eine Explosion auslöst, die an die Geburt eines neuen Sterns erinnert und den Gegner mit Aurora verbrennt.
+
+かつて格闘王が身に着け、その魂が乗り移ったとされる指輪。指にはめるだけで岩をも砕く怪力が得られ、無双の強さを発揮できる。=Ein Ring, der einst vom kämpfenden König getragen wurde, und die Seele ist übertragen worden. Sie können die Macht, den Felsen zu zerkleinern, indem Sie es auf Ihren Finger, und Sie können die Stärke der Krieger zu demonstrieren.
+悪魔が宿るとされるローブ。まとうと邪悪なささやきが聞こえてくようになるが、それに従えば高度な魔法も難なく扱えるようになる。=Die Robe soll ein Teufel sein. Man kann das böse Flüstern hören, wenn man sie anlegt, aber wenn man ihr folgt, kann man ohne Schwierigkeiten mit fortgeschrittener Magie uamgehen.
+死霊を操る魔女がまとうドレス。その製法には黒い噂が囁かれ、強大な魔力を得られるが、死者の念に呪われるとも言われている。=Ein Kleid einer Hexe, die tote Geister manipuliert. Schwarze Gerüchte wurden in der Herstellungsmethode geflüstert, und es wird gesagt, dass sie von den Toten verflucht ist, obwohl sie mächtige Magie gewinnt.
+森で暮らすエルフたちが、その豊富な知識を用いて制作したローブ。自然の魔力を吸収し、着用者に還元することができる。=Robe, die von den im Wald lebenden Elfen mit Hilfe ihres reichhaltigen Wissens geschaffen wurde. Sie kann natürliche Magie absorbieren und an den Träger zurückgeben.
+
+追憶輪ディバイングリフ=Göttliche Glyphe der Erinnerung
+太古の歴史が記録されている腕輪。問いかけに応じて文字が浮かび上がり、失われた英知を持ち主に授け、未来を拓く助けになるという。=Ein Armband mit alter Geschichte. Die Buchstaben entstehen als Antwort auf die Frage, da die verlorene Weisheit, und hilft, die Zukunft zu öffnen.
+
+ドラグーンファング=Drachenzahn
+獄炎をまとう竜の牙から作られた大槍。穂先で大地をなぞるだけで炎が吹き上がり、瞬く間に周囲を煉獄に変えてしまうという。=Ein großer Speer, der aus dem Reißzahn eines Höllenfeuerdrachens hergestellt wurde. Es heißt, wenn man mit der Spitze den Boden berührt, schießen Flammen empor und verwandeln die Umgebung im Handumdrehen in ein Fegefeuer.
+
+【クラン】フェイトオブワンダラー=[Clan] Schicksal des Wanderers
+【クラン】オナーオブワンダラー=[Clan] Ehre des Wanderers
+【クラン】フェイトオブセンチネル=[Clan] Schicksal des Wächters
+【クラン】オナーオブセンチネル=[Clan] Ehre des Wächters
+【クラン】フェイトオブプリースト=[Clan] Schicksal des Priesters
+【クラン】オナーオブプリースト=[Clan] Ehre des Priesters
+【クラン】フェイトオブソーサラー=[Clan] Schicksal des Zauberers
+【クラン】オナーオブソーサラー=[Clan] Ehre des Zauberers
+
+【クラン】ウィズダムオブノーブル=[Clan] Weisheit des Adels
+【クラン】ワイズオブノーブル=[Clan] Weise von Noble
+【クラン】ウィズダムオブシャーマン=[Clan] Weisheit des Schamanen
+【クラン】ワイズオブシャーマン=[Clan] Weise des Schamanen
+【クラン】ウィズダムオブビショップ=[Clan] Weisheit des Bischofs
+【クラン】ワイズオブビショップ=[Clan] Weise von Bishop
+【クラン】ウィズダムオブアルケミスト=[Clan] Weisheit des Alchemisten
+【クラン】ワイズオブアルケミスト=[Clan] Wise of Alchemist
+【クラン】ウィズダムオブメイガス=[Clan] Weisheit der Meigas
+【クラン】ワイズオブメイガス=[Clan] Weise von Meigas
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した法衣。大切な人を守り抜くという決意に呼応し、瀕死の者さえ癒す奇跡を起こす。=Gewänder, die von einem hochrangigen Handwerker aus einem regenbogenfarbenen Mineral hergestellt werden. Sie sind durchdrungen von der Hingabe des Handwerkers, geliebte Menschen zu beschützen, und können sogar Wunder bewirken, indem sie diejenigen heilen, die am Rande des Todes stehen.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した魔装。大切な人を守り抜くという決意に呼応し、あらゆる魔法の力を覚醒させる。=Verzauberte Ausrüstung, die von einem hochrangigen Kunsthandwerker aus einem regenbogenfarbenen Mineral hergestellt wurde. Ausgerichtet auf die Entschlossenheit, geliebte Menschen zu beschützen, erweckt es die Macht verschiedener Zaubersprüche.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した服。大切な人を守り抜くという決意に呼応し、運命さえ克服する力を与えてくれる。=Ein Kleidungsstück, das von einem hochrangigen Kunsthandwerker aus einem regenbogenfarbenen Mineral gefertigt wurde. In Harmonie mit der Entschlossenheit, geliebte Menschen zu beschützen, verleiht es die Kraft, sogar das Schicksal selbst zu überwinden.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した鎧。大切な人を守り抜くという決意に呼応し、要塞の如き堅牢さを発揮する。=Eine Rüstung, die von einem hochrangigen Handwerker aus einem regenbogenfarbenen Mineral gefertigt wurde. Im Einklang mit der Entschlossenheit, geliebte Menschen zu beschützen, weist sie eine festungsartige Widerstandsfähigkeit auf.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Regenbogenfarbenes Erz, das von Spitzenhandwerkern zu Ohrringen verarbeitet wird. Sie sollen den Segen der Natur bringen, wenn man gelobt, seine Lieben zu schützen.
+月と星々から光を奪うという伝承が残るドレス。周囲の光を吸収して力に変えることで、無尽蔵の魔力をとめどなく供給できる。=Ein Kleid, das der Legende nach das Licht des Mondes und der Sterne stiehlt. Es absorbiert das Licht der Umgebung und kann unendlich viel magische Kraft liefern.
+伝承に謳われる精霊の加護を宿した霊剣。風の元素をまとうその刃はあらゆる鎧を両断し、使い手に勝利をもたらしたという。=Ein Geisterschwert, das die Segnungen legendärer Geister trägt. Seine Klinge aus Windelementen kann jede Rüstung durchschneiden und seinem Träger den Sieg bringen.
+古代王国の伝承にも残る魔法書。あらゆる属性魔法について記されており、太古の魔法使いはそれらを駆使して敵の軍勢を打ち破ったという。=Ein magisches Buch mit Wissen über jeden Attributszauber. Alte Zauberer benutzten es, um ihre Feinde zu besiegen.
+幾千の人々の平和への祈りが形を成したローブ。その純粋な願いの力からもたらされる加護は、祈祷の効果を極限にまで高めるという。=Ein Gewand, das durch Gebete für den Frieden von Tausenden gebildet wird. Seine Segnungen verstärken die Wirkung der Gebete erheblich.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=EMit viel Herzblut von erstklassigen Handwerkern verarbeitete Armbänder aus Mineralien, die in Regenbogenfarben leuchten. Er soll den Segen der majestätischen Natur bringen, wenn man gelobt, einen geliebten Menschen bis zum Ende zu schützen.
+非常に強力な癒しの力を有する耳飾り。結晶の形状も相まって、傷ついた者のために流された慈母の涙であると信じられている。=Ohrringe mit starken heilenden Fähigkeiten. Angeblich Tränen einer liebenden Mutter mit Kristallform an der Spitze.
+高位の占い師が身に着ける首飾り。運命を読み取る力があるといわれ、迷える者に進むべき正しい未来を示してくれる。=Eine Halskette für hochrangige Wahrsager. Sie kann das Schicksal vorhersagen und einer verlorenen Seele den Weg in die richtige Zukunft weisen.
+稀代の大道芸人が遺した手記。魔法を大道芸に応用する方法が記されている。その柔軟な発想は、既存の魔導書とは一線を画す。=Eine Aufzeichnung eines renommierten Straßenkünstlers über die Anwendung der Magie bei Straßenauftritten. Seine Ideen unterscheiden sich von bestehenden Zauberbüchern.
+あらゆる負傷者を分け隔てなく癒した祈り手について記された本。その物語は、読んだ者に慈愛の精神と癒しの奇跡を授けるという。=Ein Buch über einen Heiler, der in der Lage ist, jede verletzte Person zu heilen. Seine Geschichte schenkt dem Leser Mitgefühl und Heilungswunder.
+禍々しい輝きを放つ、赤い宝石がはめ込まれた魔導書。強力な魔法と引き換えに術者の生命力を奪うとされ取り扱いには慎重を要する。=Ein rotes, mit Edelsteinen besetztes Zauberbuch mit ominösem Glanz. Seine gefährlichen Zaubersprüche zehren an der Lebenskraft des Benutzers.
+暴虐の限りを尽くした将軍が身に着けていたという手甲。殴打の威力を高める突起部は、半端な鎧であれば容赦なく粉砕してしまう。=Wachen, die von einem tyrannischen General getragen werden. Die mit Stacheln besetzten Teile haben genügend Kraft, um jede Rüstung mit Leichtigkeit zu pulverisieren.
+森を根城にする、ある義賊が使っていたクロスボウ。その一矢はどんなに深い森の中でも、標的を見失うことなく射抜いてしまうという。=Eine Armbrust, die von einem bestimmten Banditen benutzt wird, der den Wald als seine Hochburg betrachtet. Ihr Pfeil verfehlt nie sein Ziel, selbst in tiefen Wäldern.
+勇猛な白馬を思わせる戦弓。騎馬戦を得意とする騎士のために作られた特注品であり、弦を素早く引き絞ることに特化した性能となっている。=Ein Kampfbogen, der an einen tapferen Schimmel erinnert. Er wurde speziell für berittene Ritter angefertigt und zeichnet sich durch seine Fähigkeit zum schnellen Ziehen aus.
+謎多き暗殺者が任務の際に用いていたナイフ。他人の命を奪うたびに鋭さが増すが、その刃はやがて持ち主にも向けられると伝わっている。=Ein Messer, das von einem mysteriösen Attentäter benutzt wird. Seine Schärfe nimmt mit jedem Leben zu, das es nimmt, aber es heißt, dass es sich schließlich gegen seinen Besitzer wendet.
+神霊への畏敬の念を込めて打たれた霊剣。怒り猛る神々を鎮めるための剣であり、使い手の霊感を大きく高める効果があるという。=Ein Geisterschwert, das mit Ehrfurcht vor dem Göttlichen geschaffen wurde. Beruhigt wütende Götter und erhöht den spirituellen Sinn seines Trägers.
+一般騎士などが用いる、シンプルな盾。安価でありながら性能も決して低くはなく、人気が高い。=Ein einfacher Schild, der von gewöhnlichen Rittern verwendet wird. Er ist preiswert und dennoch gut, was ihn beliebt macht.
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した宝石。愛する人を守り抜くという決意に呼応し、比類なき英知を授けてくれるという。=Ein von erstklassigen Handwerkern gefertigter Edelstein mit einem Mineral, das in Regenbogenfarben leuchtet. Es wird gesagt, dass er unvergleichliche Intelligenz als Antwort auf die Entschlossenheit, geliebte Menschen zu schützen, bietet.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した首飾り。愛する人を守り抜くという決意に呼応し、驚くべき奇跡を発現させるという。=Eine von erstklassigen Handwerkern gefertigte Halskette mit einem Mineral, das in Regenbogenfarben leuchtet. Es heißt, dass es erstaunliche Wunder als Reaktion auf die Entschlossenheit, geliebte Menschen zu schützen, manifestiert.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した腕輪。愛する人を守り抜くという決意に呼応し、聖なる光で邪を払う力を得るという。=Ein von erstklassigen Handwerkern gefertigtes Armband mit einem Mineral, das in Regenbogenfarben leuchtet. Es soll die Macht verleihen, das Böse mit heiligem Licht zu vertreiben, wenn man entschlossen ist, seine Lieben zu schützen.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した指輪。愛する人を守り抜くという決意に呼応し、大いなる繁栄を約束するという。=Ein von erstklassigen Handwerkern gefertigter Ring mit einem Mineral, das in Regenbogenfarben leuchtet. Es heißt, dass er großen Wohlstand verspricht, wenn man entschlossen ist, seine Lieben zu schützen.
+虹色に輝く鉱石を、職人が丁寧に加工した宝石。誰かを守りたいと強く願うと、呼応するかのように新たな知恵を与えてくれる。=Ein Edelstein sorgfältig von Handwerkern mit einem Mineral, das Regenbogenfarben leuchtet gefertigt. Wenn du jemanden unbedingt schützen willst, wird er dir neue Weisheit geben.
+虹色に輝く鉱石を、職人が丁寧に加工した首飾り。誰かを守りたいと強く願うと、呼応するかのように不思議な力を現すという。=Eine von Handwerkern sorgfältig gefertigte Halskette mit einem Mineral, das in Regenbogenfarben leuchtet. Es wird gesagt, dass es eine geheimnisvolle Macht als Reaktion auf den starken Wunsch, jemanden zu schützen manifestieren.
+虹色に輝く鉱石を、職人が丁寧に加工した指輪。誰かを守りたいと強く願うと、呼応するかのように幸運を招き寄せてくれる。=Ein von Handwerkern sorgfältig gefertigter Ring mit einem Mineral, das in Regenbogenfarben leuchtet. Es wird gesagt, dass er als Reaktion auf den starken Wunsch, jemanden zu schützen, Glück anzieht.
+
+【クラン】ブレイブオブガード=[Clan] Tapferer Wächter
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=Ein Schild, der von einem der besten Handwerker aus Regenbogenerz gefertigt wurde. Die Kraft der menschlichen Bande wird so stark wie sie ist und schützt den Träger vor jedem Angriff.
+
+【クラン】ブレイブオブトルーパー=[Clan] Tapferer Trooper
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した槍。人々の絆の力を穂先に込めることで、あらゆる邪悪を穿ち、祓うことができる。=Ein Speer, der von einem der besten Handwerker aus Regenbogen-Erz gefertigt wurde. Indem man die Kraft der Fesseln in die Spitze legt, kann man alle Arten des Bösen tragen und reinigen.
+
+【クラン】ホープオブナイト=[Clan] Hoffnung des Ritters
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。人々の絆を鋭さに変え、それを脅かそうとする全てを斬り払う力を持つ。=Ein Schwert, das von einem der besten Handwerker aus einem Regenbogenerz gefertigt wurde. Es hat die Macht, die Fesseln der Menschen zu schärfen und alles wegzuschneiden, was sie bedroht.
+
+【クラン】ブレイブオブグラップラー=[Clan] Tapferer Greifer
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=Ein Panzerhandschuh, der von einem der besten Handwerker aus Regenbogenerz gefertigt wurde. Gestärkt durch die Kraft der Bande der Menschen, kann er schneller als der Schall zuschlagen und Gegner zerquetschen.
+
+【クラン】ブレイブオブウォーリアー=[Clan] Tapferer Krieger
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大斧。人々の絆の力によって苛烈な攻撃が可能となり、悪意ある者を粉砕する。=Eine große Axt, die von einem der besten Handwerker aus einem Regenbogenerz gefertigt wurde. Die Macht der menschlichen Bindungen ermöglicht einen heftigen Angriff, der diejenigen mit bösen Absichten zerschmettert.
+
+【クラン】ホープオブレンジャー=[Clan] Hoffnung der Ranger
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。絆の力を刃に帯びることで全ての障害を切り払い、進路を拓くことができる。=Ein Schwert, das von einem der besten Handwerker aus einem Regenbogenerz geschmiedet wurde. Mit der Kraft der Bande auf der Klinge ist es möglich, alle Hindernisse zu durchschneiden und einen Weg zu öffnen.
+
+【クラン】ブレイブオブホプライト=[Clan] Tapferer Hoplit
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大剣。人々の絆の力を刀身にまとい、悪意ある者を一刀で斬り伏せる。=Ein großes Schwert, das von einem der besten Handwerker aus einem Regenbogenerz hergestellt wurde. Mit der Kraft der Menschenbande in seiner Klinge schneidet es diejenigen mit böser Absicht mit einem einzigen Schwert nieder.
+
+【クラン】ホープオブセージ=[Clan] Hoffnung von Sage
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した魔導書。人々の絆に呼応し、使い手に英知を与え、あらゆる秘術の行使を可能にする。=Ein Grimoire, das von einem der besten Handwerker aus einem Regenbogenerz hergestellt wurde. Reagiert auf die Bindungen der Menschen, verleiht dem Benutzer Weisheit und ermöglicht die Anwendung aller Arten von geheimen Künsten.
+
+【クラン】ホープオブウィザード=[Clan] Hoffnung des Zauberers
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した杖。絆の力を球体部に集中させることで、圧倒的な威力を誇る魔法を放つ。=Ein Zauberstab, der von einem der besten Handwerker aus einem Regenbogenerz hergestellt wurde. Indem er die Kraft der Verbindungen auf die Kugel konzentriert, setzt er Magie frei, die sich einer überwältigenden Macht rühmen kann.
+
+大神官の聖杖=Zepter des Hohepriesters
+大神官が携えている聖杖。権威の証であるだけでなく、あらゆる邪悪を打ち払い、人々を信仰の光で照らしてくれるという。=Der heilige Stab, den der große Priester bei sich trägt. Er ist nicht nur ein Beweis der Autorität, sondern er nimmt alles Böse und erleuchtet die Menschen mit dem Licht der Religion.
+
+テンペストオーダー=Stürmische Ordnung
+荒れ狂う風の力を宿した杖。魔力によって制御された暴風は、敵の軍勢だけを的確に薙ぎ払い、圧倒的な勝利を術者にもたらすという。=Ein Zauberstab mit einem rauen Wind. Der durch Magie kontrollierte Sturm soll die gegnerische Armee vernichten und dem Chirurgen einen überwältigenden Sieg bescheren.
+
+ストームガード=Sturmwache
+風の力を宿す、特殊な魔石を用いた丸盾。攻撃しようとしても剣ははじき返され、矢はことごとく叩き落されるという。=Ein runder Schild mit einem speziellen magischen Stein, der die Kraft des Windes ausstrahlt. Selbst wenn er versucht, anzugreifen, wird das Schwert abgewehrt, und alle Pfeile werden abgeschlagen.
+
+紅蓮の大盾=Karminroter Großschild
+幾千もの戦場を駆け抜けていきた大盾。頑強な面の縁を紅く彩るのは屠ってきた数多の魔物の返り血だと云われている。=Ein großer Schild, der durch Tausende von Schlachtfeldern lief. Man sagt, es sei das Blut vieler Monster, die geschlachtet wurden, um den widerspenstigen Rand zu färben.
+
+ゆらぎの星石=Fluktuations-Stern Stein
+不確かな未来を象徴するといわれる魔石。魔力を大きく強化する効果があるものの、非常に不安定であり、優秀な魔法使いにしか扱えない。=Ein magischer Stein, der die ungewisse Zukunft symbolisieren soll. Obwohl er die Wirkung von großer verstärkender Magie hat, ist er sehr instabil und kann nur als ausgezeichneter Zauberer behandelt werden.
+
+グローリーオブマーセナリー=Ruhm des Söldners
+あらゆる戦に参加して財を成した、ある傭兵団長の腕輪。贅沢な造りが目を引くが、重ね掛けされた魔法によって圧倒的な防御力も備える。=Ein Trägerführer, der an allen Schlachten teilnahm und Waren herstellte. Die luxuriöse Struktur ist ein Blickfang, aber die überwältigende Magie hat auch eine überwältigende Verteidigung.
+
+灼熱の指輪=Brennender Ring
+燃え盛る炎の力を宿すと言われている指輪。身に着けると肉体に煮えたぎるような活力をが溢れ、どんな困難にも打ち勝つ強さを発揮できる。=Ein Ring, von dem gesagt wird, dass er die Kraft einer brennenden Flamme hat. Wenn Sie ihn tragen, können Sie mit der Vitalität des gekochten in Ihrem Körper überfließen, und Sie können die Kraft, alle Schwierigkeiten zu überwinden demonstrieren.
+燃え盛る炎の力を宿すと言われてい\nる指輪。身に着けると肉体に煮えた\nぎるような活力が溢れ、どんな困難\nにも打ち勝つ強さを発揮できる。=Ein Ring, von dem gesagt wird, dass er die Kraft einer brennenden Flamme hat. Wenn Sie ihn tragen, können Sie mit der Vitalität des gekochten in Ihrem Körper überfließen, und Sie können die Kraft, alle Schwierigkeiten zu überwinden demonstrieren.
+
+エンシェントオーブ=Alter Reichsapfel
+古代の遺跡から発掘された宝珠。一流の魔法使いであっても扱いには危険を伴うが、得られる膨大な魔力は極上の魔法を実現させる。=Ein Juwel, das aus einer alten Ruine ausgegraben wurde. Selbst für einen erstklassigen Magier ist es gefährlich, es zu benutzen, aber die enorme Menge an magischer Kraft, die damit gewonnen werden kann, ermöglicht die Verwirklichung der feinsten Magie.
+
+ホーリーエイド=Heilige Hilfe
+回復魔法を扱う者のための装束。清らかな心で負傷者を救ってほしいという願いが込められており、着用者は速やかな治療が可能になる。=Ein Gewand für diejenigen, die mit Genesungsmagie umgehen. Der Wunsch, die Verletzten mit einem reinen Herzen zu retten, ist enthalten, und der Träger wird in der Lage sein, sofort zu behandeln.
+
+プロミネンススタッフ=Prominenz Personal
+燃え盛る炎の力を封じ込めたという杖。その一撃は瞬く間に戦場を火の海に変えてしまうほどで、扱うには相応の技量を要する。=Ein Zauberstab, der die Macht der brennenden Flamme enthält. Der Schlag verwandelt das Schlachtfeld schnell in ein Feuermeer, und es bedarf entsprechender Fähigkeiten, um damit umzugehen.
+
+白翼の銀盾=Weißflügel-Silberschild
+高潔な騎士が愛用した盾。使い手が盾に認められると羽毛のように軽く認められなければ鉄塊の如く重くなることから試しの盾とも言われる。=Ein Schild, der von einem edlen Ritter benutzt wird. Wenn der Benutzer durch den Schild erkannt wird, wird es eine schwere wie eine eiserne Masse, wenn nicht erkannt wird, wird es leicht wie Federn sein.
+
+僧兵の槍斧=Mönchsaxt
+聖職者が悪しき存在と戦う時に用いる槍斧。聖水を用いて研がれた刃には破魔の効果が宿り、巨大な魔物をも退けるという。=Eine Speeraxt, die verwendet wird, wenn ein Priester gegen böse Wesen kämpft. Es heißt, dass die mit Weihwasser gealterten Klingen die Wirkung des Teufels haben und riesige Monster hinterlassen.
+
+ゴールデンソーン=Golddorn
+金色の棘を刀身に備えたレイピア。聖者が祝福した薔薇を用いて作ったとされ、あらゆる困難を耐え忍ぶ信仰心を持ち主に与えるという。=Rapier mit goldenen Stacheln auf der Klinge. Es wird angeblich von dem Heiligen mit einer gesegneten Rose hergestellt und dem Besitzer geschenkt, der allen Schwierigkeiten widerstehen kann.
+
+キングスプライド=Königsstolz
+王に認められた騎士にのみ与えられる大斧。これを携えながら敗走するということは許されず、使い手は決死の覚悟を求められる。=Eine große Axt, die nur an den vom König anerkannten Ritter vergeben wird. Es ist nicht erlaubt, zu verlieren, während man sie trägt, und der Benutzer ist bestimmt, tödlich zu sein.
+
+天空のネックレス=Halskette im Himmel
+青い魔法石が繋がれたネックレス。元来は天空に祈りを捧げる巫女の装飾品であり、敬虔な祈りを捧ぐ者には星の加護を与えてくれるという。=Eine Halskette mit blauen magischen Steinen. Ursprünglich ein kto für eine Miko, die zum Himmel betet, diejenigen, die fromme Gebete anbieten, sind mit dem Segen der Sterne gesegnet.
+
+ネイチャーズブレス=Naturatem
+大自然の魔力を帯びる宝石を用いた腕輪。着用者はその一身に木々と大地の力を得て、あらゆる災害から身を護る術を得る。=Ein Armband mit Schmuckstücken mit der magischen Kraft der Natur. Der Träger erhält die Kraft der Bäume und der Erde, und Schutz vor allen Katastrophen.
+
+ゴシックアイリス=Gotische Schwertlilie
+貴族向けのドレスの中でも最高級の逸品。たおやかに咲く花を思わせる美しい装飾の数々は、見た者を恍惚とさせるという。=Das feinste Juwel unter den Adelskleidern. Viele der schönen Verzierungen erinnern an eine zart blühende Blume.
+
+蓮花宣誓の装束=Lotusschwur-Robe
+咲き誇る蓮の花に向かい、神々への誓いを立てるための装束。誓いと引き換えに得られた加護は、あらゆる災いから着用者を守り抜く。=Ein Gewand, mit dem man den Göttern ein Gelübde ablegt und sich zu den blühenden Lotusblumen begibt. Der Segen im Austausch für den Schwur erhalten schützt den Träger von allen Katastrophen.
+
+エメラルドホーク=Smaragdbussard
+風の魔法がかけられている鎧。これをまとった戦士は鷲のように戦場を飛び回る身軽さを得て、あらゆる攻撃を避けられるようになる。=Rüstung mit Windmagie. Der Krieger, der sie trägt, kann allen Angriffen ausweichen und gewinnt die Leichtigkeit, wie ein Adler über das Schlachtfeld zu fliegen.
+
+深紅の宝石が目を引く聖鎧。祖国に尽くした騎士の魂が宿るとされ、身に着けた者は一撃で敵を葬る剣技を繰り出せるようになる。=Eine heilige Rüstung mit einem karmesinroten Juwel. Es heißt, dass die Seele des Ritters, der in seiner Heimat gearbeitet hat, darin wohnt, und wer sie trägt, ist in der Lage, Schwerttechniken anzuwenden, die den Feind mit einem einzigen Schlag begraben.
+
+ゴールデンソルジャー=Goldsoldat
+戦場でもはっきりとわかるほど、金色に煌めく鎧。その輝きは魔力による加工を経たためで、身体能力を限界まで高める効果を備えている。=Eine Rüstung, die so deutlich golden funkelt, dass man sie auf dem Schlachtfeld deutlich sehen kann. Das Leuchten hat die magische Kraft überschritten und bewirkt, dass die körperlichen Fähigkeiten bis zum Äußersten gesteigert werden.
+
+桜花蒼天の戦装束=Kriegsgewand aus Kirschblütenhimmel
+鮮やかな桜色と青色が目を引く、戦用の装束。着用すれば宙に舞う花びらのように自在な剣捌きが可能となり、曇りなき勝利が得られる。=Ein Kleid für den Krieg, mit lebhaften Kirschblütenfarben und Blau. Wenn du es trägst, kannst du das Schwert frei handhaben wie ein Blütenblatt, das in der Luft tanzt, und du wirst einen wolkigen Sieg erringen.
+
+シャドウオブローズ=Rosenschatten
+かつて世間を騒がせた怪盗が用いていたという装束。施された派手な装飾は、それでも盗みを成功させるという怪盗の自信のあらわれである。=Ein Gewand, das einst von einem Phantomdieb getragen wurde, der in der Welt für Aufsehen sorgte. Die auffälligen Verzierungen darauf sind Ausdruck der Zuversicht des Phantomdiebs, dass er erfolgreich stehlen wird.
+
+デーモンハンド=Dämonenhand
+邪悪な魔力を帯びているかぎづめ。やすやすと鎧を切り裂き、確実に致命傷を与えてくるため、悪魔の手招きとも例えられている。=Eine Klaue, die mit böser Magie durchdrungen ist. Da sie leicht Rüstungen zerschneidet und tödliche Verletzungen verursacht, wird sie auch als „Teufelswink“ bezeichnet.
+
+ゴールデンサウンド=Goldener Klang
+純金を贅沢に用いた多弦弓。この弓で奏でられる旋律は黄金に等しい価値があると称えられ、戦場に立つ全ての兵士を奮い立たせる。=Ein mehrsaitiger Bogen aus reinem Gold. Die von diesem Bogen gespielte Melodie wird als goldwürdig gepriesen und inspiriert alle Soldaten auf dem Schlachtfeld.
+
+イビルホーン=Böses Horn
+悪魔の角を切り落として作られた片手斧。邪気をまとった黒い刃は、使い手の心から慈悲をなくし、敵対者に致命の一撃を与える。=Eine einhändige Axt, die aus dem abgeschnittenen Horn eines Dämons hergestellt wurde. Eine schwarze Klinge, umhüllt von Bosheit, entfernt die Gnade aus dem Herzen des Anwenders und fügt dem Feind einen tödlichen Schlag zu.
+
+エンドレスバーン=Endlose Verbrennung
+烈火の如き猛攻を可能にする、炎の魔力を帯びた大斧。使い手の闘争心を高め、一度振り下ろすと相手が倒れるまで連撃を止められなくなる。=Eine große Axt, die mit feuriger Magie durchdrungen ist und heftige Angriffe wie wütendes Feuer ermöglicht. Erhöht den Kampfgeist des Anwenders, und sobald Sie es nach unten schwingen, werden Sie nicht in der Lage sein, den kontinuierlichen Angriff zu stoppen, bis der Gegner besiegt ist.
+
+コマンダーランス=Kommandeur Lanze
+軍隊の指揮官が用いるランス。階級を示すための装備であり、混乱した戦場においても、兵士たちはこの槍を持つ者に付き従う。=Die Lanze wird von militärischen Befehlshabern verwendet. Sie ist ein Ausrüstungsgegenstand, der den Rang zeigt, und selbst auf dem unübersichtlichen Schlachtfeld gehorchen die Soldaten dem Speer.
+
+エルダーナイトランス=Ältere Ritterlanze
+優秀な騎士のみが持つことを許されるランス。これを持っていること自体が一騎当千の証とされ、敵対者の戦意を奪う。=Eine Lanze, die nur von Elite-Rittern geführt werden darf. Der Besitz dieser Lanze gilt als Beweis für Ikki Tousen und beraubt die Gegner ihres Kampfgeistes.
+
+祈りの小剣=Gebetsstöckel
+信仰にその身を捧げる人々が携えている小剣。信心の高い持ち主には神聖な加護が与えられ、邪悪な存在から身を守るという。=Ein Dolch, der von denjenigen getragen wird, die sich ihrem Glauben verschrieben haben. Es heißt, dass dem Besitzer mit hohem Glauben göttlicher Schutz zuteil wird und er sich vor bösen Wesen schützen kann.
+
+ウナーデシュヴァリエ=Unadeschevalier
+主君に命懸けの誓いを立てた、ある騎士の短剣。誓いは剣に力を与え、細身の刀身から想像もできないほど強烈な刺突を放つことができる。=Der Dolch eines Ritters, der seinem Herrn einen Schwur ablegte. Der Schwur verleiht dem Schwert Kraft und kann einen Stich ausstrahlen, den man sich bei einer schlanken Klinge vorstellen kann.
+
+ドラゴンネイル=Drachennagel
+竜を崇める傭兵団が使っていたとされる大剣。その刀身自体が黒い竜の爪先を模しているとされ、頑強な鎧でもたやすく切り裂いてしまう。=Ein Großschwert, das angeblich von einer Gruppe von Söldnern benutzt wurde, die Drachen anbeteten. Die Klinge selbst soll dem Zeh eines schwarzen Drachens ähneln und kann selbst die härteste Rüstung leicht durchschneiden.
+
+アイスバウンド=Eingefroren
+氷のように冷たい鋼材を用いた剣。寒冷地を守護する騎士が用いたとされ、氷点下で打ち合っても刃こぼれひとつしないという。=Ein Schwert mit kaltem Stahl Material wie Eis. Es wird gesagt, dass der Ritter durch die kalte Region geschützt wurde, und es würde nicht verschütten, auch wenn Sie es unter dem Einfrieren getroffen.
+
+暗殺者の装飾剣=Assassinen-Dekorationsschwert
+遺跡から発掘された、美しい装飾の曲剣。伝承では、暗殺者がこれを王に献上するふりをして近づき、一刀で命を絶ったという。=Ein wunderschön verziertes, gebogenes Schwert, das in den Ruinen ausgegraben wurde. Der Legende nach gab ein Attentäter vor, es dem König zu überreichen, näherte sich ihm und tötete ihn mit einem einzigen Schnitt.
+
+ノーブルフラッシュ=Edler Blitz
+ある貴族のために制作された長剣。その絢爛ながらも上品な装飾には、強さと優雅さを備えた貴族たれ、という願いが込められている。=Ein Langschwert für einen Adligen. Die prächtige und doch elegante Dekoration ist erfüllt von dem Wunsch, ein mächtiger und eleganter Aristokrat zu sein.
+
+インドミタブルスカイ=Unbezwingbarer Himmel
+自由のために命を懸けた、ある英雄の鎧。誰も大空を支配することができないように、この鎧の着用者を屈服させることは不可能である。=Die Rüstung eines Helden, der für die Freiheit gestorben ist. Es ist unmöglich, dem Träger dieser Rüstung zu erliegen, so dass niemand den Himmel kontrollieren kann.
+
+伊藤美来すこすこ侍=Mika Ito Samurai-Post
+貴族が決闘の際に着用する服装。見事な装飾が目を引くが、使われている生地は強力な魔物の皮であり、並の鎧よりはるかに堅牢である。=Kleidung, die von Adligen beim Duell getragen wird. Die atemberaubenden Verzierungen sind ein Blickfang, aber der verwendete Stoff ist eine starke Monsterhaut, die viel robuster ist als die durchschnittliche Rüstung.
+
+【クラン】ウィッシュオブセージ=[Clan] Wunsch von Sage
+虹色に輝く鉱石を、職人が丁寧に加工した魔導書。強く他者を想うほど鉱石に力が宿り、多彩な秘術を扱えるようになる。=Ein magisches Buch, das von Handwerkern mit einem Regenbogenerz sorgfältig bearbeitet wurde. Je stärker du an andere denkst, desto mächtiger bist du, und du wirst mit einer Vielzahl von Geheimnissen umgehen können.
+
+【クラン】ウィッシュオブウィザード=[Clan] Wunsch des Zauberers
+虹色に輝く鉱石を、職人が丁寧に加工した杖。強く他者を想うほど鉱石に力が宿り、より強力な魔法を放つことができる。=Ein Zauberstab, der von einem Handwerker mit einem Regenbogenerz sorgfältig bearbeitet wurde. Je mächtiger du an andere denkst, desto mächtiger kannst du eine mächtigere Magie ausstrahlen.
+
+【クラン】ウィルオブガード=[Clan] Wille des Wächters
+虹色に輝く鉱石を、職人が丁寧に加工した盾。強く他者を想うほど鉱石に力が宿り、強力な攻撃に耐えられる強度を得る。=Ein Schild sorgfältig von einem Handwerker mit einem Regenbogen-Erz verarbeitet. Je mehr Macht du an andere denkst, desto mehr Macht denkst du an sie, die Stärke, die mächtigen Angriffen widerstehen kann.
+
+【クラン】ウィルオブグラップラー=[Clan] Wille des Greifers
+虹色に輝く鉱石を、職人が丁寧に加工した手甲。強く他者を想うほど鉱石に力が宿り、困難を打ち砕く拳打を放つことができる。=Ein Griff, der sorgfältig von einem Handwerker mit einem Regenbogen-Erz verarbeitet wird. Je mehr du stark an andere denkst, desto mehr Macht hast du in dem Erz, und du kannst eine Faust schlagen, die die Schwierigkeiten bricht.
+
+【クラン】ウィッシュオブアーチャー=[Clan] Wunsch des Bogenschützen
+虹色に輝く鉱石を、職人が丁寧に加工した弓。強く他者を想うほど鉱石に力が宿り、より正確な一矢を放つことができる。=Ein Bogen sorgfältig von einem Handwerker mit einem Regenbogen Erz verarbeitet. Je mehr Macht du an andere denkst, desto mehr denkst du an andere, und du kannst einen genaueren Pfeil abgeben.
+
+【クラン】ウィルオブウォーリアー=[Clan] Wille des Kriegers
+虹色に輝く鉱石を、職人が丁寧に加工した大斧。強く他者を想うほど鉱石に力が宿り、相手を防具ごと両断できる一撃を放つことができる。=Eine große Axt, die sorgfältig von Handwerkern mit einem Regenbogen-Erz verarbeitet wird. Je mehr Sie stark an andere denken, desto mehr Macht können Sie tun, und Sie können einen Schlag abfeuern, der mit der Rüstung abgeschnitten werden kann.
+
+【クラン】ウィルオブトルーパー=[Clan] Wille des Troopers
+虹色に輝く鉱石を、職人が丁寧に加工した槍。強く他者を想うほど鉱石に力が宿り、より強烈な刺突を放つことができる。=Ein Speer sorgfältig von Handwerkern mit einem Regenbogen-Erz verarbeitet. Je mächtiger Sie von anderen denken, desto mächtiger können Sie, und Sie können eine intensivere Durchdringung emittieren.
+
+【クラン】ウィッシュオブレンジャー=[Clan] Wunsch des Rangers
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた短剣。強く他者を想うほど鉱石に力が宿り、切っ先が鋭さを増していく性質を持つ。=Ein Dolch sorgfältig von einem Handwerker mit einem Regenbogen Erz ausgebildet. Je mächtiger die Menschen denken, von anderen, desto mehr Macht sie sind, und die Schnitte sind zunehmend scharf.
+
+【クラン】ウィルオブホプライト=[Clan] Wille des Hopliten
+虹色に輝く鉱石を、職人が丁寧に加工した大剣。強く他者を想うほど鉱石に力が宿り、斬撃の重みが増す性質を持つ。=Ein großes Schwert sorgfältig von einem Handwerker mit einem Regenbogen Erz verarbeitet. Je stärker es an andere erinnert, desto mächtiger ist das Erz, und das Gewicht des Hiebs wird erhöht.
+
+【クラン】ウィッシュオブナイト=[Clan] Wunsch des Ritters
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた剣。強く他者を想うほど鉱石に力が宿り、刃が強靭になっていく性質を持つ。=Ein Schwert, das von einem Handwerker mit regenbogenfarbenem Erz sorgfältig bearbeitet wurde. Je mächtiger die Menschen von anderen denken, desto mächtiger sind sie, und die Klingen werden hart.
+
+ネクロマンサースタッフ=Nekromantenstab
+ネクロマンサーが亡霊を使役する際に用いる杖。霊木の枝から作られており、霊を操る精度を高める効果がある。=Ein Stock, der von Nekromanten verwendet wird, um Geister zu benutzen. Er wird aus den Zweigen eines Geisterbaums hergestellt und hat den Effekt, dass er die Genauigkeit der Manipulation des Geistes verbessert.
+
+カーススタッフ=Fluchstab
+呪術師たちのために造られた杖。未熟な術者は自ら呪いを被ってしまうこともあるため、扱いには注意が必要である。=Ein Zauberstab, der für die Magier gebaut wurde. Unerfahrene Chirurg kann von sich selbst verflucht werden, so dass Vorsicht bei der Handhabung genommen werden muss.
+
+ハイワンド=Hoher Stab
+占星術に基づいた中級魔法を扱うための杖。初学を修めた魔法使いが次に手にする定番の杖として、広く親しまれる。=Ein Stock für mittlere Magie auf der Grundlage der Astrologie. Es ist weithin als die nächste klassische Stock, dass der Zauberer, der die erste Studie gelernt wurde nächste beliebt.
+
+アイアンシールド=Eisenschild
+オーソドックスな性能の大盾。値段と使い勝手の良さから、幅広い冒険者の間で長く愛用されている。=Ein großer Schild mit orthodoxer Leistung. Aufgrund des Preises und der einfachen Handhabung wird er seit langem von einer Vielzahl von Abenteurern verwendet.
+
+クリティカルリング=Kritischer Ring
+施された魔法によって、正確な攻撃を可能にする指輪。その性質から弓兵たちに重宝されている。=Ein Ring, der präzise Angriffe durch angewandte Magie ermöglicht. Aufgrund seiner Beschaffenheit ist er für Bogenschützen nützlich.
+
+パールドレス=Perlenkleid
+高級感溢れる純白のドレス。貴族の女性が舞踏会などで身に着けることが多く、清純な印象を与えられるようデザインされている。=Ein rein weißes Kleid voller Luxus. Es wird oft von adligen Frauen auf einem Ball oder ähnlichem getragen und vermittelt einen reinen Eindruck.
+
+ヒールイヤリング=Heil-Ohrringe
+鮮やかな紫色の宝石を用いたイヤリング。癒しの力が宿っており回復魔法の使い手が好んで身に着けている。=Ohrringe mit leuchtend lila Schmuck. Die Heilkraft ist Wohnung, und die Erholung Magie Benutzer bevorzugt und trägt es.
+
+ロッククリスタル=Bergkristall
+破邪の力を宿すと言われる宝石。実際に魔法と相性がよく、魔法使いが魔法の触媒として採用することが多い。=Ein Juwel, von dem man sagt, dass es die Macht des Bösen hat. In der Tat passt es gut zur Magie, und der Zauberer wird oft als magischer Katalysator eingesetzt.
+
+マジシャンズオーブ=Reichsapfel des Magiers
+特殊な鉱石を加工して製作された宝珠。十分な魔力を蓄えることができ、魔法使いが戦いの際に力を補給するために用いる。=Ein Juwel, das durch die Verarbeitung eines speziellen Erzes hergestellt wird. Es kann genug Magie ansammeln, und verwenden Sie es, um die Macht im Falle eines Zauberers wieder aufzufüllen.
+
+隠者の装束=Einsiedlerkleidung
+俗世から離れ、魔法の探求に没頭する者のための装束。より高位の魔法を扱えるようにするため、魔力を高める特殊な素材で作られている。=Ein Kostüm für diejenigen, die in magische Quests abseits der Welt eintauchen. Es ist aus speziellen Materialien gefertigt, die die magische Kraft verstärken, um Magie auf höherem Stufe zu ermöglichen.
+
+ブロンズバックラー=Bronzeschaufel
+小型で取り回しに優れた丸盾。その扱いやすさから、的確に攻撃を防御できると評判の中級者向き装備。=Ein kleiner und ausgezeichneter Rundschild. Ausgestattet mit Zwischen-Spieler, die genau den Angriff wegen seiner einfachen Handhabung schützen können.
+
+ブロンズガントレット=Bronze-Stulpenhandschuhe
+主に銅を用いて作られた手甲。腐食に強いため、湿気の多い場所では鉄製のものより重宝される。=Der Handrücken wird hauptsächlich aus Kupfer hergestellt. Da er korrosionsbeständig ist, ist er in feuchten Gegenden nützlicher als Eisen.
+
+アイアンクロー=Eisenkralle
+裂傷を与えることを目的とした、鉄製のかぎづめ。拳と刃を一体化させたことにより、格闘と同じ感覚で斬撃を繰り出すことができる。=Eiserne Risse, die zu Rissen führen sollen. Durch die Integration der Faust und der Klinge, können Sie in der gleichen Weise wie Kampf schlitzen.
+
+祈願の鉄槍=Eiserne Speer des Gebets
+軍隊で正式に採用されている槍。隊列を組み、盾と組み合わせて使うことで、陣形を崩すことなく敵軍を打ち破れる。=Ein offiziell von der Armee eingeführter Speer. Durch die Bildung eines Trupps und den Einsatz des Speers in Kombination mit einem Schild werden die feindlichen Truppen durchbrochen, ohne die Formation zu durchbrechen.
+
+ソルジャーランス=Lanzensoldat
+僧兵が自衛のために装備する鉄槍。単に武器としてだけではなく、神々に祈りを捧ぐ儀式などにも用いる。=Ein eiserner Speer, mit dem ein Mönchssoldat zur Selbstverteidigung ausgerüstet ist. Er wird nicht nur als Waffe verwendet, sondern auch für Rituale, bei denen zu den Göttern gebetet wird.
+
+傭兵隊のハルバード=Söldner-Hellebarde
+主に傭兵たちが用いている槍斧。その形状ゆえに多様な戦法が取れるが、扱いにはそれなりの訓練が必要である。=Eine Speeraxt, die hauptsächlich von Söldnern verwendet wird. Aufgrund ihrer Form kann eine Vielzahl von Taktiken angewendet werden, aber die Behandlung erfordert etwas Training.
+
+ヘビーブレード=Schwere Klinge
+扱いやすく、あらゆる場面に対応できる大剣。重さと切れ味が両立されており、鎧に有効であるため兵士から人気が高い。=Ein großes Schwert, das leicht zu handhaben ist und jede Szene bewältigen kann. Sowohl Gewicht und Schärfe sind kompatibel, und sind beliebt bei Soldaten, weil sie für Rüstungen wirksam sind.
+
+アイアンレイピア=Eisen-Rapier
+刺突に特化した鉄製の剣。兵士よりは貴族に好んで用いられ、決闘などで使われることが多い。=Ein Eisenschwert, das auf das Durchbohren spezialisiert ist. Es wird eher von Aristokraten als von Soldaten benutzt und wird oft im Zweikampf eingesetzt.
+
+パイレーツカットラス=Piratenmesser
+やや短く、湾曲した刀身を持つ剣。閉所でも存分に振るえることから、船上で戦う海賊たちがよく携えている。=Ein Schwert mit einer etwas kurzen, gebogenen Klinge. Piraten kämpfen oft an Bord, weil sie auch in geschlossenen Räumen voll durchschütteln können.
+
+スティールソード=Stahlschwert
+広く普及している鉄製の剣。安価だがしっかりとした造りで、旅人の護身用の武器としても人気が高い。=Ein weit verbreitetes Eisenschwert. Es ist preiswert, aber stabil und wird auch gerne als Waffe für Reisende verwendet.
+
+マジカルドレス=Zauberhaftes Kleid
+装備した者の魔力を高めることに重点を置いたドレス。あしらわれた宝石によって魔法が強化され、より強力な一撃を放つことができる。=Ein Kleid, das die Magie der ausgerüsteten Person verstärkt. Die Magie wird durch den behandelten Edelstein verstärkt, und es kann ein stärkerer Schlag ausgelöst werden.
+
+パワーリング=Leistungsring
+施された魔法によって、筋力を強化できる指輪。戦士のために作られた装備だが、力仕事に勤しむ市民からも需要がある。=Ein Ring, der die Muskelkraft durch angewandte Magie erhöhen kann. Obwohl es sich um eine Ausrüstung für Krieger handelt, gibt es auch eine Nachfrage von Bürgern, die für harte Arbeit arbeiten.
+
+ファングイヤリング=Fang-Ohrringe
+獣の牙を模したイヤリング。大地の力を借り受けて、攻撃魔法の威力を高める効果があるとされている。=Ohrringe, die die Reißzähne des Tieres imitieren. Es wird gesagt, dass sie die Kraft der Erde borgen und die Kraft der Angriffsmagie verstärken.
+
+ターコイズペンダント=Türkis Während
+ターコイズを用いたペンダント。健康への願いが込められており、身に着けると病気にかかりにくくなるという。=Anhänger mit Türkis. Es hat einen Wunsch für die Gesundheit, und wenn Sie es tragen, wird es weniger wahrscheinlich, krank zu werden.
+
+シルバーネックレス=Silber-Halskette
+宝石が美しい、銀製のネックレス。魔除けの効果もあるとされ、夜更けに出歩く際に身に着けるとよいとされる。=Silberne Halskette mit schönen Schmuckstücken. Es soll die Wirkung eines Amuletts haben, und es ist gut, es zu tragen, wenn man spät in der Nacht ausgeht.
+
+ウォーリアーバングル=Krieger-Armreif
+実戦において、防具としての性能をもたせた腕輪。腕輪自体の堅牢さに加え、魔法によって着用者の頑強さも向上させることができる。=Ein Armband, das die Leistung als Rüstung in der tatsächlichen Schlacht gibt. Neben der Robustheit des Armbands selbst, kann die Magie auch die Hartnäckigkeit des Trägers verbessern.
+
+ゴールドアンクレット=Gold-Fußkettchen
+純金の腕輪に宝石をはめ込んだ贅沢なアクセサリー。これを持つことはステータスとされ、持ち主の胆力を高めてくれる。=Ein luxuriöses Zubehör mit Schmuck in einem reinen Goldarmband. Mit diesem ist ein Status und erhöht den Geist des Besitzers.
+
+クラシカルドレス=Klassisches Kleid
+厳かな雰囲気のドレス。落ち着いた色合いであるため、どのような式典にも着用していける。=Ein Kleid mit einer strengen Atmosphäre. Da es ein ruhiger Farbton ist, kann es zu jeder Zeremonie getragen werden.
+
+シーカーズローブ=Gewand des Suchers
+研究者が身に着けているローブ。厚手の生地を採用しており、危険な薬品を取り扱う際に重宝される。=Robe, die von Forschern getragen wird. Er besteht aus dickem Stoff und ist nützlich beim Umgang mit gefährlichen Medikamenten.
+
+純鉄の甲冑=Reine Eisenrüstung
+純粋な鉄を用いた鎧。安価でシンプルな構造ながら職人の技が光る逸品であり、軍隊からも発注がかかるほど評価は高い。=Eine Rüstung aus reinem Eisen. Es ist ein Juwel mit einer billigen und einfachen Struktur, und die Fähigkeiten des Handwerkers sind glänzend, und die Bewertung ist hoch, wie der Auftrag von der Armee gemacht wird.
+
+プレートアーマー=Plattenpanzer
+皮と鉄板を組み合わせた鎧。傭兵の間では人気のある装備で、十分な強度を持ちながら動きやすいと評判である。=Eine Rüstung, die Haut und Eisenplatten kombiniert. Sie ist eine beliebte Ausrüstung unter Söldnern und hat den Ruf, leicht zu bewegen zu sein und gleichzeitig ausreichend stark zu sein.
+
+ヘビーアーマー=Schwere Rüstung
+全身を覆う鉄製の鎧。身動きは取りにくくなるが優れた耐久を誇り、半端な魔物では装備者に傷ひとつつけられない。=Eiserne Rüstung, die den ganzen Körper bedeckt. Es ist schwierig, sich darin zu verfangen, aber sie ist sehr widerstandsfähig, und seltsame Monster können von der Ausrüstung nicht zerkratzt werden.
+
+トーゴクの旅衣装=Togok Reisetuch
+はるか東の国で、広く親しまれている旅装束。ゆったりとした着心地でいざという時に刀を振るいやすいと評判である。=Ein weit verbreitetes Reisebündel in einem fernöstlichen Land. Es hat den Ruf, im Falle eines entspannenden Komforts ein Schwert zu schwingen.
+
+シーフクローク=Diebesmantel
+深い闇夜に溶け込むことを目的とした外套。衣擦れ音がしないよう特殊な繊維を用いており、盗賊たちからの人気が高い。=Ein Mantel für den Zweck der Vermischung in einer tiefen dunklen Nacht. Wir verwenden spezielle Fasern, so dass sie nicht reiben ihre Kleidung, und sie sind sehr beliebt bei Banditen.
+
+若葉の外套=Wakabas Umhang
+明るい緑色が目を引く外套。雨天でも着用できるほど撥水性に優れ、手入れも簡単だと幅広い層から人気がある。=Ein Mantel mit einer leuchtend grünen Farbe. Er ist so wasserabweisend, dass er auch bei Regenwetter getragen werden kann, und er ist bei einer Vielzahl von Menschen beliebt, da er leicht zu reinigen ist.
+
+ヒーラーズバイブル=Heilerbibel
+主に回復魔法について記されている書物。市民の間でも広く親しまれている書物で、簡単なケガや病であればこの一冊で対応できる。=Ein Buch, das hauptsächlich Heilungsmagie beschreibt. Dieses Buch ist unter den Bürgern weithin bekannt und kann mit diesem einen Buch verwendet werden, wenn es sich um eine einfache Verletzung oder Krankheit handelt.
+
+ハンドガード=Handschutz
+主に兵士や騎士が着用する手甲。職人の丁寧な仕上げもあり、指の動きを阻害することなく武器を振ることができる。=Hauptsächlich von Soldaten und Rittern getragen. Es gibt auch eine sorgfältige Verarbeitung des Handwerkers, so dass Sie Waffen führen können, ohne Ihre Fingerbewegungen zu hemmen.
+
+アイアンクロスボウ=Eisenarmbrust
+軍隊向けに大量生産されている鉄製のクロスボウ。安定して狙いをつけられるため、新兵から熟練者まで広く愛用される。=Eiserne Armbrust, die in Massenproduktion für die Armee hergestellt wird. Sie ist bei Rekruten und Fachleuten weit verbreitet, weil sie stabil zielt.
+
+コンポジットボウ=Komposit-Bogen
+獣の骨と鉄を組み合わせた合成弓。その剛性と弾性は弓として最適なバランスを持ち、使い手を選ばず安定した性能を発揮できる。=Synthetischer Bogen, der Tierknochen und Eisen kombiniert. Seine Steifigkeit und Elastizität haben das optimale Gleichgewicht wie ein Bogen, und kann stabile Leistung unabhängig von Benutzer zeigen.
+
+合金の片手斧=Legierung Einhand-Axt
+特殊な合金を用いて、軽さと強度を両立した片手斧。敵にめがけて投擲するといった使い方も可能で、活躍の場を選ばない。=Eine 1H Axt, die Leichtigkeit und Stärke mit einer speziellen Legierung kombiniert. Es ist auch möglich, es zu werfen, um den Feind, so dass Sie nicht wählen Sie einen Ort zu spielen.
+
+ヘビーアックス=Schwere Axt
+非常に重量のある鉄製の大斧。小回りは利かないが、それと引き換えに敵を鎧ごと叩き斬ることに特化している。=Eine sehr schwere Eisenaxt. Obwohl es nicht eine kleine Wendung ist, ist es spezialisiert auf das Aufschlitzen des Feindes mit Rüstung im Austausch für sie.
+
+ウォーリアーアックス=Kriegeraxt
+戦場で使用されている両手斧。シンプルな作りゆえに扱いやすく、頑丈な刃を生かして相手を薙ぎ払うことができる。=Eine 2H-Axt, die auf dem Schlachtfeld verwendet wird. Weil es einfach ist, ist es leicht zu handhaben, und Sie können eine robuste Klinge verwenden, um den Gegner loszuwerden.
+
+バンディッドナイフ=Bändermesser
+裏社会で大量に流通している小剣。安価でありながら品質は悪くなく、新興の盗賊団などが数を揃える際に多く採用している。=Ein kleines Schwert, das in großen Mengen in der hinteren Gesellschaft verteilt wird. Obwohl es billig ist, ist die Qualität nicht schlecht, und die aufstrebenden Banditen und andere sind viele angenommen, wenn sie Zahlen haben.
+
+シルバーナイフ=Silbermesser
+銀を用いて作られた小剣。強度は高くないが、錆には非常に強いため、長旅の際はこれを携える旅人も少なくない。=Ein aus Silber gefertigtes Schwert. Obwohl es nicht stark ist, ist es sehr stark in Rost, so dass viele Reisende tragen diese auf eine lange Reise.
+
+スチールスティレット=Stahl Stiletto
+戦場で兵士たちが用いる、鋼鉄製の短剣。鎖帷子を貫くことを目的としており、鋭い刺突は十分致命傷になりうる。=Ein Stahldolch, der von Soldaten auf dem Schlachtfeld verwendet wird. Der Zweck ist, das Kettenhemd zu durchdringen, und scharfe Stiche können tödlich verletzt werden.
+
+銀の儀礼剣=Silbernes Zeremonienschwert
+式典の際に用いる銀製の直剣。実戦向けではないが、その厳かな雰囲気は携える者の気を引き締める。=Ein silbernes gerades Schwert, das für die Zeremonie verwendet wird. Obwohl es nicht für tatsächliche Kämpfe ist, wird die strenge Atmosphäre durch die Person, die beteiligt ist, verschärft.
+
+ソルジャーソード=Soldatenschwert
+軍隊で採用されている両刃の大剣。安価で大量に揃えることができ、素直な性能で使い手を選ばない。=Ein zweischneidiges Schwert, das von der Armee eingesetzt wird. Es ist billig und kann in großen Mengen zubereitet werden, und nicht wählen Sie den Benutzer mit gehorsamen Leistung.
+
+ガラス玉のオーブ=Glaskugel Orb
+ガラス製の安価なオーブ。微量だが魔力が込められており、駆け出しの魔法使いにとっては扱いやすい補助具となっている。=Preiswerter Orb aus Glas. Obwohl es eine kleine Menge ist, ist es ein leicht zu handhabendes Hilfswerkzeug für den Zauberer, der ein fahrender Zauberer ist.
+
+ウッドソード=Holzschwert
+見習い騎士たちが訓練で使う木剣。まずはこれを使って、騎士たちは戦いの基本を学ぶ。=Ein Holzschwert, das von angehenden Rittern in der Ausbildung verwendet wird. Zunächst einmal lernen die Ritter die Grundlagen des Kampfes.
+
+ウッドスタッフ=Holzstab
+樫の木で作られた杖。どんなに偉大な魔法使いも、最初はこの杖で学ぶと言われるほど扱いやすい。=Ein Stock aus Eichenholz. Egal wie groß der Zauberer ist, es ist einfach, mit diesem Stock anfangs zu lernen.
+
+ウッドシールド=Holzschild
+見習い騎士たちが訓練で使っている木盾。駆け出しの騎士は、この盾が壊れるまで訓練に励む。=Ein hölzerner Schild, der von angehenden Rittern in der Ausbildung verwendet wird. Der Ritter beginnt zu trainieren, bis der Schild bricht.
+
+ストーンスピア=Steinspeer
+尖った岩を先端にくくり付けた槍。信頼できる武器とは言い難いが、野生動物を狩る程度であれば十分な性能を持ち、作成も容易である。=Ein Speer mit scharfen Steinen an der Spitze. Es ist schwer zu sagen, dass es eine zuverlässige Waffe ist, aber es hat genügend Leistung und leicht, ein wildes Tier zu schaffen.
+
+ヒーラーローブ=Heilergewand
+祈祷師が下積みの間、身に着ける装束。魔力を高める効果があり、まだ未熟な祈祷師にとっては大切な装備となる。=Ein Kostüm, das ein Gebetsmeister während des Ladens trägt. Es hat die Wirkung, die Magie zu verstärken und ist eine wichtige Ausrüstung für ein unreifes Gebet.
+
+ウッドイヤリング=Holzohrring
+お土産物として親しまれているイヤリング。素朴ながらも温かみのあるデザインは、身に着ける人を選ばない。=Ohrringe, die als Mitbringsel beliebt sind. Das einfache, aber warme Design wählt niemanden, der sie trägt.
+
+木皮のネックレス=Gekochte Halskette
+木の皮で編まれたネックレス。お守りとしても人気があり、初めて長旅に出る旅人への贈り物としてもよく知られている。=Eine mit Holzhaut gewebte Halskette. Sie ist auch als Talisman beliebt und als Geschenk für Reisende bekannt, die sich zum ersten Mal auf eine lange Reise begeben.
+
+ウッドバンクル=Holzarmreif
+ガラス玉で装飾された木製の腕輪。無病息災の願いが込められており、市民の間でも人気のある贈り物である。=Holzarmband, verziert mit Glaskugeln. Es ist ein beliebtes Geschenk unter den Bürgern, mit dem Wunsch der Krankheit und keine -Krankheit.
+
+木彫りの指輪=Holzgeschnitzter Ring
+職人の丁寧な仕上げが人気の指輪。どんな服装にも無難にあわせられると、幅広い層から人気がある。=Ein beliebter Ring für die sorgfältige Verarbeitung von Handwerkern. Es ist beliebt bei einer breiten Palette von Menschen, wenn jede Kleidung sicher sind.
+
+ビギナーズローブ=Einsteigerblatt
+勉学に励む魔法使いのための装束。魔力の制御を助ける効果があり、未熟な魔法使いが安全に魔法を研究するのに欠かせない装備である。=Ein Kostüm für hart arbeitende Zauberer. Es hilft bei der Kontrolle der Magie und ist eine wichtige Ausrüstung für unreife Zauberer, um sicher Magie zu studieren.
+
+レザーアーマー=Leder-Rüstung
+一般的な革製の鎧。鉄製のものと比較するとやや防御力に劣るが、安価で軽量ゆえに、駆け出しの冒険者が身に着けることが多い。=Allgemeine Lederrüstungen. Obwohl es etwas minderwertig ist, um defensive Macht im Vergleich zu Eisen diejenigen, wegen seiner billigen und leichten, Eile Abenteurer sind oft getragen.
+
+ポピュラーワンピース=Beliebtes Kleid
+明るい色合いが人気のワンピース。良くも悪くも普通の服だが、通気性や肌触りには定評がある。=Ein Stück, das mit hellen Farben beliebt ist. Auf Gedeih und Verderb ist es normale Kleidung, aber es hat einen Ruf für Atmungsaktivität und Touch.
+
+導きの教本=Reiseführer
+見習い魔法使いのための魔導書。基本的な魔法について記されており、入門書としては最適である。=Ein Zauberbuch für angehende Zauberer. Es beschreibt die grundlegende Magie und ist ideal als Einführungsbuch.
+
+ストーンナックル=Schlagring
+鋭利な石を複数取り付けた、武闘用の手袋。元はならず者がけんかの際に用いていたもので、侮れない威力を誇る。=Arbeitshandschuhe, an denen mehrere scharfe Steine befestigt sind. Es wurde von der unwilligen Person im Falle eines Kampfes verwendet, und verfügt über die Macht, die nicht unterschätzt werden kann.
+
+ウッドボウ=Holzbogen
+木を削りだして作った簡易な弓。軽量で構えやすいことから、弓術の入門者には最適である。=Ein einfacher Bogen, der durch Rasieren von Bäumen hergestellt wird. Da er leicht ist und gut in der Hand liegt, ist er ideal für Anfänger der Bogenkunst.
+
+がんせきのオノ=Ganseki Ono
+加工した岩を取り付けた斧。鉄製のものより壊れやすいが、簡単に作れる。複数用意して手投げ斧として活用する者もいる。=Eine Axt mit bearbeiteten Steinen. Sie ist zerbrechlicher als Eisen, kann aber leicht hergestellt werden. Einige sind vorbereitet und verwenden als Hand Wurfaxt.
+
+アイアンナイフ=Eisenmesser
+標準的な鉄を用いて作られた短剣。安価ゆえに性能は控えめだが、一般市民の護身用としては十分な強度がある。=Ein Dolch, der aus normalem Eisen hergestellt wird. Obwohl die Leistung aufgrund des günstigen Preises bescheiden ist, hat er eine ausreichende Stärke für den Schutz der Allgemeinheit.
+
+ストーンソード=Steinschwert
+一般的な石材で制作された大剣。切れ味が鈍くほぼ鈍器に近いが、手入れが簡単で荒くれ者に好まれる。=Ein großes Schwert mit allgemeinen Stein hergestellt. Obwohl die Schärfe ist langsam und in der Nähe der stumpfen Instrument, ist es leicht zu reinigen und wird von denen, die rau sind bevorzugt.
+
+数多の罪人を裁いたという審問官の耳飾り。持ち主が戒律に忠実であれば、あらゆる悪意や混沌を退け、秩序と安寧を約束するという。=Der Ohrring eines Inquisitors, der unzählige Sünder verurteilt haben soll. Es heißt, dass er, solange der Träger den Geboten treu ist, alle Bosheit und alles Chaos abwehrt und Ordnung und Frieden verspricht.
+戦場で王を守り抜いたという、伝説の近衛兵の装束。激しい戦いを経てもほつれひとつなく高貴な威容を保ち、味方を大いに勇気づけた。=Legendäres Gewand der königlichen Garde, die den König auf dem Schlachtfeld beschützte. Trotz harter Kämpfe bewahrt sie ein edles Aussehen ohne einen einzigen ausgefransten Rand und inspiriert die Verbündeten mit ihrem Mut.
+人間が精霊と契約を交わす際に用いられたとされる指輪。精霊のために戦う限り、装備者は万難を排する力を得られたという。=Ein Ring, von dem man glaubt, dass er benutzt wird, wenn Menschen Verträge mit Geistern schließen. Solange der Träger für die Geister kämpft, erhält er die Kraft, jede Not zu überwinden.
+海底から発掘された、世界最大級の宝石を用いている盾。非常に高価だが性能も相応で、生半可な攻撃では表面に傷ひとつつけられない。=Ein Schild, der mit dem größten Edelstein der Welt geschmückt ist, der aus den Tiefen des Meeres geborgen wurde. Er ist sehr wertvoll und seine Leistung entspricht seinem Preis, da er durch gewöhnliche Angriffe nicht zerkratzt werden kann.
+エルフの古代魔法の粋を集めて制作された魔法弓。風の精霊の力を借りることで、木々を薙ぎ払い、地面をえぐるほどの一矢を放つ。=Ein magischer Bogen, der durch das Sammeln der Essenz alter Elfenmagie hergestellt wurde. Indem er sich die Kraft der Windgeister zunutze macht, entfesselt er einen Pfeil, der Bäume niedermäht und den Boden durchschneidet.
+雷の化身である幻獣の角を用いた短剣。使い手は天を味方につけるとされ、掲げれば嵐が起き、振りぬけば雷を放ち、敵対者をうち滅ぼす。=Ein Dolch, der mit dem Horn eines mythischen Wesens verziert ist, das den Donner verkörpert. Es heißt, dass der Träger die Gunst des Himmels erlangt, Stürme beschwört und Blitze entfesselt, um Feinde zu besiegen.
+優れた治世によって歴史に名を刻んだ王の耳飾り。膨大な知識と明晰な判断力を得られ、高度な魔法の行使を実現する。=Ohrringe eines berühmten Königs, der durch seine hervorragende Regierungsführung in die Geschichte eingegangen ist. Sie verleihen ein umfangreiches Wissen und ein scharfes Urteilsvermögen und ermöglichen den kompetenten Einsatz fortgeschrittener Magie.
+虹色に輝く鉱石を、職人が丁寧に加工した耳飾り。誰かとの絆を守りたいと願うと、呼応するかのように自然の力を授けてくれる。=Ohrringe, die von geschickten Kunsthandwerkern aus schimmernden regenbogenfarbenen Edelsteinen gefertigt wurden. Wenn man eine Verbindung schützen möchte, scheinen sie zu reagieren, indem sie dem Träger die Kraft der Natur verleihen.
+遥か東の国から伝わった、巫女がまとう法衣。全身をおおう神聖な気が邪悪な魔力から着用者を守ってくれる。=Gewänder, die von Schreinmädchen aus einem fernen östlichen Land getragen werden. Die heilige Aura, die den ganzen Körper umgibt, schützt die Trägerin vor bösartiger dunkler Magie.
+中級の攻撃魔法が多数収録されている書物。実用的でありながら修得は難しくないため、多くの魔法使いに読まれている。=Ein Foliant mit zahlreichen Angriffszaubern der mittleren Stufe. Es ist praktisch, aber nicht zu schwierig zu meistern, weshalb es von vielen Zauberern gelesen wird.
+特殊な魔法が記された本。基本の系統からは外れるが、使用者の能力を高めるための専門的な魔法を多種学ぶことができる。=Ein Buch mit spezialisierten Zaubersprüchen. Es weicht vom grundlegenden System ab, ermöglicht aber dem Benutzer, verschiedene spezialisierte Zaubersprüche zu erlernen, die seine Fähigkeiten verbessern.
+複数の弦を持つ特殊な弓。矢を放つだけではなく音楽も奏でられ、その音色は耳にした者の戦意を高揚させる効果がある。=Ein einzigartiger Bogen mit mehreren Saiten. Er schießt nicht nur Pfeile, sondern erzeugt auch Musik, deren Melodien den Kampfgeist derjenigen beflügeln, die sie hören.

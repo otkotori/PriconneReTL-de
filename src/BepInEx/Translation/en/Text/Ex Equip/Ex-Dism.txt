@@ -1,0 +1,24 @@
+EX防具コイン=EX-Rüstungsmünze
+EX武器コイン=EX-Waffenmünze
+EXアクセサリーコイン=EX-Acc-Münze
+分解するアイテムを選択してください。=Bitte wählen Sie den zu\nzerlegenden Artikel aus.
+r:"^([0-9,]+)個のアイテムを選択中$"=$1 ausgewählte(r) Artikel
+1個のアイテムを選択中=1 ausgewählte Artikel
+
+所持上限=Besitzgrenze
+所持上限を超えたアイテムをプレゼントに送りました。=Einen Gegenstand, der die Besitzgrenze überschreitet, an das Geschenk geschickt.
+これ以上は、分解できません。=Es kann nicht mehr zerlegt werden.
+
+一度に分解出来る最大数に達しています。これ以上は選択出来ません。=Die maximale Anzahl, die auf einmal abgebaut werden kann, wurde erreicht.
+まとめて分解するEX装備を選択中です。=Auswahl von EX-Ausrüstung, die auf einmal abgebaut werden sollen
+おまかせ分解するEX装備がありません。=Es gibt keine EX-Ausrüstung für die automatische Demontage.
+おまかせ分解が設定されていません。\nおまかせ分解設定を行ってください。=Es ist keine automatische Demontage eingestellt.\nBitte stellen Sie die automatische Demontage ein.
+分解するEX装備が選択されていません。=Das auszubauende EX-Gerät ist nicht ausgewählt.
+
+おまかせ分解実行時の消費対象を設定します。=Legen Sie das Verbrauchsziel für die automatische Demontage fest.
+
+以下のEX装備を分解します。=Bauen Sie die folgende EX-Ausrüstung ab.
+分解する=Zerlegen
+EX装備分解確認=Demontage EX-Ausrüstung-Bestätigung
+
+リサイクル結果=Recycling-Ergebnis

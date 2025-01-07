@@ -1,0 +1,190 @@
+武器=Waffe
+アクセサリ=Zubehör
+アクセサリー=Zubehör
+防具=Rüstung
+EX装備コイン=EX-Ausrüstungsmünze
+EX装備=EX-Ausrüs.
+毎日9:00ラインナップ更新=Täglich um 09:00 aktualisiert
+EX装備分解=EX-Ausrüstung demontieren
+強化Pt=Verfeinern-PKT
+強化Pt聖杯=PKT Heilige verfeinern
+スキル２=Fertigkeit 2
+スキル１=Fertigkeit 1
+
+片手剣=Schwert
+両手剣=Claymore
+短剣=Dolch
+槍=Speer
+斧=Axt
+弓=Bogen
+拳=Faust
+盾=Schild
+杖=Zauberstab
+本=Buch
+服=Kleidung
+鎧=Rüstung
+白ローブ=Weißes Aussehen
+黒ローブ=Schwarzes Aussehen
+指輪=Ring
+腕輪=Armbänder
+ネックレス=Halskette
+宝珠=Juwel
+イヤリング=Ohrring
+おまかせ強化対象の素材がありません。=Es gibt kein zu verbesserndes Material.
+必要コイン=Erforderliche Münzen
+アイテム一覧へ移動しますか?=Möchten Sie zur Artikelliste gehen?
+購入に必要なEX武器コインが不足しています。=Unzureichende EX-Ausrüstungsmünzen.
+アイテム一覧へ=Artikelliste
+EX武器コイン不足=Unzureichende EX-Ausrüstungsmünze
+おまかせ分解設定=Autom. Demontage
+まとめて\n分解する=Stapel\nDemontieren
+おまかせ\n分解する=Auto\nDemontieren
+10個のアイテムを選択中=10 Artikel auswählen
+外す=Ausstatten
+分解=Demontieren
+保護=Schutz
+上限解放=Limit-Break
+まとめて分解=Stapelweise zerlegen
+選択解除=Deselektieren
+絞り込み中(仮)=Filter (vorläufig)
+詳細表示するEX装備を\n選択してください。=Wählen Sie die EX-Ausrüstung aus, die im Detail angezeigt werden soll.
+上限に達したアイテムはプレゼントに送られます。=Sendungen, die das Limit erreichen, werden an die Geschenkbox geschickt.
+使用制限状態のEX装備は選択できません。=Bereits verwendete EX-Geräte können nicht ausgewählt werden.
+購入回数または所持数が上限に達しています。=Sie haben die maximale Anzahl von Käufen oder Besitztümern erreicht.
+他キャラが装備中のEX装備が選択されています。=Die aktuell von anderen Charakteren ausgerüstete EX-Ausrüstung wird ausgewählt.
+パーティキャラのEX装備を変更できます。=Du kannst die Ex-Ausrüstung des Gruppencharakters ändern.
+EX装備が変更されていません。=EX-Ausrüstung wurde nicht geändert.
+装備確定=Ausrüstungsbestätigung
+おまかせ装備=Autoausrüstung
+EX装備設定=EX Ausrüstungsoptionen
+全て外す=Alle entfernen
+装備なし=Keine Ausrüstung
+選択可能なEX装備を所持していません。=Sie haben keine EX-Ausrüstung ausgewählt.
+EX装備入れ替え詳細=Details von Ersetzen
+装備選択=Auswahl der Ausrüstung
+装備可能なEX装備がありません。=Es gibt keine EX-Ausrüstung, die ausgerüstet werden kann.
+入れ替えるEX装備が選択されていません。=Das zu ersetzende Ex-Ausrüstung ist nicht ausgewählt.
+上限解放回数=Grenzwertüberschreitungen
+スキルあり=Fertigkeiten
+
+EX装備絞り込み=EX-Ausrüstung filtern
+選択したEX装備を絞り込み表示します。=Ausgewählte EX-Ausrüstung wird gefiltert.
+
+絞り込みをリセット=Filter zurücksetzen
+アクセサリー全て=Alle Zubehör
+EX防具アクセサリー交換対象=EX-Zubehör-Ersatzscheibe
+防具全て=Alle Rüstungen
+EX防具コイン交換対象=EX-Rüstungsmünze-Ersatzscheibe
+武器全て=Alle Waffen
+EX武器コイン交換対象=EX-Waffenmünzen-Ersatzscheibe
+EX装備種別=EX-Ausrüstungsart
+優先消費設定=Vorrangige Verbrauchsoption
+アドベンチャーで獲得した際に自動で分解するEX装備を設定します。=Set EX-Ausrüstung, die automatisch abgebaut wird,\nwenn sie in einem Abenteuer erworben wird.
+
+おまかせ強化設定=Automatische Verfeinerungsoption
+EX装備強化=EX-Ausrüstung verfeinern
+所持強化Pt=Besitztum-Pkt
+EX装備強化Ptを使用します。=Verwenden Sie EX-Ausrüstung Verfeinern-PKT.
+EX装備強化Pt使用=EX-Ausrüstung Verfeinern-Pkt verwenden
+
+装備中のEX装備は選択できません。=EX-Ausrüstung in Ausrüstung kann nicht ausgewählt werden.
+保護状態のEX装備は選択できません。=EX-Geräte im geschützten Zustand können nicht ausgewählt werden.
+未装備のEX装備です。=Unausgerüstete EX-Ausrüstung.
+装備可能なキャラがいません。=Es gibt keinen Charakter, der ausgerüstet werden kann.
+装備するキャラを選択してください。=Bitte wählen Sie den auszurüstenden Charakter aus.
+装備するキャラを選択できます。=Sie können den Charakter auswählen, der ausgerüstet werden soll.
+装備キャラ選択=Auswahl der Ausrüstungszeichen
+
+獲得上限解放Pt=Max. Grenzwert Bruchpunkt
+使用できる素材がありません。=Es dürfen keine Materialien verwendet werden.
+上限解放素材を選択してください。=Bitte wählen Sie das Material „Limit-Break“.
+選択数=Auswähl
+EX装備上限解放=Ex-Ausrüstung-Unkap
+EX装備は\nアドベンチャーで入手することができます。=Ex-Ausrüstung kann durch Abenteuer erlangt werden.
+
+EX装備一覧にフィルタを適用します。=Wenden Sie den Filter auf die Liste Ex-Ausrüstung an.
+EX装備強化素材絞り込み=Filter EX-Ausrüstung-Verfeinern Material
+おまかせ強化実行時の消費対象を設定します。=Legen Sie das Verbrauchsziel für die automatische Verfeinerung fest.
+おまかせEX装備強化設定=Auto EX-Ausrüstung verfeinern-Option
+EX装備強化Pt=EX-Ausrüstung\nVerfeinern-Pkt
+
+以下のアイテムを消費して強化します。=Verbrauche die folgenden Artikel, um sie zu verfeinern.
+EX装備強化確認=EX-Ausrüstung verfeinern-Bestätigung
+★3以上のEX装備が消費されます。=3★ oder mehr Ex-Ausrüstung verbraucht wird.
+返還アイテム=Zurückgegebener Artikel
+
+EX装備(武器)を装備していません。=Nicht ausgestattet mit\nEX-Ausrüstung (Waffen).
+EX装備(防具)を装備していません。=Nicht ausgestattet mit\nEX-Ausrüstung (Rüstung).
+EX装備(アクセサリー)を装備していません。=Nicht ausgestattet mit\nEX-Ausrüstung (Zubehör).
+装備変更=Ändern
+EX装備一覧=Artikelliste
+変更せずにダイアログを閉じます。\nよろしいですか？=Schließen Sie die Fenster, ohne etwas zu ändern.\nIst das in Ordnung?
+差分確認=Änderungen prüfen
+
+他キャラが装備中のEX装備を選択する=Wählen Sie EX-Ausrüstung, mit de\nandere Charaktere ausgestattet.
+優先ステータス=Prioritätsstatus
+条件を指定して自動でEX装備を装備します。=EX-Geräte automatisch ausrüsten\ndurch Angabe der Bedingungen.
+おまかせEX装備設定=Auto-EX-Ausrüstung-Optionen
+
+装備選択(クランバトル)=Ausrüstungsauswahl (Clankampf)
+入手可能な遠征クエストがありません。=Keine Expeditionsquests verfügbar.
+この装備はこれ以上上限解放できません。=Diese Ausrüstung kann nicht mehr Limit-Break.
+
+以下のEX装備を装備します。=Ausgestattet mit der folgenden EX-Ausrüstung.
+おまかせEX装備確認=Auto-EX-Ausrüstung-Bestätigungquipment
+変更後=Nach
+変更前=Vor
+sr:"^「(.+)」のEX装備$"="EX-Ausrüstung von "$1""
+sr:"^EX装備（(.+)）$"=EX-Ausrüstung ($1)
+入手可能なアドベンチャークエストがありません。=Es gibt keine verfügbare Abenteueraufgabe.
+以下のアイテムの入手方法を確認できます。=Sie können prüfen, wie Sie die folgenden Punkte erhalten können.
+
+装備中のEX装備を外します。\nよろしいですか？=Entfernt ausgerüstete EX-Ausrüstung.\nSind Sie sicher?
+EX装備確認=EX-Ausrüstungsprüfung
+
+EX装備の選択上限に達しています。=Die Auswahlgrenze für EX-Geräte ist erreicht.
+EX装備入れ替え確認=EX-Ausrüstung-Ersatzbestätigung
+EX装備を入れ替えます。\nよろしいですか？=Tauschen Sie die EX-Geräte aus.\nIst das in Ordnung?
+
+r:"^([0-9,]+)Pt使用$"=$1pkt nutzen
+装備品・強化アイテムは\nクエストで入手することができます。=Ausrüstungs- und Veredelungsgegenstände können durch Quests erhalten werden.
+以下のアイテムを消費して上限解放します。=Verbrauche die folgenden Artikel, um den Deckel zu öffnen.
+EX装備上限解放確認=Unkap EX-Ausrüstung bestätigen
+
+EX装備で、キャラのステータスをさらにパワーアップできます。付け替えできるのでお気に入りの組み合わせを探してみましょう。EX装備はアドベンチャーで入手できますよ。=Mit EX-Ausrüstung kannst du den Status deines Charakters weiter verbessern. Du kannst sie wechseln, also finde deine Lieblingskombination. EX-Ausrüstung kann in Abenteuern erhalten werden.
+
+EX装備コインを使ってEX装備の交換ができるようです。\nEX装備コインは武器・防具・アクセサリーの種類があり、\n対応するEX装備を分解または強化で消費すると手に入りますよ。=Es scheint, dass EX-Ausrüstung mit EX-Ausrüstungsmünzen ausgetauscht werden kann. Es gibt verschiedene Arten von EX-Ausrüstungsmünzen für Waffen, Rüstungen und Zubehör, und Sie können sie erhalten, indem Sie die entsprechende EX-Ausrüstung zerlegen oder aufwerten.
+
+【クラン】ホープオブアーチャー=[Clan] Hoffnung auf Archer
+
+カシコミノツルギ=Kashikominotsurugi
+ヒドゥンエッジ=Versteckte Kante
+白馬の戦弓=Weißes Pferd-Kriegsbogen
+クルーエルナックル=Grausame Knöchel
+グリーンウッド=Grünes Holz
+スペリオールガントレット=Überlegene Stulpen
+レッドアイウィズダム=Rote-Augen-Weisheit
+トリックスター=Trickster
+救済者の聖典=Heilige Schrift
+ハープボウ=Harfenbogen
+ナイトガード=Nachtwächter
+特殊魔法大全=Spezielle Magie-Enzyklopädie
+黒魔女の本=Schwarzes Hexenbuch
+エルブンローブ=Elfengewand
+パラディンメイル=Paladinpost
+ノーブルビースト=Edles Biest
+デモンズオーダー=Dämonenorden
+グレイブウィッチ=Grabhexe
+巫女の法衣=Schreinmädchen-Robe
+フォーチュンペンダント=Glücksanhänger
+チャンピオンリング=Meisterschaftsring
+クリティカルリング=Kritischer Ring
+パワーリング=Leistungsring
+慈母の涙=Muttertränen
+賢王の耳飾り=Ohrringe des Weisen Königs
+慈母の涙=Muttertränen
+賢王の耳飾り=Ohrringe des Weisen Königs
+
+スコフニュング=Skofnyung
+世界樹の蔦弓・マグナ=Der Efeubogen von Yggdrasil: Magna
+修武の籠手=Shuubus Fehdehandschuh

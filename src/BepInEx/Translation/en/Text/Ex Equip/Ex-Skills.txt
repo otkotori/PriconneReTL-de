@@ -1,0 +1,70 @@
+スキル詳細=Fertigkeit-Infos
+バトル中防御力小アップ=Kleiner Verteidigungsschub im Kampf
+
+バトル中攻撃力小アップ=Angriff ↑ (N) im Kampf
+開始時攻撃力中アップ=Angriffsstart (M)
+r:"^バトル開始後(\d+)秒間自分の物理攻撃力を(\d+)％アッ\nプさせる。$"=Verstärkt den eigenen physischen Angriff um $2% für $1sek nach Kampfbeginn.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃力を(\d+)％アッ\nプさせる。$"=Erhöht den eigenen magischen Angriff um $2% für $1sek nach Kampfbeginn.
+
+開始時物/魔ダメカット付与=P/M. ANG Schnittsstart
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理/魔法ダメー\nジカット効果を付与する。$"=Wendet physischen und magischen Schaden an, der nach Kampfbeginn um\n$2% für $1sek reduziert wird.
+
+開始時物理ダメカット付与=P.Schaden-Schnittsstart
+開始時魔法ダメカット付与=M.Schaden-Schnittsstart
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理ダメージ\nカット効果を付与する。$"=Wendet physischen Schaden an, der für $1sek nach Kampfbeginn um $2% reduziert wird.
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の魔法ダメージ\nカット効果を付与する。$"=Verringert den eigenen magischen Schaden um $2% für $1sek nach Kampfbeginn.
+
+開始時継続ＨＰ回復付与=KP-Regeneration starten
+r:"^バトル開始後(\d+)秒間自分に残りＨＰ([0-9.\.]+)％の継続\nＨＰ回復状態を付与する。$"=Wendet den Zustand der fortgesetzten KP-Erholung von $2% für $1s nach Kampfbeginn an.
+
+バトル中盤攻撃力大アップ=Angriff ↑ (L) im Kampf
+バトル開始後45秒経過時に自分の物理攻撃力を20％アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt:  Erhöht den eigenen physischen Angriff um 20%.
+バトル開始後45秒経過時に自分の魔法攻撃力を20％アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt: Erhöht den eigenen magischen Angriff um 20%.
+バトルの残り時間が45秒を切ると自分の物理攻撃力を20％アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt:  Erhöht den eigenen physischen Angriff um 20%.
+バトルの残り時間が45秒を切ると自分の魔法攻撃力を20％アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt: Erhöht den eigenen magischen Angriff um 20%.
+
+開始時クリダメ中アップ=Anfangskritik. Schaden ↑
+r:"^バトル開始後(\d+)秒間自分の物理攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Erhöht den eigenen physischen kritischen Schaden um $2% für $1sek nach Kampfbeginn.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Erhöht den eigenen magischen kritischen Schaden um $2% für $1sek nach Kampfbeginn.
+開始時クリティカル中アップ=Kritischer Start
+r:"^バトル開始後(\d+)秒間自分の物理クリティカルを\n(\d+)％アップさせる。$"=Erhöht die eigene physische kritische Rate um $2% für $1sek nach Kampfbeginn.
+r:"^バトル開始後(\d+)秒間自分の魔法クリティカルを\n(\d+)％アップさせる。$"=Erhöht die eigene magische kritische Rate um $2% für $1sek nach Kampfbeginn.
+
+開始時防御力中アップ=Startverteidigung ↑
+r:"^バトル開始後(\d+)秒間自分の物理防御力を(\d+)％アッ\nプさせる。$"=Erhöht die eigene physische Verteidigung um $2% für $1sek nach Kampfbeginn.
+r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプさせる。$"=Erhöht die eigene magische Verteidigung um $2% für $1sek nach Kampfbeginn.
+
+バトル中盤クリティカル強化=Kritischer Schub im Kampf
+魔蜘ノ凶槍=Gewaltsamer Speer der Zauberspinne
+バトルの残り時間が45秒を切ると味方全体の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Wenn weniger als 45 Sekunden im Kampf verbleiben, werden P.KRIT-Satz und P.KRIT-ANG für alle Verbündeten um 3% erhöht.
+
+バトル中盤クリティカル中アップ=Kritisch ↑ (L) im Kampf
+
+バトルの残り時間が45秒を切ると自分の物理クリティカルを５%アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt: Erhöht die P.KRIT-Satz um 5%.
+
+バトル中物理強化=Angriff ↑ (M) im Kampf
+バトル中物理攻防強化=Physisch ↑ (M) im Kampf
+バトル開始後90秒間自分の物理攻撃力と物理防御力を３％アップさせる。=Erhöht die eigene P.ANG und P.VER für 90sek nach Kampfbeginn um 3%.
+
+バトル中魔法耐性強化=Widerstand ↑ (M) im Kampf
+バトル開始後90秒間自分の魔法防御力３％アップさせ、３％の魔法ダメージカット効果を付与する。=Erhöht die eigene M.VER um 3% für 90s nach Kampfbeginn, gibt 3% M.ANG-Senkeffekt.
+
+バトル中ダメージ強化=Schaden ↑ im Kampf
+バトルの残り時間が45秒を切ると自分の物理クリティカルと物理攻撃クリティカル時のダメージを２０％アップさせる。=Wenn die verbleibende Zeit weniger als 45sek beträgt: Erhöht P.KRIT-Satz und P.KRIT-ANG um 20%.
+
+開始時ダメージ強化=Erhöhter Startschaden
+バトル開始後90秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを３％アップさせる。=Erhöht die eigene P.ANG und P.KRIT-ANG um 3% für 90sek nach Kampfbeginn.
+
+バトル中クリティカル強化=Erhöhung der kritischen Treffer im Kampf
+バトル開始後24秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを５％アップさせる。=Erhöht eigene P.ANG und P.KRIT-ANG um 5% für 24sek nach Kampfbeginn.
+バトル開始後90秒間自分の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Erhöht die eigene P.KRIT-Satz und P.KRIT-ANG um 3% für 90sek nach Kampfbeginn.
+
+バトル中物理耐性強化=Verteidigung ↑ (M) im Kampf
+バトル開始後90秒間自分の物理防御力３％アップさせ、３％の物理ダメージカット効果を付与する。=Erhöht die eigene P.VER um 3% für 90sek nach Kampfbeginn, gibt 3% P.DMG-Senkeffekt.
+
+バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Erhöht die eigene M.KRIT-Satz und M.KRIT-ANG um 3% für 90sek nach Kampfbeginn.
+
+バトル中魔法攻防強化=Magie ↑ (M) im Kampf
+バトル開始後90秒間自分の魔法攻撃力と魔法防御力を３％アップさせる。=Erhöht die eigene M.ANG und M.VER für 90sek nach Kampfbeginn um 3%.
+
+バトル開始後90秒間自分の物理攻撃力と物理クリティカルを３％アップさせる。=Erhöht die eigene P.ANG und P.KRIT-Satz um 3% für 90sek nach Kampfbeginn.
