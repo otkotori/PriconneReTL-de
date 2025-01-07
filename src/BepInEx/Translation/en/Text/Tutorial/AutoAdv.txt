@@ -1,0 +1,2 @@
+未達成=Nicht beendet
+主さま、オート進行が使えるようになりましたよ。\nオート進行は未クリアや★3未達成のメインクエストで使用できます。=Herr, du kannst jetzt Autofortschritt verwenden. Autofortschritt kann für nicht abgeschlossene Ereignis- oder Hauptquests verwendet werden.

@@ -1,0 +1,54 @@
+お供１号=Gefährten Nr.1
+お供２号=Gefährten Nr.2
+
+『クレジッタさん！\n【美食殿】のみんなと一緒に、護衛任務をこなしてきます☆\nしばらく留守をお願いしますね！』=Creditta-san! Wir werden die Eskorte-Mission mit allen in der [Gourmet-Gilde] abschließen☆ Bitte kümmert Euch um die Dinge, während wir ein wenig weg sind!
+
+……と、おっしゃられたユースティアナ陛下が旅立ってはや５日。\n戻る様子もまるでなく……通信魔法の連絡も、プッツリ途絶えた……=...und so sind fünf Tage vergangen, seit Ihre Majestät Eustiana ihre Reise angetreten hat. Es gibt immer noch kein Zeichen ihrer Rückkehr... und die Kommunikationsmagie ist völlig verstummt...
+
+はぁああああああ……！　こんなの、こんなの……！\n陛下の身に何か起きたに決まっているじゃありませんことかしらっ！？\nわたくしもう居ても立ってもいられませんわー！！=Haaaaaa...! Das, das ist einfach...! Ihrer Majestät muss etwas zugestoßen sein, da bin ich mir sicher! Ich kann nicht mehr nur rumsitzen!!
+
+この忠実なるしもべ、クレジッタ・キャッシュが！　今！\n陛下をお助けに参りますっ！　夜なべして作成した\n二週間分の完ッッ璧な執務計画を秘書１号らに託したことですし！？=Dieser treue Diener, Creditta Cash, wird nun Ihrer Majestät zur Seite stehen! Ich habe der Sekretärin Nr. 1 einen perfekten Zwei-Wochen-Arbeitsplan anvertraut, der für diesen Anlass die ganze Nacht aufblieb!
+
+というわけで、お供１号、２号！\nいざ！　陛下捜しの旅路に参りますわよっ！！=Also, los geht's, Gefährten Nr. 1 und Nr. 2! Wir werden uns auf die Reise machen, um Ihre Majestät zu finden!
+
+ク、クレジッタさん、どーどー\n王女様たちのことッスから、無事だとは思うッス。\nあとお供１号って呼ばないでほしいッス。=C-Creditta-san, die Prinzessinnen sind wahrscheinlich okay, denke ich. Und bitte nennen Sie mich nicht Gefährte Nr. 1.
+
+私も２号ではないし、確かに王女たちは腕が立つ。\nそれに、クレジッタ殿。\n助けると言っても【美食殿】がどこにいるのか分かるのか？=Ich bin auch nicht die Nr. 2, und die Prinzessinnen sind sicherlich fähig. Außerdem, Creditta-sama, wisst Ihr überhaupt, wo die [Gourmet-Gilde] ist, wenn Ihr helfen wollt?
+
+勿論です。ギルド管理協会のクソ眼鏡から情報を引き出しましたわ。\n陛下たちは、北の洞窟で消息を断ったとのこと……\nしかも魔物が集まっていると。ああもう、何故そのような無茶を……！=Natürlich weiß ich das. Ich habe die Informationen aus der idiotischen Brille des Gildenverbandes entnommen. Es scheint, dass Ihre Majestät und die anderen in der nördlichen Höhle verschwunden sind... und dass sich dort Umgeheuer versammelt haben. Warum sollten sie etwas so Leichtsinniges tun...!
+
+なるほどな。魔物の巣窟ということならば、\n私も雇われたぶんは働けそうだ。\n道を切り開くのは任せろ！=Ich verstehe. Wenn es eine Monsterhöhle ist, dann sollte ich für das Geld arbeiten können, für das ich angestellt wurde. Überlass mir das Schneiden des Weges!
+
+自分もジュンさんに頼まれた以上は\n【王宮騎士団（NIGHTMARE）】としての使命を果たすッス！=Ich habe auch eine Mission als Nightmare zu erfüllen, da ich von Jun-san darum gebeten wurde!
+
+お二人とも、その意気やよしですわ。\nでは……さっそく北の洞窟へ出発いたしますわよー！=Ihr zwei habt so viel Mut. Dann ... lasst uns sofort zur nördlichen Höhle aufbrechen!
+
+ええええええええっ！？\nな、な、何ッスかここ！？\nさっきまで、洞窟の中にいたッスよね！？=Was? Wo sind wir jetzt?! Eben waren wir noch in der Höhle, nicht wahr?!
+
+むぅ……\nおかしな空間に呑まれたと思ったら、思わぬことになったな……！\n無事か、クレジッタ殿──=Hmmm... Ich dachte, wir wären von einem fremden Raum verschluckt worden, aber das kam unerwartet... Bist du in Ordnung, Creditta-sama?
+
+陛下ぁぁぁ～！？\nユースティアナ陛下ぁあああ～！？=Eure Majestät! Eure Majestät Eustiana!!
+
+あれ？　その声は……=Hmm? Diese Stimme ist...
+
+クレジッタさん！\nそれに、マツリちゃんとモニカさんも……！=Creditta-san! Und auch Matsuri-chan und Monika-san...!
+
+陛下ぁあああ～！！\nお捜ししておりましたわ～！！=Eure Majestät!! Wir haben Sie gesucht!
+
+早々に合流できて、幸運だったな。\nそれにしても……ここは一体？=Wir hatten Glück, dass wir uns so schnell wiedersehen konnten. Aber... wo genau sind wir?
+
+実はまだ、わたくしたちにもよく分からないのです。\n洞窟で魔物たちから逃げていたら、ここにたどり着いてしまって……=Um ehrlich zu sein, wissen wir das selbst noch nicht so genau. Wir waren auf der Flucht vor den Monstern in der Höhle und sind hier gelandet...
+
+それに迷い込んだのは、あたしたちだけじゃないみたいよ。\nほら……あっち。=Anscheinend sind wir nicht die Einzigen, die sich hierher verirrt haben. Schau mal da drüben.
+
+あ……っ！　魔物ッス！\nたしかにランドソルの近くにいっぱいいるやつらばっかりッスね。=Ah...! Das sind Ungeheuer! Das sind die gleichen, die in der Nähe von Landosol waren.
+
+はい。どうやら彼らも先ほどの洞窟を抜けてきたようです。\n勝手気ままに、この地を荒らし回っています。=Ja. Es scheint, dass sie vorhin auch aus der Höhle gekommen sind. Sie haben in dieser Gegend rücksichtslos herumgewütet.
+
+ちょっと放ってはおけないですよね～……\nなので、わたしたちはあの魔物たちを倒しながら、\nしばらくこの世界を探索するつもりです。=Wir können sie doch nicht einfach in Ruhe lassen, oder? Wir haben also vor, diese Welt zu erkunden und dabei eine Weile diese Monster zu besiegen.
+
+そういうことでしたら……！\n陛下、わたくしもお供いたします！\nランドソルより遥か彼方の地でも、わたくしの忠義は不変ですわ～っ！！=Wenn das so ist...! Eure Majestät, auch ich werde Euch begleiten! Selbst in einem Land weit jenseits von Landosol bleibt meine Loyalität unerschütterlich!
+
+ったく、相変わらず騒がしいわね。\nまーいいわ。ちょうど他のギルドにも声かけようと思ってたしね。\nさっさと周辺を探索していきましょ。=Meine Güte, du bist so laut wie immer. Na ja, egal. Ich hatte sowieso vor, mich an andere Gilden zu wenden. Lass uns schnell die Umgebung erkunden.
+
+はいっ！　ふふっ……\n新しい冒険って感じがして、ちょっとワクワクします☆\nレッツゴー☆=Ja! Hehe... es fühlt sich wie ein neues Abenteuer an, und ich bin ein wenig aufgeregt☆ Lass uns gehen☆

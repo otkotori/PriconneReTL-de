@@ -1,0 +1,2 @@
+限定ショップはクエストをクリアすると出現する場合があります。\nマナで装備などのアイテムを購入できるので\n欲しいアイテムがないかチェックしておきましょう。=Nach Abschluss eines Quests kann ein zeitlich begrenzter Shop erscheinen. Du kannst Artikel wie Ausrüstung mit deinem Mana kaufen, also sieh nach, ob du einen bestimmten Artikel haben möchtest.
+限定ショップが出現した後、さらにクエストをクリアすると\nアイテムが追加されることがございます。\n限定ショップは毎日05:00に閉じますのでお気をつけください。=Nachdem ein zeitlich begrenzter Shop erscheint, können weitere Quests abgeschlossen werden, um Artikel hinzuzufügen. Befristete Shop schließen jeden Tag um 05:00, also seien Sie bitte vorsichtig.
