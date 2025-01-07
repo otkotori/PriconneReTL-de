@@ -1,0 +1,15 @@
+料理所持数上限時のダイアログ表示=Maximale Anzahl der gehaltenen Gerichte
+料理が所持上限に達した場合、ダイスを振る前に確認ダイアログを表示するか設定します。=Wenn die maximale Anzahl der gehaltenen Gerichte erreicht ist, wählen Sie,\nob vor dem Würfeln ein Dialog angezeigt werden soll.
+マイルショップ利用の確認ダイアログ表示=Meilenshop-Nutzung
+利用可能なマイルショップが開いている場合、\nダイスを振る、または料理を食べる前に確認ダイアログを表示するか設定します。=Wenn der Meilenshop verfügbar ist, können Sie wählen, ob ein Dialog angezeigt werden soll, bevor\nSie würfeln oder ein Gericht essen.
+マイルガチャ利用の確認ダイアログ表示=Verwendung von Meilen-Gacha
+利用可能なマイルガチャが開いている場合、\nダイスを振る、または料理を食べる前に確認ダイアログを表示するか設定します。=Wenn das Meilen-Gacha verfügbar ist, können Sie wählen, ob ein Dialog angezeigt werden soll, bevor\nSie würfeln oder ein Gericht essen.
+
+表示されている編成は、すべてAUTO・SET設定で挑戦した編成です。=Alle gezeigten Formationen sind Formationsversuche mit den Optionen AUTO und SET.
+「まとめて３個」使用中の確認ダイアログ表示=Dialog, wenn „3 Artikel im Satz“ verwendet wird
+効果発動前の仲間が出現している場合、「まとめて３個」モードでダイスを振る前に確認ダイアログを表示するか設定します。=Wenn ein Verbündeter auftaucht, bevor der Effekt aktiviert wird, legen Sie fest, ob ein Dialog angezeigt\nwerden soll, bevor im Modus „Alle 3“ gewürfelt wird.
+キャラバンショップ購入回数設定=Anzahl der gekauften Caravanshops
+キャラバンショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。=Legen Sie beim Einkauf im Caravanshop fest, ob die Anzahl der Einkäufe das Minimum oder das Maximum ist.
+
+ミニゲームでスキップを選択したとき、確認ダイアログを表示するか設定します。=Wählen Sie im Minispiel 'Überspringen', um den Bestätigungsdialog\nanzuzeigen.
+ミニゲーム スキップの確認ダイアログ表示=Bestätigungsdialogs für das Überspringen von Minispielen

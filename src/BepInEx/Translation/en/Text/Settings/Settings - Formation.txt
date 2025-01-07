@@ -1,0 +1,7 @@
+編成設定=Formationsoptionen
+同じパーティ内に姿の違う、同名キャラを編成可能です。\n設定で同名キャラの編成を制限することもできます。=Stellen Sie sich vor, 5 Kyarus in den\nKampf bringen.
+既に仲間になっているキャラが、別の姿で\n仲間になりました！=Einige Charaktere haben verschiedene Versionen\nSie konnen, so dass Sie alle zusammenbringen können.
+
+同名キャラ編成=Gleichnamige Charaktere
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Legen Sie fest, ob Zeichen mit demselben Namen in derselben Partei verwendet werden können.
+編成可能=Kann gruppiert\nwerden

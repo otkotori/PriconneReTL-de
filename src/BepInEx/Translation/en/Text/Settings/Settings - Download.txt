@@ -1,0 +1,12 @@
+ダウンロード設定=Herunterladensoptionen
+データのダウンロードの設定を行います。\n※ゲーム開始後でも変更することができます。=Legen Sie den Datendownload fest.\n※Sie können ihn auch nach dem Start des Spiels ändern.
+■ムービー画質設定=■Filmqualität
+フルアニメーションによる演出をお楽しみいただけます。=Bildqualität von Anime im Spiel.
+r:"^高画質版（約([0-9,]+)MB）$"=HQ (±$1Mb)
+r:"^標準版（約([0-9,]+)MB）$"=Standard (±$1Mb)
+推奨=Empfehlung
+■ボイスデータダウンロード=■Sprachdaten herunterladen
+フルボイスによるストーリーをお楽しみいただけます。※ON/OFF設定はゲーム開始後、再設定可能です。=Genießen Sie eine vollständige Sprachgeschichte. Kann später ein- und ausgeschaltet werden.
+r:"^ON（約(\d+)MB）$"=EIN（±$1Mb）
+r:"^約(\d+)MBのデータダウンロードを開始します。$"=Es werden ca. $1Mb an Daten heruntergeladen.
+[FF7C4E,D62146]データサイズが大きいため通信環境の良いところでダウンロードを行ってください。[-]=[FF7C4E,D62146]Die Downloadgröße ist beträchtlich, daher wird das Herunterladen über WLAN empfohlen.[-]

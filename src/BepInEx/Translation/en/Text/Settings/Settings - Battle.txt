@@ -1,0 +1,72 @@
+バトル=Kampf
+スキルカットイン=Geschicklichkeitseinsatz
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=Wenn ihr „einmal pro Tag“ auswählt, werden die Cut-Ins jedes Chars auf\ndas erste Mal gesetzt, wenn er eine Fertigkeit an diesem Tag benutzt.
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。\nこの設定は次回バトルから反映されます。=Wenn du „einmal pro Tag“ auswählst, werden die Cut-Ins jedes Chars\nnur dann angezeigt, wenn er eine Fertigkeit zum ersten Mal an diesem Tag benutzt.\nDiese Option wird im nächsten Kampf angewendet.
+
+1日1回見る=Einmal pro Tag
+
+フレームレート（fps）=Bildfrequenz
+バトル中のフレームレート（fps）の設定です。設定は次回のバトルから反映されます。=Legt die Blidfrequenz während des Kampfes fest.
+
+消費電力を抑えられます=Reduzierung des Stromverbrauchs.
+高=Hoch
+標準=Normal
+バトルアリーナ＆プリンセスアリーナスキップ=Kampfarena/Prinzessinnen-Arena übersprung
+バトルアリーナとプリンセスアリーナでパーティ決定直後にスキップを行うか設定します。=Überspringt die Kampfarena oder Prinzessinnen-Arena.
+両方スキップ=Beide überspringen.
+
+特定のキャラのユニオンバースト速度設定=UB-Geschwindigkeitsoption für Prifes.
+
+特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」・\n「シェフィ（プリンセス）」です。=Legen Sie die UB-Animationsgeschwindigkeit für Prifes-Zeichen fest.\n※Ziel ist: Pecorine(Prinzessin)・Kokkoro(Prinzessin)・Yui(Prinzessin)・Hiyori(Prinzessin)・\nKyaru(Prinzessin)・Rei(Prinzessin)・Sheffy(Prinzessin)
+
+高速=Hohe Geschwindig.
+クランバトル開始前の確認ダイアログ=CK-Startbestätigung
+クランバトルの挑戦回数を消費してバトルを開始する前に、確認ダイアログを開きます。\n※持越し時間を消費してバトルを開始する場合、確認ダイアログは必ず開きます。=Zeigt eine Bestätigungsaufforderung an, bevor eine Clankampf unter Verwendung\nvon Versuchen oder übrig gebliebener Zeit gestartet wird.
+
+クランバトル 編成アラート=CK-Partei-Alarm
+本戦バトルを開始する前に、編成キャラ数が5キャラ未満の場合、アラートを表示します。=Wenn die Anzahl der Zeichen in einer Gruppe weniger als 5 beträgt, wird eine Warnmeldung angezeigt.
+
+クランバトル バトル速度の上限設定=CK-Geschwindigkeitsbegrenzung
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。=Option zur Anpassung der Geschwindigkeit in Trainingskämpfen für CK.
+倍速=2-fach
+4倍速=4-fach
+
+クランバトル バトル速度設定の確認ダイアログ=CK-Bestätigungsaufforderung für Kampfgeschwindigkeit
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Bestätigung der Optionen für die Gefechtsgeschwindigkeit beim CK-Training.
+
+ルナの塔バトル開始前の確認ダイアログ=Luna-Turm Bestätigungsaufforderung
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Bestätigung der Kampfgeschwindigkeitsoptionen für Clankampf.
+
+ルナの塔 バトル速度の上限設定=Luna-Turm-Geschwindigkeitsbegrenzung
+ルナの塔において、バトル速度の上限を設定できます。=Optionen zur Anpassung der Geschwindigkeit in Luna-Turm.
+
+ルナの塔 スキップ確認ダイアログ=Luna-Turm Bestätigungsaufforderung überspringen
+ルナの塔において現在の階層がスキップ可能な場合、確認ダイアログを開きます。=Öffnet eine Bestätigungsaufforderung, wenn der aktuelle Level in Luna-Turm übersprungen werden kann.
+
+マルチターゲット演出=Mehrziel-Animation
+マルチターゲットのモンスターが登場するバトルを開始した際の演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回挑戦時のみ表示されます。=Ob der Effekt bei Monstern mit mehreren Zielen angezeigt werden soll oder nicht.
+
+クイックスタート機能使用時の確認ダイアログ=Schnellstart-Bestätigungsaufforderung
+クリアパーティ一覧画面でクイックスタート機能を使用するときに、確認ダイアログを開きます。=Öffnet eine Bestätigungsaufforderung, wenn Sie die Schnellstartfunktion in der Teilnehmerliste\nlöschen verwenden.
+
+バトルのAUTO・SET・SPEED=AUTO, SET, SPEED im Kampf
+
+全般=Allgemein
+バトルのAUTOとSETとSPEEDの設定です。\n「引き継ぐ」に設定するとバトル中に変更したAUTO・SET・SPEEDの設定を引き継ぎます。\n※AUTOとSETとSPEEDを個別に引き継ぎ設定はできません。=Mit „Umschalten“ werden die während des Kampfes geänderten Optionen für AUTO, SET und SPEED\nübernommen. ※AUTO, SET und SPEED können nicht einzeln übernommen werden.
+
+属性ボーナス演出=Elementar-Bonusstufe
+バトルを開始した際の属性ボーナス演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回属性ボーナス時のみ表示されます。=Diese Option legt fest, ob Elementar-Bonus-Effekt angezeigt werden sollen, wenn ein Kampf begonnen\nwird. Wenn Sie „Einmal pro Tag“ einstellen, wird er nur angezeigt, wenn der erste Elementar-Bonus\nproTag erhalten wird.
+
+引き継がない=Nicht umschalten
+引き継ぐ=Schalten
+
+ルナの塔バトルの本戦を開始する前に、確認ダイアログを開きます。=Vor dem Start eines Luna-Turm eine Sicherheitsabfrage anzeigen.
+
+ルナの塔 バトル速度設定の確認ダイアログ=Luna-Turm Bestätigungsaufforderung für Kampfgeschwindigkeit
+
+ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=Öffnet ein Dialogfeld, in dem Sie Ihre Optionen für die Kampfgeschwindigkeit bestätigen können.
+
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。\n設定は次回のバトルから反映されます。=Sie können die Obergrenze für die Kampfgeschwindigkeit im Scheinkampf des Clan-Kampfes festlegen.\nDie Optionen werden ab dem nächsten Kampf übernommen.
+
+★設定の保存についての確認=Bestätigungsaufforderung zum Speichern ★-Stufe
+マイパーティやアリーナの防衛設定で編成を保存した時と今の★の数の設定が異なる場合、確認ダイアログ\nを表示するか設定します。=Legen Sie fest, ob eine Bestätigungsaufforderung angezeigt werden soll, wenn sich die aktuelle Option\nfür die Anzahl der ★ ist von der unterscheidet, als die Gruppe in den Optionen für Meine Gruppe oder\nArena-Verteidigung gespeichert wurde.

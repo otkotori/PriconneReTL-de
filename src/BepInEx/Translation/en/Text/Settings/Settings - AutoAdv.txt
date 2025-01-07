@@ -1,0 +1,85 @@
+オートで次のクエストへ進行！=Erreiche die nächste Quest mit „Auto“!
+オート進行=Autofortschritt
+スキップチケットを使ってクエストをスキップ!=Überspringen Sie die Quest mit einem Skip-Ticket!
+オート進行設定中=AF-Optionen
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Mein Herr, der Autofortschritt ist jetzt verfügbar. Autofortschritt kann in Ereignisquests verwendet werden, die noch nicht abgeschlossen sind. Quest-Erfassung wird bequem sein, so lassen Sie uns es sofort verwenden.
+
+停止する=Stopp
+停止しない=Nicht
+合計消費スタミナ=Ausdauerverbrauch
+オート進行設定=Autofortschrittsoptionen
+使用しない=Nicht verwenden
+回復なしで開始=Start ohne Erholung
+sr:"^(メイン|イベント)クエスト(.+)まで進めるには、スタミナ回復が必要です。$"=Um zu den $1-Quests $2 zu gelangen, müssen Sie Ihre Ausdauer wiederherstellen.
+
+sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=Wenn du die $1quest $2 mit Autofortschritt machst,\nverbrauchst du maximal die folgende Ausdauer.
+プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=Wenn der Spieler-St hochgefahren wird oder spezielle Inhalte\nveröffentlicht werden, kann der Autofortschritt anhalten.
+オート進行中にユニオンバーストを使用するか設定します。=Legen Sie fest, ob bei der Autofortschritt der Union Burst verwendet werden soll.
+オート進行中のユニオンバースト使用設定=Union Burst-Nutzung
+イベントストーリー解放時にオート進行を停止するか設定します。=Legen Sie fest, ob der Autofortschritt gestoppt werden soll, wenn die Ereignisgeschichte ausgelöst wird.
+イベントストーリー解放時のオート進行停止設定=Autofortschrittssuspension, wenn das Ereignisgeschichte freigegeben
+オート進行設定中はサポートキャラを編成できません。=Im Modus „Autofortschritt“ kann kein Hilfscharakter ausgewählt werden.
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Möchten Sie den Autofortschritt stoppen?\n※Der gesamte Ausdauerverbrauch während des Autofortschritts wird nicht berücksichtigt.
+敗北のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Aufgrund der Niederlage wurde der Autofortschritt ausgesetzt.\n※Der folgende Ausdauerverbrauch wurde nach diese Fortschritte durchgeführt. Der gesamte Ausdauerverbrauch während des Autofortschritts wird nicht berücksichtigt.
+スタミナ不足のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Das Autofortschritt wurde wegen unzureichender Ausdauer gestoppt.\nDie folgende Ausdauer wurde während diese Fortschritte verbraucht. Ausdauer, die bei einem Rückzug oder einer Niederlage verbraucht wird, ist nicht enthalten.
+
+☆3クリア未達成のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Der Autofortschritt wurde gestoppt, da keine 3☆ erreicht wurde.\nDie folgende Ausdauer wurde während diese Fortschritte verbraucht. Ausdauer, die bei einem Rückzug oder einer Niederlage verbraucht wurde, ist nicht enthalten.
+
+クエストクリア数=Beendete Quest
+オート進行停止=Autofortschrittssuspension
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Der Autofortschritt wurde beendet. Die folgende Ausdauer wurde während diese Fortschritte verbraucht.\n※Der gesamte Ausdauerverbrauch während des Autofortschritts wird nicht berücksichtigt.
+オート進行終了=Autofortschritt-Ende
+オート進行報酬一覧=Liste der Autofortschrittsbelohnungen
+[FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Artikel, die die Obergrenze des Besitzes überschreiten,\nwurden an die Geschenkbox geschickt.[-]
+サブストーリー=Untergeschichte
+メインストーリー解放=Hauptgeschichte freischalten
+信頼度エピソード=Intimität-Folgen
+サブストーリー解放=Untergeschichte freischalten
+r:"^イベントストーリーが\n(\d+)[つ個]解放されました。$"=$1 Ereignisgeschichten\nwurde freigeschaltet.
+r:"^メインストーリーが\n(\d+)[つ個]解放されました。$"=$1 Hauptgeschichten\nwurden freigeschaltet.
+r:"^サイドストーリーが\n(\d+)[つ個]解放されました。$"=$1 Seitengeschichten\nwurden freigeschaltet.
+r:"^サブストーリーが\n(\d+)[つ個]解放されました。$"=$1 Untergeschichten\nwurden freigeschaltet.
+r:"^信頼度エピソードが\n(\d+)[つ個]解放されました。$"=$1 Intimitäts-Folgen\nwurde freigeschaltet.
+
+イベントストーリー解放=Ereignisgeschichte freischalten
+限定ショップにアイテムが\n追加されました。=Dem begrenzten Shop hat ein Artikel hinzugefügt.
+オート進行解放コンテンツ一覧=Liste der Autofortschritt-Freischaltinhalte
+キャラクターストーリー解放=Charaktergeschichte freischalten
+sr:"^([べ-ヺー＆＝]+)の\n絆ランクが(\d+)になりました。$"=$1\nDie Anleihe hat den Rang $2.
+
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Um spezielle Inhalte freizuschalten, wurde der Autofortschritt gestoppt.\n※Der folgende Ausdauerverbrauch wurde durch diesen Autofortschritt ausgeführt.\n※Ausdauer, die bei einem Rückzug oder einer Niederlage verbraucht wurde, ist nicht enthalten.
+エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Endbereich erreicht und Autofortschritt ist beendet. Die gesamte Ausdauer, die durch diesen Fortschritt verbraucht wurde.\n※Für Rückzüge und Niederlagen verbrauchte Ausdauer wird nicht berücksichtigt.
+
+最小=Min.
+最大=Max.
+自動選択する=Auto-Auswähl
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Wählen Sie beim Auto-abspielen der Geschichte aus, ob eine Auswahl automatisch ausgewählt werden soll, wenn mehrere Auswahlmöglichkeiten angezeigt werden.\nWenn Sie „Automatisch auswählen“ wählen, wird automatisch die oberste Auswahl ausgewählt.\nWenn Sie „Nicht automatisch auswählen“ wählen, wird das automatische Abspielen angehalten, wenn mehrere Auswahlmöglichkeiten angezeigt werden.\n※Wenn nur eine Auswahlmöglichkeit angezeigt wird, wird diese unabhängig von der Option automatisch ausgewählt.
+ストーリーのオート再生設定=Automatische Wiedergabe von Geschichten
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Legen Sie die Standardmenge an Überspringenstickets fest, die für eine Quest mit begrenztem\nVersuch verwendet werden soll.
+挑戦回数上限設定=Sprungbetrag
+自動選択しない=Nicht automa. auswählen
+
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないメインクエストで使用できます。=Mein Herr, der Autofortschritt ist jetzt verfügbar. Autofortschritt kann in der Hauptquest verwendet werden, die noch nicht abgeschlossen ist.
+オート進行中の各条件は主さまお好みの設定ができるようです。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Jede Bedingung während der Autofortschritt scheint in der Lage zu sein, Ihre Lieblings-Main setzen. Quest-Erfassung wird bequem sein, so lassen Sie uns es sofort verwenden.
+
+クエストクリアごとの最大消費マナ=Quest-Mana-Verbrauch
+最大消費マナ=Max. Mana-Verbrauch
+r:"^プレイヤーLv(\d+)以下は実際に消費するマナが上記より少ない場合があります。$"=Spieler mit St.$1 oder niedriger können sogar weniger Mana verbrauchen als die oben genannten.
+マナが不足した場合、オート進行が停止します。=Wenn das Mana nicht ausreicht, wird der Autoforschritt gestoppt.
+オート進行停止条件設定=Autofortschrittsstopp
+オート進行が停止する条件を設定します。\n選択した停止条件に該当しない難易度の場合は、エリアの最終クエストクリアでオート進行が停止します。=Legen Sie die Bedingungen für das Anhalten des Autoforschritts fest. Im Falle von Schwierigkeitsgraden, die nicht unter die ausgewählten Stoppbedingungen fallen, wird der Autoforschritt durch das Lösen der letzten Quest in dem Gebiet gestoppt.
+
+スタミナが不足するまで=Bis zum Ende der Ausdauer
+BOSS出現クエスト直前=Bevor der BOSS
+ストーリー解放時=Geschichte freischalten 
+☆3クリア未達成時の停止設定=Stoppen, wenn das 3☆ nicht erreicht
+☆3クリアが出来なかった場合にオート進行を停止するか設定します。=Einstellen, um den Autoforschritt zu stoppen, wenn er nicht kann 3☆ erreichen.
+スタミナが不足するまでクエストをオートで進行します。オート進行中に回復したスタミナも消費します。=Die Quest schreitet automatisch voran, bis ihr keine Ausdauer mehr habt. Außerdem verbraucht sie Ausdauer, die ihr während des Autofortschritts zurückerhaltet.
+特別なコンテンツが解放された場合、オート進行が停止する場合があります。=Stoppen Sie den Autoforschritt, wenn spezielle Inhalte freigeschaltet sind.
+バトル中のボス会話をスキップするか設定します。=Überspringen Sie das Gespräch mit dem Boss im Kampf oder stellen Sie es ein.
+ボスバトル時会話のスキップ設定=Überspringen der Gespräch bei Bosskämpfen
+
+オート進行中サポート確認=Autoforschritt Support-Bestätigung
+オート進行中は2戦目以降も\n選択したサポートキャラが\n編成されます。=Während des Autoforschritts wird der\nausgewählte Unterstützungscharakter organisiert,\nauch nach dem zweiten Kampf.
+特殊なコンテンツが解放された場合、オート進行が停止する場合があります。=Stoppen Sie den Autoforschritt, wenn spezielle Inhalte freigeschaltet sind.
+プレイヤーLvアップのためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Autofortschritt wurde angehalten, weil das Spieler-St gestiegen ist. Der folgende Ausdauerverbrauch wurde aufgrund dieses Autofortschritts durchgeführt.\n※Der gesamte Ausdauerverbrauch während des Autofortschritts wird nicht berücksichtigt.

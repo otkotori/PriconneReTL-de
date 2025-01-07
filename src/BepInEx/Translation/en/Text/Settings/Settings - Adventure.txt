@@ -1,0 +1,6 @@
+アドベンチャーで、同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Legen Sie fest, ob Zeichen desselben Namens in der gleichen Gruppe bei Abenteuer verwendet\nwerden können.
+アドベンチャー同名キャラ編成=Hinzufügen von Charakteren mit demselben Namen im Abenteuer
+アドベンチャー完了通知=Abschluss des Abenteuers
+アドベンチャーが完了したときに通知します。=Benachrichtigen Sie, wenn das Abenteuer abgeschlossen ist.
+アドベンチャー周回完了通知=Abschluss einer Abenteuerrunde
+繰り返し設定をしたアドベンチャーが完了したときに通知します。=Benachrichtigen Sie, wenn das wiederholte Abenteuer abgeschlossen ist.

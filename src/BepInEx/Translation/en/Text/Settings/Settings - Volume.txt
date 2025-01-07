@@ -1,0 +1,8 @@
+音量=Ton
+
+各種音量とミュートの設定は、ムービーにも適応されます。=Die Optionen für Lautstärke und Stummschaltung werden auch auf Videos angewendet.
+
+※音量の初期設定値はすべて「7」です。=※Die Lautstärke sind standardmäßig auf 7 eingestellt.
+
+効果音=SFX
+ボイス=Stimme

@@ -1,0 +1,35 @@
+EX装備ショップアイテム表示順=Ex-Ausrüstung Shop Artikel-Auftrag
+EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Legen Sie fest, ob die im EX-Ausrüstungsladen verkauften Artikel in aufsteigender Reihenfolge der\nMenge des Besitzes oder in absteigender Reihenfolge der Seltenheit angezeigt werden sollen.
+
+アドベンチャーおまかせ編成=Abenteuer-Autogründung
+おまかせ編成時に、重視する内容を設定できます。=Sie können festlegen, auf welches Bild der Fokus gelegt werden soll, wenn Sie „Zufällig“ wählen.
+
+「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。=Im Fall von „Erforderliche Stärke“ werden die Mädchen so organisiert, dass die benötigte Energie zum Starten des Abenteuers minimiert wird.
+「時間短縮重視」の場合、編成可能なキャラのうち、戦力の高い順に編成可能上限まで編成します。=Im Fall von „Zeitreduzierung“ werden die Mädchen in absteigender Reihenfolge ihrer Kampfkraft eingeteilt.
+
+「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。\n\n「時間短縮重視」の場合、編成可能なキャラのうち、\n戦力の高い順に編成可能上限まで編成します。=Im Falle von „Erforderliche Stärke“ werden die Mädchen so organisiert, dass die zum Starten des Abenteuers benötigte Kraft so gering wie möglich ist.\n\nIm Falle von „Zeitreduzierung“ werden die Mädchen in absteigender Reihenfolge der Kampfkraft organisiert.
+
+必要戦力重視\n（最小戦力）=Erforderliche Stärke\n(Mindestleistung)
+
+時間短縮重視\n（最大戦力）=Zeitreduzierung\n(Max. Leistung)
+
+EX装備選択を閉じる際の確認ダイアログ=Dialog beim Schließen der Ex-Ausrüstungsuswahl
+
+EX装備選択で変更を反映せずに閉じる際に、確認ダイアログを表示するか設定します。=Legen Sie fest, ob ein Dialog angezeigt werden soll, wenn Sie das Programm schließen, ohne die Änderungen\nan der EX-Ausrüstung zu übernehmen.
+
+EX装備上限解放の確認ダイアログ=Freischaltung der Obergrenze von Ex-Ausrüstung
+EX装備を上限解放する際に、消費アイテムを確認するダイアログを開きます。=Öffnen Sie einen Dialog für Verbrauchsgütern, wenn Sie die Grenzwertunterbrechung\nvon EX-Ausrüstung freischalten.
+
+EX装備強化の確認ダイアログ=Erweiterung des Ex-Ausrüstungs
+EX装備を強化する際に、消費アイテムを確認するダイアログを開きます。=Öffnen Sie beim Erweitern von Ex-Ausrüstungen den Dialog, um die Verbrauchspositionen zu überprüfen.
+
+EX装備消費時のアラート表示設定=Warnanzeige, wenn das Ex-Ausrüstung verbraucht ist
+EX装備を消費する際に、アラート表示をするレアリティ条件を設定します。=Legen Sie die Seltenheitsbedingung so fest, dass beim Verbrauch von Ex-Ausrüstung eine\nWarnung angezeigt wird.
+★3以上=+3★
+★4以上=+4★
+
+EX装備ショップ購入回数設定=EX-Ausrüstungshop Einkauf-Menge
+EX装備ショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。=Beim Kauf im EX-Ausrüstungsshop können Sie die Kaufmenge\nentweder auf den Mindest- oder den Höchstwert festlegen.
+
+マスターショップ購入回数設定=Meistershop-Einkaufsmengen
+マスターショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。\n※マスターピースは対象外です。=Legen Sie beim Einkauf im Meistershop fest, ob die Mindest- oder die Höchstzahl der Einkäufe verwendet\nwerden soll. ※Meisterstücken sind nicht enthalten.

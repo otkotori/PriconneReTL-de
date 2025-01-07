@@ -1,0 +1,25 @@
+※この設定は後から［設定］で変更できます。=※Diese Option kann später geändert werden.
+※この設定は後から[設定]で変更できます。=※Diese Option kann später geändert werden.
+この設定は後から［設定］で変更できます。=Diese Option kann später\nunter [Optionen] geändert werden.
+[FF7C4E,D62146]この設定は後から［設定］で変更できます。[-]=[FF7C4E,D62146]Diese Option kann später unter [Optionen] geändert werden.[-]
+今後このメッセージを表示しない\n※この設定は後から[設定]で変更できます。=Diese Meldung darf in Zukunft nicht mehr angezeigt werden.\n※Diese Option kann später unter [Optionen] geändert werden.
+
+設定変更を適応するためにアプリの再起動が必要になります。=Sie müssen die App neu starten, um die Optionsänderungen zu übernehmen.
+演出設定=Richtungsoptionen
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\n※この設定は後から【設定】で変更できます。=Legen Sie den Effekt fest, wenn Sie 3★ Charaktere im Gacha erhalten, und den Charaktereffekt auf Start. Diese Option kann später in [Optionen] geändert werden.
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\\n\n※この設定は後から【設定】で変更できます。=Legen Sie den Effekt fest, wenn Sie 3★ Charaktere im Gacha erhalten und den Charaktereffekt auf Start.\nDiese Option kann später in [Optionen] geändert werden.
+
+ガチャの★3キャラ獲得時の演出設定=Download-Leiste für 3★ Zeichen aus Gacha
+★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Einstellung „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
+★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Einstellung „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
+リッチ版=Animierte
+
+マイページのキャラ演出設定=Grafikanimation auf Start
+マイページのキャラ演出設定です。\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。=Bei „Animiert“ wird ein Balken zum Herunterladen von Daten angezeigt, wenn Sie das\nangezeigte Zeichen ändern.
+マイページのキャラ演出設定です。\\n\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。=Bei „Animiert“ wird ein Balken zum Herunterladen von Daten angezeigt, wenn Sie das\nangezeigte Zeichen ändern.
+
+リッチ版演出データの保存設定=Animierte Grafik speichern
+ダウンロードしたリッチ版演出データを保存するか設定します。\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Wenn Sie sie nicht speichern, werden die Daten jedes Mal gelöscht und neu heruntergeladen.
+ダウンロードしたリッチ版演出データを、端末に保存するか設定します。\\n\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Wenn Sie sie nicht speichern, werden die Daten jedes Mal gelöscht und neu heruntergeladen.
+保存する=Speichern
+保存しない=Nicht speichern

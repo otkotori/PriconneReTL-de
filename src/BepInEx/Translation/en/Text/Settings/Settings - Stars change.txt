@@ -1,0 +1,5 @@
+パーティ呼び出し時の★変更確認=Bestätigung der ★ Änderung bei der Auswahl einer Partei
+パーティ呼び出し時の★変更のチェックボックス=Bestätigung der ★ Änderung Kontrollkästchen
+パーティ呼び出し時に★の設定が異なるキャラがいる場合、確認ダイアログを表示するか設定します。=Wenn bei der Verwendung einer voreingestellten Partei ein Zeichen mit einer anderen ★-Option vorhanden\nist, wird ein Bestätigungsdialog angezeigt.
+
+パーティ呼び出し時に★の設定が異なるキャラがいる場合に表示される確認ダイアログのチェックボックス\n「選択したパーティの★に変更する」の初期値を設定します。\n※パーティ呼び出し時の★変更確認の設定が「表示しない」の場合もこの設定で呼び出します。=Stellen Sie den Anfangswert des Kontrollkästchens im Bestätigungsdialog, der angezeigt wird, wenn beim\nAnrufen des Teilnehmers ein Zeichen mit einer anderen ★-Option vorhanden ist,\nauf „Zum ★ des ausgewählten Teilnehmers wechseln“ ein.\n※Diese Option wird auch verwendet, wenn die Bestätigung zum ändern des ★ beim Anrufen des\nTeilnehmers auf „Nicht anzeigen“ eingestellt ist.

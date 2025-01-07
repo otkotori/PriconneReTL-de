@@ -1,0 +1,13 @@
+ルナの塔 通常階＆ボス階バトルスキップ=Luna-Turm Normaler Boden & Boss-Boden Kampf überspringen
+ルナの塔の通常階とボス階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Einstellen, ob der Gruppenauswahlprozess auf den normalen\nund Boss-Etagen des Luna-Turms sofort nach der Entscheidung übersprungen werden soll.\n※Während des Überspringens werden Kämpfe automatisch mit „AUTO“ ausgeführt.
+通常階=Normale Stockwerke
+ボス階=Boss-Stokwerk
+ルナの塔 回廊探索＆EX階バトルスキップ=Luna-Turm Phantompassage-Suche & EX-Bodenkampf überspringen
+ルナの塔の回廊探索とEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Du kannst einstellen, ob die Gruppenauswahl in der Phantompassage\nund den EX-Boss-Etagen des Luna-Turms sofort nach der Entscheidung übersprungen werden soll.\n※Während des Überspringens werden die Kämpfe automatisch mit „AUTO“ ausgeführt.
+EX階=EX-Stokwerk
+ルナの塔 バトルスキップ完了後のスキップ確認ダイアログ表示=Luna-Turm Kampfsprung nach beendigung der Skip-Check-Dialoganzeige
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時に確認ダイアログを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Anzeige eines Bestätigungsdialogs bei der Auswahl von\n„Kämpfe überspringen“ im Dialogfeld nach dem Kampf im Luna-Turm.\n※Das Dialogfeld wird auf der Boss-Etage nicht angezeigt.
+ルナの塔 バトルスキップ完了後のリタイア確認ダイアログ表示=Bestätigungsdialog nach Abschluss der Luna-Turm-Schlacht beenden Überspringen
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時にリタイアを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Anzeige der Option „Zurückziehen“ bei der Auswahl von „Überspringen“\nm Dialogfeld, das nach dem Überspringen von Kämpfen im Luna-Turm angezeigt wird.\n※Das Dialogfeld wird auf Boss-EX-Etagen nicht angezeigt.“
+ルナの塔 バトルスキップ確認ダイアログ表示=Luna-Turm Kampfsprung-Bestätigungsdialog
+ルナの塔にてバトルスキップを押したときに、確認ダイアログを表示するか設定します。=Wenn Sie im Luna-Turm auf „Kampf überspringen“, stellen Sie\nden Bestätigungsdialog ein.
