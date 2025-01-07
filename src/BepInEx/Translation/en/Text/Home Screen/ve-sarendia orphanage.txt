@@ -1,0 +1,82 @@
+~3
+~1
+
+Ayane
+お兄ちゃん、お誕生日おめでと♪\nぷうきちからも\nプレゼントがあるみたいだよ！\nいっぱいもらえて、いいな～！=Happy Birthday, Onii-chan♪\nYou're getting a present from both me and Pukichi!\nMust be nice to get so many!
+ハッピーバースデー♪\nぷうきちも、\nお兄ちゃんのお祝いしたいって！\n３人でパーティーしよっ！=Happy Birthday!\nPukichi also wants to celebrate with Onii-chan! Let's have a party with the three of us!
+
+
+AyaneEx
+『誕生日おめでとう坊ちゃん！』\nあー私が先に言いたかったのに～\n『ああ、す、すまん…！　\n旅先でつい浮かれちまった…』=Happy Birthday to you, My Lord~! Ah-, I wanted to say it first~ but...ahh, I-I'm sorry... I got a bit too carried away on the trip...
+ハッピーバースデーお兄ちゃん！\nお兄ちゃんはね、私のお守りなの\nだからこれからもそばにいて\n私の冒険を見守ってね♪=Happy Birthday, Onii-chan!\nYou are my protector, so please stay by my side and watch over my adventures from now on♪
+
+
+AyaneX
+お誕生日おめでとう！\nバースデーケーキは、\nぷうきちの形で作ってみたよ！\nダメっ、そっちは本物だよー！=Happy Birthday!\nI tried making a birthday cake in the shape of Pukkichan!\n...No, that one is the real thing!
+お兄ちゃん、誕生日おめでとー！\n大切な日を家族みたいに\n一緒に過ごせてうれしいな！\nぷうきちも喜んでるよ！=Happy Birthday, Onii-chan♪\nIt's so nice to spend the day with you like we're real family!\nPukichi's super happy as well!
+
+
+Kurumi
+お兄ちゃん、お誕生日…\nお、おめでとうございますっ！\nきょ、今日はその…\nい、一緒にお祝いしたいですぅ…=Onii-chan, congratulations on your birthday!\nI-I, um... want to celebrate with you today...
+おお、お誕生日…\nおめでとうございますぅ…！\nわわ、私からのプレゼント…\nもらって…くれますか…？=Oh, happy birthday... Happy Birthday...!\nWow, would you accept... a present from me...?♪
+
+
+KurumiSt
+お祝いの気持ちを込めて\nささやかだけどこの花を贈ります\nお兄ちゃん、お誕生日\nおめでとうございます…♪=As a way to congratulate you... Here! Even though it's small, it's a flower for you, Onii-chan!\nHappy Birthday...♪
+観客はお兄ちゃんだけだけど…\nお誕生日祝いのお芝居、\n見てくれますか…？\nえへへ、心を込めて演じますね♪=Although my only audience is Onii-chan... Will you watch my birthday performance? I'll perform with all my heart! Ehehe♪
+
+
+KurumiX
+お誕生日おめでとうございますぅ\nいい子にしてたお兄ちゃんに\nプ、プレゼントを用意しました…\n靴下の中を見てみてください…♪=H-happy birthday! I'll celebrate with Onii-chan the best I can. Hopefully it's enough to make Onii-chan happy.
+お兄ちゃん、お誕生日…\nお、おめでとうございますぅ…！\n私なりに一生懸命お祝いするから\nよ、喜んでくれると嬉しいです…♪=Happy Birthday, Onii-chan...oh, happy birthday...! I'll do my best to celebrate in my own way, so I hope you'll be happy...
+
+
+Saren
+誕生日だったわね？\nお祝いに遊びに行くわよ\nこんな日くらいはしっかり休んで\nたまには楽しみましょ♪=It's your birthday, right?\nThen let's take the day off and have some fun. Days like this are meant to be enjoyed!
+ハッピーバースデー♪\n救護院のみんながプレゼントを\n選んだわ。もちろんあたしもね\nありがたく受け取りなさい！=Happy Birthday♪ Here's a present from everyone at the orphanage. Myself included, of course.\nI hope you'll accept it!
+
+
+SarenNY
+誕生日を一緒に過ごす\n特別な相手に、あたしを\n選んでくれたってことかしら\nふふっ、ありがとうね…=I guess that means you chose me as your special partner for your birthday.\nHehehe, thank you very much...
+お誕生日おめでとう！\nうん、いい顔してるわね\nこれからの一年も\nきっといいことがあるわ♪=Happy Birthday!\nYeah, you're making a good face. I'm sure something good will happen to you for the next year♪
+
+
+SarenS
+誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね=Happy Birthday!\nHow about we have a little birthday party together, just the two of us? Just kidding.
+誕生日おめでとう♪\n救護院のみんなもあんたの\n誕生日を祝いたがってるから\n楽しみにしてなさいね！=Happy Birthday♪\nEveryone at the orphanage wants to celebrate your birthday, so please look forward to it!
+
+
+SarenSal
+いつもは子どもたちと一緒だけど\n今日はあたしに最初に祝わせて\n誕生日おめでとう。その…ずっと\nそばに居てくれて、ありがとうね=I'm usually with the kids, but today's the first day you let me celebrate with you. Umm... Thank you for always being by my side.
+誕生日おめでとう\nあんたのためにごちそうを作って\n待ってたのよ。ほら早く♪\n熱いうちが美味しいんだから！=Happy Birthday, I waited for you to come and made a feast to celebrate. ...Come on, hurry up!\nIt's delicious while it's hot!
+
+
+SarenX
+ええと…誕生日おめでとう\nこれから一緒にプレゼントを\n見に行かない？\nデ、デートじゃないわよ、もう！=Umm... Happy Birthday!\nOh, why don't we go look for a present for you together?\nI-It's not a date, geez!
+ハッピーバースデー！\n子どもたちからあんたに\nプレゼントがあるみたい\nあたしも…一応用意してあるわ=Happy Birthday!\nLooks like the kids have a present for you.\nI've also prepared one for you, too.
+
+
+AkinoSaren (Saren)
+誕生日おめでとう\nあんたのおかげで\nもっと仲良くなれたから\n二人でお祝いさせてもらうわね♪=Happy Birthday!\nThanks to you, we have become even more closer, so let's celebrate together♪
+誕生日おめでとう♪\n今日はアキノさんと二人で\nお祝いしてあげるわ\nほら、いきましょう？=Happy Birthday♪\nToday, Akino and I will\ncelebrate with you.\nCome on, let's go!
+
+
+Suzume
+お誕生日おめでとうございます♪\n今日だけは普通の女の子として\nあなたのお祝いをしちゃ、\nダメ…ですか？=Happy Birthday♪\nJust for today, may I celebrate together with you as a girl?
+お誕生日、おめでとうございます\nケーキをご用意しました！\nこ、転ばないように、\nそーーーっと持っていきますね=Happy Birthday! I baked you a cake to celebrate!\nI-I'll carry it over nice and safely, okay?
+
+
+SuzumeNY
+今日はあなたのお誕生日ですよね\nおめでとうございます！\nこれから良い一年を過ごせる\nおまじないをかけちゃいますね♪=Today is your birthday, isn't it? Happy Birthday! I'm going to cast a good luck charm that will give you a good year♪
+お誕生日おめでとうございます！\n私もあなたにプレゼントを…\nって、あれ…？　ない！？\nわ、忘れちゃいましたぁ…！=Happy Birthday!\nI'll give you a present too...\nHuh...? No!? I-I forgot...!
+
+
+SuzumeS
+お誕生日おめでとうございます♪\n今日は特別に、あなただけに\nお仕えさせてください\nえへへ、お嬢さまには内緒ですよ=Happy Birthday♪\nPlease allow me to serve you just for today. Ehehe, please don't tell milady about this♪
+お誕生日おめでとうございます♪\nクリームとおっきな苺を乗せた\nかき氷ケーキを召し上がれっ\nあわわ、溶けかけてる～！=Happy Birthday♪ Have a shaved ice cake with cream and lots of big strawberries on top!\n...Awawa, it's melting!
+
+
+SuzumeSp
+今日は、特別な日…\nあなたのお誕生日ですから\n日頃の感謝と私の気持ちを込めた\n特別な花でお祝いさせてください=Today is a special day... It's your birthday, so please allow me to congratulate you with flowers filled with my gratitude and feelings.
+お誕生日おめでとうございます！\n今から、お花に囲まれてのお茶会\nなどいかがでしょう？　精一杯\nお祝いさせていただきます♪=Happy Birthday!\nWhy don't we have a tea party surrounded by flowers together?\nI'll do my best to celebrate♪
+

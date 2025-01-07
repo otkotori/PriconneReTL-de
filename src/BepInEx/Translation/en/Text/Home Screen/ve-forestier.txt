@@ -1,0 +1,52 @@
+~3
+~1
+
+Aoi
+お誕生日おめでとうございます！\n森にいる小鳥さんたちと\n合唱団を結成して、\nお祝いの歌を作ってきました！=A very happy birthday to you!\nI formed my own little chorus with the birds in the forest, and we'd like to sing for you now!
+お、おたたん、おたんこなすー！\nすみません、ハッピーなお祝いの\n言葉を口にしたことがなくて…\n誕生日おめでとう五郎丸ー！=O-otatan, otanko nasu~! I'm sorry, I've never sang any happy birthday wishes before...\nHappy Birthday, Goroumaru~! 
+
+
+AoiCa
+たんおめ～♪　…すみません！\nどう挨拶しようか考えすぎて\nフランクになりすぎました…！\n改めて、おめでとうございます！=Happy Birthday~♪ ...I'm sorry!\nI was thinking on how to greet you and became too casual with it... Happy Birthday again!
+お誕生日おめでとうございます！\n…あはは、やっぱり緊張しますね\n私の挨拶、大丈夫でしたか？\n声とか裏返ってませんでした？=Happy Birthday!\n…Ah, I'm still nervous. Was my greeting okay?\nMy voice wasn't shaking, was it...?
+
+
+AoiSt
+お誕生日おめでとうございます！\nこんな日に\nあなたと一緒に居られるなんて…\n友達ができるよりうれしいです♪=Happy Birthday!\nI'm glad I can spend this day with you... It makes me happier than making new friends♪
+お、おお、お誕生日\nおめでとうございます！\nああ…他の誰かの誕生日を\n祝えるだけでも幸せです…=Oh, Happy Birthday!\nAh... It makes me happy just to be able to celebrate someone else's birthday...
+
+
+AoiW
+今日はあなたのお誕生日をお祝い\nさせてください！　歌に、花束の\n贈呈…それと100通の手紙です\n…では心を込めて歌います！=Today, let me celebrate your birthday! With a song, a bouquet... and 100 letters...\nNow, I will sing with all my heart!
+あなたのお誕生日を祝う言葉を\nわ、私が…！？　し、幸せすぎて\nちょっと怖いですが…せーのっ\nお誕生日おめでとうございます！=I, me...? It's a little scary because I'm happy...\nHere goes nothing!\nHappy Birthday to you!
+
+
+Hatsune
+お誕生日だね。おめでとうー！\nお祝いに超能力で…\nあっで、でも眠くなっちゃうし～\nじゃあ……………………カプッ♪=Happy Birthday! I'll use my superpowers to throw you a big celebration! Wait. That'll just make me tired, so... *nibble*
+お誕生日のお祝いに、\nハツネ膝枕をプレゼント！\n寝心地いいよ～☆\nん～なんだか私も眠く…すやぁ～=To celebrate your birthday, this Hatsune knee-pillow is my gift!\nIt's so comfortable~☆ Hm~\nI'm kind of sleepy too... Suyaa~
+
+
+HatsuneS
+ハッピーバースデー☆\nお祝いに、今日は朝から晩まで、\nキミをずっと応援するのだ～！=To celebrate Happy Birthday to you...☆\nI'll be cheering you on from morning to night today!
+今日ってキミのお誕生日だよね！\nえへへ、忘れるわけないよ～！\nパーティの準備もばっちりだし、\nいっぱい楽しく過ごそうね！=Today's your birthday, isn't it?! Ehehe, how could I forget?!\nThe party preparations are perfect, so let's have lots of fun!
+
+
+HatsuneShiori (Hatsune)
+今日は何の日か知ってる～？\nなんとなんと…！　キミの\nお誕生日なんだよ！　おめでと☆\nめいっぱいお祝いしちゃうよ～♪=Do you know what day it is?\nOh my god...! It's your birthday!\nI'm going to congratulate you as much as I can!
+お誕生日、おめでとう☆\nプレゼントはシオリンと一緒に\n選んだんだよ！　よろこんで\nもらえたらうれしいな♪=Happy Birthday☆!\nShiorin and I had picked out a present for you!\nWe both hope you like it♪
+
+
+Misato
+お誕生日おめでとう！\n今日はあなたが主役だから、\nなんでも言うこと聞いちゃうわ～\nいっぱい甘えていいのよ=Happy Birthday! Today's a special day, so feel free to ask for anything you want. I'll spoil you as much as you want today.
+今日は、一年に一度の特別な日\nあなたの誕生日をお祝いできて\n先生とっても嬉しいわ\n本当におめでとう♪=Today, I'm very happy to be able to celebrate your birthday once a year.\nAs a sensei~ Congratulations!♪
+
+
+MisatoNY
+お誕生日おめでとう♪\n先生、ちょっと趣向を凝らして\n誕生日雑煮を作ってみたの！\nあなたの好物、てんこ盛りよ～♪=Happy Birthday!♪ I've been trying to make zouni for your birthday!♪ Isn't your favorite food tenko zouni?♪
+お誕生日のお祝いに今日は一日\n先生のお膝、貸してあげますね♪\nふふふ、よしよしいい子〜♪\n着物がすべすべで気持ちいい？=To celebrate, I'll lend you my lap for the rest of the day♪ Hehehehe, does my kimono feel nice and smooth?
+
+
+MisatoS
+今日はあなたのお誕生日ね！\nずっと頑張ってきたいい子には\n先生から特別なお祝いよ♪\nほら、いい子いい子…♪=Today's your birthday!\nHere's a special celebration to the good boy that you've worked hard for all this time♪
+なんだかソワソワしてるわね？\nそれもそうよね、今日はあなたの\nお誕生日だもの。先生と一緒に\nいっぱいお祝いしちゃいましょ♪=You're kind of nervous, aren't you? You're right.\nIt's your birthday today.\nLet's celebrate a lot together♪
+

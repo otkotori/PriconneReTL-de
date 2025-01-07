@@ -1,0 +1,57 @@
+~3
+~1
+
+Labyrista
+少年、誕生日おめでとう\nキミがこの世に生を受けた日は\n盛大に祝うべきだ。今から一緒に\nプレゼントを選びに行こう！=Happy Birthday.\nThe day you're born into this world should be a grand celebration.\nLet's pick out a present together!
+少年、誕生日おめでとう～！\n今日くらいはクレープじゃなくて\nケーキをプレゼントしちゃおう！\nでもクレープもあげちゃう！=Happy Birthday, young man!\nI'll give you a cake, not a crepe, just for today!\nBut you can have some, too!
+
+
+LabyristaO
+誕生日おめでとう、少年！\nキミの成長はアタシにとって\n何よりも喜ばしいよ。今日は\nアタシも一緒に祝っていいかな？=Happy Birthday, young man!\nYour growth makes me happier than anything.\nCan I celebrate with you today?
+ハッピーバースデー！\nキミへの心を込めた贈り物\n受け取ってくれるかな？\n…なんでクレープって分かった？=Happy Birthday!\nWill you accept my heartfelt gift to you?\n...How'd you know it was a crepe?
+
+
+Rino
+ハッピーバースデー！\nお兄ちゃんが大きくなっても、\n私が歳を取っても\n二人は兄妹のままですからね♪=Happy Birthday! No matter how old we get, you'll always be my Onii-chan, and I'll be your precious little sister, forever♪
+お誕生日おめでとうございます！\nお兄ちゃん、やっぱり誕生日は\n家族と過ごすべきですよ\n私とパーティーしましょう！=Happy Birthday!\nOnii-chan, you should spend your birthday with your family.\nCome have a party with me!
+
+
+RinoW
+ハッピーバースデーお兄ちゃん！\nお誕生日ケーキもバッチリです！\nあとは…えっと、その…うんっ！\n私が食べさせてあげちゃいます！=Happy Birthday, Onii-chan!\nYour birthday cake is perfect too! After that... umm, well... yeah!\nI'll feed you, then!
+今日はお兄ちゃんの誕生日！\nおめでとうございます！\nえへへ、またお兄ちゃんが\n格好よくなっちゃいましたね…♪=Today's Onii-chan's birthday! Congratulations! Ehehehe, Onii-chan's looking even cooler now...♪
+
+
+RinoX
+ハッピーバースデーお兄ちゃん！\n気になる誕生日プレゼントは～…\nそう、お兄ちゃんの大好きな妹！\n私も大好きです、えへへ…=Happy Birthday, Onii-chan! The birthday present you're interested in is... Yes, Onii-chan's beloved little sister! I love you too, ehehe...
+今日はお兄ちゃんの生まれた日…\n私にとってはどんな記念日より\n大切な日です♪　全力で\nお祝いしちゃいますよ～！=Today is the day Onii-chan was born... It's more important to me than any anniversary♪ I'll do everything in my power to celebrate!
+
+
+ShizuruRino (Rino)
+お誕生日おめでとうございます！\n私とお姉ちゃんでプレゼントを\n用意したんです、けど…実は\n私一人からのもあったり…えへへ=Happy Birthday, Onee-chan and I prepared a present for you, but... Actually, I also have one just from me... Hehe.
+お兄ちゃんがまた一つ\nお兄ちゃんになっちゃいましたね\n妹として誇らしいです！\n恰好いいですよ、お兄ちゃん！=Onii-chan, you've become even more of a big brother. As your little sister, I'm proud of you!\nYou look so cool, Onii-chan!
+
+
+Shizuru
+お誕生日おめでとう！\n弟くんがどれだけ大人になったか\nお姉ちゃんに、しっかり見せて！\nじーーーーーーーーーーーーっ♪=Happy Birthday to my little bro! Go on, show your big sis just how grown up you've become! *staaaaarrre*
+キミが一つ歳をとっても、\nお姉ちゃんも歳をとってるから、\n私はずっと弟くんのお姉ちゃんの\nまんまだよ♪　安心した？=Even though you're getting older, your sister is getting older too, so I'll always be with you forever♪ Are you relieved?
+
+
+ShizuruN
+お誕生日おめでとうっ\n魔法少女のお姉ちゃんから\n弟くんへのプレゼント\n愛と希望の...魔法だよっ=Happy Birthday!\nFrom your magical girl big sister, here's a present for you, little bro. It's a spell of love and hope!
+今日はお姉ちゃんにとって\n何よりも大事な日...\nそう、弟くんの誕生日!\n魔法の力で、お祝いしちゃうぞ=Today is the most important day for your big sister...\nYes, it's your birthday, Otouto-kun! I'll use my magic to celebrate!
+
+
+ShizuruS
+弟くん、欲しいものはある？\nまた一つ大人になった弟くんには\nなんでもあげちゃうよっ♪\nお姉ちゃんでも…いいんだぞ♪=Otouto-kun, is there anything you want? I'll give you anything you want today♪ Even if you want me... that's okay too!♪
+弟くんのお誕生日だから\n水着でお祝いしてあげるねっ♪\nえ？　なんで水着なのかって？\nもうっ、うれしいくせに～♪=It's Otouto-kun's birthday, so I'll celebrate it in a swimsuit♪\n...Eh? "Why a swimsuit?"\nGeez, it's because I'm happy~♪
+
+
+ShizuruV
+お誕生日だね！　お姉ちゃんは\n今日という記念日のために、\nプレゼントを考え続けてたよ！\nはい、お姉ちゃんをあげるね☆=Your birthday is here! I thought long and hard about what to give you, but only one thing felt right! So your present is...me!
+今日は弟くんの誕生日！\n大きなチョコケーキを作ったから\n一緒に食べようね♪=Today is little bro's birthday!\nI made a big chocolate cake, lets eat it together...♪ 
+
+
+ShizuruRino (Shizuru)
+お誕生日おめでとう♪\nリノちゃんと一緒に選んだ\nプレゼントだよっ♪　…それと\nお姉ちゃん一人からのもあるよ♪=Happy Birthday!\nThis is a present I picked out with Rino-chan... And there's also one from just me.
+弟くんの生まれた日、それは\nお姉ちゃんとリノちゃんにとって\n運命の日、なんだよ…！\n盛大にお祝いしちゃおうねっ♪=The day you were born, Otouto-kun, was a destined day for me and Rino-chan...\nLet's celebrate it grandly!
+

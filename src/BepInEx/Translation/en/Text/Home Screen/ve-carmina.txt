@@ -1,0 +1,57 @@
+~3
+~1
+
+Chika
+お誕生日おめでとうございます\n短いものですが、お祝いに\n曲を書いてみました\nここで歌ってもいいですか？=Happy Birthday!\nIt's rather short, but I wrote you a song to celebrate.\nDo you mind if I sing it here?
+お誕生日おめでとうございます\n歌以外にいいプレゼントが\n思いつかなくて…\nよかったら聞いてください=Happy Birthday!\nI couldn't think of a better present than a song...\nPlease listen to me if you'd like.
+
+
+ChikaS
+お誕生日、おめでとうございます\n夏の太陽のようなあなたに贈る\nバースデーソングを作りました\n気に入ってくれるといいのですが=Happy Birthday, the summer I spent with you is a precious memory for me. I look forward to working with you in the future.
+ハッピーバースデー！\nあなたと過ごした夏は、\n私にとって大切な思い出です\n今後ともよろしくお願いしますね=Happy Birthday!\nI wrote you a birthday song,\nmade like the summer sun.\nI hope you like it.
+
+
+ChikaX
+誕生日、おめでとうございます\n子どもたちや精霊も一緒に\nお祝いしてくれるそうです\n素敵な一日にしましょうね=Happy Birthday.\nThe children and spirits are all going to celebrate your birthday.\nLet's make it a wonderful day.
+今日は誕生日ですよね、\nおめでとうございます\nプレゼントの他に、私の\n歌も贈らせてください=Today's your birthday, isn't it? Congratulations. In addition to your present, please let me sing you a song, too.
+
+
+Nozomi
+ハッピーバースデー、トゥユー♪\nハッピーバースデー、トゥユー♪\nどう？　キミだけのための\nプライベートライブだよ！=Happy birthday to you♪\nHappy birthday to you♪\nNot everyone gets their own private concert from me!
+おめでとう♪　キミの誕生日を\nお祝いできるように、\nずっと前からスケジュールを\n調整してたんだ！　うれしい？=Happy Birthday♪\nI've been adjusting my schedule so that I can celebrate with you!\nAren't you glad?
+
+
+NozomiA
+お誕生日のお祝いに、香水を\n作ってみたんだけど…え？\nいい匂いって、私が？　キミの\n方が断然いい匂いだよっ…=I tried making perfume to celebrate your birthday, but...\nHuh? I smell good?\nYou smell way better than me...
+お誕生日おめでとう！　これ、\nお手製のポーション詰め合わせ\nいつも元気でいてほしいからね=Happy Birthday!\nHere's your handmade potion assortment.\nI hope you're always doing well!
+
+
+NozomiL
+キミが生まれてきてくれたから\n私たちは出会えたんだよ\nこの奇跡に、私は感謝してるんだ\n心を込めて…誕生日おめでとう！=It's because you were born that we met each other.\nI'm grateful for this miracle.\nHappy Birthday!
+ハッピーバースデー！\n今日はキミが主役の日だよ！\nいつも応援してもらってる分\n思いっきり目立たせてあげるね♪=Happy Birthday!\nToday's the day you're the star of the show! I'll try to make you stand out as much as I can♪
+
+
+NozomiS
+ハッピーバースデー！\nキミへのプレゼントは…\n私を今日だけ独り占めできる券！\n…なんて、どうかな？=Happy Birthday!\nYour present is... a ticket that allows you to monopolize me just for today! ...How about it?
+誕生日おめでとー！\nキミの好きそうなアイスケーキ、\n人気のお店で買ってきたよ♪\n後で、一緒に食べようね！=Happy Birthday!\nI bought your favorite ice cream cake at a popular restaurant♪ Let's eat it together later!
+
+
+NozomiX
+誕生日おめでとう！\nバースデーソングでお祝いするよ！\nキミだけのためのライブ、\n楽しんでってね！=Happy Birthday! Let's celebrate with a birthday song!\nThis is a live performance I made just for you, so please enjoy it!
+ハッピーバースデー！\nはい、プレゼント\n私のサイン入りだよ\n大事にしてね！=Happy Birthday!\nHere—a present for you!\nIt's even got my autograph.\nI hope you'll treasure it!
+
+
+Tsumugi
+あの、おめでとうございます…\n騎士さんの誕生日ですよ！\nこれ…ハンカチです…え？\nプレゼントですっ！　バカっ！=H-happy birthday, Kishi-san...\nIt's your special day of the year! Here... take this handkerchief. What?! It's a present, obviously!
+た、誕生日なんですよね？\n一応おめでとうございます！\n…どこで知ったかなんて\nどうでもいいじゃないですか！=It's your birthday, isn't it?\nHappy Birthday to you!\nIt doesn't matter where I found out about it!
+
+
+TsumugiH
+えっと、騎士さん\n誕生日おめでとうございます！\n吸血鬼からの誕生日プレゼント\n存分にありがたがってください！=Um, Happy Birthday, Knight!\nPlease enjoy the birthday present from the vampire to your heart’s content!
+…ついさっき思い出しましたけど\n今日は騎士さんの誕生日でしたね\nはいこれ、誕生日プレゼントです\nあっ…これは今買ったんですよ！=...I just remembered that today was the knight's birthday. Here, this is your birthday present.\nOh... I just bought this!
+
+
+TsumugiS
+大したものじゃないですけど\n作ってみたのでどーぞ\nどうして僕にって…\nわ、私も誕生日ぐらい祝います！=It's not much, but I made it myself, so here you go. "Why did I do that...?" I-I'll at the very least celebrate your birthday!
+レイ様があげるというので\n私からもプレゼントです\nべ、別に仕方なくじゃないです\nちゃんと心は込めてるので！=Rei-sama told me she'd give this to you, so it's a present from me. I-It's not like I had any other choice, though!
+

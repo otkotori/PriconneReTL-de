@@ -1,0 +1,63 @@
+~3
+~1
+
+Anemone
+貴方の誕生日を祝おうって─\n媛が宴を用意してます\n私も案内係くらいは…はい=Hime is preparing a party to celebrate your birthday.\nI'll be your guide...\nYes, please, thank you...
+誕生日おめでとうございます\n…何ですか？　驚いた顔して…\nお祝いくらいは言いますよ=Happy Birthday... What is it?\nYou look surprised...\nI can at the very least congratulate you...
+
+
+Croce
+お誕生日おめでとうございます！\n今日はどんなお願いだって\nフルパワーで叶えちゃいますっ！\nさあさあ、なんなりとっ♪=Happy Birthday!\nToday, I'm going to make any wish come true at full power!\nCome on, anything you want...♪
+今日はナイトさんのお誕生日っ♪\nいっぱいいっぱいおめでとうって\n言わせてくださいねっ！=Today is Mr. Knight's birthday♪\nFor your celebration, allow me to congratulate you lots and lots! Lets both celebrate together♪
+
+
+Fubuki
+お誕生日おめでと～！\n誕プレはぁ～…ザコお兄さんを\nもっとザコザコにするメカ♡\nぽちっと～♡=Happy Birthday~!\nThe birthday prezzie~\n...Is a mech that makes Zako-oniisan even crazier~♡
+はっぴーばーすでー！\nいひひっ、びっくりした？\nザコお兄さんの誕生日覚えてて\nえらいでしょ♪　ほめていーよ♡=Happy Birthday! Heehee, did I surprise you? Remembering Zako-oniisan's birthday is great, isn't it?♪ You can praise me♡
+
+
+Grace
+誕生祝いのケーキを用意しました\nフフ、下からロウソクの灯りに\n照らされた私の顔、怖いですよね\n…え、かわいい？　…そうですか=I've prepared a birthday cake.\nHehe, my face is scary in the candlelight from below...\nHuh? Is it cute? ...I see.
+ハッピーバースデー騎士氏\n幽霊やゾンビ、吸血鬼も呼んで\nじめじめした真っ暗闇の世界で\n盛大にお祝いいたししましょう=Happy Birthday, Knight.\nlet's summon ghosts, zombies, and vampires to celebrate grandly in a damp, dark world.
+
+
+Kururu
+今日はヒーローさん誕生日記念の\n特別なパレードを開催しますっ♪\n楽しくて、夢と笑顔でいっぱいの\nすてきな一年にしましょうねっ♪=Today, we're holding a special parade to celebrate our hero's birthday♪ Let's have a wonderful year full of dreams and smiles!♪
+お誕生日おめでとうございます！\n今日という偉大な日を記念して\n宝石で作ったヒーローさん像を\nエントランスに飾りますですっ♪=Happy Birthday!\nFor today's special, I'll decorate the entrance with a statue of our hero made with jewels!♪
+
+
+Lind
+騎士さんには私もたくさん助けて\nいただきましたから…その…\n私にできるお祝いなら、\nなんでも言ってくださいね！=I have received a lot of help from Mr. Knight♪ So...if there is anything I can do to help you celebrate, please let me know!
+お誕生日おめでとうございます！\nライラエルさまが、お祝いに一日\nあなたに仕えてはどうかって…\nいかがでしょうか、主さま…？=Happy Birthday!\nLady Lyrael had asked me to serve you for a day to celebrate...\nWhat do you think, Master...?
+
+
+Lyrael
+今日という日の奇跡のおかげで\nあなたと出会うことができました\nだから…どうか言わせてください\n万感の想いを込めた感謝と祝福を=Thanks to today's miracle, I was able to meet you, so... Please allow me to express my gratitude and blessing with all my heart.
+お誕生日おめでとうございます\nあなたの未来が\n幸多きものになりますように…\n心から祈っています=I wish you a Happy Birthday\nand may your future be blessed with all my gratitude...\nHeartfelt Wishes from Lyrael♪
+
+
+LyraelX
+今日はあなたが生まれた特別な日\n甘いケーキとキャンドルで\n奇跡の一夜を共に過ごしましょう\nあなたに祝福がありますように…=Today, let us have a miraculous night together with lots of sweet cakes and candles I've made.\nMay you be blessed, Mr. Knight...♪
+クリスマスの悪魔として\nあなたの生誕をお祝いします\nとびっきり素敵な夢を\n見せて差し上げたいですから=As a Christmas demon, I want to congratulate you on your birth. Also, I want to show you a wonderful dream that I've had...
+
+
+Nephi-Nera
+お前さまの心意気に応える\n贈り物ができれば良かれど…\n頭を撫でてほしい？　…フフ\nほんに無欲でありんす喃=I wish I could give you a gift in response to your spirit, but... would you like me to pat your head?
+今日は騎士殿が生まれた日\n宴の席を設けさせてありんす\nわっちらには恩義があります故\nこれくらいはさせておくんなんし=Today's the day of the knight's birth. I'll set up a banquet for you. I owe you a debt of gratitude, so I'll let you do this much.
+
+
+Wakana
+今日は奮発して、ちょっといい\nお肉を使っちゃいました♪\n騎士さんのお誕生日ですから\nお口に合えばいいですけど…=I splurged on some good meat today♪\nIt's the knight's birthday, so I hope it's to your liking...
+お、お誕生日っ、\nおめでとうございます…！\n大したものじゃないですけど…\nわたしからのプレゼント…です=H-Happy Birthday...!\nIt's nothing special, but... it's a present...\nFrom me...
+
+
+Wyrm
+誕生日おめです。プレゼント、\nこのクッキーでいいですか？\n…冗談ですよ。用意してます\nいつもお世話になってますから=Happy Birthday. Are these cookies okay as a present? ...I'm just kidding. I'm ready. Thanks for always taking care of me.
+今日、誕生日なんですね\nおめでとうございます\n…なんですか、あたしだって\nお祝いくらい普通にしますって=It's your birthday today, isn't it? Happy Birthday...\nWhat's with you? You said I'd at the very least celebrate normally.
+
+
+Yamato
+義弟の年に一度の晴れ舞台！\nバンディシャーク号で\nド派手にバースデーパレードと\n洒落こもうじゃないか！=This is my brother-in-law's once-in-a-year debut!\nLet's have a big birthday parade on the Bandi Shark!
+今日はボーヤの誕生日だって？\n贈り物は何がいいんだい。\n希少な宝石でも高価な調度品でも\nなんでも盗ってきてやるよ♪=Today's Boya's birthday?\nWhat do you want with gifts?\nI'll steal rare gems, expensive furnishings, anything♪
+
+
