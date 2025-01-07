@@ -1,37 +1,37 @@
-マイパーティ一覧=Party List
-「編成」ボタンからマイパーティの登録ができます。=You can register your party by clicking the "Edit" button.
+マイパーティ一覧=Parteienliste
+「編成」ボタンからマイパーティの登録ができます。=Sie können Ihre Party anmelden, indem Sie auf die Schaltfläche „Bearbeiten“ klicken.
 
-マイパーティ編成=Edit Party
+マイパーティ編成=Partei bearbeiten
 
-この編成を呼び出す=Use
-呼び出す=Use
-呼び出すパーティを選択=Select a Party to Use
+この編成を呼び出す=Nutzen
+呼び出す=Benutzen
+呼び出すパーティを選択=Wählen Sie eine zu verwendende Gruppe
 
-登録済みのパーティを呼び出して編成を行います。=Edit other premade parties.
-この編成を呼び出す=Use Party
+登録済みのパーティを呼び出して編成を行います。=Andere vorgefertigte Parteien bearbeiten.
+この編成を呼び出す=Gruppe benutzen
 
-タブ名編集=Edit Tab Name
-変更するタブを選択してください。=Select tab to edit.
-変更後名称=Edited Name
+タブ名編集=Registerkarte-Name bearbeiten
+変更するタブを選択してください。=Wählen Sie die Registerkarte zum Bearbeiten.
+変更後名称=Geänderter Name
 
-sr:"^(\d+)文字以上(\d+)文字以下$"=Between $1-$2 chars
+sr:"^(\d+)文字以上(\d+)文字以下$"=Zwischen $1-$2-Zeichen
 
-sr:"^編成(\d+)$"=Preset $1
-コピーするパーティを選択=Select slot
-ここにコピー=Copy Here
-登録済みのパーティを他のパーティにコピーします。=Copies a registered party to another slot.
+sr:"^編成(\d+)$"=Voreinstell. $1
+コピーするパーティを選択=Steckplatz wählen
+ここにコピー=Hier kopieren
+登録済みのパーティを他のパーティにコピーします。=Kopiert einen registrierten Gruppe in einen anderen Steckplatz.
 
-クリア確認=Delete Party
-下記のパーティ情報をクリアしますか？=Delete the following party?
-[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Party info is gone forever once deleted.[-]
-クリアする=Clear
+クリア確認=Gruppe löschen
+下記のパーティ情報をクリアしますか？=Löschen Sie die folgende Gruppe?
+[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Die Infos über die Partei sind nach dem Löschen für immer verloren.[-]
+クリアする=Löschen
 
-変更反映=Changes Saved
-[3C404E]変更内容を反映しました。[-]=[3C404E]Your edits have been saved.[-]
+変更反映=Änderungen gespeichert
+[3C404E]変更内容を反映しました。[-]=[3C404E]Ihre Änderungen wurden gespeichert.[-]
 
-上書き保存=Overwrite Save
-[FF7C4E,D62146]一度上書きするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Once overwritten,\nthe party information will not be restored.[-]
-保存先のタブ=Save Tab
-上書きされるパーティ=Overwritten Party
-コピーするパーティ=Party to Copy
-現在設定しているパーティ情報に\n上書き保存してよろしいですか？=Are you sure you want to overwrite\nthe party information currently set?
+上書き保存=Speichernsüberschreiben
+[FF7C4E,D62146]一度上書きするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Einmal überschrieben, werden die Informationen\nüber den Gruppe nicht wiederhergestellt.[-]
+保存先のタブ=Registerkarte „Speichern
+上書きされるパーティ=Überschriebene Gruppe
+コピーするパーティ=Zu kopierende Partei
+現在設定しているパーティ情報に\n上書き保存してよろしいですか？=Sind Sie sicher, dass Sie die derzeit eingestellten\nGruppeninformationen überschreiben wollen?

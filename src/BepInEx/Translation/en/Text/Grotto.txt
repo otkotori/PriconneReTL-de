@@ -1,29 +1,27 @@
-マナクエスト=Mana Quests
-経験値クエスト=EXP Quests
-マナを大量獲得=Earn lots of Mana
-EXPポーションを大量獲得=Find lots of EXP Potions
-キャラのLvアップに使う\nEXPポーションを獲得=Get EXP Potions to level up characters.
-スキル強化や装備強化\nショップで使うマナを獲得=Get Mana to enhance skills and refine equipment.
+マナクエスト=Mana-Quests
+経験値クエスト=EP-Quests
+マナを大量獲得=Viel Mana verdienen
+EXPポーションを大量獲得=Viele EP-Tränke finden
+キャラのLvアップに使う\nEXPポーションを獲得=Holen Sie sich EP-Tränke, um Charaktere aufzuleveln.
+スキル強化や装備強化\nショップで使うマナを獲得=Holen Sie sich Mana, um Fähigkeiten zu verbessern und Ausrüstung zu verfeinern.
 
-スキップチケットと挑戦回数を消費してクエストを\n実行します。よろしいですか？=Use skip tickets and attempts\nto complete this quest?
+スキップチケットと挑戦回数を消費してクエストを\n実行します。よろしいですか？=Verwenden Sie Skip-Tickets und Versuche, um diese Quest zu erfüllen?
 
----npc dialogue---
-育成に必要なアイテムが\n獲得できるクエストです\nわたくし、主さまのために、\n強くなりますよ=In this quest, you can earn items required for Training.\nI will become stronger for you my Lord.
+育成に必要なアイテムが\n獲得できるクエストです\nわたくし、主さまのために、\n強くなりますよ=Bei dieser Quest kannst du Artikel verdienen, die du für dein Training benötigst. Ich werde für dich stärker werden, mein Herr.
 
-このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=You'll receive some nice items for clearing this quest! Collect as many as you can and get super strong!
+このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=Für das Lösen dieser Quest erhältst du einige schöne Artikel! Sammle so viele, wie du kannst, und werde superstark!
 
-クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=You can also receive items by clearing quests.\nLet's take all we can!
+クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=Ihr könnt auch Artikel durch das Lösen von Quests erhalten. Lasst uns alles mitnehmen, was wir können!
 
-このクエストを攻略すると、\nアイテムが手に入るらしいわ。\nもっと強くなるために、\n一生懸命がんばるわね！=It seems that by clearing this quest, we can obtain some nice items. I'll do my best to become even stronger!
-キャラ強化に必要な「EXPポーション」を獲得できるクエストと「マナ」を獲得できるクエストの２種類があります。１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=There are two types of quests: those that provide EXP Potions needed to level up characters and those that offer Mana. Each type of quest can be played up to two times per day.
-こちらでは★6才能開花に必要なアイテム、「プリンセスオーブ」を手に入れられます。たくさん集めて、才能開花を目指しましょう。=In this temple, we should be able to find Princess Orbs, a resource required to upgrade characters to ★6. Let us collect as many as we can, and achieve new heights of strength.
-------
+このクエストを攻略すると、\nアイテムが手に入るらしいわ。\nもっと強くなるために、\n一生懸命がんばるわね！=Es scheint, dass wir durch die Lösung dieser Quest einige schöne Artikel erhalten können. Ich werde mein Bestes tun, um noch stärker zu werden!
+キャラ強化に必要な「EXPポーション」を獲得できるクエストと「マナ」を獲得できるクエストの２種類があります。１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=Es gibt zwei Arten von Quests: diejenigen, die EP-Tränke liefern, die für das Aufleveln von Charakteren benötigt werden, und diejenigen, die Mana anbieten. Jede Art von Quest kann bis zu zwei Mal pro Tag gespielt werden.
+こちらでは★6才能開花に必要なアイテム、「プリンセスオーブ」を手に入れられます。たくさん集めて、才能開花を目指しましょう。=In diesem Tempel sollten wir Prinzessinnenkugeln finden können, eine Ressource, die wir benötigen, um Charaktere auf 6★ zu verbessern. Lasst uns so viele wie möglich sammeln, um neue Höhen der Stärke zu erreichen.
 
-経験値クエストへ=To EXP Quests
-マナクエストへ=To Mana Quests
-探索TOPへ=To Grotto
+経験値クエストへ=Zur EP-Quests
+マナクエストへ=Zur Mana-Quests
+探索TOPへ=Zur Grotte
 
-枚=tickets
+枚=Tickets
 
-r:"^リセットまであと(\d+)時間$"=Resets in $1 hours
-r:"^リセットまであと(\d+)分$"=Resets in $1 minutes
+r:"^リセットまであと(\d+)時間$"=Zurückse. in $1St
+r:"^リセットまであと(\d+)分$"=Zurückse. in $1M

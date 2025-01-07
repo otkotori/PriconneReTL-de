@@ -1,38 +1,37 @@
-[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Paid Jewels, Mana, and any Paid\nPackages are not transferable between OS[-]
+[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Bezahlte Juwelen, Mana und einige Pakete\nsind nicht zwischen OS übertragbar.[-]
 
-[3C404E]連携パスワードを再設定する[-]=[3C404E]Reset Link Password [-]
-[3C404E]連携パスワードを入力して引き継ぐ[-]=[3C404E]Transfer Using Link Password [-]
-連携パスワードについて選択してください。=Please select one of the following options:
+[3C404E]連携パスワードを再設定する[-]=[3C404E]Link-Kennwort zurücksetzen [-]
+[3C404E]連携パスワードを入力して引き継ぐ[-]=[3C404E]Übertragung mit Link-Kennwort [-]
+連携パスワードについて選択してください。=Bitte wählen Sie eine der folgenden Optionen:
 
+[FF7C4E,D62146]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[FF7C4E,D62146]Daten-Link ist erforderlich, um Ihren Fortschritt zu\nspeichern. Überprüfen Sie Ihre ID auf dem\nTitelbildschirm oder dein Profil. (Beispiel: 123 456 789)[-]
+プライバシーポリシーは必ず確認し、次の画面で連携パスワードの設定をしてください。=Stellen Sie sicher, dass Sie die Datenschutzbestimmungen gelesen haben, und legen Sie dann im nächsten Bildschirm Ihr Link-Kennwort fest. Ihr Link-Kennwort kann beliebig oft wiederverwendet werden.
+連携パスワードの設定を行います。よろしいですか？=Einrichten des Link-Kennworts. Ist das in Ordnung?
+設定する=Einstellen
+連携パスワードの設定=Link-Kennwort Einrichtung
 
-[FF7C4E,D62146]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[FF7C4E,D62146]Data Link is required to store your game progress.\nPlease save your game ID and Password\nwith a screenshot or note.\nCheck your ID on the Title Screen or Profile Card\n(example: 123 456 789)[-]
-プライバシーポリシーは必ず確認し、次の画面で連携パスワードの設定をしてください。=Make sure to check the Privacy Policy, and then set your Link Password in the next screen.\nYour Link Password can be re-used as many times as you like.
-連携パスワードの設定を行います。よろしいですか？=Setting-up the Link Password. Is this OK?
-設定する=Set
-連携パスワードの設定=Setup Link Password
+プライバシーポリシーを確認し同意する=Datenschutzrichtlinie zustimmen
+プライバシーポリシー=Datenschutzrichtlinie
+アカウント削除申請=Benutzerkonto löschen
+利用規約・権利表記=Nutzungsbedingungen & Copyright-Hinweis
+機能を選択してください。=Bitte wählen Sie eine Funktion aus.
 
-プライバシーポリシーを確認し同意する=Agree with Privacy Policy
-プライバシーポリシー=Privacy Policy
-アカウント削除申請=Delete Account
-利用規約・権利表記=Terms of Services & Copyright Notice
-機能を選択してください。=Please select the function.
+入力確認=KW wiederholen
+※数字、大文字、小文字を組み合わせた8文字以上16文字以下=※Muss Zahlen, Großbuchstaben und Kleinbuchstaben mit 8-16 Zeichen enthalten.	
+連携パスワードを入力してください=Geben Sie Ihr Bindungskennwort unten ein.
 
-入力確認=Repeat PW
-※数字、大文字、小文字を組み合わせた8文字以上16文字以下=※Must have Numbers,Upper-case,and Lower-case Letters within 8-16 characters.	
-連携パスワードを入力してください=Input your Bind Password below
+データ連携を行うことで、複数の端末でプリンセスコネクト！Re:Diveのゲームデータを共有してプレイできます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=Die Verknüpfung von Daten ermöglicht es, Princess Connect! Re:Dive auf mehreren Geräten mit denselben Benutzerdaten zu spielen. Zum Verknüpfen der Daten sind eine Spieler-ID und ein Link-Kennwort erforderlich.
 
+サーバーエラー=Serverfehler
+エラーが発生しました。\n画面を更新してください。=Es ist ein Fehler aufgetreten.\nBitte aktualisieren Sie den Bildschirm.
+[3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]Diese Spieldaten sind mit einem\nanderen DMM-Konto verknüpft.\nNur einem DMM-Konto kann nur\neine Spieldatei verknüpft werden.[-].
 
-データ連携を行うことで、複数の端末でプリンセスコネクト！Re:Diveのゲームデータを共有してプレイできます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=Linking data makes it possible to play Princess Connect! Re: Dive on multiple devices using the same user data. A player ID and link password are required to link data.
+[3C404E]連携パスワードの設定が完了しました。\n\n連携パスワードは、\n他の人に教えないようにしてください。[-]=[3C404E]Erstellung des Link-Kennworts ist abgeschlossen.\n\nBitte geben Sie das Link-Kennwort nicht\nan andere Personen weiter.[-]
+データ連携パスワード設定完了=Datenverbindungskennworts-Erstellung
 
-サーバーエラー=Server Error
-エラーが発生しました。\n画面を更新してください。=An error has occurred\nPlease update the screen.
-[3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]This game data is linked to another PC account.\nOnly one game data can be linked to a PC account.[-].
+[3C404E]ログインしたアカウントは、すでに現在のプリンセスコネクト！Re:Diveのゲームデータと連携しています。[-]=[3C404E]Das aktuelle Konto ist bereits mit den\nPrincess Connect! Re:Dive Spieldaten verknüpft.[-]
+データ引き継ぎ済み=Ererbte Daten
 
-[3C404E]連携パスワードの設定が完了しました。\n\n連携パスワードは、\n他の人に教えないようにしてください。[-]=[3C404E]Link password setting is complete.\n\nPlease do not give the link password to other people.[-]
-データ連携パスワード設定完了=Data Link Password Setting Completed
-
-[3C404E]ログインしたアカウントは、すでに現在のプリンセスコネクト！Re:Diveのゲームデータと連携しています。[-]=[3C404E]The current account is already linked to Princess Connect! Re:Dive game data.[-]
-データ引き継ぎ済み=Inherited Data
-
-[3C404E]プレイヤーIDと連携パスワードが一致しませんでした。\nご確認のうえ、再度お試しください。[-]=[3C404E]The Player ID and the Linked Password did not match.\nPlease check and try again.[-]
-データ引き継ぎエラー=Data Transfer Error
+[3C404E]プレイヤーIDと連携パスワードが一致しませんでした。\nご確認のうえ、再度お試しください。[-]=[3C404E]Die Spieler-ID und das verknüpfte Kennwort stimmen nicht überein.\nBitte überprüfen Sie dies und versuchen Sie es erneut.[-]
+データ引き継ぎエラー=Datenübertragungsfehler
+入力した連携パスワードに不備があります。\n再度、入力してください。=Das von Ihnen eingegebene Passwort ist fehlerhaft.\nBitte geben Sie es erneut ein.

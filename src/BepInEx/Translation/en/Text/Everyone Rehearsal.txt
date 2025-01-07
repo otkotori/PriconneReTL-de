@@ -1,55 +1,52 @@
-みんなの稽古場=Everyone's Trial Room
+みんなの稽古場=Jedermanns Proberaum
 
-ガーゴイル=Gargoyle
-剛力なる鳥像=A strong bird statue
+ガーゴイル=Wasserspeier
+剛力なる鳥像=Eine starke Vogelstatue
 
-マグスガーゴイル=Magus Gargoyle
-魔業なる鳥像=A magic bird statue
+マグスガーゴイル=Magus Wasserspeier
+魔業なる鳥像=Eine magische Vogelstatue
 
-ガードガーゴイル=Guard Gargoyle
-堅固なる鳥像=A sturdy bird statue
+ガードガーゴイル=Wache Wasserspeier
+堅固なる鳥像=Eine robuste Vogelstatue
 
-ガーゴイル・バースト=Gargoyle Burst
-剛力の浮石を従えし鳥像=A bird statue with strong floating stones
+ガーゴイル・バースト=Wasserspeier-Ausbruch
+剛力の浮石を従えし鳥像=Eine Vogelstatue mit starken schwebenden Steinen
 
-ガーゴイル・マギ=Gargoyle Magi
-魔業の浮石を従えし鳥像=A bird statue with magic floating stones
+ガーゴイル・マギ=Gargoyle-Magier
+魔業の浮石を従えし鳥像=Eine Vogelstatue mit magischen schwebenden Steinen
 
-高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=A boss programmed with high P.ATK power\nand powerful area attacks.
-高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=A boss programmed with high M.ATK power\nand powerful area attacks.
-防御力アップスキルで高い耐久力を誇り、相手の攻撃を凌ぐようプログラムされたボスが現れる。=A boss programmed to have high durability and to\nwithstand enemies' attacks with a defense boost skill.
-高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=A multi-target boss programmed with high P.ATK\npower and powerful area attacks.
-高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=A multi-target boss programmed with high M.ATK\npower and powerful area attacks.
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Ein Boss mit hoher P.ANG-Leistung und starken Flächenangriffen.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Ein Boss mit hoher M.ANG-Leistung und mächtigen Flächenangriffen programmiert.
+防御力アップスキルで高い耐久力を誇り、相手の攻撃を凌ぐようプログラムされたボスが現れる。=Ein Endgegner, der so programmiert ist, dass er sehr\nwiderstandsfähig ist und den Angriffen seiner Feinde mit einer\nFähigkeit zur Verteidigungssteigerung widerstehen kann.
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Ein Multi-Target-Boss, der mit hoher P.ANG-Kraft\nund mächtigen Flächenangriffen programmiert ist.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Ein Multi-Target-Boss mit hoher M.ANG-Kraft\nund starken Flächenangriffen.
 
-モンスターHPが\n減少しない状態にする=Monster HP\nCan not decrease
+モンスターHPが\n減少しない状態にする=Monster-KP\nkann nicht abnehmen
 
+クランバトルボス=Clankampfboss
 
-クランバトルボス=Clan Battle Boss
+sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Clankampf $2 $1 (bis $3)
 
-sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Clan Battle $2 $1 (until $3)
+前月のクランバトル登場ボスとバトルできます。=Fordere den Boss der Clankampf des letzten Monats heraus.
+※限界突破によるキャラの強化内容は反映されません。=※Das Limit-Break-Stufe des Charakters wird nicht angewendet.
 
+稽古場バトルをリタイアしますか？=Wollen Sie den Kampf im Proberaum beenden?
+稽古場バトルリタイア=Proberaum-Schlacht Ruhestand
+申請相手のフレンドが上限に達しています。=Der Freund des Bewerbungspartners hat die Obergrenze erreicht.
+無料対象のためアイテムやマナは消費しません。=Kostenlos, keine Artikel- oder Manakosten.
+r:"^難易度「(.+)」のクリア報酬です。$"="Klare Belohnung für die Schwierigkeit „$1"."
+初回クリア報酬獲得=Erhalten Sie eine Belohnung für das erste Mal
+稽古場ミッション=Probeauftrag
+稽古場=Probesaal
 
-前月のクランバトル登場ボスとバトルできます。=Challenge the last month's Clan Battle's boss.
-※限界突破によるキャラの強化内容は反映されません。=※Character's Limit Break Level not applied.
+sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガーゴイル|ガーゴイル・バースト|ガーゴイル・マギ)（([\w\W]+)）をクリアしよう(\[-\])?$"="$1Besiegen Sie $2 ($3) bei Probe$4"
 
+ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=Hier kannst du deine Fähigkeiten testen! Lasst uns mit Vollgas vorwärts stürmen und alles geben!
+ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=Es sieht so aus, als könnten Sie hier Ihre Fähigkeiten testen. Es ist immer gut, ein bisschen zu üben, oder?
+腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=Wenn du bei diesen Prüfungen gut abschneidest, wirst du belohnt!\nLass es uns versuchen!☆
+こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Hier kannst du deine Fähigkeiten gegen verschiedene Arten von Endgegnern testen. Ihr könnt es so oft versuchen, wie ihr wollt. Versuchen wir es also mit dem Schwierigkeitsgrad, der euch am besten passt.
+腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=Es scheint, dass du hier deine Fähigkeiten auf die Probe stellen kannst. Lasst uns üben und das Gelernte im echten Kampf anwenden.
+ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=Hier können Sie Ihre Fähigkeiten testen. Es scheint eine gute Möglichkeit zu sein, deine Fähigkeiten zu messen.
+訓練の成果に応じて、\n報酬がもらえるそうです。\n共に励んでいきましょう。=Sie werden Sie je nach den Ergebnissen Ihrer Ausbildung belohnen. Lasst uns gemeinsam unser Bestes geben.
 
-稽古場バトルをリタイアしますか？=Do you want to stop the Trial Room battle?
-稽古場バトルリタイア=Trial Room battle retirement
-申請相手のフレンドが上限に達しています。=The friend of the application partner has reached the upper limit.
-無料対象のためアイテムやマナは消費しません。=Free, no item or mana cost.
-r:"^難易度「(.+)」のクリア報酬です。$"="It is a clear reward for the difficulty "$1"."
-初回クリア報酬獲得=Get first time clear reward
----Mission---
-稽古場ミッション=Trial Mission
-稽古場=Trial hall
-
-sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガーゴイル|ガーゴイル・バースト|ガーゴイル・マギ)（([\w\W]+)）をクリアしよう(\[-\])?$"="$1Defeat $2 ($3) at Trial$4"
-
----NPC---
-ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=You can test your skills here! Let's charge ahead full throttle and give it our all!
-ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=It looks like you can test your skills here. It's always good to get some practice in, right?
-腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=If you do well in these trials, you'll be rewarded!\nLet's give it a shot!☆
-こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Here, you can test your skills against different types of bosses. You can try as many times as you like, so let's try it with the difficulty level that suits you best.
-腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=It seems that here you can put your skills to the test. Let's practice and use what we've learned in the real fight.
-ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=You can test your skills here. It seems like a good way to measure your abilities.
 

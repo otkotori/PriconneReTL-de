@@ -1,52 +1,51 @@
+まとめて\nおまかせ強化=Multi\nVerbesserung
+まとめて強化=Autoverbesserung
 
-まとめて\nおまかせ強化=Multi\nEnhance
-まとめて強化=Multi Enhance
+おまかせ選択=Autom. Auswahl
 
-おまかせ選択=Auto Select
+選択したキャラをまとめておまかせ強化します。=Die ausgewählten Zeichen werden alle auf einmal verbessert.
+選択キャラ=Ausgewählt
 
-選択したキャラをまとめておまかせ強化します。=The selected characters will all be enhanced at once.
-選択キャラ=Selected
+おまかせ強化条件=Autoerweiterungsbedingungen
+キャラLv/スキルLv強化=Chara/Fertigkeit-St
+装備を装着=Ausrüsten
+原鉱を消費=Erz verwenden
+装備Lv強化=Verfeinern
 
-おまかせ強化条件=Auto Enhancement Conditions
-キャラLv/スキルLv強化=Chara Lv/Skill Lv
-装備を装着=Equip
-原鉱を消費=Use Ore
-装備Lv強化=Refine
+上限消費500,000,000まで=Max: 500.000.000
 
-上限消費500,000,000まで=Max up to 500,000,000.
+まとめておまかせ強化で一度に強化できるキャラ上限に達しました。=Die Anzahl der Zeichen, die mit der Autoverbesserung\nauf einmal verbessert werden können, wurde erreicht.
 
-まとめておまかせ強化で一度に強化できるキャラ上限に達しました。=Reached the limit of characters that can be enhanced at once with Multi Auto Enhancement.
+一度に強化できるキャラ上限に達しました。=Die Anzahl der Zeichen, die auf einmal verbessert\nwerden können, wurde überschritten.
+おまかせ強化対象キャラ=Zu verbessernder Charakter
+まとめておまかせ強化確認=Bestätigung der Verzauberung
 
-一度に強化できるキャラ上限に達しました。=Reached the limit of characters that can be enhanced at once.
-おまかせ強化対象キャラ=Character to be enhanced
-まとめておまかせ強化確認=Confirmation of Enchantment
+最大強化=Max.
+未装備スロットに装備=Unausgerüstete\nSteckplätze ausrüsten
+キャラLvとスキルLv強化=Chara/Qualifikationsstufe
+装備を最大強化=Max. Verfeinerung der Ausrüstung
+おまかせ強化の条件を設定します。=Legen Sie die Bedingungen für die Autoverbesserung fest.
+おまかせ強化条件設定=Autoverbesserungsbedingungen
+設定を変更しました。=Die Option wurde geändert.
 
-最大強化=Max
-未装備スロットに装備=Equip in\nunequipped slots
-キャラLvとスキルLv強化=Chara level and skill level
-装備を最大強化=Max refines on equipment
-おまかせ強化の条件を設定します。=Set the conditions for Auto Enhancement.
-おまかせ強化条件設定=Auto Enhancement Conditions Setting
-設定を変更しました。=The settings have been changed.
+まとめておまかせ強化完了=Autoverbesserung abgeschlossen
+以下のキャラのおまかせ強化が完了しました。=Die Verbesserung des Charakters ist abgeschlossen.
 
-まとめておまかせ強化完了=Multi Auto Enhancement is Completed
-以下のキャラのおまかせ強化が完了しました。=The character’s enhancement is complete.
+装備/強化対象の装備アイテム=Ausrüstungsartikel ausrüsten/bestimmen
+グロウスフィア使用済みキャラが選択されています。=Ein Charakter, der eine Growsphäre benutzt hat, wird ausgewählt.
+まとめておまかせ強化キャラ詳細=Auto-Verbesserungszeichen-Info
 
-装備/強化対象の装備アイテム=Equip/Refine equipment item
-グロウスフィア使用済みキャラが選択されています。=A character that has used a Growsphere is selected.
-まとめておまかせ強化キャラ詳細=Auto Enhancement Character Details
+まとめておまかせ強化を利用すれば、多くのキャラをよりお手軽に強化できるようです。強化条件を設定し、キャラをさらに強くしてみましょう。=Es scheint, als könnten Sie mehrere Charaktere bequemer stärken, indem Sie Autoverbesserung verwenden. Stellen Sie die Bedingungen nach Ihrem Geschmack ein und machen Sie unsere Verbündeten noch stärker.
+まとめておまかせ強化では、多くのキャラを一括でおまかせ強化ができる\n上に、強化の条件を細かく設定可能でございます。=Bei der Autoverbesserung können Sie mehrere Zeichen gemeinsam verbessern, und Sie können auch detaillierte Verbesserungsbedingungen festlegen.
 
-まとめておまかせ強化を利用すれば、多くのキャラをよりお手軽に強化できるようです。強化条件を設定し、キャラをさらに強くしてみましょう。=It seems you can strengthen multiple characters more conveniently by using Multi Enhancement. Set the conditions to your liking and make our allies even stronger.
-まとめておまかせ強化では、多くのキャラを一括でおまかせ強化ができる\n上に、強化の条件を細かく設定可能でございます。=In Auto Enhance, you can enhance multiple characters collectively, and you can also set detailed enhancement conditions.
+まとめておまかせランクアップは、多くのキャラを一括でランクアップで\nきるようです。主さま、この機能をしっかり使いこなし、共に成長してま\nいりましょう。=Mit der kollektiven Aufstufung können Sie mehrere Charaktere gleichzeitig aufsteigen lassen. Mein Herr, lasst uns das Beste aus dieser Funktion machen und gemeinsam wachsen.
+ランクアップの条件を設定します。=Legen Sie die Bedingungen für die Einstufung fest.
+ランクアップ条件設定=Hochlaufbedingung
 
-まとめておまかせランクアップは、多くのキャラを一括でランクアップで\nきるようです。主さま、この機能をしっかり使いこなし、共に成長してま\nいりましょう。=Collective rank-up allows you to rank up multiple characters at once. My Lord, let us make the most of this feature and grow together.
-ランクアップの条件を設定します。=Set the conditions for ranking up.
-ランクアップ条件設定=Rank-up Condition Setting
+アイテム、もしくはマナが不足しているため強化できません。=Kann aus Mangel an Artikel oder Mana nicht verbessert werden.
 
-アイテム、もしくはマナが不足しているため強化できません。=Cannot be enhanced due to lack of Items or Mana.
-
-強化条件=Enhancement Conditions
-選択したキャラをまとめて強化します。=Enhances all selected characters at once.
-r:"^RANK (\d+)までランクアップ$"=Rank up to RANK $1
-まとめて強化可能なキャラがいません。=No characters can be Multi Enhance anymore.
-まとめて強化を利用すれば、一度に多くのキャラを強化できるようです。\nまとめておまかせ強化を行うか、まとめておまかせランクアップを行うか\n選び、キャラをさらに強くしてみましょう。=By using Multi Enhancement, it seems you can strengthen multiple characters at once. Choose between conducting multiple auto enhances or multiple rank-ups and further empower your characters.
+強化条件=Erweiterungsbedingungen
+選択したキャラをまとめて強化します。=Verbessert alle ausgewählten Zeichen auf einmal.
+r:"^RANK (\d+)までランクアップ$"=Bis zu RANG $1 austufen
+まとめて強化可能なキャラがいません。=Keine Charaktere können mehr Mehrverbessert sein.
+まとめて強化を利用すれば、一度に多くのキャラを強化できるようです。\nまとめておまかせ強化を行うか、まとめておまかせランクアップを行うか\n選び、キャラをさらに強くしてみましょう。=Mit Autoverbesserung kannst du anscheinend mehrere Charaktere gleichzeitig stärken. Wähle zwischen der Durchführung mehrerer Verbesserungen oder mehrerer Rangaufstiege und stärke deine Charaktere weiter.
