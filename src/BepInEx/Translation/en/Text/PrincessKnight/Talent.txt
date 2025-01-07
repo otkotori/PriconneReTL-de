@@ -1,0 +1,29 @@
+r:"^紅焔の深域(.{0,5})$"=Karminrote-Flammentiefen $1
+r:"^翠嵐の深域(.{0,5})$"=Jade-Sturmtiefen $1
+r:"^紫冥の深域(.{0,5})$"=Violette-Abgrundtiefe $1
+r:"^蒼波の深域(.{0,5})$"=Azurblaue-Wellentiefen $1
+r:"^珀天の深域(.{0,5})$"=Bernsteinfarbene-Himmeltiefen $1
+
+Talent Questへ=Zur Talentsuche
+深域クエストへ=Zur Talentsuche
+闇属性=Dunkel
+光属性=Licht
+風属性=Wind
+水属性=Wasser
+火属性=Feuer
+sr:"^(.+)をクリアで解放されます。$"=Beende $1 zum Freischalten.
+
+カスタム設定=Benutzerdefiniert
+属性ボーナスがOFFに設定されています。=Elementarbonus ist ausgeschaltet.
+属性ボーナス=Elementarbonus
+属性弱点=Elementarschwäche
+
+火属性キャラ=Alle Feuer-Charak.
+水属性キャラ=Alle Wasser-Charak.
+風属性キャラ=Alle Wind-Charak.
+光属性キャラ=Alle Licht-Charak.
+闇属性キャラ=Alle Dunkel-Charak.
+
+チェック引継ぎ確認=Übergabebestätigung prüfen
+
+新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Letzten abgeschlossenen Quests wurde überprüft, da eine neue tiefe Quest abgeschlossen wurde.

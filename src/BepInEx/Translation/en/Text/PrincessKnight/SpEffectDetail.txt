@@ -1,0 +1,93 @@
+特殊効果詳細=Spezialeffekte-Details
+推奨プリンセスナイトRANK=Empfohlener PR-Rang
+
+火属性ボーナス特大アップ=Verstärkter Feuerelement-Bonus
+火属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。火属性以外の属性ボーナスを無効化する。=Wenn vier oder mehr Feuer-Charaktere in der Gruppe sind, wird der Element-Bonus erhöht. Negiert Ele. Bonus für andere Elemente.
+
+水属性ボーナス特大アップ=Verstärkter Wasserelement-Bonus
+水属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。水属性以外の属性ボーナスを無効化する。=Wenn vier oder mehr Wasser-Charaktere in der Gruppe sind, wird der Element-Bonus erhöht. Negiert Ele. Bonus für andere Elemente.
+
+風属性ボーナス特大アップ=Verstärkter Windelement-Bonus
+風属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。風属性以外の属性ボーナスを無効化する。=Wenn vier oder mehr Wind-Charaktere in der Gruppe sind, wird der Element-Bonus erhöht. Negiert Ele. Bonus für andere Elemente.
+
+光属性ボーナス特大アップ=Verstärkter Lichtelement-Bonus
+光属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。光属性以外の属性ボーナスを無効化する。=Wenn vier oder mehr Licht-Charaktere in der Gruppe sind, wird der Element-Bonus erhöht. Negiert Ele. Bonus für andere Elemente.
+
+闇属性ボーナス特大アップ=Verstärkter Dunkelelement-Bonus
+闇属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。闇属性以外の属性ボーナスを無効化する。=Wenn vier oder mehr Dunkel-Charaktere in der Gruppe sind, wird der Element-Bonus erhöht. Negiert Ele. Bonus für andere Elemente.
+
+ＨＰ吸収ダウン=KP-Abfluss ↓
+バトル開始時、すべてのキャラのＨＰ吸収を大ダウンさせる。=Zu Kampfbeginn ist der KP-Abfluss aller Charaktere stark verringert.
+
+深域モンスター=Tiefzonenmonster
+すべてのモンスターが一度の行動で受けるダメージ値を減衰させる。ダメージ値が上昇するほど減衰率も上昇する。=Alle Feinde erleiden bei einem einzigen Treffer weniger Schaden. Die Schadensreduzierung steigt proportional zum verursachten Schaden.
+
+物理防御力（ダウン不可）アップ=Physische Verteidigung ↑ (nicht entfernbar)
+バトル開始時、すべてのモンスターの物理防御力を中アップさせる。この効果は物理防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen moderaten Schub an P.VER. Dieser Boost wird nicht von P.VER-Reduktionseffekten beeinflusst.
+
+魔法防御力（ダウン不可）アップ=Magische Verteidigung ↑ (nicht entfernbar)
+バトル開始時、すべてのモンスターの魔法防御力を中アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen moderaten Boost auf M.VER. Dieser Boost wird nicht von M.VER-Reduktionseffekten beeinflusst.
+
+バトル開始時、すべてのモンスターの魔法防御力を大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen großen Schub an M.VER. Dieser Boost wird nicht von M.VER-Reduktionseffekten beeinflusst.
+バトル開始時、すべてのモンスターの物理防御力を大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen großen Schub an P.VER. Dieser Boost wird nicht von P.VER-Reduktionseffekten beeinflusst.
+バトル開始時、すべてのモンスターの魔法防御力を特大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen massiven Schub an M.VER. Dieser Boost wird nicht von M.VER-Reduktionseffekten beeinflusst.
+バトル開始時、すべてのモンスターの物理防御力を特大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Zu Kampfbeginn erhalten alle Feinde einen massiven Schub an P.VER. Dieser Boost wird nicht von P.VER-Reduktionseffekten beeinflusst.
+
+ＴＰ上昇上限付与=Maximaler TP-Boost
+バトル開始時、すべてのキャラのＴＰ上昇の上限値を150にする。=Zu Kampfbeginn ist der maximale TP-Boost für alle Charaktere auf 150 begrenzt.
+
+
+バトル開始時、すべてのキャラに火傷状態を付与する。=Zu Kampfbeginn werden alle Charaktere mit einem Verbrennungszustand belegt.
+火傷付与=Brennende
+バトル開始時、すべてのキャラのＴＰ上昇を特大ダウンさせる。=Zu Kampfbeginn wird der TP-Boost aller Charaktere um einen großen Betrag verringert.
+ＴＰ上昇ダウン=TP-Boost ↓
+バトル開始時、すべてのキャラの魔法防御力を大ダウンさせる。=Zu Kampfbeginn wird die M.VER aller Charaktere stark reduziert.
+魔法防御力ダウン=Magische Verteidigung ↓
+バトル開始時、すべてのキャラのＨＰ回復量を特大ダウンさせる。=Zu Kampfbeginn wird die KP-Wiederherstellung aller Charaktere um einen erheblichen Betrag verringert.
+ＨＰ回復量ダウン=KP-Wiederherstellung ↓
+
+最大ＨＰダウン=Max-KP ↓
+バトル開始時、すべてのキャラの最大ＨＰを30％ダウンさせる。=Zu Kampfbeginn wird die maximale KP aller Charaktere um 30% verringert.
+バトル開始時、すべてのキャラに毒状態を付与する。=Zu Kampfbeginn sind alle Charaktere vergiftet.
+毒付与=Vergiftungen
+バトル開始時、すべてのモンスターの行動速度を特大アップさせる。=Erhöht zu Kampfbeginn massiv die Aktionsgeschwindigkeit aller Monster. 
+行動速度アップ=Aktionsbeschleunigung
+バトル開始時、すべてのモンスターのＴＰを特大回復。=Wenn der Kampf beginnt, werden die TP aller Monster massiv wiederhergestellt.
+ＴＰ回復=TP-Wiederherstellung
+バトル開始時、すべてのキャラの物理攻撃力を大ダウンさせる。=Zu Kampfbeginn wird die P.ANG aller Charaktere stark verringert.
+物理攻撃力ダウン=Physische Angriffsleistung ↓
+バトル開始時、すべてのキャラの魔法攻撃力を大ダウンさせる。=Zu Kampfbeginn wird die M.ANG aller Charaktere stark verringert.
+魔法攻撃力ダウン=Magische Angriffskraft ↓
+バトル開始時、すべてのモンスターの行動速度を大アップさせる。=Erhöht zu Kampfbeginn die Aktionsgeschwindigkeit aller Monster erheblich. 
+バトル開始時、すべてのキャラの行動速度を大ダウンさせる。=Verringert zu Kampfbeginn die Aktionsgeschwindigkeit aller Charaktere erheblich.
+行動速度ダウン=Aktionsgeschwindigkeit ↓
+バトル開始時、すべてのキャラの物理防御力を大ダウンさせる。=Zu Kampfbeginn wird die P.VER aller Charaktere stark reduziert.
+物理防御力ダウン=Physische Verteidigung ↓
+
+
+バトル開始時、すべてのモンスターに継続ＴＰ中回復状態を付与する。=Gewährt zu Kampfbeginn allen Monstern eine kontinuierliche TP-Medium-Erholung.
+継続ＴＰ回復=Kontinuierliche TP-Wiederherstellung
+バトル開始45秒後、すべてのキャラの物理防御力を大ダウンさせる。=45 Sekunden nach Kampfbeginn wird die physische Verteidigung aller Charaktere stark reduziert.
+バトル中物理防御力ダウン=Körperliche Verteidigung während des Kampfes verringert
+バトル開始45秒後、すべてのキャラの魔法防御力を大ダウンさせる。=45 Sekunden nach Kampfbeginn wird die magische Verteidigung aller Charaktere stark reduziert.
+バトル中魔法防御力ダウン=Magieabwehr während des Kampfes verringert
+
+バトル中、「全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効」、「魔法攻撃力ダウン」効果が発動する。=Während des Kampfes werden die Effekte „Alle Statuskrankheiten ↓, Stat-Boost-Effekte ↓ und Aktionsgeschwindigkeit ↓“ und „Magische Angriffskraft ↓“ ausgelöst.
+危険領域=Gefahrenzone
+すべてのモンスターが全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効になる。=Alle Monster sind unwirksam gegen alle Statusverschlechterungen, Statuserhöhungseffekte, Annullierung und Herabsetzung der Aktionsgeschwindigkeit.
+状態異常・アップ効果解除・速度ダウン無効=Statuskrankheiten, Aufwärtseffekt bannen, Geschwindigkeit ↓ ungültig
+バトル開始時、すべてのキャラの魔法攻撃力を絶大ダウンさせる。=Zu Kampfbeginn wird die magische Angriffskraft aller Charaktere stark verringert.
+
+強化素材リセット=Verstärkungsmaterials-Reset
+同属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。=Wenn vier oder mehr Charaktere desselben Elements in einem Team sind, wird der Elementbonus des Charakters erhöht.
+全属性ボーナス特大アップ=Massiver Anstieg aller Attributboni
+
+ボスモンスターの行動パターンが変化する。=Die Verhaltensmuster des Bossmonsters ändern sich.
+ボス行動パターン変化=Verhaltensmuster des Bosses ändern
+
+魔法無効バリア=Schranke zur Aufhebung von Magie
+バトル開始時、すべてのシャドウに物理無効バリアを展開する。=Setze bei allen Schatten zu Kampfbeginn eine physische Invaliditätsbarriere ein.
+物理無効バリア=Physisches Hindernis für die Annullierung
+バトル開始時、すべてのシャドウに魔法無効バリアを展開する。=Einsatz einer Magie-Nullifizierungsbarriere für alle Schatten zu Kampfbeginn.
+
+バトル中、「反撃バリア」効果が発動する。=Während des Kampfes wird der Effekt „Gegen Barriere“ aktiviert.

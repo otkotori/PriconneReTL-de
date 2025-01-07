@@ -1,0 +1,80 @@
+プリンセスナイト強化=Prinzessin-Ritter
+
+プリンセスナイト=Prinzessin-Ritter
+強化詳細=Erweiterungsinfo
+強化Lv=Verbesserung-St.
+属性レベル=Elementar-Stufe
+属性スキル=Elementare-Fähigkeit
+マスタースキル=Meisterhafte-Fertigkeit
+火属性攻撃力=Feuerattribut-Macht
+水属性攻撃力=Wasserrattribut-Macht
+風属性攻撃力=Windattribut-Macht
+光属性攻撃力=Lichtattribut-Macht
+闇属性攻撃力=Dunkelattribut-Macht
+
+未強化=Unverbessert
+このノードは強化済みです。=Dieser Knotenpunkt wurde verstärkt.
+所持シャード=Gehaltene Stücke
+消費シャード=Scherbenkosten
+ノード詳細=Knoten-Infos
+選択したノードの強化詳細です。\n未強化の前提ノードは自動で強化されます。=Dies sind die Info der Verstärkung des ausgewählten Knotens. Das nicht verstärkte Knoten wird automatisch verstärkt.
+強化済みです。=Sie wurde gestärkt.
+強化可能なノードがありません。=Es gibt keine Knotenpunkte, die verstärkt werden können.
+消費マスターピース=MS-Kosten
+所持マスターピース=Gehaltene MS
+所持マスターピース(欠片)=Gehaltene MS (Stücke)
+消費マスターピース(欠片)=MS-Kosten (Stücke)
+
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$1s $2 erhöht um [FFBB00,CE4F00]$3[-].[-]
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?(?:\r)?\n(?:\[3C404E\])?(.+)?の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$1s $2 erhöht um [FFBB00,CE4F00]$3[-].\n$4s $5 erhöht um [FFBB00,CE4F00]$6[-].[-]
+
+魔法与ダメージ=Magische Schäden
+物理与ダメージ=Physische Schäden
+ＴＰ上昇強化=TP-Boost ↑
+属性ボーナス強化=Elementarbonus ↑
+物理攻撃力強化=P.ANG ↑
+魔法攻撃力強化=M.ANG ↑
+
+ＨＰ強化=Max-KP ↑
+HP吸収強化=KP-Abfluss ↑
+HP自動回復強化=KP-Regeneration ↑
+TP自動回復強化=TP-Regenerierung ↑
+TP消費軽減強化=TP-Behalten ↑
+物理防御力強化=P.VER ↑
+魔法防御力強化=M.VER ↑
+魔法与ダメージ強化=Magieschaden ↑
+物理与ダメージ強化=Physischer ↑
+物理クリティカルダメージ強化=Physischer kritischer Schaden ↑
+魔法クリティカルダメージ強化=Magischer kritischer Schaden ↑
+物理クリティカル強化=P.KRIT-Satz ↑
+魔法クリティカル強化=M.KRIT-Satz ↑
+回復量上昇強化=Heilungsbonus ↑
+命中強化=Genauigkeit ↑
+回避強化=Ausweichen ↑
+魔法クリティカルダメージ=M.KRIT-ANG
+魔法クリダメ強化=M.KRIT-ANG ↑
+物理クリティカルダメージ=P.KRIT-ANG
+物理クリダメ強化=P.KRIT-ANG ↑
+物理・魔法クリティカル強化=P.KRIT-Satz und M.KRIT-Satz ↑
+物理・魔法防御力強化=P.VER und M.VER ↑
+物理・魔法攻撃力強化=P.ANG und M.ANG ↑
+物理・魔法クリティカルダメージ強化=P.KRIT-ANG and M.KRIT-ANG ↑
+
+強化地点へ=Aktuelle\nKnoten
+
+強化可能なマスタースキル=Verbesserungsfähige Meisterfertigkeit
+以下のノードの強化を実行しますか？=Möchten Sie die folgenden Knotenerweiterungen vornehmen?
+
+属性攻撃力=Elementare ANG-Kraft
+火属性の強化詳細=Feuer-Elementar-Verstärkung
+水属性の強化詳細=Wasser-Elementar-Verstärkung
+風属性の強化詳細=Wind-Elementar-Verstärkung
+光属性の強化詳細=Licht-Elementar-Verstärkung
+闇属性の強化詳細=Dunkel-Elementar-Verstärkung
+
+強化内容がありません。=Es gibt keine Erweiterungen.
+ノードをすべて強化すると解放されます。=Verbessern Sie alle Knotenpunkte, um sie freizuschalten.
+前提ノードの強化が必要です。=Sie müssen die vorausgesetzten Knoten erweitern.
+
+強化可能な属性スキル=Verbesserungswürdige Elementar-Fertigkeiten
+r:"^\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ\[-\]$"=[FFBB00,CE4F00]+$1[-]
