@@ -1,0 +1,37 @@
+自身の物理攻撃力と物理防御力と魔法防御力を特大アップさせ、ＴＰを中回復する。=Erhöht die eigene P.ANG, P.VER und M.VER massiv und stellt mäßig TP wieder her.
+通常攻撃は、最も近い敵１キャラを中心にした小範囲内の敵最大２キャラに物理特大ダメージを与える。=Normaler Angriff fügt bis zu 2 Gegnern in einem kleinen Bereich, der auf den nächstgelegenen gegnerischen Charakter zentriert ist, massive P.SCH zu.
+ユニオンバーストは、最も近い敵１キャラを中心にした小範囲に物理特大ダメージを与える。その後、敵全体にこのスキルで与えたダメージ量に応じた物理ダメージを与える。このスキルによる全体ダメージでは、ＴＰが回復しない。=Union Burst fügt Gegnern in einem kleinen Bereich, der auf den nächstgelegenen gegnerischen Charakter zentriert ist, massive P.DMG zu. Danach fügt er allen Gegnern P.SCH zu, basierend auf dem Schaden, den diese Fertigkeit verursacht. Dieser Gesamtschaden stellt keine TP wieder her.
+フラワーシュバリエから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Verringert die TP-Wiederherstellungsrate von Gruppencharakteren mäßig von allen Schäden, die von Flower Chevalier erlitten werden.
+バトル開始時、敵全体にＴＰ上昇上限効果を付与する。=Wendet zu Beginn des Kampfes einen TP-Limit-Effekt auf alle Feinde an.
+環境効果【百花繚乱】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。=Umgebungseffekt: [Myriade der Vollblüte], der auf alle Feinde und Verbündeten wirkt. In regelmäßigen Abständen, mäßig erholt TP für alle Feinde und Verbündete.
+
+百花繚乱=Myriade der Vollblüte
+一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。=Stellt in regelmäßigen Abständen mäßig TP für alle Feinde und Verbündeten wieder her.
+
+環境効果【炎天烈日】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。=Umgebungseffekt: [Versengende Sonne] Fügt allen Feinden und Verbündeten in regelmäßigen Abständen prozentualen Schaden von bis zu 200.000 basierend auf den maximalen KP zu. Erhöht außerdem den zugefügten Dauerschaden.
+
+炎天烈日=Versengende Sonne
+一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。=Fügt allen Feinden und Verbündeten in regelmäßigen Abständen prozentualen Schaden von bis zu 200.000 auf Basis der maximalen KP zu. Erhöht zusätzlich den zugefügten Dauerschaden.
+バロン・ファンガス=Baron-Pilz
+環境効果【秋高馬肥】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。=Umgebungseffekt: [Herbsternte], der auf alle Feinde und Verbündeten wirkt. Erhöht in regelmäßigen Abständen die P.ANG, M.ANG, P.VER und M.VER aller Feinde und Verbündeten. Die Erhöhung basiert auf der Gesamtzahl der Feinde und Verbündeten.
+バロン=Baron
+ファンガスから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Verringert die TP-Wiederherstellungsrate von Gruppencharakteren mäßig durch den von Fungus erlittenen Schaden.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージを与える。さらに、キャラのＨＰが40％未満のキャラを混乱状態にする。このスキルによるダメージでは、ＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Verursacht prozentuale P.SCH bei allen Gegnern, basierend auf der eigenen P.ANG. Zusätzlich verwirrt sie Charaktere mit KP unter 40%. Der Schaden dieser Fertigkeit stellt keine TP wieder her. Der Statuseffekt wird auch dann angewendet, wenn der Schaden aufgehoben wird.
+前方範囲内の敵に混乱状態を付与し、味方全体の物理防御力と魔法防御力をバトル終了まで大アップさせる。=Verursacht Verwirrung bei Gegnern im Frontbereich und erhöht die P.VER und M.VER aller Verbündeten bis zum Ende des Kampfes erheblich.
+子分を４体召喚し、敵全体をノックバックさせる。子分は前から１番目の敵キャラに物理中ダメージを与える。=Ruft 4 Schergen herbei und wirft alle Feinde zurück. Die Schergen fügen dem vordersten gegnerischen Charakter mäßige P.SCH zu.
+化け茸を統べる気高きキノコの貴族。幻覚性の胞子をまき散らし、敵の精神を侵食する。=Ein edler Pilz, der über die Verhexten Pilze herrscht und halluzinogene Sporen verbreitet, um den Verstand der Feinde zu zerstören.
+
+秋高馬肥=Herbsternte
+一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。=Erhöht in regelmäßigen Abständen die P.ANG, M.ANG, P.VER und M.VER aller Feinde und Verbündeten. Der Effekt erhöht sich mit der Gesamtzahl der Feinde und Verbündeten.
+
+トウミングマ=Lebendgebärende
+生涯冬眠すると決め、氷穴に篭る巨大熊。日々を夢の中で暮し、獲物を狩る一瞬、覚醒する。=Ein riesiger Bär, der beschließt, einen Winterschlaf zu halten und in einer Eishöhle zu leben. Er lebt seine Tage in Träumen und erwacht nur kurz, um seine Beute zu jagen.
+環境効果【寒気凛冽】を発動する。このスキルの効果は敵、味方すべてに適用される。敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。=Umgebungseffekt: [Scharfe Kälte], Gilt für alle Feinde und Verbündeten und reduziert ihr Aktionstempo leicht. Dieser Effekt ist mit anderen Änderungen der Aktionsgeschwindigkeit stapelbar. Zusätzlich friert er in regelmäßigen Abständen Charaktere ein, deren Aktionstempo niedriger ist als der Ausgangswert.
+トウミングマから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Verringert die TP-Wiederherstellungsrate von Gruppencharakteren mäßig von allen Schäden, die durch Hibearnating erlitten werden.
+ユニオンバーストは、敵全体に魔法大ダメージを与える。さらに、敵全体の物理攻撃力、魔法攻撃力、行動速度を大ダウンさせる。このスキルによるダメージでは、敵のＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst fügt allen Feinden massive M.SCH zu. Zusätzlich werden die P.ANG, M.ANG und die Aktionsgeschwindigkeit aller Feinde stark reduziert. Der Schaden dieser Fertigkeit stellt keine gegnerischen TP wieder her. Der Statuseffekt bleibt bestehen, auch wenn der Schaden aufgehoben wird.
+前方３キャラに物理小ダメージを与える。さらに、前方１キャラをノックバックし、凍結状態にして移動速度を下げる。このスキルの状態異常はダメージを無効化しても付与される。=Fügt den 3 nächstgelegenen Charakteren geringe P.SCH zu. Zusätzlich wird der nächstgelegene Charakter zurückgestoßen, eingefroren und seine Bewegungsgeschwindigkeit verringert. Der Statuseffekt dieser Fertigkeit wird auch dann angewendet, wenn der Schaden aufgehoben wird.
+
+寒気凛冽=Scharfe Kälte
+敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。=Verringert das Aktionstempo aller Feinde und Verbündeten geringfügig. Dieser Effekt ist mit anderen Änderungen der Aktionsgeschwindigkeit stapelbar. Zusätzlich werden in regelmäßigen Abständen Charaktere eingefroren, deren Aktionsgeschwindigkeit niedriger als der Ausgangswert ist.
+
+

@@ -1,0 +1,11 @@
+ポセイドン・海神の剣=Poseidon: Meeresgott-Schwert
+ポセイドン・雷撃の槍=Poseidon: Blitzspeer
+ポセイドン・激波の拳=Poseidon: Wütende Wellenfaust
+ポセイドン・嵐撃の槍=Poseidon: Sturmspeer
+ポセイドン・大洋の杖=Poseidon: Ozeanstab
+
+[FFBB00,CE4F00]ポセイドン・海神の剣[-]=[FFBB00,CE4F00]Poseidon: Meeresgott-Schwert[-]
+[FFBB00,CE4F00]ポセイドン・雷撃の槍[-]=[FFBB00,CE4F00]Poseidon: Blitzspeer[-]
+[FFBB00,CE4F00]ポセイドン・激波の拳[-]=[FFBB00,CE4F00]Poseidon: Wütende Wellenfaust[-]
+[FFBB00,CE4F00]ポセイドン・嵐撃の槍[-]=[FFBB00,CE4F00]Poseidon: Sturmspeer[-]
+[FFBB00,CE4F00]ポセイドン・大洋の杖[-]=[FFBB00,CE4F00]Poseidon: Ozeanstab[-]

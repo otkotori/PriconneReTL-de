@@ -1,0 +1,10 @@
+アルティマガーディアン=Ultimawächter
+ハイ・ガルグ=Hallo Garg
+カース・オラム=Fluch Oram
+エレクトロ・ギガス=Elektrogigas
+壊乱の黒鎧騎士=Ritter in schwarzer Rüstung
+白陽の守護像=Weiße Sonnenwächterstatue
+黒月の守護像=Schwarze Mondwächter-Statue
+
+モンスター詳細一覧=Liste der Monsterdetails
+

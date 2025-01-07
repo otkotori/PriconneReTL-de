@@ -1,0 +1,47 @@
+sr:"^【(物理|魔法|回復|ＭＯＤＥ１|ＭＯＤＥ２|ＭＯＤＥ３)】(【.+?】)?(【.+?】)?(一定時間無敵)?\n?\n?・?(物理|前衛|中距離攻撃|近接攻撃|近接攻撃ハイ|近距離攻撃|遠距離攻撃|範囲攻撃|中衛|範囲回復|単体回復|全体回復|単体ＴＰ回復|単体継続回復|全体継続回復|ＨＰ・ＴＰ回復|攻撃力ダウン|ダメージカット|物理・魔法範囲攻撃|防御力ダウン)?\n?(.+・[\s\S]+?|[^・]+)(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?(?:\n?\n?(\n・)([^・]+物理\n?\n?・魔法[^・]+(?:・魔法[^・]+)?|.+・.+|[^・]+))?$"=[$1]$2$3 $6$5$4$7$8$9$10$11$12$13$14$15$16$17$18$19$20$21$22$23$24$25$26$27$28$29$30$31$32$33$34$35$36$37$38$39$40
+
+ＭＯＤＥ１=Modi 1
+ＭＯＤＥ２=Modi 2
+ＭＯＤＥ３=Modi 3
+物理=Physisch
+魔法=Magie
+回復=Heiler
+【補助】=[Hilfe]
+【召喚】=[Beschwören]
+【防御】=[Tankwagen]
+【範囲】=[Bereich]
+【魔法防御】=[Magische Tanker]
+【物理防御】=[Physischer Tanker]
+【中距離】=[Mittelklasse]
+【妨害】=[Obstruktion]
+【遠距離】=[Große Klasse]
+
+一定時間無敵=\n►Unbesiegbar für eine bestimmte Zeit.
+中距離攻撃=\n►Mittlere Angriffsreichweite.
+近接攻撃=\n►Angriff aus der Nähe.
+近接攻撃ハイ=\n►Angriff aus der Nähe.
+近距離攻撃=\n►Angriff aus der Nähe.
+遠距離攻撃=\n►Angriff aus der Ferne.
+範囲攻撃=\n►Gebietsangriff.
+
+範囲回復=\n►Gebietsheilen.
+単体回復=\n►Einzelziel-Heilung.
+全体回復=\n►Vollständige Wiederherstellung.
+単体ＴＰ回復=\n►Einzelziel-TP-Wiederherstellung.
+単体継続回復=\n►Einzelziel-Regeneration.
+全体継続回復=\n►Kontinuierliche Erholung für alle.
+ＨＰ・ＴＰ回復=\n►KP/TP-Wiederherstellung.
+攻撃力ダウン=\n►Angriffsleistung verringern.
+ダメージカット=\n►Schadensschneider.
+物理・魔法範囲攻撃=\n►Angriff mit physischer/magischer Reichweite.
+防御力ダウン=\n►Verteidigung unten.
+
+後ろから３番目攻撃=Greife den 3. Feind von hinten an.
+後ろから２番目攻撃=Greife den 2. Feind von hinten an.
+後ろから３番目中心範囲攻撃=Flächenangriff 3. Feind von hinten.
+近接２体攻撃=Angriff auf den 2. vorderen Feind.
+全体魔攻アップ=Erhöht die M.ANG des Verbündeten.
+全体防御力ダウン=Senkt den P.VER aller Feinde.
+全体防御力ダウン（ダメージ無効化時も付与）=Senkt die P.VER aller Feinde (gilt auch, wenn der Schaden aufgehoben wird).
+近接攻撃、ノックバック（ダメージ無効化時も付与）=Nahkampfangriff, Rückstoß (gilt auch, wenn der Schaden zunichte gemacht wird).
+r:"^与えるダメージによるＴＰ回復量(\d+)％ダウン$"=$1% Verringerung der TP-Wiederherstellungsmenge aufgrund von erlittenem Schaden.

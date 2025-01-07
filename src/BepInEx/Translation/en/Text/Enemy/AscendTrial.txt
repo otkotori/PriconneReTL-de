@@ -1,0 +1,18 @@
+シールド・レリック=Schildreliquie
+ブレイク・レリック=Bruchrelikt
+ボム・レリック=Bombenrelikt
+
+ヒール・レリック=Heilrelikt
+シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Ein Wächter der Erinnerungen, der das Heiligtum neben den Schatten schützt. Er stellt diejenigen, die nach wahrer Macht streben, vor geeignete Prüfungen.
+自身以外の味方全体にＨＰとＴＰ継続回復状態を付与し、物理防御力と魔法防御力をアップさせる。=Gewährt allen Verbündeten außer sich selbst den Status der KP- und TP-Regeneration und erhöht ihre P.VER und M.VER.
+
+カーズ・レリック=Autos-Relikt
+敵全体に毒状態を付与し、ＨＰ吸収とＨＰ回復　量をダウンさせる。=Verursacht bei allen Gegnern einen Giftstatus, der die KP-Absorption und die KP-Wiederherstellung reduziert.
+
+アタック・レリック=Angriffsrelikt
+敵の挑発を無視して、最も遠い敵１キャラに１００万の魔法固定ダメージを与える。このスキルを使用するたび、次のスキルを使用するまでの時間が短くなる。=Ignoriert gegnerische Provokationen und fügt dem am weitesten entfernten gegnerischen Charakter 1.000.000 feste M.SCH zu. Jedes Mal, wenn diese Fertigkeit eingesetzt wird, verringert sich die Zeit, bis die nächste Fertigkeit eingesetzt werden kann.
+
+敵の挑発を無視して、最も遠い敵１キャラに５万の魔法固定ダメージを与える。このスキルを使用するたび、次のスキルを使用するまでの時間が短くなる。=Ignoriert gegnerische Provokationen und fügt dem am weitesten entfernten gegnerischen Charakter 50.000 feste M.SCH zu. Jedes Mal, wenn diese Fertigkeit eingesetzt wird, verringert sich die Zeit, bis die nächste Fertigkeit eingesetzt werden kann.
+
+味方全体に物理魔法ダメージカット効果を付与する。さらに、自身以外のダメージを受けている味方に無敵状態を付与し、物理攻撃力と魔法攻撃力をアップさせる。=Verleiht allen Verbündeten einen Effekt zur Reduzierung von physischem und magischem Schaden. Zusätzlich gewährt er Verbündeten, die Schaden erleiden, Unbesiegbarkeit, während er ihre physische und magische Angriffskraft erhöht.
+

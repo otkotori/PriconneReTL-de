@@ -1,0 +1,106 @@
+毒=Gift
+猛毒=Venom
+
+呪い=Fluch
+呪詛=Hexe
+火傷=Verbren.
+
+誘惑=Charme
+スタン=Betäubung
+束縛=Binde
+混乱=Verwirrung
+
+ユニオンバーストは=Union Burst: 
+ユニオンバーストは、=Union Burst: 
+敵全体=alle feinde
+前方範囲内の敵=Bereich der vorderen Feinde
+前方範囲内=Frontbereich
+前方範囲内のキャラ=Vorderer Bereich des Charakters
+
+前方小範囲の敵=Kleines Fiendgebiet
+前方中範囲の敵=Mittleres Feindgebiet
+
+最も近い敵１キャラ=nächstgelegenes Zeichen
+最も近い敵２キャラ=nächstgelegenes 2 Zeichen
+最も近い敵３キャラ=nächstgelegenes 3 Zeichen
+最も近い敵４キャラ=nächstgelegenes 4 Zeichen
+最も近い敵５キャラ=nächstgelegenes 5 Zeichen
+最も遠い敵１キャラ=weitesten entfernten Zeichen
+最も遠い敵２キャラ=die 2 am weitesten entfernten Zeichen
+最も遠い敵３キャラ=die 3 am weitesten entfernten Zeichen
+最も遠い敵４キャラ=die 4 am weitesten entfernten Zeichen
+最も遠い敵５キャラ=die 5 am weitesten entfernten Zeichen
+前方１キャラ=vorderstes Zeichen
+前方２キャラ=2 Zeichen auf der Vorderseite
+前方３キャラ=3 Zeichen auf der Vorderseite
+前方４キャラ=4 Zeichen auf der Vorderseite
+前方５キャラ=5 Zeichen auf der Vorderseite
+前から２キャラ=2. Zeichen von vorne
+前から３キャラ=3. Zeichen von vorne
+前から４キャラ=4. Zeichen von vorne
+前から５キャラ=5. Zeichen von vorne
+ランダムな１キャラ=1 zufällige Zeichen
+ランダムな２キャラ=2 zufällige Zeichen
+ランダムな３キャラ=3 zufällige Zeichen
+ランダムな４キャラ=4 zufällige Zeichen
+ランダムな５キャラ=5 zufällige Zeichen
+最も近い敵1キャラ=die nächsten Zeichen
+最も近い敵2キャラ=die nächsten 2 Zeichen
+最も近い敵3キャラ=die nächsten 3 Zeichen
+最も近い敵4キャラ=die nächsten 4 Zeichen
+最も近い敵5キャラ=die nächsten 5 Zeichen
+最も遠い敵1キャラ=weitesten entfernten Zeichen
+最も遠い敵2キャラ=die 2 am weitesten entfernten Zeichen
+最も遠い敵3キャラ=die 3 am weitesten entfernten Zeichen
+最も遠い敵4キャラ=die 4 am weitesten entfernten Zeichen
+最も遠い敵5キャラ=die 5 am weitesten entfernten Zeichen
+前方1キャラ=vorderstes Zeichen
+前方2キャラ=2 Zeichen auf der Vorderseite
+前方3キャラ=3 Zeichen auf der Vorderseite
+前方4キャラ=4 Zeichen auf der Vorderseite
+前方5キャラ=5 Zeichen auf der Vorderseite
+前から2キャラ=2. Zeichen von vorne
+前から3キャラ=3. Zeichen von vorne
+前から4キャラ=4. Zeichen von vorne
+前から5キャラ=5. Zeichen von vorne
+ランダムな1キャラ=1 zufällige Zeichen
+ランダムな2キャラ=2 zufällige Zeichen
+ランダムな3キャラ=3 zufällige Zeichen
+ランダムな4キャラ=4 zufällige Zeichen
+ランダムな5キャラ=5 zufällige Zeichen
+後ろから２番目中心範囲攻撃=Zweiter von hinten, zentraler Raumangriff
+
+向かって右側=Rechte Seite
+中央=Zentrum
+中央右部=Zentrum rechts
+中央左部=Zentrum links
+向かって左側=linke Seite
+と=und
+
+このスキルの効果はダメージを無効化しても付与される。=Die Effekte dieser Fertigkeit werden auch dann angewendet, wenn der Schaden zunichte gemacht wird.
+
+sr:"^(向かって右側|中央右部|中央左部|中央|向かって左側)のターゲットのブレイク時、(?:\n　)?自身の(.{2,5})(と)?(.{2,5})?が(極大|絶大|特大|大|中|小|大幅)ダウン(?:する)?。\n?$"=Nach dem Bruch des $1-Ziels verringert sich sein eigenes $2$3$4 um einen Betrag von $5.
+
+sr:"^(.{2,20})から受けるすべてのダメー\n?　?ジ\n?　?で\n?　?は\n?　?、\n?　?パーティキャラのＴＰが回復しない。\n?$"=Jeder Schaden von $1 verhindert die TP-Erholung von Gruppenmitgliedern.
+sr:"^(.{2,20})から受け(?:\n　)?る(?:\n　)?す(?:\n　)?べ(?:\n　)?て(?:\n　)?の(?:\n　)?ダ(?:\n　)?メ(?:\n　)?ー(?:\n　)?ジ(?:\n　)?で(?:\n　)?発(?:\n　)?生(?:\n　)?す(?:\n　)?る(?:\n　)?、(?:\n　)?パ(?:\n　)?ー(?:\n　)?テ(?:\n　)?ィ(?:\n　)?キ(?:\n　)?ャラ(?:\n　)?の(.{2,8})を(?:\n　)?(極(?:\n　)?大|絶(?:\n　)?大|特(?:\n　)?大|大|中|小|大(?:\n　)?幅)(?:\n　)?ダウンさせる。\n?$"=$3 verringert $2 der Gruppencharaktere mit jedem Schaden, den sie von $1 erhalten.
+
+sr:"^(ユニオンバーストは、?)?(敵全体|前方(?:小|中|大|)範囲内(?:の敵|のキャラ|)|(?:最も(?:近|遠)い敵.|前方.|前から.|ランダムな.)キャラ)に(物理|魔法)(極大|絶大|特大|大|中|小|大幅)ダメージを与え、(猛毒|毒|呪い|呪詛|火傷|誘惑|スタン|束縛|混乱)状態にする。\n?$"=$1verursacht $4 $3 SCH beim $2 und fügt $5 Zustand zu.
+
+最も近い敵１キャラに、物理大ダメージを与え\n　る。\n
+sr:"^(ユニオンバーストは、?)?(敵全体|前方(?:小|中|大|)範囲内(?:の敵|のキャラ|)|(?:最も(?:近|遠)い敵.|前方.|前から.|ランダムな.)キャラ)に、(物理|魔法)(極大|絶大|特大|大|中|小|大幅)ダ(?:\n　)?メ(?:\n　)?ー(?:\n　)?ジ(?:\n　)?を(?:\n　)?与(?:\n　)?え(?:\n　)?る。\n?$"=$1Geschäfte $4 $3 SCH zum $2
+
+シロクジラは環境効果によるダメー\n　ジを受けない。\n
+sr:"^(.{2,20})は環境効果によるダ(?:\n　)?メ(?:\n　)?ー(?:\n　)?ジ(?:\n　)?を(?:\n　)?受(?:\n　)?け(?:\n　)?な(?:\n　)?い。\n?$"=$1 sind immun gegen Schäden durch Umwelteinflüsse.
+
+r:"^バトル開始時、自身にＴＰダウン(\d+)％カット効果を付与する。\n?$"=Gewährt sich zu Beginn des Kampfes einen um $1% verringerten TP-↓-Effekt.
+
+最もＨＰの割合が低い味方１キャラのＨＰを中回復させる。=Stellt die HP eines Verbündeten mit dem niedrigsten HP-Anteil mäßig wieder her.
+
+ワイバーンから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を特大ダウンさせる。
+sr:"^(.*)から受けるすべてのダメージで(?:\n　)?発(?:\n　)?生(?:\n　)?す(?:\n　)?る(?:\n　)?、(?:\n　)?パ(?:\n　)?ー(?:\n　)?テ(?:\n　)?ィ(?:\n　)?キ(?:\n　)?ャ(?:\n　)?ラ(?:\n　)?の(?:\n　)?Ｔ(?:\n　)?Ｐ(?:\n　)?回(?:\n　)?復(?:\n　)?量(?:\n　)?(?:が|を)(?:\n　)?(極大|絶大|特大|大|中|小|大幅)(?:\n　)?ダ(?:\n　)?ウ(?:\n　)?ン(?:\n　)?(?:する|させる)?。$"=Verringert die TP-Wiederherstellungsrate von Gruppencharakteren um $2 von jedem erlittenen Schaden um $1.
+
+敵から受けるすべてのダメージで発生する、オルレオンのＴＰ回復量が大ダウンする。
+sr:"^敵から受けるすべてのダメージで発生する、(?:\n　)?(.*)のＴＰ回復量(?:が|を)(極大|絶大|特大|大|中|小|大幅)ダウン(?:する|させる)?。$"=Verringert den TP-Wiederherstellungsbetrag von $1 um $2 von allen erhaltenen Schäden.
+
+シロクジラから受けるすべてのダ\n　メージで発生する、パーティキャラのＴＰ回復\n　量を中ダウンさせる。\n
+(.{2,20})から受けるすべて(?:\n　)?の(?:\n　)?ダ(?:\n　)?メ(?:\n　)?ー(?:\n　)?ジ(?:\n　)?で(?:\n　)?発(?:\n　)?生(?:\n　)?す(?:\n　)?る(?:\n　)?、(?:\n　)?パ(?:\n　)?ー(?:\n　)?テ(?:\n　)?ィ(?:\n　)?キ(?:\n　)?ャ(?:\n　)?ラ(?:\n　)?の(?:\n　)?Ｔ(?:\n　)?Ｐ(?:\n　)?回(?:\n　)?復(?:\n　)?量(?:\n　)?(?:が|を)(?:\n　)?(極大|絶大|特大|大|中|小|大幅)(?:\n　)?ダ(?:\n　)?ウ(?:\n　)?ン(?:\n　)?(?:する|させる)?。=$2 verringert den TP-Rückerstattungsbetrag von allen erhaltenen Schäden, die durch alle erhaltenen Schäden von $1 verursacht wurden.

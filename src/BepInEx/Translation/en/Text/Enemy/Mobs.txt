@@ -1,0 +1,318 @@
+シャドウ=Schatten
+ウキキー=Ukiki
+
+ワッパダヌキ=Wappadanuki
+幼いながらも巧みな変化で攻守を必死にこなす豆狸の魔物。=Ein Tanuki-Monster, das trotz seines jungen Alters sein Bestes gab, um mit geschickten Wechseln anzugreifen und zu verteidigen.
+
+サンドワーム=Sandwurm
+砂地の地中で獲物を待ち、一気に大顎で仕留めるムカデの魔物=Ein Tausendfüßler-Monster, das im Sand auf seine Beute wartet und sie mit seinen Kieferzähnen auf einmal tötet.
+
+タビガラス=Tabiglas
+アストルム中の強い魔物を倒して回ったという放浪カラス。=Eine wandernde Krähe, die angeblich starke Monster in ganz Astrum besiegt hat.
+
+ビッグル=Biggle
+岩を食べられるほど頑丈な歯をもつ山の精霊。=Ein Berggeist mit Zähnen, die stark genug sind, um Felsen zu fressen.
+
+ウパルパ=Upalpa
+ヘドロの沼に棲み、口から強力な毒を吐く山椒魚の魔物。=Ein Pfefferfischmonster, das in Schlammsümpfen lebt und starkes Gift aus seinem Maul spuckt.
+
+イクト=Ikuto
+ルインドール=Ruindoll
+ガラディオンに付き従う古代の自動人形。意思を持たず、自身が瓦解するまで戦い続ける。=Ein uralter Automat, der Galadion folgt. Er ist willenlos und kämpft weiter, bis er auseinanderfällt.
+
+
+尾先の炎を燃やし続けることで常に躰を温めているトカゲの魔物。=Ein Echsenmonster, das seinen Körper durch das Brennen der Flamme an der Schwanzspitze ständig warm hält.
+サンドボア=Sandbore
+砂を固めて鎧のように纏うのは、捨て身を恐れない一族の戦士の証。=Sand zu härten und ihn wie eine Rüstung zu tragen, zeugt von den Kriegern des Clans, die sich nicht scheuen, sich zu opfern.
+
+ゴブリンリトル=Kleiner Kobold
+幼くも、勇猛な見習いゴブリン。非力を補う動きで、前線を駆ける。=Ein junger, aber tapferer Goblinlehrling. Um ihre Unfähigkeit zu kompensieren, rennt sie über die Frontlinien.
+
+スノウゴート=Schneeziege
+高山に住み、分厚い毛皮の下に、強靭な体を持つトナカイの魔物。=Ein Rentiermonster, das in den Bergen lebt und unter seinem dicken Fell einen starken Körper hat.
+
+ワイルドボア=Wildbohrung
+熱地に生きる、原始の大イノシシ。数多のマグマ岩を突き続けた先に、鎧をも砕く牙の一撃を体得した。=Ein primitives großes Wildschwein, das in einer heißen Region lebt. Nachdem er unablässig auf zahlreiche Magmafelsen eingeschlagen hatte, erhielt er einen Schlag mit seinen Reißzähnen, der eine Rüstung zerschmettern konnte.
+
+近接攻撃しなやかな枝を、ムチのように使い攻撃する木の魔物。=Ein Baummonster, das biegsame Äste wie eine Peitsche zum Angriff benutzt.
+
+イカリイカ=Ikariika
+イカリ頭のイカ魔物。金属質の錨は高硬度のかわりに重く、バランスを崩しよくひっくり返る。=Ein Tintenfischmonster mit einem Tintenfischkopf. Obwohl Metallanker hart sind, sind sie schwer und verlieren oft das Gleichgewicht und kippen um.
+
+アイスモール=Eis-Center
+発達したツメで氷を砕き攻撃する雪モグラの魔物。=Ein Schneemaulwurfmonster, das mit seinen entwickelten Klauen Eis bricht.
+
+カクタスフラワー=Kaktusblüte
+触ると痺れる針山を無限に飛ばしてくる、動くサボテン。=Ein beweglicher Kaktus, der unaufhörlich Nadelberge schießt und bei Berührung Taubheit verursacht.
+
+ロックフラワー=Felsenblume
+小石を弾丸のように飛ばして攻撃する、岩でできた動く花。=Eine sich bewegende Blume aus Stein, die angreift, indem sie kleine Steine wie Kugeln verschießt.
+
+ブルーゴーレム=Blauer Golem
+魔力を秘めた岩から生まれた、魔法耐性のあるゴーレム。=Ein magieresistenter Golem, der aus einem Stein mit verborgenen magischen Kräften geboren wurde.
+
+ハイオーク=Hoher Ork
+厳しい鍛錬を重ね、強靭な肉体を手に入れたオークの上位種。=Ein hochrangiger Ork, der durch wiederholtes hartes Training einen zähen Körper erworben hat.
+
+ウーピーオーク=Wahnsinniger Ork
+大人を真似て、楽器をたたく、悪戯好きなオークのこども。=Kindlicher Ork, der Erwachsene beim Spielen von Instrumenten nachahmt und gerne Streiche spielt.
+
+キラービー=Mörderische Biene
+脅威となる敵をいち早く察知し、的確に狙い穿つハチの魔物。=Ein bienenähnliches Monster, das bedrohliche Feinde schnell aufspürt und sie präzise durchbohrt.
+
+スパイククラブ=Spike-Club
+巨大なハサミと硬い殻が自慢のカニの魔物。砂に潜んで気長に獲物を待つ姿はどこか愛らしい。=Ein Krabbenmonster mit riesigen Zangen und einem harten Panzer. Es lauert im Sand und wartet geduldig auf Beute, was ihm ein etwas liebenswertes Aussehen verleiht.
+
+ゼラチナ=Zerachina
+物理攻撃が当たりにくいとってもヌルヌルなゼリーの魔物。=Ein gallertartiges Monster, das sehr glitschig ist, so dass physische Angriffe schwer zu treffen sind.
+とってもヌルヌルなゼリーの魔物。=Ein gallertartiges Ungeheuer, das sehr glitschig ist.
+
+ＨＰ高いキャラ攻撃、束縛　（ダメージ無効化時も付与）=Angriff eines Charakters mit hohen HP, bindend\n(auch gegeben, wenn der Schaden annulliert wird)
+ＨＰ高いキャラ攻撃、束縛\n　（ダメージ無効化時も付与）\n=Angriff eines Charakters mit hohen HP, bindend\n(auch gegeben, wenn der Schaden annulliert wird)
+
+ＴＰ高いキャラ攻撃、ＨＰ50％以下麻痺\n=Greift Charaktere mit den höchsten TP an, lähmt, wenn HP unter 50% liegt
+
+サラマンダー=Salamander
+尾先の炎を燃やし続けることで常に躰を温め、二連撃を繰り出すトカゲの魔物。=Ein echsenartiges Monster, das ständig die Spitze seines Schwanzes verbrennt, um sich warm zu halten, und einen Doppelangriff ausführt.
+
+マッドフラワー=Mudflower
+尾の花はひどい臭いを放つが、慣れると案外癖になるらしい。=Die Blume an ihrem Schwanz verströmt einen fürchterlichen Geruch, an den man sich aber offenbar gewöhnen kann und der sogar ein wenig süchtig macht.
+
+ランドスネーク=Landschlange
+穴を掘って獲物をじっと待ち、毒牙で確実に仕留めるヘビの魔物。=Ein Schlangenmonster, das Löcher gräbt und geduldig auf Beute wartet, um dann mit seinen Giftzähnen zuzuschlagen und zu töten.
+
+ファイヤーメイジ=Feuermagier
+地獄から呼び寄せた炎で魔法を飛ばす上級悪魔。=Ein hochstufiger Dämon, der aus der Hölle kommt und magische Angriffe mit beschworenen Flammen ausführt.
+
+ポイドン=Poydon
+するどいキバで咬みつき致命的な傷を残す毒トカゲの魔物。=Ein giftiges Echsenmonster, das mit seinen scharfen Reißzähnen tödliche Wunden zufügt.
+
+コドモオオトカゲ=Kind-Riesenechse
+小さくても強力な炎を吐く、こどものオオトカゲ。=Eine kindliche Riesenechse, die trotz ihrer geringen Größe mächtige Flammen speien kann.
+
+ワイズワンド=Weiser Zauberstab
+浴びれば凍える冷気の魔法で、戦意を奪うオウムガイ型の魔物。=Ein eulenförmiges Monster, das einen Zauberstab schwingt, der Gegner einfriert und sie ihres Kampfgeistes beraubt.
+
+クレイジードギー=Verrücktes Hündchen
+主人と共に生み出された、凶暴な改造犬。大きな頭を支えようと、必死な顔が殊更、怖い。=Ein wilder, genetisch veränderter Hund, der zusammen mit seinem Besitzer erschaffen wurde. Sein verzweifelter Blick, während er seinen großen Kopf stützt, macht ihn noch furchterregender.
+
+タツノコナイト=Tatsunoko-Ritter
+海で溺れた騎士の槍を奪い、縄張りを警備するタツノコの戦士。=Ein Krieger des Tatsunoko-Klans, der sein Territorium mit einer Lanze bewacht, die von einem Ritter gestohlen wurde, der im Meer ertrunken ist.
+
+ウェアウルフ=Werwolf
+するどいツメで敵を切り刻む、オオカミの魔物。=Ein wolfsähnliches Monster, das seine Gegner mit scharfen Klauen aufschlitzt.
+
+ゲートキーパー=Torwächter
+地獄のトビラを開き、火傷を伴う炎を吐きだす魔界の番人。=Ein Dämon der Unterwelt, der die Pforten der Hölle öffnet und Flammen spuckt, die von Verbrennungen begleitet werden.
+
+スカルフレイム=Schädelflamme
+地獄の炎をまとい、生者に襲い掛かる怨念の集合体。=Eine Ansammlung rachsüchtiger Geister, die von den Flammen der Hölle umhüllt sind und die Lebenden angreifen.
+
+ベニタケ=Benitoake
+煮込むと意外と美味いというウワサの歩くキノコ。=Ein Wanderpilz, der gekocht erstaunlich lecker sein soll.
+
+アルトバード=Altvogel
+癒しの歌声が遠くまでよく届くトリ魔物界の有名歌手。=Ein berühmtes vogelähnliches Monster in der magischen Welt, das für seine heilenden Gesänge bekannt ist, die weithin zu hören sind.
+
+ワイルドホーン=Wildhorn
+大きな角を攻撃にも防御にも使う、シカの魔物。=Ein hirschähnliches Ungeheuer, das seine großen Hörner sowohl zum Angriff als auch zur Verteidigung einsetzt.
+
+オーク=Orc
+倒した冒険者の鎧をまとい斧を振り回す凶暴な森の獣人。=Eine wilde humanoide Kreatur aus dem Wald, die die Rüstung besiegter Abenteurer trägt und eine Axt schwingt.
+
+バットケイブ=Bathöhle
+洞窟に棲み、獲物の足音を聞いて襲い掛かる、コウモリの魔物。=Ein fledermausähnliches Monster, das sich in Höhlen aufhält und seine Beute angreift, sobald es deren Schritte hört.
+
+グラスリザード=Graseidechse
+葉っぱの襟巻が鮮やかなトカゲ魔物界のオシャレ番長。=Ein stilvolles Echsenmonster aus der magischen Welt, das sich durch seinen leuchtenden Blätterkragen auszeichnet.
+
+ゴブリンガード=Koboldwache
+身の丈ほどもある、巨大な盾で仲間を護る見習いゴブリン兵。=Ein Goblinsoldat in der Ausbildung, der seine Verbündeten mit einem massiven Schild schützt.
+
+インプ=Imp
+身の丈に合わない大きなカギ爪でひっかき攻撃する、見習い悪魔。=Dämonenlehrling kratzt und greift mit großen Krallen an, die nicht zu ihrer Angriffshöhe im Nahbereich passen.
+
+ホオズキムシ=Hoozukimushi
+お尻に溜まった蜜が、魔物の栄養源になる、不思議なホタル。=Ein mysteriöses glühwürmchenähnliches Wesen, das in seinem Hinterteil Nektar aufbewahrt, der anderen Monstern als Nahrungsquelle dient.
+
+ケイブスネイル=Höhlenschnecke
+分泌するヌルヌルが美容にいいとウワサの、カタツムリの魔物。=Ein Schneckenmonster, dessen schleimiges Sekret Gerüchten zufolge gut für die Schönheit ist.
+
+ドリアード=Dryad
+大地の魔力でキノコの魔物を自在に生やす、森の精霊。=Ein Waldgeist, der die Magie der Erde nutzen kann, um nach Belieben Pilzkreaturen zu beschwören.
+
+ロックリザード=Felsenechse
+頭の皮膚が固くなり鎧のようになった岩トカゲの魔物。=Ein echsenartiges Ungeheuer mit gehärteter Haut auf dem Kopf, die einer Rüstung ähnelt.
+
+ハーミットナイト=Einsiedlerritter
+倒した騎士の兜を、貝殻の代わりに被るヤドカリの戦士。=Ein kriegerischer Einsiedlerkrebs, der die Helme besiegter Ritter anstelle von Muscheln trägt.
+
+モグリクラゲ=Mogurikurage
+拾った潜水服に水を溜め、陸でも戦えるクラゲの魔物。=Ein quallenartiges Monster, das in seinem Taucheranzug Wasser speichern und auch an Land kämpfen kann.
+
+ウイングロップ=Wingropp
+大きな耳をはばたかせて、勢いよく突き上げるウサギの魔物。=Ein kaninchenähnliches Monster, das seine großen Ohren zum Flattern bringt und mit großer Kraft angreift.
+
+ケイブエイプ=Caveape
+強靭な腕の筋肉で、鍾乳石を掴んで渡る大ザルの魔物。=Ein großes, affenartiges Monster, das Höhlen durchquert, indem es Stalaktiten mit seinen starken Armmuskeln festhält.
+
+エルダークラウド=Holzwolke
+気象を自在に操り、雷を落とす雲の魔物。=Ein wolkenähnliches Monster, das das Wetter beherrscht und Blitze beschwören kann.
+
+ゴーレム=Golem
+頑丈な身体で、攻守を備えた岩の魔物。=Ein Felsenmonster mit einem robusten Körper, das sowohl in der Offensive als auch in der Defensive geschickt ist.
+
+バルーンバード=Ballonvogel
+ぷっくりお腹に溜めた魔力を、癒しの波動に変えるトリの魔物。=Ein vogelähnliches Monster, das magische Kraft in seinem aufgeblähten Bauch speichert und sie in heilende Wellen umwandelt.
+
+ツキツキ=Tsukitsuki
+魔力の流れに敏感なキツツキ。鋭い嘴の攻撃で気力を減衰させる。=Eine enge Stelle, die empfindlich auf den Fluss der magischen Energie reagiert. Ein scharfer Schnabelangriff dämpft deine Willenskraft.
+
+ツチノコブラ=Tsuchinocobra
+物陰から飛びかかり魔力を吸って腹を満たすという魔物ヘビの変種。魔力が高いほど狙われやすい。=Variante einer Monsterschlange, die aus den Schatten springt und magische Energie absorbiert, um ihren Magen zu füllen. Je höher das Mana ist, desto leichter kann sie angegriffen werden.
+
+コボルト=Kobold
+ブーメランのように組んだ骨を、投げて攻撃する山犬の魔物。=Ein wildes Hundemonster, das Knochen wirft und angreift, die einen Bumerang bilden.
+
+マジックレイ=Zauberstrahl
+頭部の石から発する超音波で巧みに狩りをするエイの魔物。=Die Stachelrochenmonster jagten geschickt mit Ultraschallwellen, die von dem Stein auf ihrem Kopf ausgingen.
+
+コボルトアサシン=Kobold-Assassine
+素早いステップで翻弄し、わずかな隙にナイフを飛ばす、山犬の魔物。=Ein wildes Hundemonster, das mit raschen Schritten mit ihm spielte und eine kleine Öffnung nutzte, um ein Messer fliegen zu lassen.
+
+ポイズンポッド=Gifthülse
+大きく開いた口に溜めた溶解液で獲物を食らう。=Frisst die Beute mit der in seinem weit geöffneten Maul aufgestauten Auflösung.
+
+フェアリー=Fee
+風を自在に操り、冒険者を翻弄する花の精霊。=Ein Blumengeist, der Angriffswinde mittlerer Reichweite frei kontrollieren und mit Abenteurern spielen kann.
+
+ポーチカ=Poochka
+花畑に棲み、特殊な光線で獲物を弱らせる、花つぼみの魔物。=Ein Blütenknospenmonster, das in einem Blumenfeld lebt und seine Beute mit einem speziellen Lichtstrahl schwächt.
+
+ドリルモール=Bohrer-Mall
+地中に手を伸ばし、足元から攻撃するモグラの魔物。=Die Maulwurfsmonster griffen in den Boden und griffen von ihren Füßen aus an.
+
+スタンプ=Aufkleber
+しなやかな枝を、ムチのように使い攻撃する木の魔物。=Baummonster, das seine Vorhut und seine biegsamen Äste wie Peitschen zum Angriff nutzt.
+
+イワアライグマ=Felsenwaschbären
+行き過ぎた綺麗好きのアライグマ。特製のガマ油石鹸を一度浴びると、まともに武器も握れない。=Waschbär, der die Sauberkeit liebt, nachdem er mit Mittelstreckenangriffen zu weit gegangen ist. Sobald er in der speziellen Gama-Öl-Seife gebadet hat, kann er nicht einmal mehr eine Waffe richtig halten.
+
+ルナポッド=Lunapod
+ルナの塔建造と共に造られた、エネルギー増幅器。漂う魔力を濃縮し、供給することで守護者を強化する。=Ein Energieverstärker, der beim Bau des Luna-Turms geschaffen wurde. Er konzentriert und liefert fließende magische Energie, um Wächter zu verbessern.
+
+ギャングオッター=Bandenotter
+貝殻をぶつけて不意をつく、意地悪な北海のチンピラっこ。=Ein schelmischer Hooligan aus den nördlichen Meeren, der seine Gegner mit Granaten überrascht.
+
+エンゼルダーツ=Engel-Darts
+熱帯魚のカタチをした魚の魔物。その優雅な姿とは裏腹に、鋭いアゴを獲物めがけて突き立てる。=Im Gegensatz zu seiner eleganten Erscheinung stößt er seine scharfen Kiefer in Richtung seiner Beute.
+
+スリーピィオウル=Schläfrige Eule
+寝不足で気怠げなフクロウの魔物。敵を睨み術をかけ、動きを奪う。=Faules Eulenmonster aus Schlafmangel. Es starrt den Feind an und macht ihn bewegungsunfähig.
+
+ニンフ=Nymph
+遊び相手を見つけては、見境なしにイタズラをする、森の精霊。=Ein Waldgeist, der einen Spielkameraden sucht und sich wahllos an ihnen vergreift.
+
+イビルキャノン=Böse Kanone
+長年使われるうちに悪魔の魂が宿った、命ある砲台。=Eine lebende Kanone, die im Laufe vieler Jahre mit der Seele eines Dämons durchtränkt wurde.
+
+ウキキーがより成長した姿。幼少より大岩を投げ続けたその太腕は、絶大な打撃を繰り出す。=Eine etwas erwachsenere Version von Ukiki. Er wirft schon seit seiner Kindheit mit großen Steinen und kann mit seinen dicken Armen gewaltige Schläge austeilen.
+
+マインリザード=Mineneidechse
+ガルグのおこぼれにあずかる、岩トカゲ。ルナの魔力でより堅牢な鉱石の表皮に変貌した。=Eine Gesteinsechse, die sich die Beute von Garg zunutze macht. Lunas magische Energie verwandelt sie in die äußere Schicht eines stärkeren Erzes.
+
+リーフボア=Leafboa
+固い葉っぱを鎧のように纏い、痛烈な体当たりをする大イノシシ。だが所詮葉っぱ。魔法は防げない。=Das große Wildschwein wickelt seine harten Blätter wie einen Panzer um sich und schlägt schmerzhaft zu. Aber am Ende ist es doch nur ein Blatt. Es kann keine Magie abwehren.
+
+スティンクスカンク=Stinxkank
+目にしみる激臭ガス爆弾を、自在に駆使する、スカンクの魔物。=Stinkende Monster können frei stinkende Gasbomben einsetzen, die AoE-Angriffe stechen.
+
+大きな岩を投げて、遠くから攻撃してくるサルの魔物。=Affenmonster werfen große Felsbrocken und greifen aus der Ferne an.
+
+マグマフィッシュ=Magmafisch
+岩石をも噛み砕く強靭なアゴで辺りを喰い荒らすサカナの魔物。=Ein Fischmonster, das mit seinen starken Kiefern, die Felsen zermalmen können, die Umgebung verschlingt.
+
+翼が小さく、まだ飛べないこどものグリフォン。=Ein Kinder-Greif mit kleinen Flügeln, der noch nicht fliegen kann.
+
+ラットン=Ratton
+威力は軽くても、すばしこく何度も攻撃するネズミの魔物。=Obwohl seine Kraft gering ist, ist es ein Rattenmonster, das schnell und wiederholt angreift.
+
+ムックル=Mukkul
+氷の塊を武器にも食料にもする雪山の精霊。=Ein verschneiter Berggeist, der Eisblöcke sowohl als Waffe als auch als Nahrung verwendet.
+
+アイスチック=Icetic
+氷を纏う尾羽根を飛ばして攻撃するトリの魔物。=Ein Vogelmonster, das mit seinen eisbedeckten Schwanzfedern angreift.
+
+プチデビル=Kleiner Teufel
+覚えたての魔法で手当り次第に攻撃する赤ちゃん悪魔。=Ein Baby-Dämon, der wahllos mit neu erlernter Magie angreift.
+
+ロックソウル=Rock-Seele
+燃えさかる炎を投げつけ、火傷の追加ダメージを与える呪いの石像。=Eine verfluchte Steinstatue, die lodernde Flammen wirft und zusätzlichen Brandschaden verursacht.
+
+トドドン=Toddon
+身体も態度も巨漢な北海のドン。纏う厚い脂肪が敵からの物理攻撃を押止める。=Ein Nordsee-Don mit einem riesigen Körper und einer tollen Einstellung. Das dicke Fett, das er trägt, blockiert physicher Angriffe von Feinden.
+身体も態度も巨漢な北海のドン。纏う厚い脂肪が敵からの攻撃を押止める。=Ein Nordsee-Don mit einem riesigen Körper und einer tollen Einstellung. Das dicke Fett, das er trägt, blockiert Angriffe von Feinden.
+
+
+ワタリトビ=Wataritobi
+荒野に生き、荒野に死ぬという生き様に憧れ、独り旅をするトビ。=Tobi träumt davon, in der Wildnis zu leben und zu sterben, und reist allein.
+
+ポイズントード=Giftige Kröte
+擬態した宝石に釣られた者を捕食する、毒舌ガマの魔物。=Ein Monster mit einer giftigen Zunge, das diejenigen angreift, die von Edelsteinen angelockt werden, die als Angriffe getarnt sind.
+
+片っ端から木を削り倒すビーバー。削った木片は家作りだけでなく、家を守るための飛び道具となる。=Ein Biber fällte einen Baum von Grund auf. Die geschnitzten Holzstücke können nicht nur zum Bau von Häusern, sondern auch als Wurfgeschosse zum Schutz des Hauses verwendet werden.
+
+ノーティビーバー=Noti-Biber
+トゲトゲのおなかを勢いよくぶつけ敵を弾き飛ばす、不思議な見た目のカエル。=Ein mysteriös aussehender Frosch, der seine Gegner mit seinem stacheligen Bauch trifft.
+
+ガマボックリ=Gamabokkuri
+ねじれ集まった枝で、冒険者を森の奥に引き込むマメの木の魔物。=Ein Bohnenbaummonster, das Abenteurer mit seinen verdrehten Ästen tief in den Wald hineinzieht.
+
+ネジレアカシア=Nejirecacia
+大きな爪と固い殻で、どんな大きな相手にも向かっていく、カニの魔物。=Ein Krabbenmonster, das mit seinen großen Klauen und seinem harten Panzer jeden großen Gegner angreift.
+
+ハンマーキャンサー=Hammerkrebs
+お尻の花から鱗粉を振りまき、魔物を癒す、不思議なホタル。=Ein geheimnisvolles Glühwürmchen, das Monster heilt, indem es Schuppen von der Blume auf seinem heilenden Hintern verstreut.
+
+スズランムシ=Skythropoden
+顔にも見える大きな盾で敵を威嚇し侵入者を阻む、ジャングルの護り人。=Ein Beschützer des Dschungels, der Feinde einschüchtert und Eindringlinge mit einem großen Schild abwehrt, das wie sein Gesicht aussieht.
+
+ジャングルガード=Dschungelwächter
+美しい歌声を響かせる妖鳥。獲物の守りを緩め、鋭い爪で狩る。=Ein Feenvogel mit einer schönen Gesangsstimme. Er schwächt die Abwehrkräfte seiner Beute und jagt sie mit seinen scharfen Krallen.
+
+アルトハーピィ=Altharpyie
+食べたナッツの殻をぶつけてくる意地悪なリスの魔物。=Ein fieses Eichhörnchenmonster, das dich mit den Schalen der Nüsse schlägt, die es frisst.
+
+ナッツシューター=Nussknacker
+魔力の弾を投げつけて、少し後ろを攻撃する朽木の魔物。=Ein Kuchiki-Monster, das von hinten angreift, indem es Kugeln mit magischer Kraft wirft.
+
+ウッドソウル=Holzsoul
+枝を自在に伸ばし、老練な技で痛いところに手が届く朽木の魔物。=Ein Kuchiki-Monster, das seine Äste frei ausbreiten und seine Fähigkeiten einsetzen kann, um schmerzhafte Stellen zu erreichen.
+
+トレント=Trent
+
+マグマウパルパ=Magma-Upalpa
+熔岩の海に潜み、近づくものには灼熱の体液を吐く、山椒魚の魔物。=Sie lauern in einem Meer aus geschmolzenem Gestein und spucken glühende Körperflüssigkeiten auf alles, was sich nähert.
+
+で、敵前衛を崩す、うさぎっこ。ユニオンバーストは、最も近い敵に大ダメージを与えた後隣の敵にも攻撃するので、前衛を早期に攻め落とせる。=Ein Hase, der die gegnerische Vorhut durchbrechen kann. Der Union Burst fügt dem nächstgelegenen Feind erheblichen Schaden zu und greift dann den benachbarten Feind an, um einen frühen Angriff auf die Vorhut zu ermöglichen.
+
+タートルタイラント=Schildkrötentyrann
+あらゆる攻撃を甲羅ではじく、巨大ガメの魔物。=Ein riesiges Schildkrötenmonster, das alle Angriffe mit seinem Panzer abwehrt.
+
+動く戦士像=Statue eines lebenden Kriegers
+あらゆる攻撃を防ぐ盾をもった、命ある石像。=Eine lebende Statue mit einem Schild, der alle Angriffe abblockt.
+
+動く剣士像=Lebende Schwertkämpfer-Statue
+あらゆる攻撃を剣ではじき返す、命ある石像。=Eine lebende Statue, die alle Angriffe mit ihrem Schwert abwehrt.
+
+アイスフィッシュ=Eisfisch
+氷河を削って巣を作り、近づく者は無差別に襲うサカナの魔物。=Ein Fischmonster, das sein Nest in einen Gletscher gräbt und wahllos jeden angreift, der sich ihm nähert.
+
+動く剣士=Ein beweglicher Schwertkämpfer
+あらゆる物理攻撃を\n剣ではじき返す、命ある石像。=Eine lebende Statue, die alle physischen Angriffe mit ihrem Schwert abwehrt.
+
+ヒカリタケ=Hikaritake
+ドリアードの召喚に応じて、\n無限に生えてくるキノコの精霊。=Der Pilzgeist wuchs als Reaktion auf die Beschwörung der Dryade ins Unendliche.
+
+泥人形=Schlammpuppe
+禁術で操られた意志なき土塊人形。\n怨念染みつく戦場の土が贄となる。=Eine geistlose Tonpuppe, die von verbotener Magie kontrolliert wird. Die mit Hass befleckte Erde des Schlachtfelds wird zum Opfer.
