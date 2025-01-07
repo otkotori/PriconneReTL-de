@@ -1,0 +1,140 @@
+次元断層=Dimensionsstörung
+次元断層へ=Zur Dimensionsstörung
+r:"^開催期間:([0-9/ :]+)～([0-9/ :]+)$"="Zeitraum: $1 bis $2"
+PHASE\nクリア報酬=Phase\nKlare Belohnung
+出現中！=Erscheinen!
+出現中!=Erscheinen!
+
+クエスト詳細=Quest-Details
+このバトルではキャラ制限は発生しません。=In diesem Kampf gibt es keine Zeichenbegrenzung.
+ボスのHPは敗北時にリセットされます。=Die KP des Bosses werden zurückgesetzt, wenn er besiegt wird.
+模擬戦設定になっています。=Auf Training einstellen.
+
+トレジャークエスト=Schatzquest
+トレジャークエスト出現まで=Nächste Schatzquest
+ゲージが最大までたまると、トレジャークエストに挑戦できます。=Wenn die Anzeige voll ist, kannst du die Schatzquest herausfodern.
+
+バトル開始確認=Kampfbeginn-Bestätigung
+みんな昂りますよぉ！=Alle sind begeistert!
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=$1$2 und $3$4's Schatten hinzugefügt.
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=$1$2, $3$4 und $5$6's Schatten hinzugefügt.
+
+r:"^シャドウ(\d)体追加$"=$1 Schatten hinzufügen
+r:"^モンスター(\d)体追加$"=$1 Monster hinzufügen
+
+シャドウ★6化=Schatten 6★
+シャドウ強化=Schatten stärken
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。$"=Der Schatten von $1$2 und $3$4 wird zu 6★.
+---
+([べ-ヺー＆＝]+?)(（.+）)?のシャドウが★6になる。
+Der Schatten von $1$2 wird zu 6★.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。
+Der Schatten von $1$2, $3$4 und $5$6 wird zu 6★.
+---
+
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウが★6になる。$"=$1$2$3$4$5$6$7$8$9$10$11$12$13$14s Schatten wird 6★
+
+---
+([べ-ヺー＆＝]+?)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Einzigartige Ausrüstung wurde zu $1$2s Schatten hinzugefügt.
+
+([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る
+Einzigartige Ausrüstung wurde zu $1$2 und $3$4s Schatten hinzugefügt.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Einzigartige Ausrüstung wurde zu $1$2, $3$4, $5$6s Schatten hinzugefügt.
+---
+
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 50%.
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ75%カット状態にさせる。=Zu Beginn des Kampfes reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 575.
+
+ボスUB・スキル強化=Boss-UB-Fähigkeitsverbesserung
+ボスモンスターのユニオンバーストとスキルが強化される。=Union Burst und Fertigkeit des Bossmonsters werden verstärkt.
+
+開始時魔法ダメージカット=Magieschaden zu Beginn verringert
+モンスター強化=Monster-Erweiterung
+sr:"^(.+?)のスキルが強化される。$"=$1's Fähigkeit wird gestärkt.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 50%.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 75%.
+
+バトル開始時、ボスモンスターがＴＰダウン100％カット状態になる。=Zu Beginn des Kampfes wird der TP-↓-Schwächungseffekt auf das Bossmonster um 100% reduziert.
+バトル開始時、ボスモンスターがＴＰダウン50％カット状態になる。=Zu Beginn des Kampfes wird der TP-↓-Schwächungseffekt auf das Bossmonster um 50% reduziert.
+ボスＴＰダウンカット=Boss TP-↓-Schnitt
+バトル開始時、シールド・レリックのが味方全体に\n継続ＴＰ回復状態を付与する。=Zu Beginn des Kampfes führen Schildrelikte bei allen Verbündeten zu einer kontinuierlichen TP-Erholung.
+開始時ＴＰ継続回復付与=Kontinuierlicher TP-Erholungsbonus beim Start
+バトル開始時、アタック・レリックが味方全体の行\n動速度を特大アップさせるフィールドを展開する。=Zu Beginn des Kampfes setzt Angriffs-Relick ein Feld ein, das die Geschwindigkeit der Aktionen aller Verbündeten erhöht.
+開始時行動速度アップフィールド=Aktionsbeschleunigungsfeld beim Start
+開始時物理ダメージカット=Physischer SCH-Schnitt beim Start
+シャドウ最大ＨＰアップ=Schatten Max-KP-↑
+すべてのシャドウの最大ＨＰが大幅に上昇する。=Die maximalen KP aller Schatten werden stark erhöht.
+バトル開始時、シールド・レリックのが味方全体の\nＨＰを特大回復させる。=Zu Beginn des Kampfes werden die KP aller Verbündeten durch Schildrelikte wiederhergestellt.
+開始時ＨＰ回復=KP-Wiederherstellung beim Start
+ボス物理防御力（ダウン不可）アップ=P.VER des Bosses ↑ (absolut)
+ボス魔法防御力（ダウン不可）アップ=M.VER des Bosses ↑ (absolut)
+バトル開始時、ボスモンスターの物理防御力を小\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Beginn des Kampfes geringfügig. Dieser Effekt wird von P.VER-↓ nicht beeinflusst.
+バトル開始時、ボスモンスターの魔法防御力を小\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Beginn des Kampfes geringfügig. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
+
+バトル開始時、ボスモンスターの魔法防御力を中\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Beginn des Kampfes. Dieser Effekt wird nicht von P.VER-↓ beeinflusst.
+バトル開始時、ボスモンスターの物理防御力を中\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Beginn des Kampfes. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
+
+r:"^バトル時間が(\d+)秒になる。$"=Die Kampfzeit beträgt $1 Sekunden.
+バトル時間制限=Kampfzeitbegrenzung
+
+危険度詳細=Gefährliche Details
+ボス魔法ダメージカット=Boss M.SCH-Schnitt
+ボス物理ダメージカット=Boss P.SCH-Schnitt
+ダメージ減衰=Beschädigung
+物理ダメージカット=Physischer Schadenschnitt
+魔法ダメージカット=Magieschadensreduktion
+バトル開始時、すべてのキャラのＨＰ吸収を特大ダウンさせる。=Zu Beginn des Kampfes wird die KP-Absorption aller Charaktere stark verringert.
+ＴＰダウン=TP-↓
+ＴＰダウンカット=TP-↓-Schnitt
+すべてのモンスター=Alle Ungeheuer
+ボスモンスター=Bossmonster
+魔法ダメージ=M.SCH
+物理ダメージ=P.SCH
+トレジャークエストはすべてクリアしました。=Alle Schatzquests erledigt.
+sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=Zu Beginn des Kampfes werden $2, die auf $1 gesetzt werden, in $3% umgewandelt.
+
+編成キャラ数制限=Begrenzte Formationszeichen
+r:"^編成可能キャラ数が(\d+)キャラになる。$"=Zeichen, die organisiert werden können, sind $1 Zeichen.
+編成制限=Begrenzt
+
+バトル開始後一定時間、ボスモンスターの物理攻撃\n力が中アップする。=P.ANG des Bossmonsters wird für eine bestimmte Zeit nach Kampfbeginn auf mittel erhöht.
+バトル開始後一定時間、ボスモンスターの魔法攻撃\n力が中アップする。=M.ANG des Bossmonsters wird für eine bestimmte Zeit nach Kampfbeginn auf mittel erhöht.
+開始時攻撃力アップ=Angriffsleistung beim Start
+
+バトル開始時、ボスモンスターが敵全員のTPを中\nアップさせる。=Zu Beginn des Kampfes erhöhen die Bossmonster die TP aller Feinde mäßig.
+開始時TP回復=TP-Wiederherstellung starten
+
+ボスモンスターのユニオンバーストが強化される。=Der Union Burst des Bossmonsters wurde verbessert.
+ボスUB強化=Boss-UB Verbessert
+
+r:"^パーティキャラの最大HPが(\d+)％ダウンする。$"=Die maximale KP des Gruppencharakters wird um $1% reduziert.
+キャラ最大HPダウン=Maximale KP des Charakters reduziert
+
+全PHASEクリア達成！=Alle Phasen durchlaufen!
+すべてのPHASEをクリアしました！\n\nここからはEXTRA PHASEに突入し\nまだ勝利していないクエストに\n挑戦することができます。=Alle Phasen abgeschlossen!\n\nVon hier aus kannst du die EXTRAPHASE betreten und Quests herausfordern, die du noch nicht gewonnen hast.
+
+スペシャルバトルの=Spezialkampf
+スペシャルバトル=Spezialkampf
+
+r:"^(\[[0-9A-F]{6}\])?次元断層のEXTRA PHASEをクリアしよう(\[-\])?$"=$1 löscht die EXTRAPHASE des Dimensionsstörungs $2
+
+途中でリタイアした場合、この内容はキャンセルされます。=Wenn Sie unterwegs in den Ruhestand gehen, wird dieser Inhalt gestrichen.
+
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウに専用装備が追加される。$"=EA wurde zu $1$2$3$4$5$6$7$8$9$10$11$12$13$14 Schatten hinzugefügt
+
+sr:"^([べ-ヺー＆＝の]+)(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?が追加される。$"=$1$2$3$4$5$6$7$8$9$10$11$12$13$14 wurden hinzugefügt.
+モンスター追加=Ungeheuer hinzugefügt
+
+５つのPHASEからなる期間限定クエスト『次元断層』が登場しました。\nクエストに３回勝利すると次のPHASEに進めますよ。討伐したモンス\nターは強化されて復活するので、気を引き締めて挑みましょう、主さま。=Eine zeitlich begrenzte Quest „Dimensionsstörung“, bestehend aus 5 PHASEN, ist erschienen. Wenn du die Quest dreimal gewinnst, kommst du in die nächste PHASE. Besiegte Monster werden gestärkt und wiederbelebt, also mach dich bereit und nimm die Herausforderung an, Herr.
+
+クエストに勝利してゲージが最大になると、トレジャークエストが出現し\nます。トレジャークエストに勝利することでジュエルを獲得できますよ。\n出現したらぜひ挑戦してみてくださいまし。=Wenn du die Quest gewinnst und die Anzeige bis zum Maximum füllst, wird eine Schatzquest erscheinen. Du kannst Juwelen bekommen, wenn du Schatzquests gewinnst. Bitte versuchen Sie es, wenn sie erscheint.
+
+PHASE5をクリアしたことで、EXTRA PHASEが解放されました。\nEXTRA PHASEでは、すべてのクエストの最大危険度まで挑戦でき\nるようでございます。すべて勝利して完全クリアを目指しましょう。=Das Absolvieren von PHASE 5 hat die EXTRAPHASE freigeschaltet. In der EXTRAPHASE kannst du anscheinend alle Quests bis zur maximalen Gefahrenstufe herausfordern. Lasst uns alle gewinnen und das Ziel erreichen, alles zu schaffen.
+
+リッチゴーレム=Reicher Golem
