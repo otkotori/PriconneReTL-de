@@ -1,0 +1,299 @@
+キャラ選択=Charakterauswähl
+じゃない私=Nein, ich...
+
+Aoi
+気合入れて募集=Ihr Bestes geben
+キャンプマイスター=Camp-Meister
+得意分野（かも）=Spezialität (vielleicht)
+ぼっち専用=Ich bin nicht würdig
+
+Akari
+一緒にいきたい=Welpenhund-Auge
+恋の魔法=Magie der Liebe
+
+Akino
+出口はこっち=Folge mir!
+二人一緒なら=Zusammen sind wir...
+
+Anna
+我が名は!!=Fürchte den Namen!
+満を持して=Zufriedenstellung
+
+Anne
+きょうみしんしん=Ich bin neugierig!
+
+Ameth
+ぷにぷにプニプニ=Punipuni-Punipuni
+
+Arisa
+感動の出会い=Freudige Offenbarung
+
+Ayane
+ぬいぐるみ集め=Eifriger Sammler
+
+Ayumi
+りめんばーみー！=Erinnern Sie sich an mich!
+ライバル出現？=Ein rivalisierender Auftritt?
+
+Chika
+集中しすぎて=Bezaubernde Melodie
+
+Christina
+退屈だ……=Verfluchtes Mühsal
+
+Djeeta
+紙ヒコーキに夢を乗せて=Himmelsstürmer
+
+Eriko
+ロックオン=Ziel Erworben
+
+Grea
+ダメだよ？=Außerhalb der Grenzen
+
+Hatsune
+寝惚けて=Eigenbrötlerische Schwester
+私の色=Meine Farbe
+
+Hiyori
+作戦説明=Die bestgeplanten Pläne
+じゃんけんタイム！=Zeit für Stein-Papier-Schere!
+
+Illya
+わらしべ世界征服=Handel Suche des Bösen
+
+Io
+みんなの手本=Überlasst es Io-Sensei
+闇の授業=Dunkle-Klasse
+
+Inori
+下剋上=Rebellion
+不安の種=Quelle der Angst
+征服完了！=Eroberung abgeschlossen!
+
+Jun
+コーディネート=Modebewusst
+
+Kaori
+てーげーカオリ=Keine Panik!
+
+Kyaru
+つんつん=Tsundere
+かけ声=Schrei
+
+Kasumi
+探偵のサガ=Der Detektiv Live
+キメッ☆=Kimet☆
+
+Kaya
+買うぜ？=Kaufen?
+お仕事中=Bei der Arbeit
+
+Karin
+素敵な仲間=Schöner Freund
+
+Kokkoro
+はじめてのあじ=Schöne neue Rezepte
+ふわふわ=Schwebend
+
+Kuuka
+気づいたら=Das passiert auch den Besten von uns
+くせになる=Genau wie sie es mag
+高まる=Eskalieren Sie
+
+Kurumi
+人目のつかない所=Das perfekte Versteck
+
+Kyouka
+あやしい…=Verdächtig...
+お花のようせいさん=Wie eine Blumenfee
+
+Lima
+乙女の憧れ=Ein reiner Mädchentraum
+
+Lou
+敵前逃亡=Geheimtechnik
+
+Mahiru
+異色のコンビ=Topaktuelle Komödie
+認識=Anerkennungen
+
+Maho
+王国はあります=Weil sie es so sagt
+マホマホ王国ショー=Maho-Maho-Kingdom-Show
+
+Makoto
+口ではそう言っても=Geheimes Verlangen
+フリフリ=Spitzenflatter
+
+Matsuri
+ポーズの練習！=Posen-Praxis
+●ヒミツ図鑑● ①マツリちゃん=*Geheimnisvolle Enzyklopädie* 1 Matsuri-chan
+
+Mifuyu
+徹底比較=Optimaler Einkauf?
+得意分野=Spezialität
+
+Mimi
+すくすく子うさぎ=Ein wachsender Hase
+
+Misaki
+オトナっぽい？=Sehr anspruchsvoll?
+セクシーアピール=Sexy Attraktivität
+
+Misato
+愛は剣より強し=Die Macht der Liebe?
+
+Misogi
+イタズラガール=Kleiner Schelm
+３人いつも=Immer drei
+
+Mitsuki
+お見舞い？=Besucher am Krankenbett
+チクッと=Zerkleinert
+
+Miyako
+作ってオーラ=Eine erschütternde Entscheidung
+
+Monika
+子供じゃない=Schlafenszeit-Blues
+至福のカフェ=Blissful-Café
+
+Muimi
+必殺技=Spezialangriff
+
+Nanaka
+新奥義=Eine neue Technik?
+
+Ninon
+奥義？=Geheimnis des Ostens
+新忍法=Ninpo: Konohagakure no Jutsu
+
+Neneka
+ドッキリ大成功=Du wurdest verarscht!
+
+Nozomi
+ちょっとおでかけ=Inkognito
+
+Pecorine
+ナイスリアクション=Ein echter Gourmet
+パワーアップ☆=Einschalten☆
+
+Homare
+ヒミツの作者=Geheimer Autor
+
+Rei
+実は釣り好き=Einfache Vergnügungen
+守る力=Macht zum Schutz
+
+Luna
+おともだちになってくれる？=Wirst du ein Freund sein?
+
+Rin
+早寝=Früh zu Bett
+身代わり=Stellvertreter
+
+Rino
+小さな間違い=Keine Austern für dich
+おそろい=Genosse
+
+Ruka
+増える舎弟=Unerwartete Entourage
+
+Chloe
+勘違いされがち=Oft missverstanden
+黄色い声援=Gelber Jubel
+
+Chierun
+ちぇる～ん☆=Chieru-n☆
+ちぇる式走法=Chieru-Stil-Laufmethode
+
+Creditta
+第一の忠臣！=Erster treuer Kundenbetreuer!
+
+Saren
+ヒットのアイデア=Sonderangebot
+
+shefi
+じゃなくて=Nicht wie das
+
+Shinobu
+占い師=Wahrsagen
+よく視える=Du kannst gut sehen
+
+Shiori
+敵より読書=Priorität
+魔法少女？=Zaubermädchen?
+
+Shizuru
+心配性=Ein schwesterlicher Vorschlag
+
+Suzume
+皿割り記録=NEUER REKORD!
+
+Suzuna
+においで引き寄せ=Ein verführerisches Aroma
+
+Tamaki
+焼きたてほやほや=Frisch gebacken
+赤字確定=Defizit bestätigt
+
+Tomo
+料理の腕前=Küchenkünste
+一緒に！=Gemeinsam!
+
+Tsumugi
+最高の服を=Eine hingebungsvolle Schneiderin
+
+Yuni
+本の虫=Bücherwurm
+得手不得手=Stark und Schwach
+
+Yori
+まだはやい=Zu viel protestieren
+恥ずかしい…！=Peinlich...!
+
+Labyrista
+腕前=Fertigkeit
+
+Ranpha
+時間切れ=Auszeit
+
+Yui
+まどろみのユイ=Süßer Traum
+ぺこぺこ=Knurrender Bauch
+
+Yukari
+反面教師=Das beste Beispiel geben
+贅沢な時間=Luxuriöse Zeit
+
+Yuki
+自信満々=Der schönste aller Preise
+ボクと癒やしタイム=Beruhigende Zeit mit mir
+美を統べる者=Herrscherin der Schönheit
+
+Vampy
+さいきょーですし♪=Das Beste-Desushi♪
+
+Eris
+負けられない=Ich verliere nicht
+
+ShizuruRino
+姉妹っぽいこと=Schwesternhafte Dinge
+
+Wakana
+朝の音=Morgenstimmung
+
+Fubuki
+のび～る=Es dehnt sich...
+
+Nebbia
+ネビア参上！=Nebbia erscheint!
+
+Kururu
+記念品贈呈=Präsentation von Erinnerungsgeschenken
+
+AnneGrea
+変わらないもの=Diejenigen, die sich nicht ändern
+
+Grace
+お使いの端末は正常です=Ihr Gerät ist in gutem Zustand

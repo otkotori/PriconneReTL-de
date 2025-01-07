@@ -1,0 +1,10 @@
+キャラクター\n図鑑=Charakter\nInfo
+アイテム\n図鑑=Artikel\nInfo
+用語集=Glossar
+キャラクター図鑑=Charakter-Info
+思い出アルバム=Erinnerungsalbum
+イテム図鑑=Artikel-Info
+sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Abrufbar nach dem Ansehen von $1$2 Folge $3.
+詳細表示するアイテムを\n選択してください。=Wählen Sie ein Artikel aus, um die Details anzuzeigen.
+詳細表示する装備を\n選択してください。=Wählen Sie ein Gerät aus, um die Details anzuzeigen.
+詳細表示するメモリーピースを\n選択してください。=Wählen Sie ein Gedächtnissplitter aus, um die Details anzuzeigen.
