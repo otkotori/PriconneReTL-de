@@ -1,5 +1,5 @@
-CLEAR=Clear
-MY_PARTY_CLEAR_BUTTON_TEXT=Clear
-TALENT_QUEST=Talent Quest
-MIRAGE_NEMESIS=Reminiscence &\nConquest
-BULK_SKIP_FAVORITE_BUTTON_TEXT=Skip Multiple
+CLEAR=Löschen
+MY_PARTY_CLEAR_BUTTON_TEXT=Löschen
+TALENT_QUEST=Talentsuche
+MIRAGE_NEMESIS=Reminiszenz &\nEroberung
+BULK_SKIP_FAVORITE_BUTTON_TEXT=Mehrfachübersprung
