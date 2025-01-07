@@ -1,82 +1,79 @@
-ラウンド=Round
-進行度=Stage
-未達成ラウンド=Unfulfilled Rounds
-未達成のラウンドがありません。=There are no unfulfilled rounds.
-バトル効果=Battle Effect
-挑戦目標=Challenge Goal
+ラウンド=Runde
+進行度=Level
+未達成ラウンド=Unerfüllte Runden
+未達成のラウンドがありません。=Es gibt keine unerfüllten Runden.
+バトル効果=Kampfeffekt
+挑戦目標=Herausforderungsziel
 
-バトル効果詳細=Battle Effect Details
-r:"^味方のTotal HPが(\d+)%以上で勝利$"=Win when allies' Total HP is over $1%
-r:"^バトルの残り時間が([0-9:]+)以上で勝利$"=Win with $1 or more remaining time
-ダウン=Down
+バトル効果詳細=Kampfeffekt-Info
+r:"^味方のTotal HPが(\d+)%以上で勝利$"=Gewinne, wenn die Gesamt-KP der Verbündeten über $1% liegen.
+r:"^バトルの残り時間が([0-9:]+)以上で勝利$"=Gewinnen Sie mit $1 oder mehr Restzeit.
+ダウン=Unten
 アップ=Boost
 sr:"^(戦力|物攻|魔攻|物防|魔防|HP吸収|HP自動回復|TP上昇|ＴＰ上昇|TP自動回復|TP消費軽減|物理攻撃力|物理防御力|物理クリティカル|魔法攻撃力|魔法防御力|魔法クリティカル|回復量上昇|命中|回避)(アップ|ダウン)$"=$1 $2
-sr:"^バトル中、(.+)が(極大|絶大|特大|大|中|小|大幅)に(アップ|ダウン)する。$"=$2 $3 $1 during battle.
-r:"^戦闘不能になったキャラが(\d)人以下で勝利$"=Win with $1 or fewer fallen characters.
+sr:"^バトル中、(.+)が(極大|絶大|特大|大|中|小|大幅)に(アップ|ダウン)する。$"=$2 $3 $1 im Kampf.
+r:"^戦闘不能になったキャラが(\d)人以下で勝利$"=Gewinnen Sie mit $1 oder weniger gefallenen Zeichen.
 
+バトル開始時ＴＰ特大回復=Starke TP-Erholung zu Beginn des Kampfes
+バトル開始時、ＴＰが特大回復する。=Zu Beginn der Schlacht hat sich Greatly-TP erholt.
 
-バトル開始時ＴＰ特大回復=Greatly TP recovery at the start of battle
-バトル開始時、ＴＰが特大回復する。=At the start of battle, Greatly TP recovered.
+火傷ダメージアップ=Verbrennungsschaden ↑
+火傷効果時間増加=Verbrennungsdauer verlängert
+バトル中、「火傷」のダメージが大幅にアップする。=Während des Kampfes wird der durch „Brennen“ verursachte Schaden stark erhöht.
+バトル中、「火傷」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Brennen“ verlängert.
+スタン効果時間増加=Betäubungsdauer ↑
+バトル中、「スタン」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Betäuben“ verlängert.
 
-火傷ダメージアップ=Burn damage increased
-火傷効果時間増加=Burn duration increased
-バトル中、「火傷」のダメージが大幅にアップする。=During battle, damage dealt by "Burn" is greatly increased.
-バトル中、「火傷」の効果時間が増加する。=During battle, the duration of "Burn" is increased.
-スタン効果時間増加=Stun duration increased
-バトル中、「スタン」の効果時間が増加する。=During battle, the duration of "Stun" is increased.
+誘惑効果時間増加=Dauer des Zaubers ↑
+バトル中、「誘惑」の効果時間が増加する。=Während des Kampfes wird die Dauer des „Zaubers“ verlängert.
 
-誘惑効果時間増加=Charm duration increased
-バトル中、「誘惑」の効果時間が増加する。=During battle, the duration of "Charm" is increased.
+毒/猛毒ダメージアップ=Gift-/Giftschaden ↑
+毒/猛毒効果時間増加=Gift/Giftdauer ↑
+バトル中、「毒」「猛毒」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Gift“ und „Gift“ verlängert.
+バトル中、「毒」「猛毒」のダメージが大幅にアップする。=Während des Kampfes wird der durch „Gift“ und „Venom“ verursachte Schaden stark erhöht.
 
-毒/猛毒ダメージアップ=Poison/Venom damage increased
-毒/猛毒効果時間増加=Poison/Venom duration increased
-バトル中、「毒」「猛毒」の効果時間が増加する。=During battle, the duration of "Poison" and "Venom" is increased.
-バトル中、「毒」「猛毒」のダメージが大幅にアップする。=During battle, damage dealt by "Poison" and "Venom" is greatly increased.
+呪い/呪詛効果時間増加=Fluch-/Hexdauer ↑
+呪い/呪詛ダメージアップ=Fluch/Hexenschaden ↑
+バトル中、「呪い」「呪詛」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Fluch“ und „Verhexung“ verlängert.
+バトル中、「呪い」「呪詛」のダメージが大幅にアップする。=Während des Kampfes wird der durch „Fluch“ und „Verhexung“ verursachte Schaden stark erhöht.
 
+束縛効果時間増加=Bindungsdauer ↑
+バトル中、「束縛」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Binden“ verlängert.
 
-呪い/呪詛効果時間増加=Curse/Hex duration increased
-呪い/呪詛ダメージアップ=Curse/Hex damage increased
-バトル中、「呪い」「呪詛」の効果時間が増加する。=During battle, the duration of "Curse" and "Hex" is increased.
-バトル中、「呪い」「呪詛」のダメージが大幅にアップする。=During battle, damage dealt by "Curse" and "Hex" is greatly increased.
+混乱効果時間増加=Dauer der Verwirrung ↑
+バトル中、「混乱」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Verwirrung“ verlängert.
 
-束縛効果時間増加=Binding duration increased
-バトル中、「束縛」の効果時間が増加する。=During battle, the duration of "Bind" is increased.
+麻痺効果時間増加=Lähmungszeit ↑
+バトル中、「麻痺」の効果時間が増加する。=Während des Kampfes wird die Dauer der „Lähmung“ verlängert.
 
-混乱効果時間増加=Confusion duration increased
-バトル中、「混乱」の効果時間が増加する。=During battle, the duration of "Confusion" is increased.
+凍結効果時間増加=Dauer des Gefriereffekts verlängert
+バトル中、「凍結」の効果時間が増加する。=Während des Kampfes wird die Dauer von „Einfrieren“ verlängert.
 
-麻痺効果時間増加=Paralysis time increased
-バトル中、「麻痺」の効果時間が増加する。=During battle, the duration of "paralysis" is increased.
+r:"^(\[[0-9A-F]{6}\])?★を累計(\d+)個獲得しよう(\[-\])?$"="$1Sterne sammeln $2★$3"
+★獲得ミッション=Sterne sammeln ★ Mission
 
-凍結効果時間増加=Frozen effect duration increased
-バトル中、「凍結」の効果時間が増加する。=During battle, the duration of "Frozen" is increased.
+r:"^([0-9/]+)\n([0-9:]+) 解放$"=Freischalten am\n$1 $2.
+r:"^([0-9/ :]+)に解放されます。$"=Freischalten am $1.
+バトルスタジアムではオートのみになります。=Im Kampfstadion ist Auto nur verfügbar.
+火傷確定付与=Garantierte Verbrennungsgefahr
+毒/猛毒確定付与=Garantierte Gift-/Giftinfizierung
+呪い/呪詛確定付与=Garantierter Fluch/Hexenzufügung
+スタン確定付与=Garantierter Betäubungsangriff
+束縛確定付与=Garantierte Bindungswirkung
+麻痺確定付与=Garantierte Lähmungserscheinung
+混乱確定付与=Garantiert Verwirrung stiften
+誘惑確定付与=Garantiert Charme versprühen
+凍結確定付与=Garantiert einfrieren
+バトル中、「スタン」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Betäuben“ anwenden.
+バトル中、「束縛」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Binden“ anwenden.
+バトル中、「麻痺」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Lähmung“ anwenden.
+バトル中、「混乱」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Verwirrung“ anwenden.
+バトル中、「誘惑」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Charme“ anwenden.
+バトル中、「火傷」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Verbrennen“ anwenden.
+バトル中、「毒」「猛毒」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Gift/Gift“ anwenden.
+バトル中、「呪い」「呪詛」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Fluch/Hexe“ anwenden.
+バトル中、「凍結」を必ず付与できる状態になる。=Während des Kampfes können Sie den Effekt „Einfrierien“ anwenden.
 
----Mission---
-r:"^(\[[0-9A-F]{6}\])?★を累計(\d+)個獲得しよう(\[-\])?$"="$1Collect stars $2★$3"
-★獲得ミッション=Collect stars ★ mission
-
-r:"^([0-9/]+)\n([0-9:]+) 解放$"=Unlock on\n$1 $2 (JST).
-r:"^([0-9/ :]+)に解放されます。$"=Unlock on $1 (JST).
-バトルスタジアムではオートのみになります。=In the Battle Stadium, only auto is available.
-火傷確定付与=Guaranteed Burn Inflict
-毒/猛毒確定付与=Guaranteed Poison/Venom Inflict
-呪い/呪詛確定付与=Guaranteed Curse/Hex Inflict
-スタン確定付与=Guaranteed Stun Inflict
-束縛確定付与=Guaranteed Binding Inflict
-麻痺確定付与=Guaranteed Paralysis Inflict
-混乱確定付与=Guaranteed Confusion Inflict
-誘惑確定付与=Guaranteed Charm Inflict
-凍結確定付与=Guaranteed Freeze Inflict
-バトル中、「スタン」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Stun" effect.
-バトル中、「束縛」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Bind" effect.
-バトル中、「麻痺」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Paralysis" effect.
-バトル中、「混乱」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Confusion" effect.
-バトル中、「誘惑」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Charm" effect.
-バトル中、「火傷」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Burn" effect.
-バトル中、「毒」「猛毒」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Poison/Venom" effect.
-バトル中、「呪い」「呪詛」を必ず付与できる状態になる。=During battle, you will be able to inflict the "Curse/Hex" effect.
-バトル中、「凍結」を必ず付与できる状態になる。=During battle, you will be able to inflict the "凍結" effect.
----Kokkoro Tutorial---
-バトルスタジアムでは、ラウンドごとに特定のスキルやステータスが\n強化されるバトル効果が発生するようです。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=In the Battle Stadium, it seems that battle effects occur that strengthen certain skills and stats every round. You can challenge the battle multiple times, so try to devise your team formation and challenge it.
-挑戦目標を達成することで★を獲得できますよ。\nより多くの★を集めてミッション報酬の獲得を目指しましょう。=You can earn stars★ by achieving the challenge goals. Collect more stars to earn mission rewards.
-★3クリアしていないラウンドを確認できます。=You can check the rounds you have not cleared ★3.
+バトルスタジアムでは、ラウンドごとに特定のスキルやステータスが\n強化されるバトル効果が発生するようです。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=Im Kampfstadion treten scheinbar jede Runde Kampfeffekte auf, die bestimmte Fähigkeiten und Werte stärken. Du kannst den Kampf mehrmals herausfordern, also versuche, deine Teamformation zu finden und sie herauszufordern.
+挑戦目標を達成することで★を獲得できますよ。\nより多くの★を集めてミッション報酬の獲得を目指しましょう。=Du kannst Sterne★ verdienen, indem du die Ziele der Herausforderung erreichst. Sammle mehr Sterne, um Missionsbelohnungen zu erhalten.
+★3クリアしていないラウンドを確認できます。=Sie können die Runden, die Sie nicht geschafft haben, überprüfen 3★.

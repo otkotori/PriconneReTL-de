@@ -1,0 +1,68 @@
+深淵討伐戦=Abyss-chlacht
+前哨クエスト=Außenposten-Quests
+前哨クエストで討伐依頼証を獲得しよう！=Erhalte Jagdtickets in Außenposten-Quests!
+朱火の深淵=Karminroter Abgrund
+轟流の深淵=Turbulenter Abgrund
+玄闇の深淵=Vergessener Abgrund
+
+深淵討伐戦へ=Zur Abgrundschlacht
+スタミナ不足のため実行しません。=Wegen mangelnder Ausdauer nicht ausgeführt.
+スコア報酬=Punktzahl-Belohnung
+r:"^スコアを([0-9,]+)pt獲得しよう$"=Erhalte eine Punktzahl von $1pkt
+r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]獲得！\[-\]$"=[3C404E] Verdiene eine Punktzahl von [FFBB00,CE4F00]$1pkt[-] bei deinem ersten Löschung![-]
+スコアレート=Punktzahl
+ボスリザルト=Boss-Ergebnis
+初回クリアボーナス=Erster klarer Bonus
+模擬戦のためスコア、報酬は獲得できません。=Für Scheingefechte werden keine Punkte und Belohnungen vergeben.
+サポートキャラが編成されているため再戦できません。=Ein Rückkampf ist nicht möglich, da ein Hilfscharakter im Team enthalten ist.
+リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=Wenn Sie aufgeben, erhalten Sie keine Belohnungen. Das Antragsformular für die Unterwerfung wird nicht verbraucht.\n\nSind Sie sicher?
+
+モンスターＨＰを本戦状態\\nにする=KP des Monsters auf den Hauptkampfzustand setzen
+難易度HARD=Schwer
+難易度NORMAL=Normal
+スキップ可能な前哨クエストがありません。=Es können keine Außenpostenquests übersprungen werden.
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E]Mit [FFBB00,CE4F00]$1[-] Formula(e) herausfordern[-]
+
+撃破回数=Niederlagenanzahl
+消費討伐依頼証=Jagdtickets verwenden
+r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バトルをスキップします。$"=Gib Skip-Tickets und Jagd-Tickets aus, um $1-Schlachten zu überspringen.
+
+ボス難易度選択=Auswahl der Boss-Schwierigkeit
+模擬戦のため報酬は獲得できません。=Für die Scheingefechte gibt es keine Belohnungen.
+モンスターＨＰを本戦状態\nにする=KP des Monsters auf den Hauptkampfzustand setzen
+モンスターＨＰを本戦状態\にする=Monster-KP auf Kampfstatus setzen
+討伐依頼証枚数=Anzahl der Jagdscheine
+スキップダメージ=Überspringen von Schäden
+
+[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Unterwerfung“.[-]
+深淵討伐戦の前哨クエストを1回クリアしよう=Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Unterwerfung“.
+[FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF]Besiege alle Bosse in der Abyss-Schlacht auf SEHR SCHWER.[-]
+深淵討伐戦で全ボスのVERY HARDをクリアしよう=Besiege alle Bosse in der Abyss-Schlacht auf SEHR SCHWER.
+
+深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Es scheint, dass bestimmte Elementarboni während des Kampfes zur Abyss-Unterwerfung verstärkt werden. Ihr könnt den Boss herausfordern, indem ihr das Unterwerfungszertifikat für die Unterwerfung in den Außenposten-Quests sammelt.
+ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=In Bosskämpfen wird Ihre Punktzahl auf der Grundlage des von Ihnen verursachten Schadens erhöht. Als Belohnung für den Abschluss der ersten Runde des Endgegners und die Erreichung der Endpunktzahl erhältst du ein Meisterwerk-Fragment. Stellen Sie sicher, dass Sie für die Herausforderung gut vorbereitet sind.
+
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404EVerwenden [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um ein anderes Abenteuer mit derselben Gruppe zu spielen. [-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Benutze [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um eine andere Quest mit derselben Gruppe zu spielen.\nIst das in Ordnung?[-]
+
+き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=Notfall! Aus der tiefsten Region des „Abyss“ steigt ein ungeheuer mächtiges Monster auf!
+カリンさん！？　ここまで走ってきたんですか！？\nそれに強力な魔物って……？=Karin!? Bist du den ganzen Weg hierher gelaufen? Und ein mächtiges Monster, sagst du...?
+はいはい、いつもの「もっと強い敵が現れた！」ね。\nまっかせなさい！　そんなのソッコーでぶっ倒してきてやるわ！=Ja, ja, das übliche „Jetzt gibt es einen stärkeren Feind!“ Überlassen Sie das mir! Ich schlage ihn im Handumdrehen k.o.!
+キャルさま！？\n一人で行ってしまわれました……！\n大丈夫でしょうか？=Kyaru-sama!? Sie ist allein gegangen...! Wird es ihr gut gehen?
+あ！　でも、引き返してきましたよ～？=Aber sie kommt schon zurück!
+無理無理無理無理ぃ！\nちょっとシャレになってないわよアレ！=Auf keinen Fall, auf keinen Fall, auf keinen Fall! Mit dem Ding ist nicht zu spaßen!
+はい。洒落にならないのも当然です。\n言ってしまえばあの魔物は、\n『深域』の魔物たちの親玉ですから……！=Das ist natürlich kein Scherz. Um es einfach auszudrücken, dieses Monster ist der Boss der „Abyss“-Monster...
+親玉ですか～！　それは強そうですし……\n食べ応えもありそうですね☆　じゅるり♪=Der Boss, was? Das klingt hart... und lecker☆ Lecker!
+い、言っておくけど、アレは今度こそ食べられないと思うわよ！？\nていうかそもそも、あんなのどうやって倒せってのよ～！？=Ich sage nur soviel: Ich glaube nicht, dass man den essen kann! Und ernsthaft, wie sollen wir so etwas besiegen?
+そうですね……肝心なのは『属性』です。\n『深淵』での戦闘は、これまでの『深域』クエストと同様に\n『属性の力』を活用すれば有利に進められるはずですよ。=Der Schlüssel liegt in den „Attributen“. Genau wie bei früheren „Abyss“-Quests wird uns die Macht der „Attribute“ in diesem Kampf einen Vorteil verschaffen.
+なるほど。\nでは主さま、引き続き『属性』を揃えることを意識して\n戦ってまいりましょう。=Ich verstehe. Also, Aruji-sama, konzentrieren wir uns weiter darauf, die richtigen „Attribute“ zu sammeln, während wir kämpfen.
+ま、戦い方はそれでいいとして……報酬は弾むんでしょうね？\nしょっぱいアイテムしかなかったら承知しないわよ？=Gut, die Strategie ist schön und gut, aber... die Belohnungen sollten es besser wert sein! Ich werde mich nicht mit irgendwelchen lahmen Artikel zufrieden geben!
+ふふふ♪　報酬に関しては、お任せください！\n現地で取得した『アストラルスフィア』や『アストラルシャード』は\nこれまで通り自由に持ち帰っていただいて構いません。さらに──=Hehe♪ Überlasst die Belohnungen mir! Ihr könnt immer noch alle „Astralkugeln“ oder „Astralsplitter“, die ihr vor Ort erhaltet, mit nach Hause nehmen. Zusätzlich──
+今回は特別報酬として、\n『マスターピースの欠片』もご用意します！=Zu diesem besonderen Anlass bieten wir auch „Meisterstücken-Fragments“ an!
+大変豪華な報酬ですね。\nそれがあれば、主さまのお力もさらに強くなられるかと。=Was für großartige Belohnungen. Damit wird die Macht des Meisters sicherlich weiter zunehmen.
+あのさ……手際が良すぎて怖いんだけど……\n走ってきたのも実はわざとだったりしない？=Weißt du... die Art und Weise, wie du vorbereitet bist, ist irgendwie beängstigend... Hast du auch geplant, hierher zu laufen?
+そんなことはありませんよ？\nそういうわけで、この『深淵討伐戦』──\nお願いしますみなさん！　力を貸してください！=Nein, natürlich nicht. Also, bitte nehmt diese „Eroberung des Abgrunds“ in Angriff! Wir brauchen eure Stärke!
+主さまのためとあっては、いてもたってもいられません……\n早速編成を組み、挑戦してみましょう！=Wenn es für den Meister ist, kann ich nicht nur rumsitzen... Lasst uns das Team zusammenstellen und es versuchen!
+……あーもうしょうがないわね！　とっとと片付けてきてやるから、\n報酬いーっぱい用意しときなさいよね！=...Oh, gut! Ich werde mich schnell darum kümmern, also haltet genügend Belohnungen bereit!
+【美食殿】、レッツゴーです☆=[Gourmet-Gilde], los geht's☆
+
