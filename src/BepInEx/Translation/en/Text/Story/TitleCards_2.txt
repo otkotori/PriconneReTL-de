@@ -196,7 +196,7 @@
 1
 そして、新たな力=A New Power
 新たな鍵=A New Key
-【レイジ・レギオン】=Rage Legion
+【レイジ・レギオン】=Rage-Legion
 罪状は=Passing Judgment
 踊る議会=The Council Dances
 困惑の地下牢=Bewildered Imprisonment
