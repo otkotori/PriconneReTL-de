@@ -1,0 +1,14 @@
+r:"^ゲーム起動中　([0-9.]+)％$"=Wird gestartet... $1%
+r:"^\[3C404E\]追加データをダウンロードします。\n\(([.0-9]+) ([MG])B\)\[-\]$"=[3C404E]Zusätzlicher Daten wurde\nheruntergeladen.\n($1 $2b)[-]
+r:"^追加データをダウンロードします。\n追加データは、保存されます。\n\(([.0-9]+) ([MG])B\)$"=Zusätzlicher Daten wurde heruntergeladen.\nZusätzlicher Daten wurde gespeichert.\n($1 $2b)
+
+追加データをダウンロードします。=Weitere Daten herunterladen.
+r:"^\[3C404E\]プレイを進めるにはデータの\nダウンロードが必要です。\n\(([.0-9]+) ([MG])B\)\[-\]$"=[3C404E]Sie müssen die Daten herunterladen,\num das Spiel fortzufahren.\n($1 $2b)[-]
+ダウンロード=Laden
+データダウンロード中=Daten herunterladen
+メンテナンス=Wartung
+r:"^ダウンロード中　([.0-9]+)％$"=$1％ Heruntergeladen 
+※通信環境の良いところでダウンロードを行ってください。\n通信状態によっては時間がかかる場合があります。=※Achten Sie auf eine gute Verbindung.\nDie Downloadzeiten können je nach Netzwerkgeschwindigkeit variieren.
+
+r:"^\[3C404E\]\[FFBB00,CE4F00\]([0-9:/ ]+) ～ ([0-9:/ ]+)\[-\]に\nメンテナンスを実施いたします。\n詳細はお知らせをご確認ください。\[-\]$"=[3C404E]Die Wartung findet statt in\n[FFBB00,CE4F00]$1 zu $2[-].\nBitte lesen der Ankündigung.[-]
+メンテナンスのお知らせ=Wartungsarbeiten-Info

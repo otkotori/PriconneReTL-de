@@ -1,0 +1,33 @@
+タイトルへ=Zum Titel gehen
+エラー=Fehler
+アプリ終了=Anwendung beenden
+タイムアウト=Auszeit
+[3C404E]しばらく操作されなかったため、\nゲームを終了して、DMM GAME PLAYERから再起動してください。[-]=[3C404E]Eine Zeit lang keine Antwort erhalten.\nBitte beenden Sie das Spiel und starten.\nSie es erneut über den DMM GAME PLAYER.[-]
+新しいバージョンがあります。\nゲームを一度終了し、DMM GAME PLAYERから再起動を行ってください。=Eine neue Spielversion ist verfügbar.\nBitte beenden Sie das Spiel und starten.\nSie es erneut über den DMM GAME PLAYER.
+[3C404E]エラーコード：201\n接続が途切れました。\nタイトルに戻ります。[-]=[3C404E]Fehlercode: 201\nDie Verbindung wurde unterbrochen.\nRückkehr zum Titelbildschirm.[-]
+エラーコード：3319\nプリンセスアリーナにおける接続が途切れました。\nタイトルに戻ります。=Fehlercode: 3319\nDie Verbindung in der Prinzessinnen-Arena ist\nunterbrochen worden.\nRückkehr zum Titelbildschirm.
+[3C404E]エラーコード：216\nエラーが発生しました。\n直接ゲームを起動することはできません。\nプラットフォーム指定の方法で\nゲームを起動してください。[-]=[3C404E]Fehlercode: 216\nDas Spiel kann nicht direkt gestartet werden.\nBitte starten Sie das Spiel mit der von der Plattform vorgegebenen Methode.[-]
+[3C404E]タイムアウトしました。[-]=[3C404E]Zeitüberschreitung[-].
+[3C404E]エラーコード：3511\n開催中のクエストがありません。[-]=[3C404E]Fehlercode: 3511\nEs werden keine Quests durchgeführt.[-]
+
+[3C404E]エラーコード：205\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Fehlercode: 205\nEin Fehler ist aufgetreten.\nRückkehr zum Titelbildschirm.[-]
+[3C404E]エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Fehlercode: 501\nEin Fehler ist aufgetreten.\nRückkehr zum Titelbildschirm.[-]
+エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。=Fehlercode: 501\nEin Fehler ist aufgetreten.\nRückkehr zum Titelbildschirm.
+エラーコード:2\n処理中にエラーが発生しました=Fehlercode: 2\nFehler während der Verarbeitung aufgetreten.
+[3C404E]エラーコード:2\n処理中にエラーが発生しました[-]=[3C404E]Fehlercode: 2\nFehler während der Verarbeitung aufgetreten.[-]
+
+[3C404E]ネットワーク接続エラーが発生しました。[-]=[3C404E]Es ist ein\nNetzwerkverbindungsfehler aufgetreten.[-]
+[3C404E]新しいデータがあります。\nタイトルへをタップすると\nダウンロードが始まります。[-]=[3C404E]Neue Daten verfügbar.\nZurück zu der Titelbildschirm,\num den Download zu starten.[-]
+[3C404E]エラーコード：218-40\nエラーが発生しました[-]=[3C404E]Fehlercode: 218-40\nEin Fehler ist aufgetreten.[-]
+ネットワーク接続エラーが発生しました。\nエラーコード：1-2-0=Es ist ein\nNetzwerkverbindungsfehler aufgetreten.\nFehlercode: 1-2-0
+エラーコード：100\nエラーが発生しました=Fehlercode: 100 Fehler aufgetreten
+エラーコード：3900\nエラーが発生しました。\nタイトルに戻ります。=Es sind 3.900 Fehler aufgetreten.\nRückkehr zum Titel.
+[3C404E]ただいまメンテナンス中です。\n完了までしばらくお待ちください。[-]=[3C404E]Zurzeit werden Wartungsarbeiten durchgeführt.
+r:"^\[3C404E\]\[FFBB00\,CE4F00\]([0-9/ :]+)～ 翌([0-9/ :]+)\[-\]に\nメンテナンスを実施いたします。\n詳細はお知らせをご確認ください。\[-\]$"=[3C404E]Auf[FFBB00,CE4F00] $1 bis zum nächsten Tag $2[-]\nwird die Wartung durchgeführt.\nLesen Sie bitte der Ankündigung.[-]
+
+[3C404E]ダウンロード中にエラーが発生しました。[-]=[3C404E]Beim Herunterladen ist ein Fehler aufgetreten.[-]
+リトライ=Erneut versuch
+ダウンロードエラー=Download-Fehler
+
+通信がタイムアウトしました\n通信環境を確認し、再度お試しください=Die Verbindung wurde unterbrochen.\nBitte überprüfen Sie Ihre Verbindung\nund versuchen Sie es erneut.
+通信中にエラーが発生しました\n通信環境を確認し、再度お試しください=Beim Verbindungsaufbau ist ein Fehler aufgetreten.\nBitte überprüfen Sie Ihre Verbindung\nund versuchen Sie es erneut.

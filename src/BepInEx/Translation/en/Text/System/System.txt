@@ -1,0 +1,72 @@
+プレゼント= 
+ミッション= 
+お知らせ= 
+クラン= 
+ショップ= 
+ガチャ= 
+ギルドハウス= 
+クエスト= 
+ストーリー= 
+マイページ= 
+公式サイト=Unser Seite
+
+属性ボーナス有効=Gültiger Attributbonus
+編成5キャラ=5 Charaktere
+編成4キャラ=4 Charaktere
+編成3キャラ=3 Charaktere
+編成2キャラ=2 Charaktere
+編成1キャラ=1 Charakter
+属性ボーナス詳細=Attributsbonus-Info
+有効=Gültigkeit
+弱点=Schwäche
+発動属性ボーナス=Aktivierungsattribut-Bonus
+このクエストに有効な属性はありません。=Für diese Quest gibt es keine wirksamen Attribute.
+
+イベント開催のお知らせ=Ereignis-Mitteilung
+予告を見る=Trailer ansehen
+
+キャラ= 
+後衛=Nach
+中衛=Mittle
+前衛=Vor
+
+闇=Dunkel
+光=Licht
+水=Wasser
+火=Feuer
+風=Wind
+
+ユニオンバースト=Gewerkschaftsberstung
+スキル効果=Fähigkeiten-Effekt
+スキル=Fähigkeiten
+EXスキル=EX-Fähigkeiten
+r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Ab RANG $2 Freischalten!
+中断=Ende
+[3C404E]リプレイを中断しますか？\nリプレイはクリアパーティ一覧から\n再度見ることができます。[-]=[3C404E]Wiederholung beenden?\nWiederholungen können erneut\nangesehen werden aus\nder Parteienliste.[-]
+
+チケットで再戦=Überspringen
+再戦する=Wiederholung
+リタイア=Zurück
+
+確認画面=Bestätigung
+[3C404E]タイトルに戻りますか？[-]=[3C404E]Möchten Sie zum Titel zurückkehren?[-].
+
+[3C404E]アプリを終了してもよろしいですか？[-]=[3C404E]Bist du sicher, dass du aufhören willst? [-]
+アプリ終了確認=Bestätigung
+
+[3C404E]日付が変わりました。[-]=[3C404E]Es ist 05:00 der nächsten tag.\nDas Spieltag wurde geändert.[-].
+日付変更=Uhr-Weschel
+
+このストーリーをスキップしてもよろしいですか？=Sind Sie sicher, dass Sie diese Geschichte\nauslassen wollen?
+
+トレーニングバトルリタイア=Training beenden
+[3C404E]トレーニングバトルをリタイアしますか？[-]=[3C404E]Möchten Sie den Trainingskampf beenden?[-]
+
+あらすじ=Inhaltsangabe
+[FF7C4E,D62146]このストーリーをスキップしてもよろしいですか？[-]=[FF7C4E,D62146]Diese Geschichte überspringen?[-]
+
+レベルアップ=Stufe-Erhöung!
+スタミナが回復しました！=Der Ausdauer wurde wiederhergestellt!
+スタミナ最大値=Max. Ausdauer
+
+sr:"^「(.+)」で挑戦してみてね！$"=Versuchen Sie $1
