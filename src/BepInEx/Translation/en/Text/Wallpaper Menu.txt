@@ -1,0 +1,16 @@
+初期BGM=Anfänglicher\nHGM
+このストーリーシーンをマイページに設定完了すると\nダウンロードしたデータはそのまま保存されます。=Wenn diese Story-Szene auf Start eingestellt ist, werden die\nheruntergeladenen Daten gespeichert, wie sie sind.
+マイページに設定しなかった場合や\n設定後にマイページからはずした場合は\n次にアプリを起動した際にデータが削除されます。=Wenn Sie es nicht auf Start einstellen oder es nach aus Start\nentfernen, werden die Daten beim nächsten Start der App gelöscht.
+
+このムービーをマイページに設定完了すると\nダウンロードしたデータはそのまま保存されます。=Sobald dieser Film auf „Start“ eingerichtet ist,\nwerden die heruntergeladenen Daten so gespeichert, wie sie sind.
+
+[FFBB00,CE4F00]設定中[-]=[FFBB00,CE4F00]Eingestellt[-]
+[5f6fa1]アニメ内\n音声[-]=[5f6fa1]Anime\nTon[-]
+フレーム=Rahmen
+イラスト・ムービー=Gedächtnisinhalt
+エンディングを見ると確認できます。=Sie können es am Ende sehen.
+sr:"^ストーリーイベント「(.+)」の\nミッション「(.+)を1体倒そう（HARD限定）」を達成すると確認できます。$"="Sie können das Story-Ereignis „$1“ auswählen,\nsobald Sie es beendet haben, und $2\n(Schwer) mindestens einmal besiegen."
+
+ストーリーイベント「コネクト・ウィズ・ブルー　少女が空に至るまで」の\nミニコンテンツ「ランドソル一期一会」の「人気者は遅れてやってくる」を閲覧すると確認できます。=Sie können den Mini-Inhalt\n„Der Beliebte kommt zu spät“\naus dem Story-Event\n „Verbinden Sie sich mit Blue ~ Bis sie den Himmel erreicht“\n in „Landosol-Eimerliste“ ansehen.
+
+既に設定されています。=Er ist bereits festgelegt.

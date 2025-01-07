@@ -1,152 +1,140 @@
 通常=Normal
-Pアリーナ=P.Arena
-Bアリーナ=B Arena
+Pアリーナ=P-Arena
+Bアリーナ=K-Arena
 アリーナ=Arena
-マスター=Master
+マスター=Meister
 限定=Bonus
-購入する=Buy
-r:"^所持数：(\d+)$"=Held: $1
-sr:"^(\d+月)(\d+)日まで販売中$"=Sale Until $2 $1
-残り0回=Sold out
-r:"^残り(\d+)回$"=$1 Times Left
-ダンジョンショップ=Dungeon Shop
-残り購入回数=Remain
-すべて選択=Select All
-全て解除=Clear
-全て選択=Select All
-すべて解除=Cancel
-[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters cannot be\nunlocked with Memory Shards.[-]
-主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=My Lord, let us prepare for our journey. It will make for an even more fulfilling adventure.
+購入する=Kaufen
+r:"^所持数：(\d+)$"=Besitz: $1
+sr:"^(\d+月)(\d+)日まで販売中$"=Verkaufen bis $2 $1
+残り0回=Ausverkauft
+r:"^残り(\d+)回$"=$1 verbleibend
+ダンジョンショップ=Dungeon-Shop
+残り購入回数=Bleiben
+すべて選択=Alle wählen
+全て解除=Entfernen
+全て選択=Alle wählen
+すべて解除=Entfernen
+[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Begrenzte Charaktere können nicht mit\nGedächtnissplittern entriegelt werden.[-]
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=Mein Herr, lass uns unsere Reise vorbereiten. Das wird ein noch erfüllenderes Abenteuer sein.
 
-これ以上、\n購入できません=Cannot purchase\nany more.
-これ以上、\\n購入できません=Cannot purchase\nany more.
-所持コイン=Coins Held:
-これ以上購入回数を減らせません。=The number of purchases cannot be reduced any further.
-ポーション=EXP Potion
-r:^"([0-9,]+)でまとめて購入する$"=Buy All with: $1
-まとめて購入する=Buy All
----Confirm---
-sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Use $1 × [FFBB00,CE4F00]$2[-]\nto purchase the following items?[-]
+これ以上、\n購入できません=Kann nicht\nmehr kaufen.
+これ以上、\\n購入できません=Kann nicht\nmehr kaufen.
+所持コイン=Münzen:
+これ以上購入回数を減らせません。=Die Anzahl der Käufe kann nicht weiter reduziert werden.
+ポーション=EP-Trank
+r:^"([0-9,]+)でまとめて購入する$"=Alle kaufen mit: $1
+まとめて購入する=Alle kaufen
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Verwenden Sie $1 × [FFBB00,CE4F00]$2[-],\n um die folgenden Artikel zu kaufen?[-]
 
----Bough List---
-sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]You used $1 × [FFBB00,CE4F00]$2[-]\n to buy the following items.[-]
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]Sie haben $1 × [FFBB00,CE4F00]$2[-]\n verwendet, um die folgenden Artikel zu kaufen.[-]
 
-sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-] to buy\n$3 × [FFBB00,CE4F00]$4[-].[-]
+sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]Sie haben $1 × [FFBB00,CE4F00]$2[-] verwendet, um $3 × [FFBB00,CE4F00]$4[-] zu kaufen.[-]
 
----sort order---
-ピュアメモリー\nピースのみ=Pure Memory\nShard only
-メモリーピースのみ=Memory Shard only
-表示項目=Display item
+ピュアメモリー\nピースのみ=Nur reines\nGedächtnissplittern
+メモリーピースのみ=Nur Gedächtnissplittern
+表示項目=Artikel anzeigen
 ポジション=Position
-価格順=Price
-入手順=Date
-決定=OK
+価格順=Preis
+入手順=Datum
+決定=O.K.
+バトル中ポジション=Kampfposition
 
----purchase window---
-購入完了=Purchase Complete
-ショップを閉じる=Close the shop
-購入確認=Buy Items?
-所持マナ=Mana Held:
-女神の秘石必要数確認=Exchange Divine Amulet Confirmation
+購入完了=Kauf vollständig
+ショップを閉じる=Laden schließen
+購入確認=Artikel kaufen?
+所持マナ=Mana:
+女神の秘石必要数確認=Umtausch Göttliches Amulett-Bestätigung
 
----bonus---
-マスターショップ （開店準備中）=Master Shop (Preparing)
-マスターショップ (開店準備中)=Master Shop (Preparing)
-マスターコイン獲得で解放=Unlocked by obtaining Master Coins
-限定ショップ （準備中）=Bonus Shop (Closed)
+マスターショップ （開店準備中）=Meistershop (Vorbereitung)
+マスターショップ (開店準備中)=Meistershop (Vorbereitung)
+マスターコイン獲得で解放=Wird durch den Erhalt von Meistermünzen freigeschaltet
+限定ショップ （準備中）=Bonusshop (geschlossen)
 
-限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=The maximum number of times the Bonus Shop can appear has been reached, and the Bonus Shop will not appear until 04:59(JST).
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=Die maximale Anzahl von Erscheinungen des Bonus-Shops ist erreicht, und der Bonus-Shop wird um 05:00 zurückgesetzt.
 
-ショップ閉店確認=Close Shop
-[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Do you want to close\ntoday's Bonus Shop now?\n\nThe next opening will be [FFBB00,CE4F00]after 05:00(JST).[-][-]
+ショップ閉店確認=Shop schließen
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Möchten Sie den Bonus-Shop von heute schließen?\n\nDie nächste Öffnung ist [FFBB00,CE4F00]nach 05:00.[-][-]
 
-限定ショップ=Bonus Shop
-必要マナ=Mana Req
+限定ショップ=Bonus-Shop
+必要マナ=Mana-Anf.
 
-限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=New items have been added to the Bonus Shop.
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Dem Bonus-Shop wurden neue Artikel hinzugefügt.
 
-本日の出現数=Appear
-限定ショップは開かれていません。=Bonus Shop isn't open.
-今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=The maximum number of appearances for today has been reached, and will be reset at 05:00.
-購入するアイテムを選択してください。=Please select the item to purchase.
-購入できるアイテムがありません。=There are no items that can be purchased.
----master shop---
-マスターコイン上限確認=Master Coin Limit
-マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Master Coins can be earned by consuming stamina when the player's Lv and EXP have reached the max.
-現在の獲得状況=Current status
-コイン獲得上限確認=Master Coin Limit
-リセット対象のアイテムがありません。=There are no items to reset.
+本日の出現数=Erscheint
+限定ショップは開かれていません。=Der Bonusshop ist nicht geöffnet.
+今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=Die maximale Anzahl von Auftritten für heute ist erreicht und wird um 05:00 zurückgesetzt.
+購入するアイテムを選択してください。=Bitte wählen Sie den zu kaufenden Artikel aus.
+購入できるアイテムがありません。=Es gibt keine Artikel, die man kaufen kann.
+マスターコイン上限確認=Meister-Münzlimit
+マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Meistermünzen können durch den Verbrauch von Ausdauer verdient werden, wenn die Spieler-St und Spielerpunkte das Maximum erreicht haben.
+現在の獲得状況=Aktueller Stand
+コイン獲得上限確認=Meister-Münzlimit
+リセット対象のアイテムがありません。=Es gibt keine Artikel, die zurückgesetzt werden müssen.
 
-r:"^(\d+)で一部ラインナップを今すぐ更新$"=Reset some lineup: $1
-r:"^([0-9,]+)で今すぐ更新$"=$1: Reset
-r:"^([0-9,]+)で一部更新$"=$1: Reset Some.
-一部ラインナップは毎日5:00更新=Some lineup Reset Daily at 5:00(JST)
-r:"^([0-9/]+) 枚$"=$1 Coin
+r:"^(\d+)で一部ラインナップを今すぐ更新$"=$1: Zurücksetzen
+r:"^([0-9,]+)で今すぐ更新$"=$1: Zurücksetzen
+r:"^([0-9,]+)で一部更新$"=$1: Zurücksetzen
+一部ラインナップは毎日5:00更新=Zurücksetzen um 05:00
+r:"^([0-9/]+) 枚$"=$1-Münze
 
+sr:"^(.{4,20})不足$"=Ungenügend $1
+sr:"^購入に必要な(.{4,20})が不足しています。$"=Nicht genügend $1 zum Kauf.
+バトルアリーナへ=Zur Kampfarena
+プリンセスアリーナへ=Zur Prinzessinnen-Arena
+ダンジョンへ移動しますか?=In den Dungeon umziehen?
+プリンセスアリーナへ移動しますか?=In den Prinzessinnen-Arena umziehen?
+バトルアリーナへ移動しますか?=In die Kampfarena umziehen?
 
-sr:"^(.{4,20})不足$"=Insufficient $1
-sr:"^購入に必要な(.{4,20})が不足しています。$"=Insufficient $1 to purchase.
-バトルアリーナへ=To the Battle Arena
-プリンセスアリーナへ=To the Princess Arena
-ダンジョンへ移動しますか?=Move to the Dungeon?
-プリンセスアリーナへ移動しますか?=Move to the Princess Arena?
-バトルアリーナへ移動しますか?=Move to the Battle Arena?
+主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=Mein Herr, es sieht so aus, als könnten Sie Meistermünzen gegen Artikel eintauschen, die im Meistershop nur schwer zu bekommen sind. Sobald Sie die maximale Spielerstufe erreicht haben, können Sie Meistermünzen durch den Verbrauch von Ausdauer bei Erreichen der EP-Obergrenze erhalten.
+在のメモリーピース1個あたりの単価=Preise pro Gedächtnissplitter: 
+現在のメモリーピース1個あたりの単価=Preise pro Gedächtnissplitter:
+対象アイテムのメモリーピース個あたりの単価が=Preise pro reines Gedächtnissplitter:
 
+ピュアメモリーピース1個あたりの単価=Preise pro reines Gedächtnissplittern:
+ピュアメモリーピース単価一覧= Reinen Gedächtnissplitter-Preisliste
+ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=Siehe unten für Info über die Anzahl der göttlichen Amulette, die pro Splitter benötigt werden, wenn man einen reinen Gedächtnissplitter kauft.
 
----npc---
-主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=My Lord, it looks like you can exchange Master Coins for items that are difficult to obtain at the Master Shop. Once you have reached the max Player Lv, you can obtain Master Coins from consuming stamina upon reaching the EXP cap.
----Divine Amulet---
-在のメモリーピース1個あたりの単価=Prices per Shard: 
-現在のメモリーピース1個あたりの単価=Prices per Shard: 
-対象アイテムのメモリーピース個あたりの単価が=Prices per Memory Shard: 
+メモリーピース購入数=Kaufbetrag
+そのまま購入=Trotzdem kaufen
+r:"^([0-9,]+)で購入$"=$1 kaufen
+★6才能開花に必要な数を超えています。=Übersteigt die für den 6★-Aufstieg erforderliche Anzahl.
+[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FF7C4E,D62146]Übersteigt die für die Erstellung der EA-1 erforderliche Anzahl.[-]
+[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Verfügt über die notwendige Menge, um EA-1 zu erstellen.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FF7C4E,D62146]Übersteigt die für die Erstellung der EA-2 erforderliche Anzahl.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Verfügt über die notwendige Menge, um EA-2 zu erstellen.[-]
 
-ピュアメモリーピース1個あたりの単価=Price per Pure Memory Shard: 
-ピュアメモリーピース単価一覧=Pure Memory Shard price list
-ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=See below for details on the number of Divine Amulet required per Shard when purchasing a Pure Memory Shard.
+使用可能なスロットがありません。=Keine nutzbaren Steckplätze.
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11}|)(\（.{2,10}\）)?の専用装備２を\n(.)段階強化するのに必要な数を所持しています。\[-]$"=[FFF7C4E,D621446]Du hast die erforderliche Menge, um die Einzigartige Ausrüstung 2\nvon $1$2 zu verbessern von $3 Stufe(n).[-]
 
-メモリーピース購入数=Number of Memory Shards purchased
-そのまま購入=Purchase as it is
-r:"^([0-9,]+)で購入$"=Purchase at $1
-★6才能開花に必要な数を超えています。=Exceeds the number required for *6 Ascension.
-[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FF7C4E,D62146]Exceeds the number required to create UE-1.[-]
-[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Has the necessary amount to create UE-1.[-]
-[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FF7C4E,D62146]Exceeds the number required to create UE-2.[-]
-[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Has the necessary amount to create UE-2.[-]
+キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Enthält die Anzahl, die benötigt wird, um den Charakter zu brechen\nSie können die Anzahl kaufen, die benötigt wird, um die Einzigartige Ausrüstung 1 zu entkappen.
+特定の強化分の購入数を超えています。\nそのまま購入しますか？=Die für die EA-Verbesserung erforderliche Anzahl wurde überschritten.\nMöchten Sie den Kauf fortsetzen?
+★5に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 5★ benötigen.
+★4に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 4★ benötigen.
+★3に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 3★ benötigen.
+★2に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 2★ benötigen.
+限定ショップは開かれていません=Bonusshop ist nicht geöffnet
+メモリーピース購入数=Anzahl der gekaufet Gedächtnissplitter
+以下のアイテムを購入しますか?=Folgende Artikel kaufen?
+メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=Die erforderliche Anzahl göttlicher Amulette pro Splitter hängt von der\nAnzahl der gekauften Gedächtnisplättchen ab.\nEinzelheiten siehe unten.
+メモリーピース単価一覧=Preisliste für Gedächtnissplitter
+sr:"^([べ-ヺー＆＝]+)(（.+）)?のメモリーピースの購入数が(\d)になりました。$"=Die Anzahl der Käufe von $1$2 beträgt jetzt $4.
 
-使用可能なスロットがありません。=No usable slots.
-sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11})(\（.{2,10}\）)?の専用装備２を\n(.)段階強化するのに必要な数を超えています。\[-\]$"=[FFF7C4E,D621446]You have the necessary quantity required to upgrade\n$1$2's Unique Equipment 2 by $3 level(s).[-]
+r:"^(\d)個になります。$"=$1 pro Splitter
 
+対象アイテム1個あたりの単価が=Der Einheitspreis pro Zielposition beträgt
+sr:"^([べ-ヺー＆＝]+)(（.+）)?の\nメモリーピースの購入数が(\d+)になりました。$"=Die Gesamtzahl der Käufe von $1$2 ist $3.
+一部毎日5:00更新=Täglich um 05:00 zurücksetzen
 
-キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Contains the number required to Limit Break the character\nYou can purchase the number required to uncap Unique Equipment 1.
-特定の強化分の購入数を超えています。\nそのまま購入しますか？=Exceeded the number required for UE enhancement.\nDo you want to continue with the purchase?
-★5に必要な個数まで指定できます。=You can specify up to the number you need for ★5.
-★4に必要な個数まで指定できます。=You can specify up to the number you need for ★4.
-★3に必要な個数まで指定できます。=You can specify up to the number you need for ★3.
-★2に必要な個数まで指定できます。=You can specify up to the number you need for ★2.
-限定ショップは開かれていません=Bonus Shop is not open
-メモリーピース購入数=Number of Memory Shards purchased
-以下のアイテムを購入しますか?=Do you buy the following items?
-メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulets per Shard\ndepends on the number of Memory Shards purchased.\nSee below for details.
-メモリーピース単価一覧=Memory Shard unit Price List
-sr:"^([べ-ヺー＆＝]+)(（.+）)?のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Verwenden Sie $1 ×[FFBB00,CE4F00]$2[-],\n um den Inhalt des Shops zurückzusetzen?[-]
 
-r:"^(\d)個になります。$"=$1 per Shard
+r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]Verwenden Sie Meistermünzen ×[FFBB00,CE4F00]$1[-],\n um die folgenden Artikel zurückzusetzen?[-]
+[FF7C4E,D62146]リセット対象外のアイテムはリセットされません。[-]=[FF7C4E,D62146]Artikel, die nicht für eine Rücknahme in Frage kommen, werden nicht zurückgenommen.[-]
+リセット対象外のアイテム=Artikel, die nicht zurückgesetzt werden
+リセット対象のアイテム=Zurückzusetzende Artikel
+r:"^次回ラインナップは(\d+):00更新$"=Zurücksetzen um $1:00
+毎日5:00ラインナップ更新=Zurücksetzen um 05:00
+r:"^毎日5:00更新　出現数(\d)/5$"=Zurücksetzen um 05:00: $1/5 aktiv
 
-対象アイテム1個あたりの単価が=The unit price per target item is
-sr:"^([べ-ヺー＆＝]+) ?(（.+）)?の\nメモリーピースの購入数が(\d+)になりました。$"=The Total number of purchases of\n$1$2's Memory Shard is $3.
----Reset---
-一部毎日5:00更新=Reset some Daily at 5:00(JST)
-
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Use $1 ×[FFBB00,CE4F00]$2[-]\nto reset the contents of the shop?[-]
-
-r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]Use Master Coin ×[FFBB00,CE4F00]$1[-]\nto reset the following items?[-]
-[FF7C4E,D62146]リセット対象外のアイテムはリセットされません。[-]=[FF7C4E,D62146] Items that are not eligible for reset will not be reset.[-]
-リセット対象外のアイテム=Items that are not reset
-リセット対象のアイテム=Items to be reset
-r:"^次回ラインナップは(\d+):00更新$"=Next Reset at $1:00(JST)
-毎日5:00ラインナップ更新=Reset Daily at 5:00(JST)
-毎日5:00更新　出現数4/5
-r:"^毎日5:00更新　出現数(\d)/5$"=Reset Daily at 5:00(JST) Up:$1/5
-
-r:"^本日の出現数　([0-9/]+)回$"=Appearance Today: $1
-メインクエストのクリア時に\n出現することがあります。=Occasionally appears after\nclearing Main Quests.
+r:"^本日の出現数　([0-9/]+)回$"=Erscheinung heute: $1
+メインクエストのクリア時に\n出現することがあります。=Erscheint gelegentlich nach\ndem Lösen von Hauptquests.
