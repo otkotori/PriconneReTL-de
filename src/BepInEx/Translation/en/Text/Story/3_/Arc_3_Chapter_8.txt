@@ -1,145 +1,132 @@
 ---1---
-ジオ・テオゴニアの代表者=Representatives of Geo Teogonia
+ジオ・テオゴニアの代表者=Vertreter von Geo-Teogonia
 
-プリンセス会議に向け、ジオ・ニヴルヘルについて話を聞く{playername}たち。まだ見ぬ第四の世界やロストしたシェフィへの思案を巡らせつつも、ひとまずライラエルたちとの合流を果たすのだった。=In preparation for the princess meeting, {playername} and the others asked about Geo Niflhel. They pondered the fourth world they had yet to see and the lost Shepherd, but for the time being, they were able to meet up with Rilael and the rest.
+プリンセス会議に向け、ジオ・ニヴルヘルについて話を聞く{playername}たち。まだ見ぬ第四の世界やロストしたシェフィへの思案を巡らせつつも、ひとまずライラエルたちとの合流を果たすのだった。=In Vorbereitung auf das Treffen mit der Prinzessin erkundigten sich {playername} und die anderen nach Geo-Niflhel. Sie dachten über die vierte Welt nach, die sie noch nicht gesehen hatten, und über den verlorenen Hirten, aber vorerst konnten sie sich mit Lyrael und den anderen treffen.
 
 
 （……シェフィちゃん……）=(Sheffy...)
-主、さま……=Master...
-……夢を、見ておられたのですか。=...Were you dreaming?
-……わたくしも、です。=...Me too.
-わたくしも……きっと、同じ夢を見ておりました。\nいなくなってしまった、大切な……大切な、家族の夢を……=I must have had the same dream. The dream of a precious... precious family that had disappeared...
-……おそらくは。\nネフィ＝ネラさまから、\nあのお話を聞かせていただいたため、かもしれません……ね。=...Probably because Lady Nephy-Nella told me about it.
-開催きましょうぞ──\n四世界合同、『プリンセス会議』を。=Let's hold the 'Princess Conference,' a joint meeting between the four worlds.
-ジオ・ニヴルヘル……=Geo Niflhel...
-彼の地とは此れ迄、極々僅かな縁しか在りませなんだ。\n故にわっちも、浮説を伝え聞くのみでありんすが……=I've only had a small connection to his land until now. Therefore, all I can do is listen to the floating theory...
-ジオ・ニヴルヘルなる地にも又、わっちやペコリーヌ姫と同じく。\n大君たるプリンセスが居るとの云い。=Like me and Princess Pecoline, Geo Niflhel also has a princess who is a great ruler.
-そして、先程も申しました通り。\n此度の一件は、世界と世界の壁を越えた一事態故。\nジオ・ニヴルヘルのプリンセスにも、使節を送り出して候。=And as I said before, this incident is a situation beyond the walls of the world. Send an envoy to the Princess of Geo Niflhel.
-つかい……\nあっ。\nそういえば最近、ネアさんの姿を見てないです。=Err... Oh. Come to think of it, I haven't seen Nea lately.
-カリザのクソチビガキの騒ぎ声も、\nそーいやここんとこ聞いてないわね。=I haven't heard Cariza's shitty little brat yelling lately, either.
-だいぶ前に、ネアさまが単身ランドソルへと渡って来られたように。\n今回はジオ・ニヴルヘルなる世界へ、\nお二人を派遣なさったということでしょうか。=Just as Lady Nea crossed over to Landsor on her own a long time ago, this time she sent you two to the world of Geo Niflhel.
-あれはああ見えて、中々に芸達者でありんして。\n生半な事態ではびくともせぬゆえに、\n見知らぬ土地へ送る先触れとしては、うってつけにござりますれば。=He may not look like it, but he's quite the performer. He won't budge in a half-baked situation, so he'd be the perfect harbinger to send to an unfamiliar land.
-……使節としては、\nもう少しばかり礼儀作法を学んでくれさえすれば\n言うことはないのですが喃。=...As an envoy, I would have nothing to say if you had studied etiquette a little more.
-えっと。\nネフィ＝ネラさんも、行ったことはないみたいですけど……\nどんな場所なんでしょう？　ジオ・ニヴルヘルって。=Um. It seems Nephy-Nella has never been there either... What kind of place is Geo Niflhel?
-伝え聞くには。\nこのジオ・ゲヘナとは、また異なる畏ろしき地獄……\n死の静寂に包まれし、冥府の如き世界との事でござりんす。=According to the legend, this is a different kind of awe-inspiring hell from Geo Gehenna... It is a world engulfed in the silence of death, like the netherworld.
-……冥府、の如き……=...Like the Netherworld...
-……これまでの、ジオ・ゲヘナでの探索では。\nランドソルとは違う精霊の在り方や、異なる時空と繋がる装置など\n興味深い発見がいくつもありましたが……=...Up until now, we've been searching in Geo Gehenna. We've discovered a number of interesting things, such as the way spirits are different from Landosols, and the devices connected to different space-times...
-残念ながら、今のところ\nロストしてしまった方々の手がかりや、それに類するものは……\n得られておりません。=Unfortunately, we haven't been able to find any clues or anything similar about the people who lost it.
-……ロストという現象は、現実世界における死とは\n似て非なるものですが……もし本当に、冥府の如き世界が\nレジェンドオブアストルムの裏側に存在していたとしたら……=...The phenomenon known as lost is similar to death in the real world, but...if a world like the Netherworld really existed on the other side of the Legend of Asturm...
-……シェフィさまも……=...Lady Sheffy, too...
-……焦らずに、急ごう。=...Don't rush. Let's hurry.
-……はい、主さま。=...Yes, Master.
-ネアさまが、うまく話を進めてくださっていれば……\nジオ・ニヴルヘルのプリンセスの方が\n間もなくこのジオ・ゲヘナへといらっしゃるはず。=As long as Lady Nea is able to move the conversation along... the princess of Geo Niflhel should be here in Geo Gehenna soon.
-今後……わたくしたちがジオ・ニヴルヘルに向かうなら。\nそのプリンセスの方と知り合いになっておくことは、\nきっと大きな助けになる、はずで……=From now on... If we're going to Geo Niflhel, I'm sure getting to know that princess will be a huge help...
-い、いえ……\nまた主さまに女性のお知り合いが増えてしまう……などと。\nそのようなことは考えておりません。=N-No... Master will be getting to know more women again... That's not what I'm thinking.
-ただ……わたくし、反省でございます。\nあらかじめ、助けていただくつもりで近づくなど……\nあまり褒められたことではありませんので……=However... I regret to inform you that approaching with the intention of being saved in advance... is not something to be praised for...
-他にも、心配事があるの？=Is there something else you're worried about?
-……その。\n主、さま……=......umm...Master......
-わたくしは……時おり、恐ろしく思うのです……=I... sometimes find myself terrified...
-ロストした方々を取り戻すなど……\n本当は、できはしないのではないかと。\n……この旅の全てが、徒労で終わってしまうのではないかと……=I don't think I'll be able to recover the people I lost. I'm afraid that all this journey will end in futility...
-また、あの方に……出会うことは、できないのではないかと……=I'm afraid... I won't be able to meet him again...
-コッコロちゃんを慰める。=I comfort Kokkoro-chan.
-あ、主さまっ……？=Ah, Master...?
-……ふふ。\nいつもながら……お優しい方、ですね。=Heehee. You're always so kind.
-ですが……\n主さまの鼓動からも\n不安なお気持ちが、伝わってまいります。=But... I can tell from your heartbeat that you're worried.
-……そう、ですよね。\nわたくしだけでなく……ペコリーヌさまや、プレシアさまたちも。\n表には出さなくても、心細い想いは変わらないはず……=...That's...right. Not just me...but Lady Pecoline, Precia, and the others as well. Even if I don't let it show, my heartless feelings won't change...
-……ありがとうございます、主さま。\nわたくし、決して希望は捨てません。=...Thank you, Master. I will never give up hope.
+主、さま……=Herr...
+……夢を、見ておられたのですか。=...Haben Sie geträumt?
+……わたくしも、です。=...Ich auch.
+わたくしも……きっと、同じ夢を見ておりました。\nいなくなってしまった、大切な……大切な、家族の夢を……=Ich muss denselben Traum gehabt haben. Der Traum von einer kostbaren, kostbaren Familie, die verschwunden war...
+……おそらくは。\nネフィ＝ネラさまから、\nあのお話を聞かせていただいたため、かもしれません……ね。=...Wahrscheinlich, weil Lady Nephy-Nella mir davon erzählt hat.
+開催きましょうぞ──\n四世界合同、『プリンセス会議』を。=Lasst uns die 'Prinzessinnenkonferenz' abhalten, ein gemeinsames Treffen der vier Welten.
+ジオ・ニヴルヘル……=Geo-Niflhel...
+彼の地とは此れ迄、極々僅かな縁しか在りませなんだ。\n故にわっちも、浮説を伝え聞くのみでありんすが……=Bis jetzt hatte ich nur eine kleine Verbindung zu seinem Land. Deshalb kann ich mir nur die schwebende Theorie anhören...
+ジオ・ニヴルヘルなる地にも又、わっちやペコリーヌ姫と同じく。\n大君たるプリンセスが居るとの云い。=Wie ich und Prinzessin Pecorine hat auch Geo-Niflhel eine Prinzessin, die eine große Herrscherin ist.
+そして、先程も申しました通り。\n此度の一件は、世界と世界の壁を越えた一事態故。\nジオ・ニヴルヘルのプリンセスにも、使節を送り出して候。=Und wie ich bereits sagte, ist dieser Vorfall eine Situation, die über die Mauern der Welt hinausgeht. Schickt einen Abgesandten zur Prinzessin von Geo-Niflhel.
+つかい……\nあっ。\nそういえば最近、ネアさんの姿を見てないです。=Äh... Ach. Da fällt mir ein, dass ich Nea in letzter Zeit nicht mehr gesehen habe.
+カリザのクソチビガキの騒ぎ声も、\nそーいやここんとこ聞いてないわね。=Ich habe Karizas beschissenes kleines Gör in letzter Zeit auch nicht mehr schreien hören.
+だいぶ前に、ネアさまが単身ランドソルへと渡って来られたように。\n今回はジオ・ニヴルヘルなる世界へ、\nお二人を派遣なさったということでしょうか。=So wie Lady Nea vor langer Zeit allein nach Landosol hinübergegangen ist, hat sie diesmal euch beide in die Welt von Geo Niflhel geschickt.
+あれはああ見えて、中々に芸達者でありんして。\n生半な事態ではびくともせぬゆえに、\n見知らぬ土地へ送る先触れとしては、うってつけにござりますれば。=Er sieht vielleicht nicht so aus, aber er ist ein echter Künstler. In einer unausgegorenen Situation rührt er sich nicht vom Fleck. Er wäre also der perfekte Vorbote, den man in ein unbekanntes Land schicken könnte.
+……使節としては、\nもう少しばかり礼儀作法を学んでくれさえすれば\n言うことはないのですが喃。=...Als Abgesandter hätte ich nichts zu sagen, wenn Sie die Etikette ein wenig mehr studiert hätten.
+えっと。\nネフィ＝ネラさんも、行ったことはないみたいですけど……\nどんな場所なんでしょう？　ジオ・ニヴルヘルって。=Ähm. Es scheint, dass Nephi-Nera auch noch nie dort war... Was für ein Ort ist Geo-Niflhel?
+伝え聞くには。\nこのジオ・ゲヘナとは、また異なる畏ろしき地獄……\n死の静寂に包まれし、冥府の如き世界との事でござりんす。=Der Legende nach ist dies eine andere Art von ehrfurchtgebietender Hölle als Geo-Gehenna... Es ist eine Welt, die von der Stille des Todes umhüllt ist, wie die Unterwelt.
+……冥府、の如き……=...Wie die Unterwelt...
+……これまでの、ジオ・ゲヘナでの探索では。\nランドソルとは違う精霊の在り方や、異なる時空と繋がる装置など\n興味深い発見がいくつもありましたが……=...Bis jetzt haben wir in Geo Gehenna gesucht. Wir haben eine Reihe interessanter Dinge entdeckt, wie zum Beispiel, dass sich die Geister von den Landosol unterscheiden, und dass die Geräte mit verschiedenen Raumzeiten verbunden sind...
+残念ながら、今のところ\nロストしてしまった方々の手がかりや、それに類するものは……\n得られておりません。=Leider konnten wir keine Hinweise oder Ähnliches auf die Personen finden, die es verloren haben.
+……ロストという現象は、現実世界における死とは\n似て非なるものですが……もし本当に、冥府の如き世界が\nレジェンドオブアストルムの裏側に存在していたとしたら……=...Das Phänomen, das als verloren bekannt ist, ähnelt dem Tod in der realen Welt, aber... wenn eine Welt wie die Unterwelt wirklich auf der anderen Seite der Legende von Astrum existiert...
+……シェフィさまも……=...Lady Sheffy auch...
+……焦らずに、急ごう。=...Nur keine Eile. Wir sollten uns beeilen.
+……はい、主さま。=...Ja, Herr.
+ネアさまが、うまく話を進めてくださっていれば……\nジオ・ニヴルヘルのプリンセスの方が\n間もなくこのジオ・ゲヘナへといらっしゃるはず。=Wenn es Lady Nea gelingt, das Gespräch voranzutreiben, sollte die Prinzessin von Geo-Niflhel bald hier in Geo-Gehenna sein.
+今後……わたくしたちがジオ・ニヴルヘルに向かうなら。\nそのプリンセスの方と知り合いになっておくことは、\nきっと大きな助けになる、はずで……=Von nun an... Wenn wir zu Geo-Niflhel gehen, wird es sicher eine große Hilfe sein, diese Prinzessin kennenzulernen...
+い、いえ……\nまた主さまに女性のお知り合いが増えてしまう……などと。\nそのようなことは考えておりません。=Nein... der Meister wird wieder mehr Frauen kennen lernen... Das ist nicht das, was ich denke.
+ただ……わたくし、反省でございます。\nあらかじめ、助けていただくつもりで近づくなど……\nあまり褒められたことではありませんので……=Aber... Ich bedauere, Ihnen mitteilen zu müssen, dass es nicht ratsam ist, sich mit der Absicht zu nähern, im Voraus gerettet zu werden...
+他にも、心配事があるの？=Gibt es noch etwas, das Ihnen Sorgen bereitet?
+……その。\n主、さま……=......umm...Meister......
+わたくしは……時おり、恐ろしく思うのです……=Ich... habe manchmal schreckliche Angst...
+ロストした方々を取り戻すなど……\n本当は、できはしないのではないかと。\n……この旅の全てが、徒労で終わってしまうのではないかと……=Ich glaube nicht, dass ich die Menschen, die ich verloren habe, wiederfinden kann. Ich fürchte, dass diese ganze Reise vergeblich sein wird...
+また、あの方に……出会うことは、できないのではないかと……=Ich fürchte... ich werde ihn nicht wiedersehen...
+コッコロちゃんを慰める。=Tröste Kokkoro-chan.
+あ、主さまっ……？=Ah, Meister...?
+……ふふ。\nいつもながら……お優しい方、ですね。=Heehee. Du bist immer so nett.
+ですが……\n主さまの鼓動からも\n不安なお気持ちが、伝わってまいります。=Aber... Ich kann an deinem Herzschlag erkennen, dass du besorgt bist.
+……そう、ですよね。\nわたくしだけでなく……ペコリーヌさまや、プレシアさまたちも。\n表には出さなくても、心細い想いは変わらないはず……=...Das ist... richtig. Nicht nur ich... sondern auch Lady Pecorine, Precia, und die anderen. Auch wenn ich es mir nicht anmerken lasse, meine herzlosen Gefühle werden sich nicht ändern...
+……ありがとうございます、主さま。\nわたくし、決して希望は捨てません。=...Ich danke Euch, Meister. Ich werde die Hoffnung nie aufgeben.
 いつの日か……必ずや。\nシェフィさまのことを、お助けする日まで。=Someday... I will. Until the day I save Shepherd.
-──それから数日間。\n{playername}たちは\nジオ・ゲヘナの探索や人々との交流を続けていた。=For the next few days, {playername} and the others continued their search for Geo Gehenna and interacted with the people.
-おおっ、ナイスだぜお前さんたち！\n今日の朝メシはこの魔物で決まりだなっ！=Oooh, nice job, guys! Today's breakfast is decided by these monsters!
-……はぁ。\n朝も早よから魔物の叫び声に起こされて、バカ強いのと戦わされて。\nほんとジオ・ゲヘナって感じね～……ふぁぁ。=*sigh* I was woken up by monsters screaming so early in the morning, and forced to fight something stupidly strong. It really does feel like Geo Gehenna... *yawn*.
-まぁまぁキャルちゃん☆\n目も覚めるし、\n朝ごはんのおかずが一品増えてお得じゃないですか♪=Now, now, Cal-chan☆ You'll wake up, so it'll be a good deal if you add one more side dish for breakfast♪
-クリアさまたちが、グルメチェイサー号のほうで\n朝食の準備をしてくださっております。\n今手に入れたお肉を、さっそくお届けいたしましょう。=Clear-sama and the others are preparing breakfast on the Gourmet Chaser. Let's deliver the meat we just obtained.
-{playername}くん？\nどうしたんですか？={playername}? What's wrong?
-誰かに呼ばれたような……=It's like someone called me here...
-気のせいじゃないの～？=Aren't you just imagining things?
+──それから数日間。\n{playername}たちは\nジオ・ゲヘナの探索や人々との交流を続けていた。=In den nächsten Tagen setzten {playername} und die anderen ihre Suche nach Geo-Gehenna fort und unterhielten sich mit den Menschen.
+おおっ、ナイスだぜお前さんたち！\n今日の朝メシはこの魔物で決まりだなっ！=Oooh, gut gemacht, Leute! Das heutige Frühstück wird von diesen Monstern bestimmt!
+……はぁ。\n朝も早よから魔物の叫び声に起こされて、バカ強いのと戦わされて。\nほんとジオ・ゲヘナって感じね～……ふぁぁ。=*seufz* Ich wurde so früh am Morgen von schreienden Monstern geweckt und gezwungen, gegen etwas verdammt Starkes zu kämpfen. Es fühlt sich wirklich an wie Geo Gehenna... *gähn*.
+まぁまぁキャルちゃん☆\n目も覚めるし、\n朝ごはんのおかずが一品増えてお得じゃないですか♪=Aber, aber, Cal-chan☆ Du wirst noch wach, also wäre es ein guter Deal, wenn du noch eine Beilage zum Frühstück hinzufügst♪
+クリアさまたちが、グルメチェイサー号のほうで\n朝食の準備をしてくださっております。\n今手に入れたお肉を、さっそくお届けいたしましょう。=Clear-sama und die anderen bereiten das Frühstück auf dem Gourmet-Chaser vor. Lasst uns das Fleisch abliefern, das wir gerade erhalten haben.
+{playername}くん？\nどうしたんですか？={playername}? Was ist los?
+誰かに呼ばれたような……=Es ist, als hätte mich jemand hierher gerufen...
+気のせいじゃないの～？=Bilden Sie sich das nicht nur ein?
 
 ナイトさあぁーんっ♪=Knight-saaaan♪
 ナイトさーん！=Knight-san!
-侵入者──！=Intruders!
-ちょっと待っ──=Wait a minute!
+侵入者──！=Eindringlinge!
+ちょっと待っ──=Warten Sie einen Moment!
 ナイトさーーーーーーーーんっ！！！=Knight-saaaan!!!
 あははははっ♪=Ahahaha♪
-お久しぶりですナイトさんっ♪=Long time no see, Mr. Knight♪
-無断侵入、先制攻撃。──反撃します=Unauthorized entry, preemptive strike. - Counterattack
-そいつ、敵じゃないからっ……！=He's not an enemy...!
-コロコロコロ=Roll roll roll roll
-これはまた。愉快なお客人であり申す=This is also a pleasant guest
-のう？=No?
-──ジオ・テオゴニアの姫よ=-Gio Teogonia's princess
-わたしの守護騎士がご無礼を=My guardian knight beg your pardon
-はじめまして。ジオ・ゲヘナの媛=Nice to meet you. Geo Gehenna no Hime
-お久しぶりです騎士。みなさま=Long time no see, knight. Everyone
+お久しぶりですナイトさんっ♪=Lange nicht mehr gesehen, Mr. Knight♪
+無断侵入、先制攻撃。──反撃します=Unbefugtes Eindringen, Präventivschlag. - Gegenangriff-
+そいつ、敵じゃないからっ……！=Er ist kein Feind...!
+コロコロコロ=Rollen rollen rollen rollen
+これはまた。愉快なお客人であり申す=Auch das ist ein angenehmer Gast
+のう？=Nein?
+──ジオ・テオゴニアの姫よ=-Die Prinzessin von Geo-Teogonia
+わたしの守護騎士がご無礼を=Mein Schutzritter bittet um Verzeihung
+はじめまして。ジオ・ゲヘナの媛=Schön, Sie kennenzulernen. Geo Gehenna no Hime
+お久しぶりです騎士。みなさま=Lange nicht gesehen, Ritter. Alle-
 
-ライラエルさん☆\nリンドちゃんとヴルムちゃんも、オイッスー！=Rilael☆Lindo-chan and Vrumu-chan, hey!
-ご無沙汰しています、みなさん。=It's been a while, everyone.
-オイッス。お元気そうですね。=Hey, pal. You look good.
-お初に御目文字仕る、プリンセス・ライラエルとその御一行様らよ。\n──フゥム。=⁇ Princess Rilael and her party, who serve you well for the first time. ⁇ Hmm.
-長き金の髪に、真白き天使の翼……\nジオ・テオゴニアの姫君は、\n騎士殿らからお伺いした通りの艶姿でありんすな。=Long golden hair, and the wings of a pure white angel... The Geo Teogonia princess is just as captivating as I heard from the knights.
-恐れ入ります。\nプリンセス・ネフィ＝ネラ……\nわたしたちも、あなたの使者からお話は聞いております。=My apologies. Princess Nephy-Nella... We have also heard about you from your messenger.
-──ジオ・テオゴニアへのお使い、ご苦労さまでした。=-Thank you for your service to Geo Teogonia.
-や～、ノンビリしたイイトコだったよ。\nペコリーヌさんらの知り合いって言ったら\nすっごく良くしてくれたしな～=Wow, he was such a carefree guy. When I told him I was an acquaintance of Pecoline's, he treated me really well
-……相変わらず、あっさり信じすぎで。\nこんな魔物だらけの世界に連れてこられたときは、\nぶっちゃけ罠かと思いましたけど……=...As always, you believe too easily. When I was brought to a world full of monsters like this, I honestly thought it was a trap...
-もうヴルムっ、失礼なこと言わないの！\nクローチェさんが「騎士さんに会いたい」って張り切って\n護衛してくれたから、問題なくここまで来れたでしょ？=Geez, Vrum, don't be so rude! Croce said she wanted to see the knight and escorted us, so we were able to get here without any problems, right?
-「騎士さんに会いたい～」って毎日泣いてたのは、姉貴もだけどね～=My sister was the one who cried every day about how she wanted to see the knight, though
-泣いてませんっ！\n誤解されるでしょもうっ、ヴルムったら……！=I'm not crying! You'll get the wrong idea! Damn you, Vrum...!
+ライラエルさん☆\nリンドちゃんとヴルムちゃんも、オイッスー！=Lyrael☆ Lino-chan und Wyrm-chan, hallo!
+ご無沙汰しています、みなさん。=Es ist eine Weile her, Leute.
+オイッス。お元気そうですね。=Hey, Kumpel. Du siehst gut aus.
+お初に御目文字仕る、プリンセス・ライラエルとその御一行様らよ。\n──フゥム。=⁇ Prinzessin Lyrael und ihr Gefolge, die dir zum ersten Mal gute Dienste leisten. ⁇ Hmm.
+長き金の髪に、真白き天使の翼……\nジオ・テオゴニアの姫君は、\n騎士殿らからお伺いした通りの艶姿でありんすな。=Langes goldenes Haar und die Flügel eines reinweißen Engels... Die Prinzessin von Geo Teogonia ist genau so bezaubernd, wie ich von den Ritter gehört habe.
+恐れ入ります。\nプリンセス・ネフィ＝ネラ……\nわたしたちも、あなたの使者からお話は聞いております。=Ich bitte um Entschuldigung. Prinzessin Nephi-Nera... Wir haben auch durch Euren Boten von Euch gehört.
+──ジオ・テオゴニアへのお使い、ご苦労さまでした。=-Vielen Dank für Ihren Dienst an Geo-Teogonia.
+や～、ノンビリしたイイトコだったよ。\nペコリーヌさんらの知り合いって言ったら\nすっごく良くしてくれたしな～=Wow, er war so ein unbekümmerter Typ. Als ich ihm sagte, dass ich ein Bekannter von Pecorine bin, behandelte er mich wirklich gut.
+……相変わらず、あっさり信じすぎで。\nこんな魔物だらけの世界に連れてこられたときは、\nぶっちゃけ罠かと思いましたけど……=...Wie immer glaubst du zu leicht. Als ich in eine Welt voller Monster wie dieses gebracht wurde, dachte ich ehrlich gesagt, es sei eine Falle...
+もうヴルムっ、失礼なこと言わないの！\nクローチェさんが「騎士さんに会いたい」って張り切って\n護衛してくれたから、問題なくここまで来れたでしょ？=Mensch, Vrum, sei doch nicht so unhöflich! Croce sagte, sie wolle den Ritter sehen und begleitete uns, also konnten wir ohne Probleme hierher kommen, oder?
+「騎士さんに会いたい～」って毎日泣いてたのは、姉貴もだけどね～=Meine Schwester war diejenige, die jeden Tag weinte, weil sie den Ritter sehen wollte, obwohl.
+泣いてませんっ！\n誤解されるでしょもうっ、ヴルムったら……！=Ich werde nicht weinen! Du wirst das falsch verstehen! Verdammt noch mal, Wyrm...!
 あははっ☆\nみなさん変わりないですね～♪=Ahaha! ☆Everyone's the same~♪
-そ、それよりもクローチェさま。\n主さまを、解放していただけませんでしょうか。\nこれ以上圧迫をし続けては、本当に窒息してしまいます。=A-Anyway, Mr. Croce. Could you please release your master? If you keep putting pressure on him, he'll really suffocate.
-えっ、あっ！？　ごめんなさ～いっ！\nひっさびさのナイトさんだったので、\nつい夢中になっちゃいました～っ！=Eh, ah?! I'm so sorry! It's been so long since I've been a knight, I couldn't help but fall in love with you!
-……大丈夫ですか、騎士？\n固い地面に、頭を打ってしまったように見えましたが……=...Are you all right, Knight? It looks like you hit your head on the hard ground...
-ええ。\nわたしも、大変うれしく思いますよ。=Yes. I'm very happy too.
-大丈夫です。=It's all right.
-わぁっ、クローチェさんにライラエルさん！=Wow, Croce and Rilael!
-おひさし。\nです。=It's a eavesdrop.
-リンド様にヴルム様も、\nようこそおいでくださいました……\nといっても、わたくしたちもお世話になっている側なのですが。=Sir Lind, Sir Vrum, and I welcome you... That said, we're on the receiving end of your kindness as well.
-【アルターメイデン】のみなさんもっ！\nお元気そうで、よかったですっ♪=Everyone from Alter Maiden! I'm glad to see you're doing well♪
-オニギリさんも、\nまだ食べられてなかったみたいでよかったですね。=I'm glad Onigiri-san hasn't been eaten yet, either.
-──コロコロコロ。\n皆々様、実に仲睦まじき御様子。\nほんのちと、妬けてしまうでありんす喃。=⁇ Kokorokorokoro. Everyone seems to be getting along very well. I can't help but get a little jealous.
-然りとてわっちが居座れば、積もる話もし難いというもの。\n会談の為の手筈もありますれば、\nここは大人しく退散することに致しんす。=But if I stay here, it'll be hard to talk. If there's a plan for the meeting, I'll retreat quietly.
-まぁ……お心遣い、痛み入ります。\nネフィ＝ネラ媛。=Well... Thank you for your concern. Nephy-Nellahime.
-何ほどのことやありけむ。……そも未だ、\nジオ・ニヴルヘルのプリンセスはいらしておりませぬ故。\n皆様には暫しの間、わっちの城にてご滞留いただきたく存じまする。=How could this be? ...The Princess of Geo Niflhel has not yet arrived. I would like you all to stay in my castle for a while.
-では一先ず、わっちは此処で暇申しんす。\nまた後程、御目文字仕りたく候──=Well then, I have nothing better to do here. I'd like to serve you again later
-──では。=⁇ Well then...
-……これ、モネや。\n何故わっちに付いておる？=...This is Mone. Why are you following me?
-汝はジオ・テオゴニアからのお客人らが不自由無きよう\n誠を尽くし饗応するやうに。\n──騎士殿より学んだ処世の術、この機に磨くが宜しかろ。=You will do your best to ensure that the guests from Geo Teogonia are not inconvenienced by this banquet. -This is the technique you learned from the Knights of Favonius. Use this opportunity to hone your skills.
-……えっと！\nわたしたち今ちょうど、朝ごはんの用意してたところなんです。=...Umm! We were just preparing breakfast.
-ライラエル様たちも、長旅でお疲れでしょうし。\nよろしければご休憩も兼ねて、いかがでしょうか？=Lady Rilael and the others must be tired from their long journey. Would you like to take a break as well?
-いっしょに、たべよ？=Let's eat together, okay?
-まぁ、ありがとうございます。\nお言葉に甘えさせていただきますね。\nランドソルとも異なる世界のお料理……とても楽しみです。=Well, thank you very much. I'll take you up on your offer. I look forward to cooking from a different world than Landosol.
-でも、いいんですか？\nいきなり３人分も増えちゃって……=But are you sure? You've already added three people's worth...
-大丈夫です☆\nさっきちょうど、たくさんお肉が手に入ったところなので♪=I'm fine☆ I just got a lot of meat♪
-魔物の、だけどね。\nはぁ……=It's a monster, though. Hah...
-わぁ、すっごいおおきなカタマリですねっ！\n運ぶのお手伝いしまーすっ♪=Wow, that's a huge lump! I'll help you carry it! ♪
-それじゃあ、行きましょう。\nアネモネさんも、ね♪=Well then, let's go. You too, Anemone♪
+そ、それよりもクローチェさま。\n主さまを、解放していただけませんでしょうか。\nこれ以上圧迫をし続けては、本当に窒息してしまいます。=Wie auch immer, Ms. Croce. Könnten Sie Ihren Meister bitte loslassen? Wenn Sie weiter Druck auf ihn ausüben, wird er wirklich ersticken.
+えっ、あっ！？　ごめんなさ～いっ！\nひっさびさのナイトさんだったので、\nつい夢中になっちゃいました～っ！=Eh, ah?! Es tut mir so leid! Es ist so lange her, dass ich den Ritter gesehen habe, ich konnte nicht anders, als mich in dich zu verlieben!
+……大丈夫ですか、騎士？\n固い地面に、頭を打ってしまったように見えましたが……=...Geht es Euch gut, Knight? Es sieht so aus, als hättet Ihr Euch den Kopf am harten Boden gestoßen...
+ええ。\nわたしも、大変うれしく思いますよ。=Ja, ich bin auch sehr glücklich.
+大丈夫です。=Es ist alles in Ordnung.
+わぁっ、クローチェさんにライラエルさん！=Wow, Croce and Lyrael!
+おひさし。\nです。=Es ist ein Lauschangriff.
+リンド様にヴルム様も、\nようこそおいでくださいました……\nといっても、わたくしたちもお世話になっている側なのですが。=Sir Lind, Sir Vrum und ich heißen Sie willkommen... Das heißt, wir sind auch Empfänger eurer Freundlichkeit.
+【アルターメイデン】のみなさんもっ！\nお元気そうで、よかったですっ♪=Alle von Alter Maiden! Ich bin froh zu sehen, dass es euch gut geht♪
+オニギリさんも、\nまだ食べられてなかったみたいでよかったですね。=Ich bin froh, dass Onigiri-san auch noch nicht gegessen wurde.
+──コロコロコロ。\n皆々様、実に仲睦まじき御様子。\nほんのちと、妬けてしまうでありんす喃。=⁇ Kokorokorokoro. Alle scheinen sich sehr gut zu verstehen. Ich kann nicht anders, als ein bisschen neidisch zu werden.
+然りとてわっちが居座れば、積もる話もし難いというもの。\n会談の為の手筈もありますれば、\nここは大人しく退散することに致しんす。=Aber wenn ich hier bleibe, wird es schwer zu reden. Wenn es einen Plan für das Treffen gibt, werde ich mich leise zurückziehen.
+まぁ……お心遣い、痛み入ります。\nネフィ＝ネラ媛。=Nun... Danke für Ihre Besorgnis. Nephi-Nerahime.
+何ほどのことやありけむ。……そも未だ、\nジオ・ニヴルヘルのプリンセスはいらしておりませぬ故。\n皆様には暫しの間、わっちの城にてご滞留いただきたく存じまする。=Wie kann das sein? ...Die Prinzessin von Geo-Niflhel ist noch nicht eingetroffen. Ich möchte, dass ihr alle für eine Weile in meinem Schloss bleibt.
+では一先ず、わっちは此処で暇申しんす。\nまた後程、御目文字仕りたく候──=Nun gut, ich habe hier nichts Besseres zu tun. Ich würde Sie gerne später wieder bedienen.
+──では。=⁇ Na dann...
+……これ、モネや。\n何故わっちに付いておる？=...Das ist Mone. Warum verfolgst du mich?
+汝はジオ・テオゴニアからのお客人らが不自由無きよう\n誠を尽くし饗応するやうに。\n──騎士殿より学んだ処世の術、この機に磨くが宜しかろ。=Du wirst dein Bestes tun, um sicherzustellen, dass die Gäste von Geo-Teogonia durch dieses Bankett nicht belästigt werden. -Dies ist die Technik, die du von den Rittern des Favonius gelernt hast. Nutze diese Gelegenheit, um deine Fertigkeiten zu verfeinern.
+……えっと！\nわたしたち今ちょうど、朝ごはんの用意してたところなんです。=...Umm! Wir waren gerade dabei, das Frühstück vorzubereiten.
+ライラエル様たちも、長旅でお疲れでしょうし。\nよろしければご休憩も兼ねて、いかがでしょうか？=Lady Lyrael und die anderen müssen von ihrer langen Reise müde sein. Wollt ihr auch eine Pause machen?
+いっしょに、たべよ？=Lass uns zusammen essen, okay?
+まぁ、ありがとうございます。\nお言葉に甘えさせていただきますね。\nランドソルとも異なる世界のお料理……とても楽しみです。=Nun, vielen Dank. Ich werde auf Ihr Angebot zurückkommen. Ich freue mich darauf, in einer anderen Welt als Landosol zu kochen.
+でも、いいんですか？\nいきなり３人分も増えちゃって……=Aber sind Sie sicher? Sie haben bereits drei Personen hinzugefügt...
+大丈夫です☆\nさっきちょうど、たくさんお肉が手に入ったところなので♪=Mir geht es gut☆ Ich habe nur eine Menge Fleisch♪
+魔物の、だけどね。\nはぁ……=Aber es ist ein Monster. Hah...
+わぁ、すっごいおおきなカタマリですねっ！\n運ぶのお手伝いしまーすっ♪=Wow, das ist ein riesiger Klumpen! Ich helfe dir, ihn zu tragen!♪
+それじゃあ、行きましょう。\nアネモネさんも、ね♪=Na dann, auf geht's. Du auch, Anemone♪
 
+会議前の朝餐=Ein Abendessen vor dem Treffen
 
+ヴァイオレットとグレイス=Violet und Grace
 
----2---
-会議前の朝餐=A pre-meeting dinner
+会議のはじまり=Die Sitzung beginnt
 
----3---
-ヴァイオレットとグレイス=Violet and Grace
+４人のプリンセス=Vier Prinzessinnen
 
----4---
-会議のはじまり=The meeting begins
+煉獄の底より這い出し─=Aus den Tiefen des Fegefeuers herausgekrochen⁇
 
----5---
-４人のプリンセス=Four Princesses
----6---
-煉獄の底より這い出し─=Crawling out from the depths of purgatory ⁇
+ジオ・ゲヘナのお友だち？=Ein Freund von Geo-Gehenna?
 
----Sub31---
-ジオ・ゲヘナのお友だち？=A friend of Geo Gehenna's?
+ドラゴンズ・タッグマッチ=Tag-Match der Drachen
 
----Sub32---
-ドラゴンズ・タッグマッチ=Dragons Tag Match
+冥風戦記外典・獄炎の章=Meifu Senki Geten: Kapitel der Gefangenenflamme
 
----Sub33---
-冥風戦記外典・獄炎の章=Meifu Senki Geten: Chapter of Prison Flame
-
----Sub34---
-レディ・セクシー・ゴー！=Lady Sexy Go!
-
-
-
+レディ・セクシー・ゴー！=Lady Sexy Los!
 
