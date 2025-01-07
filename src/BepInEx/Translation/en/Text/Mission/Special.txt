@@ -1,0 +1,11 @@
+1回バトルしよう=Lasst uns einmal kämpfen
+r:"^(\[[0-9A-F]{6}\])?(\d+)回バトルしよう(\[-\])?$"="$1Kämpfen wir mal um $2[-]"
+フェーズ3=Phase 3
+フェーズ2=Phase 2
+フェーズ1=Phase 1
+
+sr:"^(\[[0-9A-F]{6}\])?(.+)に累積(\d+)万ダメージ与えよう(\[-\])?$"="$1Kumulativer Schaden von $300000 zu $2[-]"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1度のバトルで(\d+)万ダメージ与えよう(\[-\])?$"="$1Füge $300000 Schaden an $2 in einem Kampf zu[-]"
+sr:"^(?:\[3C404E\])?(.+?)(NORMAL|HARD|VERY HARD|SPECIAL)討伐！×\[-\]\[FFBB00\,CE4F00\](\d+)(?:\[-\])?$"=[3C404E]Unterwerfung $1 ($2) × [FFBB00,SE4F00]$3[-][-]
+フェーズ1クリアで解放=Beende Phase 1, um freizuschalten
+フェーズ2クリアで解放=Beende Phase 2, um freizuschalten
