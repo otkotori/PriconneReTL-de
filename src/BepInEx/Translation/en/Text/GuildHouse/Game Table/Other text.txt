@@ -1,0 +1,22 @@
+みんなのゲームテーブル=Jedermanns Spieltisch
+購入価格=Pricen
+素材購入=Dinge kaufen
+エピソード=Episode
+エピソードリスト=Liste der Folge
+ゲームテーブルへ=Zum Spieltisch
+販売開始までお待ちください。=Bald verfügbar.
+新しく追加されたミニゲームがあります。=Es gibt ein neues Minispiel.
+
+累計獲得スコア=Gesamtpunktzahl
+r:"^スコアを累計で(\d+)獲得しよう$"=Erhalten Sie eine Gesamtpunktzahl von $1
+
+楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Hier sind ein paar lustige Minispiele!\nWelches wirst du spielen?
+様々なミニゲームをご用意してい\nますよ！\nどのミニゲームで遊びますか？=Wir haben eine Vielzahl von Minispielen für dich!
+
+こちらは10,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=Kaufe dieses Spiel für 10.000 Rupien, um es spielen zu können!
+[3C404E]ルピ×[FFBB00,CE4F00]10,000[-]を消費して\n以下のミニゲームを購入しますか？[-]=[3C404E]Gib [FFBB00,CE4F00]10.000[-] Rupien aus, um das folgende Minispiel zu kaufen?[-]
+お兄ちゃん争奪！\nどっちのチョコがおいしいでSHOW\nを購入しました。=[3C404E]Gekauft [FFBB00,CE4F00]Die Schlacht um Big Bro! - Kampf um die schokoladige Vorherrschaft![-]\n[3C404E]Wessen Schokolade wird wohl leckerer sein?[-]
+駆けろ常夏！\nアルティメットビーチフラッグス\nを購入しました。=[3C404E]Sommerfest, lauf!\nGekauft [FFBB00,CE4F00]Auf zum Ewigen Sommer! - Ultimative Strandflaggen[-]
+
+結果をクランチャットに投稿しますか？=Die Ergebnisse im Clanchat posten?
+クランチャット投稿確認=Clanchat Post-Bestätigung

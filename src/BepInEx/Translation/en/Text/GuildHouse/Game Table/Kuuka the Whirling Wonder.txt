@@ -1,0 +1,79 @@
+大回転！クウカ！\n最高のエクスタシーここにあり！\n引っ張って飛ばす、空の旅！=Kuuka das wirbelnde Wunder!\nDie ultimative Ekstase ist da!\nZiehen, fliegen, durch den Himmel reisen!
+クウカさんを引っ張ってより遠く\nへ飛ばしてあげましょう！\n色々なハプニングでクウカさんに\nエクスタシーを届けましょう！=Starten Sie Kuuka und lassen Sie sie so weit fliegen, wie Sie können! Lass uns sie auf alle möglichen Arten in Ekstase versetzen!
+
+クウカさまの帯を引っ張って飛ばして差しあげましょう。\n合計飛距離に応じて報酬を獲得することができます。\n最高飛距離を目指してたくさん飛ばしてくださいまし。=Ziehe an Kuukas Schärpe und schicke sie in die Luft!\nDu erhältst eine Belohnung, die sich nach der Gesamtflugdistanz richtet.\nZiele darauf ab, sie so weit wie möglich zu bringen!
+飛行中は様々なハプニングが起きます。\nクウカさまの素敵なエクスタシーをご覧ください。=Während ihres Fluges kann alles Mögliche passieren.\nGenieße es, wie Kuuka in herrliche Ekstase gerät!
+リザルト画面ではプレイ内容を振り返ることができます。\nリプレイで何度でも見返すことができます。\n面白かったハプニングはシェアしてみてはいかがでしょうか。=Sie können Ihre Leistung auf dem Ergebnisbildschirm überprüfen.\nSie können das Spiel auch so oft wiederholen, wie Sie wollen!\nOder warum teilen Sie nicht interessante Missgeschicke, die Ihnen passiert sind?
+
+前回までの最高飛距離=Bisheriger Rekord
+合計飛距離=Gesamtabstand
+ハプニング図鑑=Unnatürliche Katastrophen
+
+今の高度=Aktuelle Höhe
+今の飛距離=Aktuelle Entfernung
+最高記録=Bester Rekord
+
+微風=Brise
+強風=Gale
+暴風=Gust
+
+起きたハプニング=Unnatürliche Katastrophen
+今回の飛距離=Geflogene Distanz
+測定不能=Unmeßbar
+
+このエクスタシーをリタイアしますか？=Willst du mit dieser Ekstase aufhören?
+
+このリプレイをスキップしますか？=Diese Wiederholung überspringen?
+[FF7C4E,D62146]スキップするとミニゲームトップ画面に遷移します。[-]=[FF7C4E,D62146]Durch Überspringen kehren Sie zum Hauptbildschirm zurück.[-]
+
+クウカ大回転で合計30000m飛ばそう=Kuuka soll insgesamt 30.000 Meter fliegen
+
+その身をコマの如く回転させ、オー\nエド町の空をより遠くへ飛んだ者へ\n贈られるトロフィー。金色ハートは\n極限の状況によりもたらされる勇気\nと冒険心を称えるもの、ということ\nになっている。なお大変危険なので\n大回転のマネ事は厳禁！=Eine Trophäe, die sich wie ein Kreisel dreht und an diejenigen verliehen wird, die am weitesten in den Himmel von Oedo geflogen sind. Es heißt, dass die goldenen Herzen den Mut und die Abenteuerlust würdigen sollen, die durch extreme Umstände hervorgerufen werden. Es ist auch sehr gefährlich, also tun Sie so etwas nicht!
+
+見たハプニング数=Begegnet
+目回し=Alles ausgesponnen
+間欠泉=Geysir
+成層圏突入=Unter den Sternen
+トルネード=Tornado
+バナナスライド=Bananenrutsche
+ニノンの爆裂忍法=Ninons Ninpo
+バナナジャンプ=Bananensprung
+土砂降り雨=Regenschauer
+向かい風=Gegenwind
+追い風=Rückenwind
+アユミのうちわ=Ayumis Fan
+腹すべり=Magenrutsche
+ドリル=Bohrer
+スーパーボール=Flipper
+落雷=Blitzschlag
+アクダイカン像=Der Magistrat
+ロケット=Rakete
+超低空飛行=Niedriger Sturzflug
+
+あ、あの、クウカは\r\nそれなりに頑丈ですので、\r\nもっと激しくても大丈夫ですよ？=Ähm... Kuuka ist ziemlich robust, also kannst du es härter machen, weißt du?
+も、もっと色んな責めを\r\n体験したかったです……=Ich wollte mehr Folter erleben...
+な、なんだか\r\n空のかなたが見えたような……=Ich glaube, ich habe etwas am Himmel gesehen...
+こ、こんなにたくさんの\r\n責めで弄ばれるなんて、\r\nクウカは幸せ者です=Einer solchen Fülle von Qualen und Manipulationen ausgesetzt zu sein... Kuuka hat soo viel Glück!
+クウカは辱められるだけでなく、\r\n体まで弄ばれてしまいました……\r\nこんなことをされたらクウカ、\r\nもっとほしくなっちゃいます！=Kuuka wurde nicht nur gedemütigt, sondern es wurde auch mit ihrem Körper gespielt... Das zu erleben, wird mich noch mehr wollen!
+飛ばされるだけでなく、\r\n色んな所にぶつけられるなんて、\r\n予期せぬ快感に感謝です♪=Ich werde nicht nur in die Luft geschickt, sondern auch an allen möglichen Stellen getroffen. Vielen Dank für das unerwartete Vergnügen♪
+これは、\n思っていた以上に……\nイイ……！=Das ist... besser als ich dachte...!
+
+帯回しで空を\r\n飛ぶなんて、\r\nさすがクウカデス！\r\n頑張ってクダサーイ！=Mit einem Gürtel durch die Luft fliegen? Das ist Kuuka für dich! Gut Glüüüück~!
+空を飛ぶなんて、\r\n先を越されたデース！\r\n忍法・オオダコの術の\r\n開発を急ぐデスよ！=Durch die Luft zu fliegen? Da bist du mir zuvorgekommen! Ich muss mich beeilen und meine geheime Ninja-Kunst entwickeln, das Odako Jutsu!
+クウカ頑張るデスよ！\r\nオヤマの頂点を\r\n目指して、誰よりも\r\n高く跳ぶデス！=Du kannst es schaffen, Kuuka! Strebe den Gipfel an und springe höher als alle anderen, um deinen Traum zu verwirklichen!
+ムムッ…ワタシの\r\n忍者感覚が\r\n嫌な気配を感じマシタ\r\n注意してクダサイ！=Igitt... Meine Ninja-Sinne haben eine unangenehme Präsenz entdeckt, also seid bitte vorsichtig!
+
+あ、あの、クウカさん\r\n無理だけはしないで\r\nくださいね…？=Ähm, Kuuka, bitte überanstrenge dich nicht zu sehr, okay?
+なんだか嫌な\r\n気配が…クウカさん！\r\n注意してくだ……\r\nあの人なら平気かな？=Ich habe ein schlechtes Gefühl bei der Sache... Kuuka! Sei vorsichtig... Ich frage mich, ob es ihr gut gehen wird?
+回転して空を飛ぶ…\r\n私も空中から先輩を\r\n見守りたいなぁ…=Sich drehen und durch die Luft fliegen... Ich möchte auch von oben auf sie aufpassen...
+最高記録を目指して\r\n頑張ってください！\r\n…こ、この場合、\r\n応援していいのかな？=Bitte geben Sie Ihr Bestes für den Rekord! ...Soll ich dich anfeuern?
+
+空を飛ぶの？　まあ、\r\nケガをしない程度にね\r\n美しいボクを見たから\r\n平気だと思うけど♪=Fliegen in der Luft? Nun, solange du dich nicht verletzt, ist es in Ordnung. Dir wird es gut gehen, denn du hast meine Schönheit gesehen~♪
+あ、ボクがより美しく\n鏡に映っている！\r\nこれは、\r\n良いことがあるかもね=Ah, ich sehe im Spiegel noch schöner aus! Das könnte ein Seufzer sein, dass etwas Gutes passiert~!
+どうせやるなら、\r\nボクの美しさのような\n最高の記録を\r\n目指すといいよ=Wenn du es sowieso tust, solltest du versuchen, so großartig zu sein wie meine Schönheit~
+もしも、ボクが\r\n空を飛んだら、\r\n美の神が降臨したと\r\n思われてしまうね♪=Wenn ich durch die Luft flöge, würden die Leute denken, der Gott der Schönheit sei herabgestiegen~♪
+
+クウカ！　\r\n深く考えず、とにかく\r\n頑張って飛んでこい！=Kuuka! Denk nicht zu viel darüber nach. Gib einfach dein Bestes und flieg~!
+我がギルドの一員\r\nとして、最高記録を\r\n目指すのだぞ！=Als Mitglied unserer Gilde sollten Sie den Rekord anstreben~!
+この気配…\r\n注意しろクウカ！\r\nなにか危険なことが…\r\nなんで笑顔になる！？=Diese Präsenz... Sei vorsichtig, Kuuka! Etwas Gefährliches geht hier vor sich... Warum lächelst du?!
+…よく見ると、\r\n感覚と精神の\r\n鍛練になりそうだな\r\n訓練に加えてみるか=...Sieht aus, als wäre das ein gutes Training für deine Sinne und deinen Geist. Vielleicht werde ich es in den Trainingsplan aufnehmen~

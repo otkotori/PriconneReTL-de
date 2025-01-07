@@ -1,0 +1,22 @@
+コッコロのおさいふ=Kokkoros Geldbörse
+コッコロの\nおさいふ=Kokkoros\nGeldbörse
+「コッコロのおさいふ」からマナを引き出し可能です。=Mana kann aus „Kokkoros Geldbörse“ gezogen werden.
+所持上限を超えたマナはギルドハウスの\n「コッコロのおさいふ」に自動で送られます。=Mana, das die Max. überschreitet, wird automatisch in das Gildenhaus „Kokkoros Geldbörse“ geschickt.
+このメッセージを以降は表示しない\n※メニューから設定が可能です=Diese Meldung nicht mehr anzeigen\n※Kann über das Menü eingestellt werden
+
+引き出すマナは1以上で入力してください。=Bitte geben Sie mindestens 1 Mana ein, das abgezogen werden soll.
+マナが所持上限に達しているため引き出せません。=Habe bereits maximales Mana. Kann nicht abgezogen werden.
+sr:"^(?:\[3C404E\])?所持上限に達しているため\nプレゼントは受け取れませんでした。\n\n\[3C404E\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\](?:\[-\])?$"=[3C404E]Bereits mit max. $1.\nKann nicht abheben.\n\n$1 × [FFBB00,CE4F001]$2[-][-]
+
+所持上限をこえている、\nまたは期限を過ぎているため\nプレゼントを受け取れませんでした。=Sie haben die Grenze Ihres Besitzes überschritten oder das Verfallsdatum überschritten, so dass Sie kein Geschenk erhalten konnten.
+
+引き出し後の所持マナ=Aktuelle Mana
+ストックしたマナを引き出します。=Entnehme die Mana-Vorräte.
+マナを引き出す=Mana-Entzug
+引き出し結果=Rücknahme-Ergebnis
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Entnehme [FFBB00,CE4F00]$1[-] Mana.[-]
+引き出せるマナがありません。=Es gibt kein Mana, das entzogen werden kann.
+マナ所持上限をこえました=Das Mana-Besitzlimit überschritten
+
+マナ所持上限時の「コッコロのおさいふ」ダイアログ表示=Kokkoros Geldbörse zeigt die maximale Mana
+所持上限を超えた獲得マナが、「コッコロのおさいふ」に送られたことの確認ダイアログを表示するか設定します。=Legen Sie fest, ob ein Dialogfeld angezeigt werden soll, um zu bestätigen, dass\nerworbenes Mana, das das Limit übersteigt, an Kokkoros Geldbörse\ngesendet wurde oder nicht.

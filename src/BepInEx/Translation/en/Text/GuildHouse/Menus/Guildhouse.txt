@@ -1,0 +1,228 @@
+データの取得に失敗しました。\nタイトルへ戻ります。=Datenerfassung fehlgeschlagen.\nZurück zum Titelbildschirm.
+
+Lv上限：=Max. St.:
+r:"^(\d+)ルピを消費してLvアップ可能$"=Bereit zum Aufstufen mit [00ff0099]$1[-] Rupien
+Lvアップ可能な家具があります。=Es gibt Möbel, die aufgestockt werden können.
+すでに最大Lvに達しています。=Bereits auf Höchststufe.
+
+家具効果=Möbel\nEffekt
+収納BOX=Lagerung
+一括収納=Alle speichern
+キャラ\n配置=Charakter\nplatzieren
+ランダム\nお出かけ=Randomi-\nsierung
+メンバー\n訪問=Mitglied\nbesuchen
+Like情報=Wie-Info
+マイセット=Meine Sätze
+一括受取=Alle\nbeansp.
+家具ショップ=Möbel\nShop
+ゲームテーブル=Spieltisch
+カレンダー=Kalender
+サポート設定=Unterstützen
+メンバー情報=Mitglieder-Infos
+寄付する=Spenden
+ギフト=Geschenk
+1Fのメンバー=S1-Gruppe
+2Fのメンバー=S2-Gruppe
+3Fのメンバー=S3-Gruppe
+同名キャラ\n選択中=Bereits\ngewählt
+同名キャラ\n設置中=Bereits\nplatziert
+同じ名前のキャラは同一パーティに編成できません。=Charaktere mit demselben Namen können nicht in derselben Partei organisiert werden.
+カリンとカリンの机は同時に配置できません。=Karin und Karins Tisch können nicht gleichzeitig platziert werden.
+報酬受取=Alle beanspruchen
+以下のアイテムを受け取りました。=Sie haben die folgenden Artikel erhalten.
+引き出せるマナがありません。=Es gibt kein Mana zum Herausnehmen.
+ルピが不足しています。=Ungenügende Rupien.
+プレイヤーLvが不足しています。=Ungenügend Spielerstufe.
+
+設置=Platzieren
+売却不可=Kann nicht verkaufen
+設置済み=Bereits\nplatziert
+設置中売却不可=Kann nicht verkauft\nWährend der Platzierung
+他のフロアのメンバーに設定されています。=Eingestellt zu einer anderen Stockwerk.
+同じ名前のキャラが他フロアのメンバーに設定されています。=Zeichen mit dem gleichen Namen wurden auf einer anderen Stockwerk gesetzt.
+
+この階の家具をすべて収納します。よろしいですか？=Alle Möbel in diesem Stockwerk lagern?
+
+壁家具=Wandmöbel
+効果つき家具=Verwunschene Möbel
+床家具=Bodenmöbel
+
+一括収納はやりなおしができません。=Alles speichern kann nicht rückgängig gemacht werden.
+収納すると効果つき家具の生産はリセットされます。=Durch das Lagern von verzauberten Möbeln wird die Produktion zurückgesetzt.
+収納数に収まらなかった家具は残ります。=Möbel, die nicht in den Lagerraum passen würden, werden nicht mitgenommen.
+
+カレンダーへ=Kalender
+この月は選択できません。=Dieser Monat kann nicht ausgewählt werden
+受け取っていないアイテムはありません。=Zurzeit können Sie keine Artikel sammeln.
+
+Likeする=Gefällt mir!
+絆ランクアップに必要なギフトアイテムが足りません。=Es werden nicht genügend Geschenkartikel für Aufstieg benötigt.
+これ以上絆ランクを上げられません。=Sie können den Rang der Anleihe nicht mehr anheben.
+贈ったギフトアイテムは消費されます。=Das Geschenk, das Sie überreichen, wird verbraucht werden.
+絆ランクが最大です。=Maximale Anleiheränge.
+
+ギフトアイテムを贈るキャラをタップしてください=Tippe auf die Figur, der du das Geschenk geben möchtest.
+以下のギフトアイテムを贈ります。よろしいですか？=Senden Sie das folgende Geschenk?
+ギフト消費後の絆ランク=Anleiheniveau nach Schenkung
+消費ギフト=Verbrauchen
+贈る=Geben
+すべて=alle
+演出を全てスキップ=Überspringe alle Anleiherang-Zwischensequenzen
+全てのランクアップで演出を再生=Die Zwischensequenz für alle Ränge spielen
+再生する絆ランク演出を設定してください。=Bitte stellen Sie die Zwischensequenz für den Anleiherang ein.
+演出確認=Cutscene-Bestätigung
+ストーリー解放=Geschichte freischalten
+
+r:"^絆ランク (\d+)$"=Anleihe-\nRang $1
+
+購入価格=Preis
+みんなのゲームテーブル=Jedermanns Spieltisch
+レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Lasst uns kochen! Lass uns mit Miyako Pudding zubereiten und essen, um den Weg des Puddings zu meistern!
+こちらは1,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=Dieses hier ist für 1.000 Rupien im Angebot, also kauf es und spiel damit!
+楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Hier sind einige lustige Minispiele! Welches Minispiel wirst du spielen?
+動くハートに合わせてタップ！\nシズルさんとエリコさんの\nチョコレートケーキ作りを\nお手伝いしましょう！=Klicke auf die sich bewegenden Herzen, um Shizuru und Eriko beim Backen ihres Schokoladenkuchens zu helfen!
+愛情たっぷりのチョコレートケー\nキを完成させよう！\n超キュートなタップゲーム！=Vervollständige den liebevollen Schokoladenkuchen in diesem supersüßen Tippspiel!
+様々なミニゲームをご用意してい\nますよ！\nどのミニゲームで遊びますか？=Wir haben eine Vielzahl von Minispiele für dich!
+素材購入=Dinge kaufen
+エピソード=Episode
+エピソードリスト=Episodenliste
+
+ランダムお出かけ確認=Zufälliges Gildenhaus besuchen?
+[3C404E]他のプレイヤーのギルドハウスに\nランダムで訪問します。\nよろしいですか？[-]=[3C404E]Würdest du gerne zufällig das Gildenhaus eines anderen Spielers besuchen? [-]
+
+今日Likeした数=Heutige Likes von Dir
+今日Likeされた数=Heutige Likes
+Likeされた総数=Likes gesamt
+Likeしてくれた人=Du gefällen
+Likeした人=Von Ihnen geliebt
+クランメンバー=Clanmitglieder
+最近のLike情報はありません。=Es gibt keine aktuellen LIKE-Informationen.
+
+sr:"^(\d+)年(\d+月)(\d+)日 ([0-9:]+)まで$"=Bis $3. $2, $1 $4
+該当する家具はありません。=Es gibt keine passenden Möbel.
+テーマ=Thema
+インテリア=Dekor
+生活用品=Möbel
+戻る=Nach
+ベッド=Betten
+収納=Lager
+椅子=Stühle
+机=Tische
+パーテーション=Partitionen
+植物=Pflanzen
+美術品=Art
+ラグ・タイル=Teppiche & Kacheln
+背景=Hintergründe
+階段=Treppen
+壁=Wände
+床=Fußböden
+設置数=Platziert
+設置購入=Kaufen & Setzen
+収納購入=Kaufen & Lagern
+アクション=Interaktionsfähig
+購入=Kaufen
+以下の家具を購入しますか？=Möchten Sie die folgenden Möbel kaufen?
+[3C404E]収納BOXに収納しました。[-]=[3C404E]In der Lager gelagert.[-]
+以下の家具を購入しました。=Sie haben folgende Möbel gekauft.
+
+反転=Zug
+名前変更=Name ändern
+現在の配置を保存=Aktuelles Setup speichern
+マイセット保存確認=Meine Sets speichern
+この配置で模様替え=Dieses Setup anwenden
+現在の配置を上書保存=Überschreiben mit aktuellem Setup
+
+下記のスロットに現在の配置情報を保存します。\nよろしいですか？=Speichern Sie Ihre aktuellen Setup im folgenden Slot?
+
+マイセット名=Mein Set-Name
+r:"^マイセット(\d+)$"=Mein Set $1
+家具の配置を保存し手軽に呼び出すことができます。=Sie können Ihre Möbel aufbewahren.
+r:"^\[3C404E\]現在の配置をマイセット(\d+)に保存しました。\[-\]$"=[3C404E]Speichern Sie die aktuelle Platzierung unter Meine Set $1.[-]
+
+sr:"^(?:\[3C404E\])?\[D13250\](.+)\[-\]\[3C404E\]を\n収納します。よろしいですか？\[-\](?:\[-\])?$"=[3C404E]Legen Sie [D13250]$1[-]\n in den Speicher. Ist das in Ordnung?[-]
+[FF7C4E,D62146]設定よりダウンロードした動画の端末保存選択ができます。[-]=[FF7C4E,D62146]Sie können die heruntergeladenen\nDaten in den Optionen speichern..[-]
+[FF7C4E,D62146]未保存のミニゲームプレイ動画をダウンロードします。[-]=[FF7C4E,D62146]Ungespeicherte Minispiel-Videos herunterladen.[-]
+ルピが得られるのは１日あたり10件です。=Sie können 10 Mal am Tag Rupien bekommen.
+ルピが上限に達している場合、報酬は受け取れません。=Die Belohnung kann nicht erhalten werden,\nwenn die Rupies das Limit erreichen.
+獲得ルピ=Rupien verdienen
+このギルドハウスにLikeしました。=Das Gildenhaus hat mir gefallen.
+Like報酬獲得=Erhaltene Belohnung
+Like済み=Gefallen
+Like人数=Gefallen bei
+訪問者にLikeされました。=Einem Besucher gefiel Ihr Gildehaus.
+
+Like報酬=Belohnung
+Like日時=Datum
+[FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]5 Rupien verdienen[-]
+クランメンバーがいません。=Keine Clanmitglieder.
+このプレイヤーにはすでにLike済みです。=Dieser Spieler hat Ihnen bereits gefallen.
+r:"^プレイヤーLv(\d+)以上 / ([0-9,]+)ルピ$"=Sp-St.$1 und $2 Rupien
+
+ルピ=Rupien
+消費ルピ=Nutzen
+Lvアップ条件=Nächste Aufstu.
+Lvアップする=Aufstu.
+Lvアップ確認=Aufstu.-Bestätigung
+必要時間=Zeit
+中止=abbrechen
+以下の家具をLvアップさせます。よろしいですか？=Die folgenden Möbel werden aufgerüstet. Ist das in Ordnung?
+Lvアップが完了し、アイテムの生産が開始されました。=Aufstufen wurde abgeschlossen, und\ndie Produktion von Artikeln wurde aufgenommen.
+r:"^\[FFBB00,CE4F00\](\d+)分\[-\]$"=[FFBB00,CE4F00]$1 minuten[-]
+r:"^(\d+)分(\d+)秒$"=$1M $2Sek
+r:"^(\d+)分$"=$1M
+r:"^(\d+)秒$"=$1Sek
+Lvアップ中止確認=Aufstufen-Stornierungsbestätigung
+返還ルピ=Rückerstattung Rupien
+[FF7C4E,D62146]Lvアップに消費したルピは半額戻ります。[-]=[FF7C4E,D62146]Die für die Aufstufen verbrauchten Rupi werden um die Hälfte zurückgegeben.[-]
+r:"^\[3C404E\]Lv(\d+)→\[-\]\[FFBB00,CE4F00\]Lv(\d+)\[-\]$"=[3C404E]St. $1→[-][FFBB00,CE4F00]St.$2[-]
+
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能\(あと(\d+時間)?(\d+分)?(\d+秒)?\)$"=Erzeugt $3 × $4 pro $1$2. Kann bis zu $5 speichern.($6$7$8 übrig)
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能$"=$3 × $4 pro $1$2. Kann bis zu $5 speichern.
+r:"^(\d+)秒$"=$1Sek
+r:"^(\d+)分$"=$1M
+r:"^(\d+)時間$"=$1St
+
+好きな家具をレイアウトしてギルドハウスを充実させましょう。家具の中には、冒険に役立つアイテムを獲得できるものもありますよ。=Füllt euer Gildenhaus mit euren Lieblingsmöbeln.\nEinige Möbel geben euch Artikel, die euch auf euren Abenteuern nützlich sein können.
+ギルドハウスにいる女の子に、お菓子をプレゼントしてみましょう。たくさんプレゼントすると、絆ランクが上がりますよ。=Versuchen Sie, den Mädchen in Ihrem Gildenhaus Süßigkeiten zu geben, um ihre Bindung zu stärken.
+
+クールで何事にも真っ直ぐな剣士=Ein cooler, unkomplizierter Schwertkämpfer für alles.
+きっと南国には名産品がたっくさん…！\nよ、よだれが出そうですよぉ！\n美味しい物、たくさん食べましょうね！\n=Ich bin sicher, dass es im Süden eine Menge lokaler Spezialitäten gibt...! Ich werde sabbern! Lasst uns viele leckere Sachen essen!
+なので…一つ約束をもらえませんか？\nいつかまた、二人で海を眺めにいくと…\nそれでこんな風に、仲良く手を繋いで歩くんです♪\n=Also... kannst du mir eine Sache versprechen? Eines Tages werden wir beide wieder zusammen an den Strand gehen... Und dann werden wir Hand in Hand gehen, so wie hier...♪
+あなたと一緒に遊んだ後ならなおさらです\nだってわたしはもっとあなたと同じ時間を\n過ごしたい…そう思ってますからね！\n=Besonders nachdem ich mit dir gespielt habe. Schließlich möchte ich mehr Zeit mit dir verbringen... Das will ich auch!
+真夏の夕日を見てると\n魔法が解ける瞬間を眺めるような…\nなんだか少し、寂しい気持ちになります…\n=Wenn ich mitten im Sommer den Sonnenuntergang beobachte, fühle ich mich ein wenig einsam, als würde ich den Moment beobachten, in dem meine Magie verblasst...
+世界を変えるのが英雄ならひとはだれでも英雄になれるそれぞれを変えればおのずと世界は変わるのだからな=Wenn es ein Held ist, der die Welt verändert, dann kann jeder ein Held sein. Wenn du jeden von ihnen veränderst, wird sich die Welt natürlich verändern.
+まんけ”サヰコロてゃ=⁇ 's wie, ⁇ Saikoro ⁇
+　紫色の男を遠ざけてください=　Bitte halten Sie sich den lila Mann vom Leib
+勇気爆発=Mutige Explosion
+右の乳首=Rechte Brustwarze
+鑑賞=Anerkennung
+プレミアム=Prämie
+スタンダード=Standard
+マイコレクション=Meine Sammlung
+フェス=Fest
+コンプリート報酬=Komplette Belohnung
+シークレット=Geheimnis
+フィギュア=Figur
+個獲得=Erreichte Mitglieder
+細かいディテールにこだわった躍動感あふれる至高のノゾミフィ\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\n活力を与えてくれる。=Eine Nozomi-Figur auf höchstem Niveau, die vor dynamischen Details nur so strotzt. Der Enthusiasmus und die Emotionen des besten Konzerts werden lebendig wiedergegeben und erwecken jeden Tag zum Leben.
+ノゾミのフィギュア=Nozomi-Figur
+グッズ詳細=Waren-Details
+細かいディテールにこだわった躍動感あふれる至高のチカフィ\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\n活力を与えてくれる。=Eine Chika-Figur auf höchstem Niveau, die vor dynamischen Details nur so strotzt. Der Enthusiasmus und die Emotionen des besten Konzerts wurden lebendig wiedergegeben und erweckten jeden Tag zum Leben.
+チカのフィギュア=Chika-Figur
+細かいディテールにこだわった躍動感あふれる至高のツムギフィ\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\n活力を与えてくれる。=Eine Tsumugi-Figur auf höchstem Niveau, die vor dynamischen Details nur so strotzt. Der Enthusiasmus und die Emotionen des besten Konzerts werden lebendig wiedergegeben und erwecken jeden Tag zum Leben.
+ツムギのフィギュア=Tsumugi-Figur
+グッズ全体の50%獲得しよう=Erhalten wir 50% aller Waren
+「フェスコレクション」のグッズを全種類獲得しよう=Erwerben Sie alle Artikel der Festival-Sammlung
+「スタンダードコレクション」のグッズを全種類獲得しよう=Erwerben Sie alle Artikel der Standard-Sammlung
+「プレミアムコレクション」のグッズを全種類獲得しよう=Erwerben Sie alle Artikel der Prämie-Sammulung
+コンプリート報酬一覧=Liste der abgeschlossenen Belohnungen
+全種類のグッズを獲得しよう=Holen wir alle Arten von Gütern
+不思議なおやさい、ピップルたちのおうち。マ\nナのあふれる生命の森で育った古木で、無数の\nピップルたちがおいしいおやさいになるべくの\nんびり日向ぼっこしている。=In der Heimat der geheimnisvollen Pippel sonnen sich unzählige Pippel in einem alten Baum, der im Wald des Lebens gewachsen ist und vor Mana nur so strotzt, um zu leckeren Snacks zu werden.
+[3C404E][3C404E]ギルドハウス内にピップルが出現[-][-]=[3C404E][3C404E][3C404E]Pipple erscheint im Gildehaus[-][-].
+ぴぃ？=Pii?
+ぴっぷる！=Pipple!
+ぷっぷー=Puppu
+ぴっぷるぴっぷる♪=Pipple Pipple♪
+ぴっ！=Pssst!
+ちぇるーん☆=Cheru-n☆
+

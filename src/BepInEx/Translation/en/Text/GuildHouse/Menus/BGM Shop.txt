@@ -1,0 +1,36 @@
+BGM購入=HGM kaufen
+BGM変更=HGM
+
+BGM変更へ=HGM ändern
+所持ルピ=Rupien
+初期設定に戻す=Zum Standard zurückkehren
+
+ギルドハウス3F=S3
+ギルドハウス2F=S2
+ギルドハウス1F=S1
+ギルドハウス1FのBGMを初期設定に戻します。\nよろしいですか？=Die HGM von S1 auf den Standard zurücksetzen?
+ギルドハウス2FのBGMを初期設定に戻します。\nよろしいですか？=Die HGM von S2 auf den Standard zurücksetzen?
+ギルドハウス3FのBGMを初期設定に戻します。\nよろしいですか？=Die HGM von S3 auf den Standard zurücksetzen?
+ギルドハウス1FのBGMを初期設定に戻しました。=Gildehaus S1-HGM wurde auf die Standard zurückgesetzt.
+ギルドハウス2FのBGMを初期設定に戻しました。=Gildehaus S2-HGM wurde auf die Standard zurückgesetzt.
+ギルドハウス3FのBGMを初期設定に戻しました。=Gildehaus S3-HGM wurde auf die Standard zurückgesetzt.
+
+r:"^\[3C404E\]ルピ×\[FFBB00,CE4F00\]([\d,]+)\[-\]を消費して\n以下のBGMを購入しますか？\[-\]$"=[3C404E]Verwende [-][FFBB00,CE4F00]$1[-][3C404E] Rupien, um diesen HGM zu kaufen?[-]
+sr:"^([\s\S]{3,30})\nを購入しました。$"=$1\nGekauft
+
+メモリアルサウンドボックスの購入により、ギルドハウスの各フロアで流れるBGMを変更できるようになりました。お好みの楽曲を購入してくださいませ。主さまの選曲、楽しみです。=Jetzt, wo wir die Gedenkklangkörper haben, könnt ihr neue Titel kaufen, die ihr als Hintergrundmusik auf eurem Startbildschirm und auf jeder Etage des Gildenhauses verwenden könnt. Ich kann es kaum erwarten, Eure Lieblingsmelodien zu hören, mein Herr.
+
+ようこそ！\nこちらでは、\nギルドハウスで流れる音楽の\n変更や購入が出来ますよ=Hallo! In diesem Bereich kannst du neue Musik auswählen, die auf deinem Startbildschirm oder im Gildehaus abgespielt wird.
+
+こちらでは、ＢＧＭの変更が\nできますよ\nどんな曲に変更しますか？\nふふふ、私も楽しみです♪=Hier kannst du die HGM-Optionen ändern! Welche Art von Track suchen Sie?\nHaha, ich kann es kaum erwarten, ihn zu hören!
+
+ギルドハウスの\nＢＧＭを変更できますよ\nあなたの好きな曲、\n私にも聴かせてくださいね=Du kannst alle möglichen Titel auswählen, die auf deinem Bildschirm oder im Gildenhaus gespielt werden sollen! Warum zeigst du mir nicht ein paar deiner Lieblingssongs?
+
+ＢＧＭの変更や購入は、こちらから\nできますよ\n素敵な音楽を、たくさんご用意\nいたしました！=Wenn Sie die HGM ändern oder neue Tracks kaufen möchten, sind Sie bei uns genau richtig! Wir haben eine große Auswahl zur Verfügung!
+
+いらっしゃいませ！\nＢＧＭの購入はこちらです\n素敵な曲がたくさんあって、\n目移りしちゃいますね=AIch freue mich immer, Sie zu sehen! Willkommen im Musikgeschäft. Es gibt so viele schöne Titel. Da fällt die Auswahl schwer, nicht wahr?
+
+こちらでは、ＢＧＭを購入\nすることができますよ\n試聴することもできるので、\nじっくり選んでくださいね=Hier können Sie neue Musiktitel kaufen! Sie können sich zunächst eine Hörprobe anhören, also lassen Sie sich ruhig Zeit.
+
+ストーリーイベントテーマ=Ereignisgeschichte-Thema
+

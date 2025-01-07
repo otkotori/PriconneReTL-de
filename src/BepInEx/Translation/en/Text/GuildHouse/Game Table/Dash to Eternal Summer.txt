@@ -1,0 +1,154 @@
+砂浜駆けるプリンセス！\nハチャメチャなコースに挑む、\n南の島のビーチフラッグス！=Die Prinzessin läuft am Strand! Die Strandflagge der südlichen Insel fordert einen verrückten Kurs heraus!
+３つのラウンドを駆け抜け、\n総合１位を目指しましょう！\n参加者の皆さんの特徴や、\nＧＰの特徴にも注目です♪=Lasst uns durch drei Runden rasen und den ersten Platz in der Gesamtwertung anstreben! Achten Sie auf die Teilnehmer und GP-Merkmale♪
+
+距離は普通、天候が荒れる時もある。道中は様々な障害物が邪魔をする。=Normale Entfernungen, manchmal Sturm. Verschiedene Hindernisse stellen sich auf dem Weg in den Weg.
+距離は短く、天候が荒れやすい。道中は暴れる魔物が行く手を阻む。=Kurze Distanzen, oft strom. Unterwegs versperrt das wuchernde Ungeheuer den Weg.
+距離は長く、天候が落ち着いている。道中は大きめの障害物が立ち塞がる。=Große Entfernungen, ruhiges Wetter. Ein großes Hindernis steht auf dem Weg.
+
+難易度EXTRAで1度にスコアを135000以上獲得しつつ、全ラウンド1着でゴールしよう=Erreiche auf dem Schwierigkeitsgrad EXTRA eine Punktzahl von 135,000 oder mehr, und beende alle Runden als Erster.
+難易度EXTRAで、1度にスコアを135000以上獲得しつつ、全ラウンド1着でゴールしよう=Erreiche auf dem Schwierigkeitsgrad EXTRA eine Punktzahl von 135,000 oder mehr, und beende alle Runden als Erster.
+難易度EXTRAで、1度にスコアを115000以上獲得しよう=Erreiche auf dem Schwierigkeitsgrad EXTRA eine Punktzahl von 115,000 oder mehr auf einmal.
+
+ベーシックGPのNORMALを1度プレイすると解放されます。=Es wird freigeschaltet, sobald Sie NORMAL von Grundlegende GP spielen.
+ベーシックGPのHARDを1度プレイすると解放されます。=Es wird freigeschaltet, sobald Sie SCHWER von Grundlegende GP spielen.
+ャラ選択=Charakterauswähl
+天候適正=Richtiges Wetter
+ガッツ=Eingeweide
+ジャンプ=Springen
+スピード=Tempo
+プレイするキャラを\n選択してください=Bitte wählen Sie einen\nCharakter zum Spielen
+ＵＢ効果=UB-Effekt
+
+夏と言えばかき氷！\nシロップはー……\n禁断の全部混ぜだー！=Apropos Sommer: Shaved Ice\nund Sirup sind\nein Mix aus allem!
+そんなに冷たいもの\nばかり食べて…\n走れなくなっても\n知らないよ？=Iss nur so ein kaltes Ding...\nIch weiß nicht, ob ich nicht rennen kann?
+平気平気ぃ♪\n…あれっ？\nなんか頭がキーンって\nいたたたたぁー！？=Es ist gut...\ndass... mein\nGehirn einfriert.
+相手がヒヨリとはいえ\n負けるつもりは\nないからね=Ich werde meinen\nGegner nicht verlieren\nist Hiyori!
+レイさんが相手なら\nあたしだって\n全力全開だよ！=Wenn Rei\nder Gegner ist,\nwird er seine ganze Kraft einsetzen!
+ねぇユイ\n水着で走るのって\nちょっと…=Hey, Yui...\nLaufen im Badeanzug\nEin bisschen...
+うん、恥ずかしいよね\n騎士クンに\n見られてると思うと…\n…うぅ～～～！=Ja, es ist peinlich.
+いや、待てよ…\nユイは恥ずかしい時\n逃げ足が速くなる…\nそれを利用すれば…！=Nein, warte... Yui schämt sich, wenn die Flucht schneller geht... wenn du sie benutzt...!
+レイちゃんと\nヒヨリちゃん…\n二人に負けないよう\nわたしも全力で…！=Rei-chan und Hiyori-chan... Ich tue mein Bestes, um nicht gegen sie zu verlieren...!
+変わったコースが\nいっぱいあるね\nどれに出ようかな…=Es gibt viele ungewöhnliche Kurse, welchen sollte ich besuchen...
+コースには障害物や\n魔物が…？\nビーチフラッグスとは\nこんな競技だったかな=Es gibt Hindernisse und Monster auf der Strecke...? So sollen Beachflags aussehen.
+あ、あの人すごく\n速そう…！\nわたし、勝てるかな…=Der Typ sieht wirklich schnell aus...! Ich frage mich, ob ich gewinnen kann...
+あ、困ってる人\nはっけーん！\n困った時はお互い\nさまさまっ♪=Ah, da ist jemand in Schwierigkeiten! Wenn du in Schwierigkeiten steckst, gehört das alles dir♪
+騎士クン…見ててね\nわたし、頑張って\n走るから…！=Sieh mir zu, Knight-kun... Ich tue mein Bestes, um zu fliehen...!
+ヒヨリちゃん\n楽しんでる？=Hiyori, hast du Spaß?
+もっちろん！\nこんな面白いこと\n楽しまないと\nもったいないよー！=Aber natürlich! Es wäre eine Verschwendung, etwas so Interessantes nicht zu genießen!
+そうだね\nふふっ、わたしも\nヒヨリちゃんを\n見習わないと…！=Ja, du hast recht. Hehe, ich werde von Hiyoris Beispiel lernen müssen...!
+なんだかすごいコース\nばかりだね…\nどうやって\n作ったんだろう…=Das sind alles so tolle Kurse... Ich frage mich, wie sie gemacht wurden...
+気にしちゃダメだよ\nこういう時は素直に\n楽しむのが一番さ=Machen Sie sich keine Gedanken darüber. In Zeiten wie diesen ist es am besten, einfach nur zu genießen.
+
+
+日照り=Trocken
+雨=雨
+
+最終リザルトへ=Zum Ergebnis
+次ラウンドへ=Zur nächsten Runde
+ガンガン照り=Klopfen
+長い=Lang
+普通=Durchschnitt
+とても長い=Sehr lang
+長時間、スピード特大アップ！=Massiv Geschwindigkeit für lange Zeit!
+r:"^([0-9.]+)秒$"=$1sek
+タイムボーナス=Zeitbonus
+着順ボーナス=Auftragsbonus bei Ankunft
+sr:"^ラウンド(\d+) ([べ-ヺー＆＝]+)のスコア詳細$"=Runde $1 $2 Punktestand
+難易度ボーナス=Schwierigkeitsbonus
+r:"^([0-9.]+)倍$"=$1-mal
+回避ボーナス=Ausweichbonus
+今回のスコア=Ergebnis
+結果発表へ=Zum Ergebnis
+アスリート=Athleten
+ワイルド=Wild
+[レッツゴー初心者]=[Los geht's, Anfänger]
+sr:"^(.+)GP・(.+)において下記の成績を収められましたので、その栄誉を讃えます。$"=Die folgenden Ergebnisse wurden in der $1 GP / $2 erreicht, und wir loben die Ehre.
+ラウンド2=Runde 2
+ラウンドスコア=Rundenpunktezahl
+ラウンド1=Runde 1
+再挑戦=Wiederholen
+以下の報酬を獲得しました。=Folgende Belohnungen wurden erzielt.
+とても短い=Sehr kurz
+中時間、スピードとジャンプ特大アップ！=Mittlere Zeit, zusätzliche Geschwindigkeit und Sprung!
+カンカン照り=Klirren, Erröten
+このGPをリタイアしますか？=Wollen Sie bei diesem GP aufhören?
+プレイ中のスコアは無効になります。=Die erzielten Punkte werden annulliert.
+報酬やミッションは獲得できません。=Belohnungen und Missionen wurde nicht erhalten.
+
+Yui
+短時間、障害物バリアを展開する　（ＴＰ上昇率：大）=Hindernis für kurze Zeit aufstellen (TP-Boost: Groß)
+仲間と夏を楽しむ、夏海の魔法士。自分を変えたいという固い決意で、障害物を無効化して走り続ける。=Ein Zauberer des Sommermeeres, der den Sommer mit seinen Freunden genießt. Mit seiner festen Entschlossenheit, sich zu ändern, macht er seine Hindernisse zunichte und läuft weiter.
+
+Hiyori
+太陽よりも輝く、夏海の元気娘。　持ち前の身体能力で、どんなコースも柔軟に対応し、駆け抜ける。=Ein energiegeladenes Mädchen aus Summer, das heller strahlt als die Sonne. Mit ihrer angeborenen körperlichen Fähigkeit, kann sie flexibel auf jeden Kurs reagieren und durchlaufen.
+中時間、スピードとジャンプを　　小アップ（ＴＰ上昇率：小）=Mittlere Zeit, Geschwindigkeit und Sprung klein nach oben (TP-Boost: Klein)
+
+Rei
+波打ち際に煌めく、夏海の剣士。　日々の鍛錬で鍛えた脚で、長い距離も速度を落とさず走り切る。=Ein Schwertkämpfer des Sommers, der am Strand glitzert. Er ist ein durch tägliches Training trainiertes Bein und läuft lange Strecken, ohne langsamer zu werden.
+短時間、スピードを中アップ　　　（ＴＰ上昇率：中）=Mittlere Beschleunigung für kurze Zeit (TP-Boost: Mittel)
+
+Peco
+海の幸に目がない、渚のお姫様。　『王家の装備』の力を解放し、障害物をものともせず前へと進む。=Eine Meeresprinzessin, die keine Augen für Meeresfrüchte hat. Sie setzt ihre Kraft der „königlichen Ausrüstung“ frei und schreitet ohne Hindernisse vor ihr her.
+中時間、障害物バリアを展開する　（ＴＰ上昇率：小）=Hindernis für mittlere Zeit aufstellen (TP-Boost: Klein)
+
+korosuke
+海でも主さまをお世話する、白浜の巫女。精霊の力で自身を加速させ、誰よりも速くゴールを目指す。=Eine Miko des Meeres, die sich auch im Meer um ihren Herrn kümmert. Sie beschleunigt sich selbst mit der Kraft der Geister und strebt das Ziel schneller an als jeder andere.
+中時間、スピードを小アップ　　　（ＴＰ上昇率：小）=Mittlere Zeit, etwas beschleunigen (TP-Boost: Klein)
+
+Tamaki
+水着姿を恥じらう、ツンデレ猫娘。お得意の魔法で、対戦相手の走りを妨害し、レースを有利に進める。=Ein zickiges Katzenmädchen, das sich für seine Badehose schämt. Mit ihrem Lieblingszauber stört sie den Lauf ihres Gegners und treibt das Rennen zu ihrem Vorteil voran.
+中時間、対戦相手のスピードを　　小ダウン（ＴＰ上昇率：大）=Mittlere Zeit, geringe Geschwindigkeit des Gegners reduzieren (TP-Boost: Groß)
+
+Maho
+優雅に浜を駆ける、真夏のマホ姫。しゃなりしゃなりと、雅な身のこなしで障害物を跳び越えていく。=Eine sommerliche Maho-Prinzessin, die anmutig am Strand läuft. Sie springt über Hindernisse mit einer anmutigen Art und Weise.
+中時間、スピードとジャンプを　　特大アップ（ＴＰ上昇率：小）=Mittlere Zeit, Geschwindigkeit und Sprung Groß oben (TP Boost: Klein)
+
+Wanchan
+浜の平和を守る、真夏の狼娘。　　獣人の強靭なスタミナで、レース　後半にスパートをかける。=Eine Mittsommer-Wolfstochter, die den Frieden des Strandes schützt. Sie ist eine starke Ausdauer des Tieres, und sie setzt einen Spurt in der zweiten Hälfte des Rennens.
+ラウンド中、スピードを中アップ　（ＴＰ上昇率：小）=Mittlerer Geschwindigkeitsanstieg während der Runde (TP-Boost: Klein)
+
+Kaori
+浜に力強く舞う、真夏の南国娘。　レースの喧噪の中でも精神を乱さず後半に大きな捲りを見せる。=Ein tropisches Mädchen im Hochsommer, das kraftvoll am Strand tanzt. Sie lässt sich auch im Trubel des Rennens nicht aus der Ruhe bringen und zeigt in der zweiten Hälfte eine große Wende.
+短時間、スピードを特大アップ　　（ＴＰ上昇率：特小）=Massiver Geschwindigkeitszuwachs für kurze Zeit (TP-Boost: Winzig)
+
+浜の事件を嗅ぎ付けた、真夏の　　名探偵。高い推理力と魔法で、的確に対戦相手の走りを乱す。=Eine Mittsommer-Detektivin, die den Vorfall am Strand erschnüffelt. Sie hat hohe Argumentation und Magie, und genau stört ihr Gegner.
+ラウンド中、対戦相手のスピードを中ダウン（ＴＰ上昇率：小）=Während der Runde sinkt die Geschwindigkeit des Gegners (TP-Boost: Klein)
+再び鎧を脱いだ、灼熱の騎士団長。実戦で培った判断力で、瞬時にバリアを展開し、障害物を無力化する。=Der Anführer der brennenden Ritter legt die Rüstung wieder ab. Mit seinem im Kampf geschulten Urteilsvermögen setzt er sofort die Barriere ein und neutralisiert die Hindernisse.
+ごく短時間、障害物バリアを　　　展開する（ＴＰ上昇率：大）=Hindernis für eine sehr kurze Zeit aufstellen (TP-Boost: Groß)
+水が苦手な、海辺の気まぐれ猫娘。浜に現れた美少女義賊は、対戦相手のスピードを奪いとる。=Eine skurrile Katze Mädchen am Meer, die nicht gut auf dem Wasser ist. Das schöne Mädchen, das am Strand erschien, nimmt die Geschwindigkeit ihres Gegners.
+短時間、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：小）=Verringert für kurze Zeit die Geschwindigkeit des führenden Gegners (TP-Boost: Klein)
+バカンスも効率第一な、海の傭兵。レースでも最高効率を求め、どんな状況でも隙のない走りを見せる。=Seesöldner mit der ersten Effizienz des Urlaubs. Er sucht die maximale Effizienz im Rennen und zeigt einen Lauf ohne jede Chance in jeder Situation.
+中時間、スピードを小アップ　　　（ＴＰ上昇率：大）=Mittlere Zeit und Geschwindigkeit (TP-Boost: Groß)
+真夏の太陽が良く似合う、海辺の　サレンママ。多才で器用、どんな　障害物もエレガントに越えていく。=Saren-Mama am Meer, die in der Mittsommersonne gut aussieht. Geheimnisvoll und gewandt, geht jedes Hindernis über elegant.
+中時間、ジャンプを小アップ　　　（ＴＰ上昇率：大）=Mittlere Zeit und kleine Sprünge nach oben (TP-Boost: Groß)
+海に嵐を呼ぶ夏のドジっ娘メイド。日頃から災難に慣れており、多少　のトラブルには動じたりしない。=Ein Sommermädchen, das einen Sturm auf dem Meer heraufbeschwört. Sie ist täglich an Katastrophen gewöhnt und bewegt sich nicht in irgendwelchen Schwierigkeiten.
+長時間、能力ダウンを防ぐバリアを展開する（ＴＰ上昇率：特大）=Entwickeln Sie eine Barriere, um die Fähigkeit zu verhindern, die Fähigkeit für eine lange Zeit zu reduzieren (TP-Boost: Massiv)
+無し=Kein
+粋な夏を愉しむ、若夏の姉御。　　流麗な身体捌きで、始・継・終と、UBを重ねるごとに、加速する。=Eine junge Sommerschwester, die einen stilvollen Sommer genießt. Mit einem schönen Körper Handhabung, es beschleunigt, wie Sie die UB mit dem Anfang, Folge, und Ende überlappen.
+累積で、スピードを小アップ　　　（ＴＰ上昇率：特大）=Kumulative Geschwindigkeitssteigerung (TP Boost: Massiv)
+夏のトキメキに触れた、オタク魔法少女。多彩な魔法を操り、少しずつ他の走者の速度を落とし続ける。=Ein Nerd magisches Mädchen, das den Sommer tokimeki berührt. Sie manipuliert eine Vielzahl von Magie und hält die Geschwindigkeit der anderen Läufer nach und nach.
+累積で、対戦相手のスピードを　　小ダウン（ＴＰ上昇率：特大）=Kumulierend, verringert die Geschwindigkeit des Gegners (TP-Boost: Massiv)
+海獄に降臨せし、真夏の冥姫。　　レース後半に魔力を全解放し、　　蒼き疾風と成りて浜を駆け抜ける。=Eine Mittsommerin, die in die Seehölle hinabgestiegen ist. In der zweiten Hälfte des Rennens setzt sie ihre Magie frei und rennt als blauer Sturm über den Strand.
+長時間、スピードとジャンプを　　特大アップ（ＴＰ上昇率：中）=Massive Geschwindigkeit und Springen für eine lange Zeit (TP-Boost: Mittel)
+夏の夕を火花で彩る、渚の壊し屋。『壊し屋』の異名と過激な愛情は、対戦相手にプレッシャーを与える。=Ein Brecher des Meeres, der den Sommerabend mit Funken färbt. Der Spitzname und extreme Zuneigung von „Breakthrough“ geben Druck auf den Gegner.
+短時間、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：中）=Verringert für kurze Zeit die Geschwindigkeit des führenden Gegners (TP-Boost: Mittel)
+青春に生きる者を導く、夏の先生。夢へと邁進する聖母の加護が、その身をあらゆる困難から守る。=Eine Sommerlehrerin, die diejenigen führt, die in der Jugend leben. Der Segen der Muttergottes, die nach ihrem Traum strebt, schützt sie vor allen Schwierigkeiten.
+長時間、能力ダウンを防ぐバリアを展開する（ＴＰ上昇率：大）=Entwickle eine Barriere, um Fähigkeiten für eine lange Zeit zu verhindern (TP-Boost: Groß)
+笑顔の応援が眩しい、夏の超能力　ガール。超能力を駆使して、どんな障害物もひとっ飛びで乗り越える。=Ein sommerliches hellsichtiges Mädchen mit einem strahlenden Lächeln. Mit übersinnlichen Kräften, überwindet jedes Hindernis durch Springen.
+長時間、ジャンプを特大アップ　　（ＴＰ上昇率：中）=Massive Sprünge nach oben für eine lange Zeit (TP-Boost: Mittel)
+海辺で大人の魅力を放つ、夏の　　セクシー先生。その魅力に囚われた対戦相手は、走りを乱してしまう。=Ein sommerlicher sexy Lehrer, der am Meer erwachsenen Charme versprüht. Der Gegner, der in seinem Charme gefangen ist, stört das Rennen.
+累積で、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：中）=Kumulative Verringerung der Geschwindigkeit des führenden Gegners (TP-Boost: Mittel)
+水着も絶対外さない、夏のカリスマモデル。走りのバイブスは超テンアゲで、スピードはおにやば。=Ein sommerliches, charismatisches Modell, das nie die Bademode ablegt. Die fahrenden Vibes sind supertenage, und die Geschwindigkeit ist Oniyaba.
+短時間スピード大アップ後、　　　スピードダウン（ＴＰ上昇率：大）=Nach einer kurzen Beschleunigung wird die Geschwindigkeit verringert (TP-Boost: Groß)
+南の島も盛り上げる、真夏のアイドル。悪天候でも笑顔を絶やさず後半もリズムを上げて走り切る。=Ein Mittsommeridol, das die südliche Insel begeistert. In der zweiten Hälfte kommt sie aus dem Rhythmus, ohne ihr Lächeln zu verlieren, selbst bei schlechtem Wetter.
+長時間、スピードを中アップ　　　（ＴＰ上昇率：大）=Lange Zeit auf für eine lange Zeit (TP Boost: Groß)
+海原に美声を響かす、渚の歌姫。　守護の賛歌と精霊の加護により、　障害物から身を守る。=Die Diva des Meeres, die eine schöne Stimme im Meer erklingen lässt. Sie schützt sie vor Hindernissen durch die Hymnen ihres Wächters und den Segen des Geistes.
+短時間、障害物バリアを展開する　（ＴＰ上昇率：中）=Hindernis für kurze Zeit aufstellen (TP-Boost: Mittel)
+夏でも天邪鬼な、夕凪のテーラー。張り巡らされた魔法の糸で、他の走者の自由を奪う。=Selbst im Sommer ist der Schneider von Yunagi ein böser Dämon. Mit einem magischen Faden raubt er anderen Läufern die Freiheit.
+向日葵が良く似合う、海辺の　　　お姉ちゃん。秘密結社の一員で、　抜群の身体能力が一番の武器。=Eine Schwester aus dem Meer, die gut auf Sonnenblumen aussieht. Sie ist Mitglied des Geheimbundes, ihre herausragenden körperlichen Fähigkeiten sind ihre besten Waffen.
+長時間、スピードを特大アップ　　（ＴＰ上昇率：特小）=Massiver Geschwindigkeitszuwachs für eine lange Zeit (TP-Boost: Winzig)
+
+夏の海でみんなでビーチフラッグを楽しみましょう。\n障害物に当たらないよう、うまく飛び越えて１番をめざしてくださいまし\nみなさまのとっておきのユニオンバーストも必見でございます。=Lass uns gemeinsam die Strandflagge im Sommermeer genießen. Bitte springen Sie rüber und zielen Sie auf die Nr. 1, um keine Hindernisse zu treffen. Dein spezieller Union Burst ist auch ein Muss.
+みなさまそれぞれ、得意なことがあるようです。\n主さまはみなさまの得意分野をご存じかとは思いますが今一度、ご確認いただくと安心でございます。=Jeder scheint auf jedem Gebiet gut zu sein. Ich denke, dass der Herr das Fachgebiet kennt, aber es ist sicher, noch einmal nachzusehen.
+ビーチフラッグには特徴が大きく３つのGP（グランプリ）があるようで\nす。それぞれの特徴を見極めながら１番を目指してくださいまし。=Die Strandflagge scheint drei GP (Grand Prix) mit einem großen Merkmal zu haben. Bitte zielen Sie auf den ersten, während Sie die Eigenschaften jedes einzelnen bestimmen.
+このビーチフラッグでは条件を満たすと、称号ももらえるようです。\n水着姿のみなさまと協力して称号GETをめざしましょう。\nコッコロも水着に着替えて参りますのでぜひお供させてくださいまし！=In diesem Strandflagge, wenn Sie die Bedingungen erfüllen, werden Sie den Titel zu bekommen. Lasst uns mit allen in Badekleidung arbeiten, um den Titel zu bekommen. Kokkoro wird sich auch in einen Badeanzug verwandeln, also lasst es uns bitte wissen!
