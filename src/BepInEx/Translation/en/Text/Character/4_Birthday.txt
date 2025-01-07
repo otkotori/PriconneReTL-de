@@ -1,4 +1,4 @@
-sr:"^([べ-ヺー＆＝]+)からお返しをもらいました\n([べ-ヺー＆＝]+)のメモリーピース×10$"=Receive 10 $2's Memory Shard\nfrom $1's Celebrate
-sr:"^([べ-ヺー＆＝]+)「バースデーストーリー」のお返しでもらったアイテムです。$"="Item you got at celebrating of $1's "Birthday Story". "
+sr:"^([べ-ヺー＆＝]+)からお返しをもらいました\n([べ-ヺー＆＝]+)のメモリーピース×10$"=Erhalten Sie 10 $2s Gedächtnissplitter\nvon $1
+sr:"^([べ-ヺー＆＝]+)「バースデーストーリー」のお返しでもらったアイテムです。$"="Artikel, den du beim Feiern von $1s „Geburtstagsgeschichte“ bekommen hast. "
 
-わあ……ありがとうございます。\nあなたとカルミナのみんなに\nお祝いしてもらえるなんて……\nとても嬉しいです♪=Wow ... Thank you.\nTo have you and everyone in Carmina celebrate ...\nI'm very happy♪
+わあ……ありがとうございます。\nあなたとカルミナのみんなに\nお祝いしてもらえるなんて……\nとても嬉しいです♪=Wow... Danke.\nDass Sie und alle in Carmina\nfeiern... Ich bin sehr glücklich.
