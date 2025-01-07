@@ -1,0 +1,95 @@
+スフィア=Sphäre
+注意事項=Info
+所持グロウスフィア一覧=Growsphäre in Besitz
+選択中のグロウスフィアの効果=Ausgewählter Growsphäre-Effekt
+各Lv=Ins St.
+現在の無料分=Aktuelle Nutzung
+使用する=Nutzen
+閉じる=Schließen
+グロウスフィア一覧=Growsphäre-Liste
+強化内容に記載されているRANKになった時、装備はついていない状態になります。=Er gibt keine Ausrüstungen, wenn er den maximal möglichen RANG erreicht hat.
+使用可能なグロウスフィアを所持していません。=Sie haben keine Growsphäre.
+使用するグロウスフィアを選択してください。キャラ強化に必要なアイテムを消費せずにキャラを強化できます。=Wählen Sie die zu verwendende Growsphäre aus\nSie können die Charaktere kostenlos verbessern, ohne irgendwelche Artikel zu verwenden
+キャラ専用=Dedizierte
+グロウスフィア使用確認=Growsphäre-Nutzungsbestätigung
+以下のアイテムを消費します。=Die folgenden Artikel werden verbraucht.
+使用するグロウスフィアを選択してください。=Wählen Sie die zu verwendende Growsphäre.
+無料対象が残っています。=Es gibt immer noch Gratisartikel.
+専用装備を強化します。よろしいですか？=Verbessern Sie die Einzigartige Ausrüstung?
+専用装備１を強化します。よろしいですか？=Verbessern Sie die 1. Einzigartige Ausrüstung?
+専用装備２を強化します。よろしいですか？=Verbessern Sie die 2. Einzigartige Ausrüstung?
+[FF7C4E,D62146]無料対象のためアイテムやマナは消費しません。[-]=[FF7C4E,D62146]Artikel und Mana werden nicht verbraucht.[-]
+強化内容=Erhöhen
+育成玉を所持していません。=Sie haben keinen Übungsball.
+現在のステータスのほうが高いため、使用できません。=Kann nicht verwendet werden, da der aktuelle Status höher ist.
+強化するにはキャラLvを上げる必要があります。=Um es zu verbessern, müssen Sie den Charakter-St erhöhen.
+専用装備レベルを強化するにはキャラLvを上げる必要があります。=Um die EA-Stufe zu erhöhen, müssen Sie den Charakter-St erhöhen.
+各グロウスフィアの無料強化値について=Über den kostenlosen Erweiterungswert von Growsphäre
+グロウスフィアの使用について=Über die Verwendung von Growsphäre
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを{{A}}回強化しよう」が達成されます。=Auch wenn Sie Ihren Charakter nach der Verwendung von Growsphäre kostenlos verstärken, haben Sie Anspruch auf tägliche Missionen.\nBeispiel: Wenn du die Fertigkeit eines Charakters mit Growsphäre kostenlos verbesserst, wird die tägliche Mission „Verbessere die Fähigkeit eines Charakters einmal“ abgeschlossen.
+デイリーミッションについて=Über Tägliche Missionen
+キャラの大いなる力を呼び醒ますア\nイテム。=Ein Gegenstand, der die große Macht des Charakters beschwört.
+r:"^グロウスフィア /\n? Lv(\d+)$"=Growsphäre / St.$1
+r:"^専用装備(.)グロウスフィア\n? \/ Lv(\d+)$"=Einzigartige Ausrüstung-$1 Growsphäre / St.$2
+強化できるLvまでLvアップする=Aufstufen bis zur Stufencap.
+
+r:"^すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphäre, die für alle Charaktere verwendet werden kann. Erhöht den Status des Charakters auf St.$1/RANG $2.
+r:"^すべてのキャラに使用できる専用装備(.)のグロウスフィア。専用装備(.)を作成し、Lv(\d+)まで強化できる。$"=EA-$1 Growsphäre, die für alle Charaktere verwendet werden kann. Erstelle eine EA-$1 und verbessere sie bis zu St.$3.
+
+現在使用中のスフィアよりも、Lvアップができないアイテムです。=Kann nur verwendet werden, wenn der Stufe unter dem Stufe der Growsphere liegt
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?\n?専用スフィア \/ Lv(\d+)$"=$1$2\nExklusive Sphäre / St.$3
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphäre exklusiv für $1$2.\n Erhöhe den Status des Charakters auf St.$3/RANG $4.
+
+r:"^専用装備(.)グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Sie haben EA-$1 Growsphäre verwendet / St.$2.\nJetzt kannst du den Setwert kostenlos erhöhen.
+r:"^グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Sie haben Growsphäre / St.$1 benutzt.\nJetzt kannst du den Setwert kostenlos erhöhen.
+sr:"^([べ-ヺー＆＝]+)(（.+）)?専用スフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Du hast $1$2 gewidmet\nGrowsphäre / St.$3.\nJetzt kannst du den Setwert kostenlos erhöhen.
+グロウスフィアセット完了=Growsphäre-Set Fertigstellung
+
+ランクとレベルを一括で強化します。=Steigern Sie Ränge und Stufen auf einmal.
+一括強化=Batch-Stärkung
+無料でレベルアップ！=Kostenlos aufleveln!
+ランクアップします。よろしいですか？=Möchten Sie aufsteigen?
+r:"^無料で強化できるのは\nLv(\d+)までです。$"=Kann kostenlos bis zu St.$1 verbessert werden.
+レベルは現在のプレイヤーLv以下まで上げられます。=Die Stufe kann auf die aktuelle Spieler-St angehoben werden.
+無料対象のためアイテムや装備は消費しません。=Es werden keine Artikel und Ausrüstungen verbraucht.
+スキル①=①. Fertigkeit
+スキル②=②. Fertigkeit
+r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]Aufstufen kostenlos bis zu[FF7C4E,D62146] St.$1[-].[-]
+[3C404E]無料で強化できるのは[-][FF7C4E,D62146]
+・ランクアップ\n・装備装着\n・装備強化=·Aufgestiegen\n·Ausrüstungen aufstatten\n·Raffinationsanlagen
+・専用装備作成\n・専用装備上限解放\n・専用装備レベルアップ=・EA herstellen\n・EA-Stufencap freischalten\n・EA aufstufen
+・専用装備１作成\n・専用装備１上限解放\n・専用装備１レベルアップ=・EA-1 herstellen\n・EA-1-Stufencap freischalten\n・EA-1 aufstufen
+・専用装備２作成\n・専用装備２上限解放\n・専用装備２レベルアップ=・EA-2 herstellen\n・EA-2-Stufencap freischalten\n・EA-2 aufstufen
+
+・専用装備作成\n・専用装備上限解放=・EA herstellen\n・EA-Stufencap freischalten
+・専用装備１作成\n・専用装備１上限解放=・EA-1 herstellen\n・EA-1-Stufencap freischalten
+・専用装備２作成\n・専用装備２上限解放=・EA-2 herstellen\n・EA-2-Stufencap freischalten
+
+・専用装備上限解放\n・専用装備レベルアップ=・EA-Stufencap freischalten\n・Einzigartige Ausrüstungsstufe ↑
+・専用装備１上限解放\n・専用装備１レベルアップ=・EA-1-Stufencap freischalten\n・Einzigartige 1. Ausrüstungsstufe ↑
+・専用装備２上限解放\n・専用装備２レベルアップ=・EA-2-Stufencap freischalten\n・Einzigartige 2. Ausrüstungsstufe ↑
+・専用装備上限解放=・EA-Stufencap freischalten
+・専用装備１上限解放=・EA-1-Stufencap freischalten
+・専用装備２上限解放=・EA-2-Stufencap freischalten
+・専用装備レベルアップ=・EA-Stufe ↑
+・専用装備１レベルアップ=・EA-1-Stufe ↑
+・専用装備２レベルアップ=・EA-2-Stufe ↑
+専用装備レベルアップ=EA aufstufen
+専用装備１レベルアップ=EA-1 aufstufen
+専用装備２レベルアップ=EA-2 aufstufen
+無料強化分が完了したものがあります。=Einige Freie-Verbesserung sind bereits abgeschlossen.
+無料強化完了=Freieverbesserung abgeschlossen
+一括強化完了=Fertigstellung der Chargenverbesserung
+・ランクアップ\n・レベルアップ\n・装備装着\n・装備強化=・Hochlauf\n・Aufstock\n・Ausgestattet mit Ausrüstung\n・Verbesserung der Ausrüstung
+マナや装備が足りない場合でも、グロウスフィアを使用すれば\nお仲間を一気に強化ができるようです。\nグロウスフィアを手に入れたらすぐに使ってみましょう。=Auch wenn du nicht genug Mana oder Ausrüstung hast, kannst du die Growsphäre benutzen, um deine Freunde sofort zu stärken. Verwenden Sie es, sobald Sie die Growsphäre erhalten.
+主さま、今手に入れたのがグロウスフィアになります。\nマナや装備を使わずに一気に強化できるアイテムですので\nさっそく使ってみましょう。=Mein Herr, wir haben jetzt Growsphäre. Es ist ein Artikel, der auf einmal gestärkt werden kann, ohne Mana oder Ausrüstung zu verwenden, so lassen Sie uns es sofort verwenden.
+
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを1回強化しよう」が達成されます。=Auch wenn Sie Ihren Charakter nach der Verwendung von Growsphäre kostenlos verstärken, haben Sie Anspruch auf tägliche Missionen.\nBeispiel: Wenn du die Fertigkeit eines Charakters mit Growsphäre kostenlos verbesserst, wird die tägliche Mission „Verbessere die Fähigkeit eines Charakters einmal“ abgeschlossen.
+
+各専用装備１グロウスフィアの無料強化値について=Kostenlosen Erweiterungswert von EA-1
+各専用装備２グロウスフィアの無料強化値について=Kkostenlosen Erweiterungswert von EA-2
+
+専用装備１グロウスフィアの使用について=Verwendung von EA-1-Growsphäre
+専用装備２グロウスフィアの使用について=Verwendung von EA-2-Growsphäre
+
+専用装備１グロウスフィアを使用すれば、素材を消費せずに専用装備を作成、一気に強化ができるようです。ぜひご活用くださいませ。=Wenn du die EA-1-Growsphäre verwendest, kannst du die EA-1 erstellen, ohne Materialien zu verbrauchen und es sofort verstärken. Bitte nutzen Sie es aus.

@@ -1,0 +1,67 @@
+プリンセスハート=Prinzessinnenherz
+プラチナガチャチケット=Prämie-Gacha-Ticket
+選択したメモリーピース=Ausgewählter Gedächtnissplittern
+ミニEXPポーション=Mini-EP-Trank
+EXPポーション=EP-Trank
+EXPハイポーション=Super-EP-Trank
+EXPメガポーション=Mega-EP-Trank
+EXPギガポーション=Giga-EP-Trank
+プリンセスオーブ=Prinzessinnenkugel
+アストライアリング=Astraea-Ring
+精錬結晶=Hochwertige Verfeinerungskristalle
+上精錬石=Verbesserte Verfeinerungskristalle
+精錬石=Verfeinerungskristalle
+緑枠の原鉱=Grünerz
+紫枠の原鉱=Purpurerz
+金枠の原鉱=Golderz
+銀枠の原鉱=Silbererz
+銅枠の原鉱=Kupfererze
+赤枠の原鉱=Roterz
+橙枠の原鉱=Orangenerz
+空枠の原鉱=Himmelblaueserz
+桃枠の原鉱=Rosaerz
+
+アストラルシャード=Astralsplitter
+（闇）= (Dunkelheit)
+（光）= (Licht)
+（風）= (Wind)
+（水）= (Wasser)
+（火）= (Feuer)
+属性素材=Elementarmaterial
+スカルプト=Skalput
+ワンドオブミラージュ=Zauberstab
+ファストチケット=Schnellticket
+スキップチケット=Skip-Ticket
+ミックスベリーケーキ=Gemischter Beerenkuchen
+アップルパイ=Apfelkuchen
+ハートチュロ=Churroherz 
+
+６thアニバーサリーオルゴール=6. Jahrestag Musikbox
+ボスチケット=Boss-Tickets
+（前編専用）= (Teil 1)
+（後編専用）= (Teil 2)
+([0-9.A-Za-z ]+)カウントダウン=$1 Countdown
+Lv/RANK シンクロ機能実装に伴う配布です。=Implementierung von Sync-Funktionen: St/Rang.
+アストライアリングを\n獲得しました=Astraea-Ring erhalten
+
+正月のひと時=Neujahrszeit
+ランダムな装備が獲得できる。=Es können zufällige Ausrüstungen erworben werden.
+大天使の泪=Erzengelstränen
+一見ただの飴玉だが実は霊験あらた\nかな聖遺物であり、巷では模造品や\n偽物が出回る超レアアイテム。=Auf den ersten Blick sieht es aus wie eine Bonbonkugel, aber es ist tatsächlich eine heilige Reliquie mit einer spirituellen Prüfung, und es ist ein super seltenes Stück mit Nachahmungen und Fälschungen auf den Straßen.
+
+r:"^EXPを ([0-9,]+) 獲得できる$"=$1 EP verdienen.
+r:"^キャラのLv強化に使用すると、キャラEXPが([0-9,]+)加算される。$"=Wird verwendet, um die Stufe eines Charakters zu erhöhen. Fügt $1 Charakterpunkte hinzu.
+r:"^ギルドハウス内で使用すると、キャラの絆Ptが([0-9,]+)加算される。$"=Wird im Gildenhaus verwendet. Erhöht die Bindungspunkte des Charakters um $1.
+r:"^キャラの装備強化に使用すると、装備強化Ptが([0-9,]+)加算される。$"=Wird verwendet, um die Ausrüstung eines Charakters zu verfeinern. Fügt $1 Ausrüstungsveredelungspunkte hinzu.
+
+r:"^ギルドハウスやキャラの強化画面で\n使用すると、キャラの絆Ptが([0-9,]+)\n?加\n?算\n?される。$"=Benutze ihn im Gildenhaus oder auf dem Charakterverbesserungsbildschirm, um dem Charakter $1 Bindungspunkte hinzuzufügen.
+クリアランク★3を獲得したクエス\nトの、プレイ時間をスキップするチケット。=Ein Ticket, mit dem Quests übersprungen werden können, die einen 3★ haben.
+プラチナガチャやピックアップガ\nチャを1回引くことができるガチャチケット。=Ein Gacha-Ticket, mit dem man das Premium- oder Fokus-Gacha ziehen kann.
+アドベンチャーのクエストにかかる\n時間を短縮することができるチケッ\nト。=Ein Ticket, das die Zeit für den Abschluss einer Abenteueraufgabe verkürzt.
+
+キャラ専用装備の作成に必要なアイ\nテム。=Ein Artikel, der für die Erstellung von charakterexklusiver Ausrüstung erforderlich ist.
+古より伝わる、装備者の力の極限を\n超えて引き上げるとされる指輪。装\n備するとプレイヤーLvを超えてキャ\nラLv限界突破が可能。=Ein seit der Antike überlieferter Ring, der die Macht des Trägers über das Maximum hinaus anheben soll. Wenn er ausgerüstet ist, kann der Charakter seine Stufengrenze über die Spieler-Stufe hinaus durchbrechen.
+
+アルケス錬金堂の最高の秘術である究極錬成において使用される宝玉。装備の効果自体を物質化したもので特殊な武具に付与することが可能。=Ein Juwel, das in der Ultimativen Synthese verwendet wird, der mächtigsten Technik des Atelier Alces. Es ist eine materialisierte Version der Effekte der Ausrüstung selbst und kann auf spezielle Waffen angewendet werden.
+
+アストラルの顕在化により発生した宝珠。未確認物質でできており使用するとなぜかプリンセスナイトの　権能を強化拡張することができる。=Schatzperlen, die durch die Manifestation von Astral erzeugt werden. Sie bestehen aus unbekanntem Material und verbessern und erweitern die Fähigkeiten der Prinzessinnenritter.

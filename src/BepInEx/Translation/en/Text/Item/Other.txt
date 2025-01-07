@@ -1,0 +1,75 @@
+プリンセスアリーナコイン=Prinzessin-Arena-Münze
+アリーナコイン=Kampfarena-Münze
+ダンジョンコイン=Dungeon-Münze
+マスターコイン=Meistermünze
+クランコイン=Clan-Münze
+アルケスコイン=Alces-Münze
+コネクトコイン=Verbinde-Münze
+
+スタミナ=Ausdauer
+マナ=Mana
+ルピ=Rupien
+ジュエル=Juwel
+プレイヤー経験値=Spielerpunkte
+ランダム装備BOX=Zufallsausrüstungskiste
+みんなでお花見=Jedermanns Kirschblütenbesichtigung
+みんなの好きなもの=Jedermanns Favorit
+
+討伐依頼証=Jagdticket
+深淵討伐戦期間中に入手できる証。\n消費してボスバトルに挑戦できる。=Ein Beweis, den man während der Abyss-Kampfperiode erhalten kann.\nBenutze ihn, um den Bosskampf herauszufordern.
+ランダムなアストラルスフィアが獲得できる。=Zufällige Astralsphären können erhalten werden.
+ランダムアストラルスフィアBOX=Zufalls-Astralsphärenkiste
+アストラルの顕在化により発生したマスターピースの欠片。互いに引きあう性質を持ち複数を集めることで合体し、マスターピースとなる。=Fragmente von Meisterwerken, die durch die Manifestation von Astral entstehen. Sie ziehen sich gegenseitig an, sodass sie sich durch das Sammeln mehrerer Stücke zu einem Meisterwerk verbinden.
+ハロウィンパーティ=Halloween-Party
+イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。=Beweis für das Besiegen von Monstern während des Ereigniszeitraums. Du kannst sie sammeln und gegen Unterwerfungszertifikate eintauschen.
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=Tickets sind während des Veranstaltungszeitraums erhältlich. Gib sie aus, um den Bosskampf herauszufordern.
+
+プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=Eine spezielle Währung, die nur von denjenigen verdient werden kann, die das Spieler-St auf das Max angehoben haben.\nSie können im Meisterladen einkaufen.
+この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=Astrums Währung, die für Nahrung, Kleidung und Unterkunft in dieser Welt unentbehrlich ist.\nSie können im Laden des Gildenhauses einkaufen.
+バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=Eine spezielle Währung, die nur von denjenigen verdient werden kann, die die Kampfarena herausfordern.\nSie können im Arenaladen einkaufen.
+プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=Eine spezielle Währung, die nur von denjenigen verdient werden kann, die die Prinzessinnen-Arena herausfordern.\nSie können im P-Arena-Laden einkaufen.
+様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=Es ist eine Kraftquelle, die sich in verschiedenen Substanzen befindet und für das Wachstum von Charakteren unverzichtbar ist.\nSie können es auch im Laden verwenden.
+ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=Eine besondere Währung, die nur diejenigen erhalten, die den Dungeon herausgefordert haben.\nDu kannst im Dungeonladen einkaufen.
+EX装備(アクセサリー)を分解するこ\nとで獲得できる特別な通貨。EX装備\nショップで買い物ができる。=Eine spezielle Währung, die man durch den Abbau von EX-Ausrüstung (Zubehör) erhält. Sie können in EX-Ausrüstungsgeschäften einkaufen.
+EX装備(防具)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Eine spezielle Währung, die man durch den Abbau von EX-Ausrüstung (Rüstung) erhält. Sie können in EX-Ausrüstungsgeschäften einkaufen.
+EX装備(武器)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Eine spezielle Währung, die man durch den Abbau von EX-Ausrüstung (Waffen) erhält. Sie können in EX-Ausrüstungsgeschäften einkaufen.
+
+銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die bei der Herstellung von RANG-Ausrüstung (RANG 2-4) benötigten Fragmente und Baupläne verwendet werden kann.
+銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Blaupausen verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für Silberrahmen (RANG 3-8) benötigt werden.
+金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Blaupausen verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für Goldrahmen (RANG 6-11) benötigt werden.
+紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Baupläne verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für lila-Rahmen (RANG 10-18) benötigt werden.
+赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Baupläne verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für rote-Rahmen (RANG 17-21) benötigt werden.
+緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Blaupausen verwendet werden kann, die bei der Erstellung von RANG-Ausrüstung für grüne-Rahmen (RANG 20-24) benötigt werden.
+橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Fragmente und Blaupausen verwendet werden kann, die bei der Erstellung von RANG-Ausrüstung für orangefarbene-Rahmen (RANG 23-28) benötigt werden.
+空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Teile und Baupläne verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für himmelblaue-Rahmen (RANG 27-32) benötigt werden.
+桃枠（RANK31～36）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Ein wertvolles Material, das als Ersatz für die Teile und Baupläne verwendet werden kann, die bei der Herstellung von RANG-Ausrüstung für rosa-Rahmen (RANG 31-36) benötigt werden.
+
+EX★5装備を分解することで獲得できる特別な通貨。EX装備ショップでEX★5装備と交換ができる。=Eine besondere Währung, die durch das Zerlegen von EX5★-Ausrüstung erworben werden kann. Sie kann im EX-Ausrüstungsladen gegen EX5★-Ausrüstung getauscht werden.
+EX装備の錬成に使用することができる。=Kann für Synthesis EX-Ausrüstung verwendet werden.
+ランダムなEX★5装備が獲得できる。=Zufällige EX5★-Ausrüstung kann erhalten werden.
+虹色に輝く不思議な力をまとった宝石。=Ein Juwel mit einer geheimnisvollen regenbogenfarbenen Kraft.
+
+ランダムな原鉱が獲得できる。=Sie können ein zufälliges Original-Erz erhalten.
+ランダム原鉱BOX=Zufällige Original-Erzkiste
+
+ランダムなEXPポーションが獲得できる。=Zufällige EP-Tränke können erhalten werden.
+ランダムEXPポーションBOX=Zufälliger EP-Trankkiste
+
+EX装備の強化に使用すると、強化Ptが1加算される。=Bei Verwendung zur Verbesserung der EX-Ausrüstung wird 1 verbesserter PKT hinzugefügt.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Oma Regionales Werbeposter
+王宮騎士団×ランフェス求人ポスター=Königliche Ritter von Favonius Rekrutierungsposter
+ストーリー閲覧で獲得したアイテムです。=Ein Artikel, der sich aus der Lektüre der Geschichte ergibt.
+『ナッシュカッツェ』の招き猫=Nashkatze's Maneki Neko
+カスタムマイページのフレーム=Benutzerdefinierte Start-Rahmen
+マイページに設定できるフレーム画像。=Rahmenzeichnung, die auf Start eingestellt werden kann.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Neujahrsposter zum Thunfischfang für die Ohma-Regionalentwicklung
+主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=Mein Herr, wir haben eine benutzerdefinierte Startseite-Rahmen. Setzen Sie den Rahmen und schmücken Sie Ihre Seite.
+
+アストラルスフィア=Astralsphäre
+世界を構成している属性の力であるアストラルの結晶。内に秘めた属性が未分化の不安定な状態ゆえに励起されると莫大な属性の力を放つ。=Ein Astralkristall, der die Kraft der Attribute darstellt, aus denen die Welt besteht. Da sich die darin verborgenen Attribute in einem undifferenzierten und instabilen Zustand befinden, setzen sie, wenn sie angeregt werden, eine enorme Menge an Attributskraft frei.
+世界を構成している属性の力であるアストラルのうち闇の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Eine kristallisierte Kugel, die aus den Dunklen-Astralelementen besteht, aus denen die Welt besteht. Wenn du sie benutzt, kannst du das entsprechende Element aktivieren.
+世界を構成している属性の力であるアストラルのうち光の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Eine kristallisierte Kugel, die aus den Licht-Astralelementen besteht, aus denen die Welt besteht. Wenn du sie benutzt, kannst du das entsprechende Element aktivieren.
+世界を構成している属性の力であるアストラルのうち風の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Eine kristallisierte Kugel, die aus den Wind-Astralelementen besteht, aus denen die Welt besteht. Wenn du sie benutzt, kannst du das entsprechende Element aktivieren.
+世界を構成している属性の力であるアストラルのうち水の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Eine kristallisierte Kugel, die aus den Wasser-Astralelementen besteht, aus denen die Welt besteht. Wenn du sie benutzt, kannst du das entsprechende Element aktivieren.
+世界を構成している属性の力であるアストラルのうち火の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Eine kristallisierte Kugel, die aus den Feuer-Astralelementen besteht, aus denen die Welt besteht. Wenn du sie benutzt, kannst du das entsprechende Element aktivieren.
+sr:"^([べ-ヺー＆＝]+)(（.+）)?\s?専用リング$"=Gewidmeter $1$2's Ring

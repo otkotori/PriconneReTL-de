@@ -1,0 +1,3 @@
+レシピ=Rezept
+sr:"^(.+)のレシピ$"=Rezept für $1
+sr:"^料理のレシピ。「(.+)」がマイルショップに並ぶようになる。$"=Ein Kochrezept. $1 wird jetzt im Meilenshop erhältlich sein.
