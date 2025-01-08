@@ -6,7 +6,7 @@
 
 ---
 
-⚠️ **Warnung:** _Bitte benutzen Sie es auf eigene Gefahr!  ImaterialC (Cornelia), otkotori oder das normale Re:TL-Team sind nicht verantwortlich für irgendwelche Aktionen, die in Bezug auf Ihr Konto unternommen werden, wenn Sie dieses Übersetzungstool verwenden._
+⚠️ **Warnung:** _Bitte benutzen Sie es auf eigene Gefahr! ImaterialC (Cornelia), otkotori oder das normale Re:TL-Team sind nicht verantwortlich für irgendwelche Aktionen, die in Bezug auf Ihr Konto unternommen werden, wenn Sie dieses Übersetzungstool verwenden._
 
 The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Princess Connect Re:Dive](https://dmg.priconne-redive.jp/). It's main focus is to translate the game's user interface from Japanese to German so that german people can play it easier.
 
