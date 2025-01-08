@@ -1,14 +1,14 @@
 <h2 align="center">
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
-<i>A Conversion patch for Princess Connect! ReDive on DMM</i>
+<i>A Conversion patch for Princess Connect! Re:Dive on DMM</i>
 </h2>
 
 ---
 
-⚠️ **Warnung:** _Bitte benutzen Sie es auf eigene Gefahr!  ImaterialC (Cornelia) oder otkotori sind nicht verantwortlich für irgendwelche Aktionen, die in Bezug auf Ihr Konto unternommen werden, wenn Sie dieses Übersetzungstool verwenden._
+⚠️ **Warnung:** _Bitte benutzen Sie es auf eigene Gefahr!  ImaterialC (Cornelia), otkotori oder das normale Re:TL-Team sind nicht verantwortlich für irgendwelche Aktionen, die in Bezug auf Ihr Konto unternommen werden, wenn Sie dieses Übersetzungstool verwenden._
 
-The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Cygames' Princess Connect Re: Dive](https://dmg.priconne-redive.jp/). It's main focus is to translate the game's user interface from Japanese to German so that german people can play it easier.
+The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Princess Connect Re:Dive](https://dmg.priconne-redive.jp/). It's main focus is to translate the game's user interface from Japanese to German so that german people can play it easier.
 
 ---
 
@@ -25,7 +25,7 @@ The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Cygames' Pr
 2. Laden Sie die neueste Version von [Veröffentlicht Versionen](https://github.com/otkotori/PriconneReTL-de/releases) herunter. Ältere Versionen funktionieren nicht, wenn das Spiel aktualisiert wird.
 3. Entpacken Sie alle Dateien aus der Zip-Datei in Ihren `priconner`-Ordner
 - (Standardspeicherort: "C:\Benutzer(Users)\%username%\priconner)
-4. Stellen Sie sicher, dass Ihr `priconner`-Ordner wie folgt aussieht
+4. Stellen Sie sicher, dass Ihr `priconner`-Ordner wie folgt aussieht:
 
 ![patchapply](https://github.com/user-attachments/assets/03b5ef06-ab1d-4ee4-aedd-3ca2575179da)
 
@@ -45,7 +45,7 @@ Löschen Sie einfach die Patch-Dateien, die in den Stammordner `priconner` entpa
 Keine Priconne-Dateien, die während der Installation dieses Patches verändert oder beschädigt wurden, so dass Sie sie einfach manuell löschen können. 
 Ihr Spiel wird in seinen normalen Zustand zurückkehren.
 
-Wenn das Spiel nach dem Löschen des Patches nicht startet, deinstallieren Sie das Spiel und installieren Sie es erneut über DMM GAMES.
+Wenn das Spiel nach dem Löschen des Patches nicht startet, deinstallieren Sie das Spiel und installieren Sie es erneut über die DMM GAMES.
 
 Folgende Dateien müssen für die Deinstallation gelöscht werden:
 
