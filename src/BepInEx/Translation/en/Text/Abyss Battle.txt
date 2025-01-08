@@ -1,4 +1,4 @@
-深淵討伐戦=Abyss-chlacht
+深淵討伐戦=Abyss-Schlacht
 前哨クエスト=Außenposten-Quests
 前哨クエストで討伐依頼証を獲得しよう！=Erhalte Jagdtickets in Außenposten-Quests!
 朱火の深淵=Karminroter Abgrund
