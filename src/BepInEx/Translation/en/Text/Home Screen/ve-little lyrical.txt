@@ -3,27 +3,27 @@
 
 Kyouka
 お誕生日おめでとうございます\nどんどん大人になっちゃう…\n私も早く追いつかないと…\nな、なんでもないです！=Happy Birthday to you. You're getting even more grown-up... I'll have to work hard to catch up. ...N-no, I didn't say anything!
-今日、お誕生日なんですよね\nおこづかいを貯めて、\nカップケーキを買ってきたので、\n召し上がってください=It's your birthday today, I saved up my allowance and bought you cupcakes, so please enjoy them!
+今日、お誕生日なんですよね\nおこづかいを貯めて、\nカップケーキを買ってきたので、\n召し上がってください=It's your birthday today,\nI saved up my allowance\nand bought you cupcakes,\nso please enjoy them!
 
 
 KyoukaH
 お誕生日おめでとうございます\nこれ、パンプキンケーキです\nカボチャは少し苦手ですけど、\n頑張って味見もしたので…！=Happy Birthday to you. Have this special pumpkin cake. I'm not really fond of pumpkin, but I made sure it tastes OK...!
-あなたのお誕生日…これ、どうぞ\n私が作ったカップケーキです\nあっ、そんなに急いで食べたら\nポロポロこぼしちゃいますよ！=Your birthday...here you go...\nI made these cupcakes... oh, you'll spill them if you eat them so fast!
+あなたのお誕生日…これ、どうぞ\n私が作ったカップケーキです\nあっ、そんなに急いで食べたら\nポロポロこぼしちゃいますよ！=Your birthday...here you go...\nI made these cupcakes...\nOh, you'll spill them if\nyou eat them so fast!
 
 
 KyoukaS
 海でお誕生日をお祝いするのって\n特別感があっていいですよね\n今回はあなたの番ですけど\n私の時もお願いしますねっ♪=Celebrating at the beach has a special feeling to it, doesn't it?\nIt's your turn now, but please celebrate mine when it comes♪
-お誕生日おめでとうございます\nえ？　どうして水着なのかって？\nべ、別に理由はありませんけど\n嬉しく、ありませんでしたか…？=Happy Birthday... Eh? Why am I wearing a swimsuit?\nI-I don't really have a reason for it, but aren't you happy...?
+お誕生日おめでとうございます\nえ？　どうして水着なのかって？\nべ、別に理由はありませんけど\n嬉しく、ありませんでしたか…？=Happy Birthday... Eh? Why am I wearing a swimsuit?\n...I-I don't really have a reason\nfor it, but aren't you happy...?
 
 
 KyoukaSp
-お誕生日のケーキ、作って\nみたんです。食べられるお花を\nいっぱい散らしてみました\nどうぞめしあがれ！=I made a birthday cake.\nI scattered a lot of edible flowers.\nPlease enjoy it!
+お誕生日のケーキ、作って\nみたんです。食べられるお花を\nいっぱい散らしてみました\nどうぞめしあがれ！=I made a birthday cake!\nI decorated it with\nlots of edible flowers.\nPlease, enjoy it!
 お誕生日おめでとうございます\nこれ、プレゼントのお花です\nお誕生日に合わせたお花を\nちゃんと用意したんですよ！=Happy Birthday!\nThese are the flowers for your birthday. I made sure to prepare flowers to match your birthday!
 
 
 MisogiMimiKyouka (Kyouka)
 あの…な、なにも言わずにこれを\n受け取ってください…！　私の\n手作りカップケーキです。その…\nハッピーバースデー、です…♪=Umm... P-Please take this without saying anything...!\nIt's my handmade cupcake.\nUmm... Happy Birthday...♪
-プレゼントが欲しそうな顔を\nしていますね？　まったく…\nちゃんと用意してあげましたよ！\nお誕生日、おめでとうございます=You look like you want a present, don't you? Honestly... I made sure to prepare it for you!\nHappy Birthday!
+プレゼントが欲しそうな顔を\nしていますね？　まったく…\nちゃんと用意してあげましたよ！\nお誕生日、おめでとうございます=You look like you want a present, don't you...? Honestly... I made sure to get one for you!\nHappy Birthday!
 
 
 Mimi
@@ -32,36 +32,36 @@ Mimi
 
 
 MimiH
-おにいちゃん\nお誕生日おめでとう～！\nミミね、おにいちゃんのこと\nだーいすきだよ～♪=Happy Birthday, Onii-chan~!\nMimi loves Onii-chan~♪
-ハッピーハロ…じゃなくて\nハッピーバースデイ！\nおにいちゃん！=Happy Hallo... I mean, Happy Birthday! Onii-chan!
+おにいちゃん\nお誕生日おめでとう～！\nミミね、おにいちゃんのこと\nだーいすきだよ～♪=Onii-chan, Happy Birthday~!\nMimi loves Onii-chan~♪
+ハッピーハロ…じゃなくて\nハッピーバースデイ！\nおにいちゃん！=Happy Hallo...\nI mean, Happy Birthday!\nOnii-chan!
 
 
 MimiS
-ハッピーバースデー！\nイルカさんもね、おにいちゃんの\nおいわいに来てくれたよ♪\nみんなでいっしょにあそぼう♪=Happy Birthday!\nOnii-chan also came to play with me too!\nLet's all play together!♪
-お誕生日、おめでと～！\nあのね、ミミね、砂浜に\nおにいちゃんの絵をかいたの！\nよろこんでくれるとうれしいな♪=Happy Birthday!\nMimi drew a picture of Onii-chan on the beach!\nI hope he likes it!♪
+ハッピーバースデー！\nイルカさんもね、おにいちゃんの\nおいわいに来てくれたよ♪\nみんなでいっしょにあそぼう♪=Happy Birthday!\nEven the dolphins came to celebrate your birthday♪\nLet’s all play together♪
+お誕生日、おめでと～！\nあのね、ミミね、砂浜に\nおにいちゃんの絵をかいたの！\nよろこんでくれるとうれしいな♪=Happy Birthday~!\nYou know, Mimi drew a picture of you on the sandy beach!\nI hope it makes you happy♪
 
 
 MisogiMimiKyouka (Mimi)
 ミミ、今日はいっぱい踊るね\nおにいちゃんのお誕生日を\nいっぱいおいわいしたいから♪\nるんたったるんたった～♪=Mimi is going to dance a lot today. I want to make sure you have lots and lots of fun on your birthday, Onii-chan♪
-今日はおにいちゃんのお誕生日\nだよね。ちゃんと覚えてるよ～♪\nだってミミ、おにいちゃんのこと\n大好きだから♪　えへへ～=Today's Onii-chan's birthday, isn't it? I remember~♪\nBecause Mimi loves Onii-chan~ Ehehe~
+今日はおにいちゃんのお誕生日\nだよね。ちゃんと覚えてるよ～♪\nだってミミ、おにいちゃんのこと\n大好きだから♪　えへへ～=Today's Onii-chan's birthday, isn't it? ...I remember~♪\nBecause Mimi loves Onii-chan~♪ Ehehe~
 
 
 Misogi
 誕生日おめでと！　ミソギ、\nにいちゃん大好き！　本当だよ！\nんーイタズラばっかりしてるから\n信じてもらえないや…=Happy Birthday! I love you, Nii-chan! Honest! ...Maybe, it's hard to believe me after I pranked you so many times...
-誕生日おめでとう、にいちゃん！\nはい、バースデープレゼント！\nそれから、バースデーケーキ！\n早く開けて！　食べて！　わくわく=Happy Birthday, Nii-chan!\nHere, a present!\nAnd the birthday cake!\nOpen quickly! *excited*
+誕生日おめでとう、にいちゃん！\nはい、バースデープレゼント！\nそれから、バースデーケーキ！\n早く開けて！　食べて！　わくわく=Nii-chan, Happy Birthday!\nHere, a present!\nAnd the birthday cake!\nOpen quickly! *excited*
 
 
 MisogiH
 ハッピーバースデーにいちゃん！\nいっつもミソギと遊んでくれて\nありがとう！\nこれからも一緒に遊ぼうね！=Happy Birthday to you, Nii-chan! Thanks for playing with me all the time and stuff!\nBut we're nowhere near done yet!
-誕生日おめでとう、にいちゃん！\nミソギからのお祝いはー、んー\nやっぱりいたずらかな！=Happy Birthday, Nii-chan!\nHappy Birthday, from Misogi! ...Hmm, I guess it's a prank after all!
+誕生日おめでとう、にいちゃん！\nミソギからのお祝いはー、んー\nやっぱりいたずらかな！=Nii-chan, Happy Birthday!\nHappy Birthday, from Misogi! ...Hmm, I guess it's\na prank after all!
 
 
 MisogiS
-誕生ケーキはろうそくの代わりに\n花火を使っちゃおっか♪　…あ、\nケーキ用意するの忘れちゃった！\n仕方ないから花火しようよ♪=Why don't we use fireworks instead of candles for the cake? ...Oh, I forgot to prepare it!\nWell, let's use fireworks then!
-にいちゃんの誕生日を\n今日は海でお祝いしよう！\nプレゼントにミソギがいーっぱい\n遊んであげるね！=Let's celebrate Nii-chan's birthday at the beach today!\nI'll play with a lot of pranks as a present!
+誕生ケーキはろうそくの代わりに\n花火を使っちゃおっか♪　…あ、\nケーキ用意するの忘れちゃった！\n仕方ないから花火しようよ♪=Why don't we use fireworks instead of candles for the cake?♪ ...Oh, I forgot to prepare it!\nWell, let's use fireworks then♪
+にいちゃんの誕生日を\n今日は海でお祝いしよう！\nプレゼントにミソギがいーっぱい\n遊んであげるね！=Let's celebrate Nii-chan's\nbirthday at the beach today!\nI'll play with a lot of\npranks as a present!
 
 
 MisogiMimiKyouka (Misogi)
-ハッピーバースデーにいちゃん！\nプレゼントに特大のイタズラを\n準備しといたよ！　ちゃんと\n引っかかってよね！　にひひ♪=Happy Birthday, Nii-chan!\nI've prepared an extra-large prank for your birthday present!\nMake sure you fall for it! Nihihi♪
-クラッカー、パンパンパーン！\nえへへ、びっくりした？\nにいちゃんの誕生日祝いの\nサプライズだよ♪=Crackers, clap clap clap! Ehehe, are you surprised? It's a surprise to celebrate your birthday, Nii-chan♪
+ハッピーバースデーにいちゃん！\nプレゼントに特大のイタズラを\n準備しといたよ！　ちゃんと\n引っかかってよね！　にひひ♪=Nii-chan, Happy Birthday!\nI've prepared an extra-large prank for your birthday present!\nMake sure you fall for it! Nihihi♪
+クラッカー、パンパンパーン！\nえへへ、びっくりした？\nにいちゃんの誕生日祝いの\nサプライズだよ♪=Crackers, clap clap clap!\n...Ehehe, are you surprised?\nIt's a surprise to celebrate your birthday, Nii-chan♪
 

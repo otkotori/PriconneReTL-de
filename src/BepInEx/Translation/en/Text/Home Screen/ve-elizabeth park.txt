@@ -8,55 +8,55 @@ Lima
 
 LimaC
 あなたの特別な日をこうして\n一緒に迎えられるのはとっても\nうれしいわ♪　また来年も一緒に\n過ごしたいな…なんて=I'm so happy to have your special day together like this♪\nI want to spend it with you again next year...
-お誕生日おめでとう！\nあなたのために森で花を摘んで\nきたんだけど、受け取って\nもらえるかしら？=Happy Birthday!\nI picked some flowers in the forest for you.\nCan you take them?
+お誕生日おめでとう！\nあなたのために森で花を摘んで\nきたんだけど、受け取って\nもらえるかしら？=Happy Birthday!\nI picked some flowers\nin the forest for you.\nCan you take them?
 
 
 Mahiru
-ハッピーバースデーだべ！\n今日はあんちゃんのためだけに\n渾身ネタを、飛ばーすでー！\nいっぱい笑ってほしいべよ♪=Happy Birthday!\nToday, I will fly the whole story just for Anchan!\nI want you to laugh a lot♪
+ハッピーバースデーだべ！\n今日はあんちゃんのためだけに\n渾身ネタを、飛ばーすでー！\nいっぱい笑ってほしいべよ♪=Happy Birthday!\nToday, just for you, I’m throwing my best joke your way!\nI want you to laugh a lot♪
 ひょうたん、常備してっか？\nなにキョトンとしてんだべ？\n今日誕生日のあんちゃんのための\nギャグだべ！　おめでとう～♪=Better give ya a wide "berth" today! ...C'mon, why the blank face? That was a special birthday joke I thought up just for you!
 
 
 MahiruR
-よく来たなあんちゃん！\n今日は牧場を貸し切りで\nパーティーだべ！\nいっぱい楽しんでくんろ！=Welcome, Anchan!\nWe've reserved the ranch for a party today!\nLet's have a lot of fun!
-お誕生日おめでとうだべ！\nケーキも料理も用意してっけど\nまずは搾りたてのミルクで\n乾杯だべさ！=Happy Birthday!\nI've got cake and food ready, but first, a toast with freshly squeezed milk!
+よく来たなあんちゃん！\n今日は牧場を貸し切りで\nパーティーだべ！\nいっぱい楽しんでくんろ！=Welcome, Anchan!\nToday, the whole ranch is open for us, and it's party time!\nLet's have lots of fun!
+お誕生日おめでとうだべ！\nケーキも料理も用意してっけど\nまずは搾りたてのミルクで\n乾杯だべさ！=Happy Birthday, Anchan!\nI’ve got the cake and food ready, but first, let’s make a toast with some freshly squeezed milk
 
 
 MahiruX
 よい子にしてたあんちゃんには\nマヒルサンタから誕生日の\nプレゼントをお届けするべ♪\n誕生日おめでとう、あんちゃん=You'll get a birthday present from Mahiru Santa for being such a good boy♪\nHappy Birthday, Anchan.
-今日あんちゃんの誕生日だべ？\nこの日のためにとっておきの\n新ネタを用意してきただよ！\n楽しんでくれたらうれしいべさ=Today's Anchan's birthday, isn't it? I've prepared a new story for this day!\nI hope you enjoy it.
+今日あんちゃんの誕生日だべ？\nこの日のためにとっておきの\n新ネタを用意してきただよ！\n楽しんでくれたらうれしいべさ=Today's Anchan's birthday, isn't it? ...I've prepared a\nnew story for this day!\nI hope you enjoy it.
 
 
 Rin
-誕生日おめでと～\n特別な日だからこそ、\nぐうたら過ごすに限るよね\nあたしも一緒に付き合うよ～=Happy Birthday!\nIt's a special day, so kick back and relax all you want. Naturally, I'll be joining you, too.
+誕生日おめでと～\n特別な日だからこそ、\nぐうたら過ごすに限るよね\nあたしも一緒に付き合うよ～=Happy Birthday!\nIt's a special day, so kick\nback and relax all you want.\nNaturally, I'll be joining you, too.
 誕生日おめでと～\nプレゼントは買い忘れてないよ～\n通販の時間指定を使ってるから、\nもうすぐ届くはずだよ～=Happy Birthday~ I didn't forget to buy a gift~ I'm using time specification for mail order, so it should arrive soon~
 
 
 RinH
-誕生日、めでたいね～\nプレゼントはあたし手作りの\nカボチャあんパンだよ\nおかわりもあるからね～=Happy Birthday!\nMy birthday present is my homemade pumpkin anpan!\nI've got seconds for you!
-誕生おめでと～\nやだな、忘れるわけないじゃん\n…プレゼントは、さっきもらった\nお菓子でもいいかな？=Happy Birthday!\n...How could I forget?\nI'll give you the candy you gave me earlier.
+誕生日、めでたいね～\nプレゼントはあたし手作りの\nカボチャあんパンだよ\nおかわりもあるからね～=Happy Birthday!\nMy birthday present is my\nhomemade pumpkin anpan!\nI've got seconds for you!
+誕生おめでと～\nやだな、忘れるわけないじゃん\n…プレゼントは、さっきもらった\nお菓子でもいいかな？=Happy Birthday!\n...How could I forget?\nI'll give you the candy\nyou gave me earlier.
 
 
 RinR
 誕生日おめでと～。ゲームと\nあんパンでお祝いするよ～\nさあ、ゴロゴロしながら思い切り\n楽しもうね～=Happy Birthday! Let's celebrate with a game and some red bean buns! Come on, let's laze around and enjoy ourselves to the fullest!
-え、あんた今日誕生日なの？\n忙しくて用意できてないよ…\nと、とりあえず今はこの\nキレイなドングリで！=Huh? You're having your birthday today? I'm so busy, I can't get ready... and for now, I'll just use this pretty acorn!
+え、あんた今日誕生日なの？\n忙しくて用意できてないよ…\nと、とりあえず今はこの\nキレイなドングリで！=Huh? You're having your birthday today...? I'm so busy, I can't get ready... and for now, I'll just use this pretty acorn!
 
 
 Shiori
 この本、お誕生日プレゼントです\n恋愛小説なんですけど、たまたま\nヒロインの名前がシオリで、\nしゅ、主人公の名前が…=I bought you this romance novel for your birthday. The heroine's name happens to be Shiori, and h-her love interest's name is...
-お誕生日おめでとうございます\nあの…お姉ちゃんからも、\nお祝いされましたか？\nす、少し気になっただけで…=Happy Birthday.\nUm... did Onee-chan congratulate you too?\nI was just wondering...
+お誕生日おめでとうございます\nあの…お姉ちゃんからも、\nお祝いされましたか？\nす、少し気になっただけで…=Happy Birthday.\nUm... did Onee-chan\ncongratulate you too?\n...I was just wondering...
 
 
 ShioriM
-お誕生日おめでとうございます\n今後もお祝いさせてくださいね\nこれからも、ずっと…=Happy Birthday.\nPlease allow me to celebrate with you in the future.\nFrom now on, forever...♪
-今日、お誕生日ですよね\nふふ、ちゃんと覚えてますよ\n魔法で盛大にお祝いしなきゃ=It's your birthday today, isn't it? Eheh... Of course I remember.\nI should cast some special magic to celebrate!
+お誕生日おめでとうございます\n今後もお祝いさせてくださいね\nこれからも、ずっと…=Happy Birthday!\nPlease let me celebrate with\nyou in the years to come.\nFrom now on, and forever...♪
+今日、お誕生日ですよね\nふふ、ちゃんと覚えてますよ\n魔法で盛大にお祝いしなきゃ=It's your birthday today, isn't it? ...Eheh, Of course I remember.\nI should cast some\nspecial magic to celebrate!
 
 
 ShioriR
 お誕生日おめでとうございます\nそれと、ニャットちゃんからも…\n『いつもありがとにゃん♪』\n…な、なんて=Happy Birthday, and also from Nyatt-chan...\n“Thanks for everything, meow♪”\n...Wh-What am I saying?
-少し、時間ありますか？\nレンジャーの仲間たちと一緒に\nケーキを用意したんです\nその…あなたの誕生日なので…=Do you have a moment?\nI prepared a cake with my Ranger friends.\nIt's your birthday, so...
+少し、時間ありますか？\nレンジャーの仲間たちと一緒に\nケーキを用意したんです\nその…あなたの誕生日なので…=Do you have a moment?\nThe other Rangers and I have prepared a cake together.\nYou know... It’s your birthday…
 
 
 HatsuneShiori (Shiori)
-今日は特別な日ですね\nだってあなたのお誕生日ですから\nこうして一緒にお祝いできて、\n私もうれしいです=Today is a special day, isn't it? Because it's your birthday, and I'm happy to celebrate with you like this.
+今日は特別な日ですね\nだってあなたのお誕生日ですから\nこうして一緒にお祝いできて、\n私もうれしいです=Today's a special day, isn't it? ...Because it's your birthday,\nand I'm happy to celebrate\nwith you like this.
 ハッピーバースデー…！\nお祝いの品を用意したのですが\n…受け取っていただけますか？\n私の手作りの詩集、です=Happy Birthday...! I've prepared something for you to celebrate, but could you accept it? It's my personal collection of poetry.
 

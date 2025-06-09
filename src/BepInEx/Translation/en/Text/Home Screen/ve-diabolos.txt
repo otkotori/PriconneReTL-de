@@ -2,23 +2,23 @@
 ~1
 
 Akari
-お兄ちゃん、お誕生日ですよね\nおめでとうございます！\nアカリと一緒に、\n大人の階段、上りましょうね♪=It's Onii-chan's special day today, isn't it? Happy Birthday!\nNow we can do even more... grown-up things, together!
-あ！　お兄ちゃんったら、\nまた大きくなっちゃいましたね\nなんだかアカリ、\nドキドキしてきちゃいました～♪=Ah! Onii-chan, you've grown bigger again, haven't you?\nSomehow, Akari is feeling excited~♪
+お兄ちゃん、お誕生日ですよね\nおめでとうございます！\nアカリと一緒に、\n大人の階段、上りましょうね♪=It's Onii-chan's special day today, isn't it? Happy Birthday!\nNow we can do even more... grown-up things, together!♪
+あ！　お兄ちゃんったら、\nまた大きくなっちゃいましたね\nなんだかアカリ、\nドキドキしてきちゃいました～♪=Ah! Onii-chan, you've grown bigger again, haven't you?\n...Somehow, Akari is\nfeeling excited~♪
 
 
 AkariA
 お兄ちゃん、お誕生日の\nお祝いしちゃいますよ！\nプレゼントはア・カ・リ♪\nな～んて、ドキドキしましたか？=Onii-chan, we're going to celebrate your birthday! And the present is me... A-ka-ri!♪ ...Just kidding, did I make you nervous?
-お兄ちゃん、お誕生日\nおめでとうございますっ！\nなんだかアカリもうれしくて\nウズウズしてきちゃいます♪=Onii-chan, Happy Birthday!\nI'm so happy that I'm getting restless right now...\nEheheh♪
+お兄ちゃん、お誕生日\nおめでとうございますっ！\nなんだかアカリもうれしくて\nウズウズしてきちゃいます♪=Onii-chan, happy birthday!\nSomehow, Akari is so happy\nthat she’s starting to\nfeel all giddy♪
 
 
 AkariX
 お兄ちゃんのお誕生日\nアカリ、全力でお祝いします♪\n今ならお兄ちゃんのしたいこと\nなんでもしていいですよ？=Onii-chan, today, Akari will celebrate with all her might♪\nIf there's anything you want to do, you can tell me, okay?♪
-ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=Happy Birthday, Onii-chan!\nFor today, Angelic Santa Akari will celebrate your birthday with you♪
+ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=Onii-chan, Happy Birthday!\nToday, Santa-angel Akari\nis going to shower you\nwith lots of celebrations♪
 
 
 Illya
 眷属の誕生日を祝して、\nわらわの膝枕を贈呈しようぞ\nどうじゃ、心地よいじゃろう？\n腕枕でも胸枕でも良いのじゃぞ？=As a treat, I'll allow you to rest yourself on my lap. Comfortable, eh? Any other parts of my body you'd like to rest on?
-今日は誕生日か？　めでたいな！\nいくつになったのじゃ？\nそうか。わらわがその歳の頃は…\nはて？　何をしていたかのう？=Is it your birthday today?\nI'm so happy for you! How old are you? When I was your age, I was... what? What was I doing?
+今日は誕生日か？　めでたいな！\nいくつになったのじゃ？\nそうか。わらわがその歳の頃は…\nはて？　何をしていたかのう？=Is it your birthday today?\n...I'm so happy for you! How old are you? When I was your age, I was... what? What was I doing?
 
 
 IllyaC
@@ -27,22 +27,22 @@ IllyaC
 
 
 IllyaNY
-今日はお主の誕生日じゃな！\nふふ、すでに準備は済んでおるぞ\n正月並みに豪勢な宴で\n祝ってやろうではないか♪=Today is your birthday, isn't it? Hehe, I've already prepared. Let's celebrate with a luxurious feast like it's New Year's Day!
-ハッピーバースデーなのじゃ！\nわらわほどの支配者ともなれば\n眷属の誕生日は当然把握しておる\nさあ、盛大に祝われるがよい！=Happy Birthday! As a ruler as great as I, it's only natural that I know my subjects' birthdays. Now, let's celebrate in a grand style!
+今日はお主の誕生日じゃな！\nふふ、すでに準備は済んでおるぞ\n正月並みに豪勢な宴で\n祝ってやろうではないか♪=Today's your birthday, isn't it? ...Hehe, I've already prepared.\nLet's celebrate with a luxurious feast like it's New Year's Day!♪
+ハッピーバースデーなのじゃ！\nわらわほどの支配者ともなれば\n眷属の誕生日は当然把握しておる\nさあ、盛大に祝われるがよい！=Happy Birthday!\nWhen you are a ruler as big as I am, you naturally know when your family members' birthdays are!
 
 
 IllyaX
 今日はあやつの誕生日…！\nプレゼントを渡しつつお礼を…\nえ…お主、いつからそこに…\nい、今すぐ忘れろ馬鹿者ぉ～！！=Ah, the day of his birth! As I hand him this gift, I can thank him for... Huh? Why are you here?\nForget what you just heard!
-たしか、今日はお主の\n誕生日であったな\nならばこのわらわが、\n祝ってやろうではないか=Certainly, if it was your birthday today, this straw will be celebrated.
+たしか、今日はお主の\n誕生日であったな\nならばこのわらわが、\n祝ってやろうではないか=If I recall correctly,\ntoday is your birthday.\nIn that case, I, myself,\nshall celebrate it for you!
 
 
 Miyako
-おめでとうなの！　誕生日は、\n仲良しとごちそうを食べるの\nだから今日は、ミヤコと一緒に\nプリンケーキを食べるの～♪=Happy Birthday!\nBirthdays are for eating special treats with special friends! So... It's pudding cake day!
-ミヤコは死んでるけど、誕生日の\nお祝いは大事にしてるの！\nだから早くバースデープリン\nパーティーを始めるの～♪=Miyako is dead, but the birthday celebration is important!\nThat's why I'll start a birthday party as soon as possible~♪
+おめでとうなの！　誕生日は、\n仲良しとごちそうを食べるの\nだから今日は、ミヤコと一緒に\nプリンケーキを食べるの～♪=Happy Birthday!\nBirthdays are for eating special treats with special friends!\nSo... It's pudding cake day!
+ミヤコは死んでるけど、誕生日の\nお祝いは大事にしてるの！\nだから早くバースデープリン\nパーティーを始めるの～♪=Miyako is dead, but birthdays\nare super important to her!\nSo hurry up and let’s start\nthe birthday pudding party~♪
 
 
 MiyakoH
-オマエの誕生日パーティーに、\nミヤコの友達の幽霊さんを\nたくさんつれてきたの～！\nどろろろ～おめでとうなの～♪=Miyako brought lots of ghosties to make your special day happy! Spooky-spooky birthday...to you!
+オマエの誕生日パーティーに、\nミヤコの友達の幽霊さんを\nたくさんつれてきたの～！\nどろろろ～おめでとうなの～♪=Miyako brought lots\nof ghosties to make\nyour special day happy!\nSpooky-spooky birthday...to you!♪
 ひゅ～どろろろ～\nお誕生日～\nおめでとうなの～～♪=Hyu~ Dororororo~\nHappy Birthday~nano♪
 
 
@@ -57,13 +57,13 @@ Shinobu
 
 
 ShinobuH
-ハッピーハロウィン＆\nハッピーバースデー♪\n今日はお菓子ではなく、\nケーキをお渡ししますね=Happy Halloween, and Happy Birthday♪\nToday, I'll give you a cake instead of sweets to enjoy.
-父もあなたのお誕生日を\n祝福しているみたいですね\nあ…お父さん！　\nこの人を噛んじゃダメ！=It seems my father is also celebrating your birthday...\nAh! Dad!\nDon't bite him!
+ハッピーハロウィン＆\nハッピーバースデー♪\n今日はお菓子ではなく、\nケーキをお渡ししますね=Happy Halloween, and\nHappy Birthday♪\nToday, I'll give you a cake\ninstead of sweets to enjoy.
+父もあなたのお誕生日を\n祝福しているみたいですね\nあ…お父さん！　\nこの人を噛んじゃダメ！=It seems my father is also\ncelebrating your birthday...\nAh! Dad!\nDon't bite him!
 
 
 ShinobuP
 あなたのお誕生日のお祝いに\n私からこの舞を捧げます\nこの一年の幸せを祈願して\n心を込めて舞いますね=For your present... I'll dedicate this dance to you. I'll dance with all my heart to wish you happiness for the coming year!
-お誕生日おめでとうございます\n知り合いの霊から海賊に伝わる\n祝い唄を教えてもらったんです\n喜んでもらえるといいのですが=Happy Birthday, a spirit I met taught me a celebratory song that was passed down by pirates.\nSo, I hope you'll enjoy it.
+お誕生日おめでとうございます\n知り合いの霊から海賊に伝わる\n祝い唄を教えてもらったんです\n喜んでもらえるといいのですが=Happy Birthday. A spirit I met taught me a celebratory song that was passed down by pirates.\nSo, I hope you'll enjoy it.
 
 
 ShinobuS
@@ -77,10 +77,10 @@ Yori
 
 
 YoriA
-た、誕生日おめでとう。今日は\nたまたまエンジェルの仕事が\n休みだから、私が祝ってあげるわ\nか、感謝しなさいよね！=H-Happy Birthday. I just happened to have a day off from Angel's work today, so I'll celebrate for you. You should be grateful!
+た、誕生日おめでとう。今日は\nたまたまエンジェルの仕事が\n休みだから、私が祝ってあげるわ\nか、感謝しなさいよね！=H-Happy Birthday. I just happened to get a break from angel's work today, so I'll celebrate you. You should be grateful!
 ア、アンタの誕生日とかどうでも\nいいんだけど、一応お祝いは\nしてあげるわ\nエ、エンジェルとしてね！？=I-I don't care if it's your birthday or not, but I'll congratulate you, just in case!\n...As an angel, okay?!
 
 
 YoriX
-お、お誕生日よね、今日は\nめ…めでたいわね～。ほんとにっ\nで、で…えっと、でかしたわ！\nと…と？　と～…と、とうッ！=I-It's your birthday, isn't it?\nToday's a happy day~. It's really, really big, so... umm, it's huge! And... and? And~... and, and~!
+お、お誕生日よね、今日は\nめ…めでたいわね～。ほんとにっ\nで、で…えっと、でかしたわ！\nと…と？　と～…と、とうッ！=I-It's your birthday, isn't it?\n...Today's a happy day~. It's really, really big, so... umm, it's huge! And... and? And~... and, and~!
 ほ、欲しいものとか…ある？\nアンタ、今日アレでしょ？\nいわゆる…誕生日？　でしょ？\nほら、いいから欲しいもの言う！=A-Anything you want...?\nToday's your birthday, isn't it? Isn't it... your birthday?\nCome on, just say what you want!

@@ -6,9 +6,14 @@ Labyrista
 少年、誕生日おめでとう～！\n今日くらいはクレープじゃなくて\nケーキをプレゼントしちゃおう！\nでもクレープもあげちゃう！=Happy Birthday, young man!\nI'll give you a cake, not a crepe, just for today!\nBut you can have some, too!
 
 
+LabyristaA
+ハッピーバースデー！\n今日はいつもと趣向を変えて\nとっておきの手料理をご馳走だ！\n料理の腕には自信あるんだ=Happy Birthday!\nToday, I'll give you a\nspecial home-cooked meal!\nI'm confident in my cooking skills!
+お誕生日おめでとう少年！\n今日は好きなのを作ってあげよう\nまたクレープかって？　ご名答！\nあー…たまには他のがいいかな？=Happy Birthday! I'll make whatever you like. Another crepe, you ask? Ah... what about something different for a change?
+
+
 LabyristaO
 誕生日おめでとう、少年！\nキミの成長はアタシにとって\n何よりも喜ばしいよ。今日は\nアタシも一緒に祝っていいかな？=Happy Birthday, young man!\nYour growth makes me happier than anything.\nCan I celebrate with you today?
-ハッピーバースデー！\nキミへの心を込めた贈り物\n受け取ってくれるかな？\n…なんでクレープって分かった？=Happy Birthday!\nWill you accept my heartfelt gift to you?\n...How'd you know it was a crepe?
+ハッピーバースデー！\nキミへの心を込めた贈り物\n受け取ってくれるかな？\n…なんでクレープって分かった？=Happy Birthday!\nWill you accept my\nheartfelt gift to you?\n...How'd you know it was a crepe?
 
 
 Rino
@@ -17,13 +22,13 @@ Rino
 
 
 RinoW
-ハッピーバースデーお兄ちゃん！\nお誕生日ケーキもバッチリです！\nあとは…えっと、その…うんっ！\n私が食べさせてあげちゃいます！=Happy Birthday, Onii-chan!\nYour birthday cake is perfect too! After that... umm, well... yeah!\nI'll feed you, then!
-今日はお兄ちゃんの誕生日！\nおめでとうございます！\nえへへ、またお兄ちゃんが\n格好よくなっちゃいましたね…♪=Today's Onii-chan's birthday! Congratulations! Ehehehe, Onii-chan's looking even cooler now...♪
+ハッピーバースデーお兄ちゃん！\nお誕生日ケーキもバッチリです！\nあとは…えっと、その…うんっ！\n私が食べさせてあげちゃいます！=Onii-chan, Happy Birthday!\nYour birthday cake is perfect too! After that... umm, well... yeah!\nI'll feed you, then!
+今日はお兄ちゃんの誕生日！\nおめでとうございます！\nえへへ、またお兄ちゃんが\n格好よくなっちゃいましたね…♪=Today's Onii-chan's birthday!\nCongratulations!\nEhehehe, Onii-chan's looking\neven cooler now...♪
 
 
 RinoX
-ハッピーバースデーお兄ちゃん！\n気になる誕生日プレゼントは～…\nそう、お兄ちゃんの大好きな妹！\n私も大好きです、えへへ…=Happy Birthday, Onii-chan! The birthday present you're interested in is... Yes, Onii-chan's beloved little sister! I love you too, ehehe...
-今日はお兄ちゃんの生まれた日…\n私にとってはどんな記念日より\n大切な日です♪　全力で\nお祝いしちゃいますよ～！=Today is the day Onii-chan was born... It's more important to me than any anniversary♪ I'll do everything in my power to celebrate!
+ハッピーバースデーお兄ちゃん！\n気になる誕生日プレゼントは～…\nそう、お兄ちゃんの大好きな妹！\n私も大好きです、えへへ…=Onii-chan, Happy Birthday! The birthday present you're interested in is... Yes, Onii-chan's beloved little sister! I love you too, ehehe...
+今日はお兄ちゃんの生まれた日…\n私にとってはどんな記念日より\n大切な日です♪　全力で\nお祝いしちゃいますよ～！=Today's the day Onii-chan was born... It's more important to me than any anniversary♪ I'll do everything I can to celebrate!
 
 
 ShizuruRino (Rino)
@@ -37,18 +42,18 @@ Shizuru
 
 
 ShizuruN
-お誕生日おめでとうっ\n魔法少女のお姉ちゃんから\n弟くんへのプレゼント\n愛と希望の...魔法だよっ=Happy Birthday!\nFrom your magical girl big sister, here's a present for you, little bro. It's a spell of love and hope!
-今日はお姉ちゃんにとって\n何よりも大事な日...\nそう、弟くんの誕生日!\n魔法の力で、お祝いしちゃうぞ=Today is the most important day for your big sister...\nYes, it's your birthday, Otouto-kun! I'll use my magic to celebrate!
+お誕生日おめでとうっ\n魔法少女のお姉ちゃんから\n弟くんへのプレゼント\n愛と希望の...魔法だよっ=Happy Birthday!\nFrom your magical girl big sister, here's a gift for you, little bro.\nIt's a spell of love and hope!
+今日はお姉ちゃんにとって\n何よりも大事な日...\nそう、弟くんの誕生日!\n魔法の力で、お祝いしちゃうぞ=Today is the most important day for your big sister... Yes,\nit's your birthday, Otouto-kun!\nI'll use my magic to celebrate!
 
 
 ShizuruS
-弟くん、欲しいものはある？\nまた一つ大人になった弟くんには\nなんでもあげちゃうよっ♪\nお姉ちゃんでも…いいんだぞ♪=Otouto-kun, is there anything you want? I'll give you anything you want today♪ Even if you want me... that's okay too!♪
+弟くん、欲しいものはある？\nまた一つ大人になった弟くんには\nなんでもあげちゃうよっ♪\nお姉ちゃんでも…いいんだぞ♪=Otouto-kun, is there anything you want? ...I'll give you anything you want today♪ Even if you want me... that's okay too!♪
 弟くんのお誕生日だから\n水着でお祝いしてあげるねっ♪\nえ？　なんで水着なのかって？\nもうっ、うれしいくせに～♪=It's Otouto-kun's birthday, so I'll celebrate it in a swimsuit♪\n...Eh? "Why a swimsuit?"\nGeez, it's because I'm happy~♪
 
 
 ShizuruV
-お誕生日だね！　お姉ちゃんは\n今日という記念日のために、\nプレゼントを考え続けてたよ！\nはい、お姉ちゃんをあげるね☆=Your birthday is here! I thought long and hard about what to give you, but only one thing felt right! So your present is...me!
-今日は弟くんの誕生日！\n大きなチョコケーキを作ったから\n一緒に食べようね♪=Today is little bro's birthday!\nI made a big chocolate cake, lets eat it together...♪ 
+お誕生日だね！　お姉ちゃんは\n今日という記念日のために、\nプレゼントを考え続けてたよ！\nはい、お姉ちゃんをあげるね☆=It's your birthday! Onee-chan has been thinking about the perfect gift for this special day!\nHere you go, it's Onee-chan☆
+今日は弟くんの誕生日！\n大きなチョコケーキを作ったから\n一緒に食べようね♪=Today is little bro's birthday!\nI made a big\nchocolate cake to enjoy,\nlets eat it together...♪ 
 
 
 ShizuruRino (Shizuru)

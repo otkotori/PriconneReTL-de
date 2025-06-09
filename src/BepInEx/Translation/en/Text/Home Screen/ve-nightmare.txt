@@ -3,16 +3,21 @@
 
 Christina
 誕生日おめでとう♪\nオマエの記念すべき日に\n立ち会えてうれしいよ！\n記念の誓約は…まだ早いかな？=A very happy birthday! I'm glad to share this special day with you! Now, I don't suppose you're ready to swear our solemn geas?
-オマエ、今日が誕生日らしいな？\nほら、一つ歳をとった哀れな子羊に\nプレゼントだ\n今年もワタシを楽しませてくれよ？=Hey, I heard that today is your birthday, right? Here's to the poor little lamb who's grown a year older, so why don't you entertain me?
+オマエ、今日が誕生日らしいな？\nほら、一つ歳をとった哀れな子羊に\nプレゼントだ\n今年もワタシを楽しませてくれよ？=Today is your birthday, huh? ...Here's to the poor little lamb who's grown a year older, so why don't you entertain me?
+
+
+ChristinaA
+ハッピーバースデー！\n誕生日パーティーは任せておけ\n決して退屈しない一日を\nオマエにプレゼントしてやろう☆=Happy Birthday!\nLeave the birthday party to me.\nI’ll give you a day that\nwill be anything but boring☆
+今日はオマエの誕生日だったか\nどれ、ケーキでも作ってやろう☆\n味は期待してくれて構わんぞ！=So, today’s your birthday, huh?\n...Alright, I’ll make you a cake☆\nYou can go ahead and\nexpect it to taste great!
 
 
 ChristinaW
-オマエと出会わなければ\nワタシは退屈の荒野に\n野たれ死んでいたかもしれん\n坊やの誕生に感謝しよう♪=If I hadn't met you, I might have died alone in the wilderness of boredom. Let's be thankful for your birth today.
-今日は坊やの誕生日らしいな\n生き物は皆一人で生まれ\n一人で死んでいくと言うが…\n安心しろ。我々は二人で一匹さ♪=It seems like today's his birthday. They say that all living creatures are born alone and die alone, but don't worry. We are two in one.
+オマエと出会わなければ\nワタシは退屈の荒野に\n野たれ死んでいたかもしれん\n坊やの誕生に感謝しよう♪=If I hadn't met you, I might have died alone in the wilderness of boredom. Let's be thankful for your birth today.♪
+今日は坊やの誕生日らしいな\n生き物は皆一人で生まれ\n一人で死んでいくと言うが…\n安心しろ。我々は二人で一匹さ♪=It seems like today's his birthday. They say that all living creatures are born alone and die alone, but don't worry. We are two in one.♪
 
 
 ChristinaX
-オマエが生まれた日を祝し\nクリスティーナさんがプレゼント\nを用意してあげたよ♪\nい～い反応を期待しているぞ☆=Celebrating the day of your birth, Christina has prepared a present for you♪ I'm expecting a good reaction from you☆
+オマエが生まれた日を祝し\nクリスティーナさんがプレゼント\nを用意してあげたよ♪\nい～い反応を期待しているぞ☆=Celebrating the day of your birth, Christina has prepared a present for you♪ I'm expecting a\ngood reaction from you☆
 ふぅん。今日が誕生日なのか\nなんだそのもの欲しそうな顔は？\nあはは、プレゼントが欲しいなら\n贈るに相応しいか示して見せろ！=Hmm. You look like you want to know if today's your birthday or not. Ahaha! If you want a present, show me if it's worth giving!
 
 
@@ -23,7 +28,7 @@ Jun
 
 JunS
 誕生日おめでとう、少年\n…そんなにじっと顔を見られると\nどうにも照れてしまうが…\n君が望むなら、受け入れるさ=Happy Birthday, young man...\nYou're making me blush when you stare at me like that, but...\nIf you want, I'll accept it.
-今日は君の誕生日だったね\nこの格好では大した祝福も\nできないが…祝えてうれしいよ\n誕生日おめでとう=Today was your birthday, and I can't really congratulate you in this outfit... but I'm happy to wish you a happy birthday.
+今日は君の誕生日だったね\nこの格好では大した祝福も\nできないが…祝えてうれしいよ\n誕生日おめでとう=Today's your birthday, and I can't really congratulate you in this outfit... but I'm happy to wish you a happy birthday.
 
 
 JunX
@@ -32,32 +37,32 @@ JunX
 
 
 Matsuri
-ハッピーバースデー♪\nいつもお世話になってるアンタに\nトラタイガーのカップケーキッス！\n自分、手作りに挑戦したッスよ=Happy Birthday♪\nTo you who are always indebted Tora Tiger cupcakessu! I tried my hand at it.
-えっ、今日誕生日なんスか！？\nじゃあ、お祝いにとっておきの\nトラタイガーグッズあげるッス！\nお近づきの印ッスよ！=Huh? It's your birthday today?! Then, I'll give you my coolest Tora Tiger merch! It's a token of our friendship!
+ハッピーバースデー♪\nいつもお世話になってるアンタに\nトラタイガーのカップケーキッス！\n自分、手作りに挑戦したッスよ=Happy Birthday♪\nTo you, who’s always been so helpful, Tora Tiger cupcakes!\nI tried making them myself!
+えっ、今日誕生日なんスか！？\nじゃあ、お祝いにとっておきの\nトラタイガーグッズあげるッス！\nお近づきの印ッスよ！=Huh? It's your birthday today?! ...Then, I'll give you my\ncoolest Tora Tiger merch!\nIt's a token of our friendship!
 
 
 MatsuriH
-お誕生日おめでとうッス！\n今日のトラタイガーごっこは、\n自分とあんたで\nダブルタイガーッスよ！=Happy Birthday, pal!\nToday's Tiger game is a double Tiger with you and me!
+お誕生日おめでとうッス！\n今日のトラタイガーごっこは、\n自分とあんたで\nダブルタイガーッスよ！=Happy Birthday, pal!\nToday's Tiger game\nis a double Tiger\nwith you and me!
 今日はあんたの誕生日ッスね！\nお祝いに今日のヒーローごっこの\nトラタイガー役を譲って…\nえ？　自分がやっていいッスか？=Today's your birthday! To celebrate, I'll give you the role of the tiger in today's hero act...\nEh? Can I do it myself?
 
 
 MatsuriW
 お誕生日おめでとうッス！\n最高の一日になるように\nこのブレイブタイガーがサポート\nするッス！　遠慮はなしッスよ♪=Happy Birthday, pal! I, the Brave Tiger, will support you so you have the best day of your life!\nDon't hold back, pal!♪
-今日はいい日ッスね～\nなにせ、あんたの誕生日！\nいやーめでたいッス！\nほんっとーに、おめでとうッス！=Today's a great day, isn't it?\nAfter all, it's your birthday!\nHappy Birthday!\nSeriously, happy birthday!
+今日はいい日ッスね～\nなにせ、あんたの誕生日！\nいやーめでたいッス！\nほんっとーに、おめでとうッス！=Today's a great day, isn't it?\n...After all, it's your birthday!\nHappy Birthday!\n...Seriously, happy birthday!
 
 
 Tomo
 誕生日おめでとう！　ん、急に\n押しかけて迷惑だった？　今日は\nあなたの部屋を片付けようと思って\nまるでお嫁さんみたいじゃない？　=Happy Birthday to you! Hmm? Is this not a good time? Well, I'll tidy up your room later on. Just like a devoted wife might do!
-ふ～ん、今日が誕生日なんだ？\nじゃあ、大人になったあなたに\nご飯でもおごってもらおうかな？\nな～んて、冗談だよ！=Hmm, so today is your birthday? Well, now that you've grown up, maybe I should treat you to dinner? I'm just kidding!
+ふ～ん、今日が誕生日なんだ？\nじゃあ、大人になったあなたに\nご飯でもおごってもらおうかな？\nな～んて、冗談だよ！=Hmm, so today is your birthday? ...Well, now that you've grown up, maybe I should treat you to dinner? I'm just kidding!
 
 
 TomoH
 ハロウィン姿の私をプレゼント♪\nこの格好見て目が幸せにな～れ\nってあれれ、ちょっと残念そうだ\nふふ、なにを想像してたのかな？=Your present, is me in a halloween outfit!♪ Feast your eyes on me! ...You look a little upset.\nWhat were you imagining?
-今日はあなたの誕生日だね\nカボチャの料理を用意したけど\nお口に合うかな…合えばいいな\n一応これ、手作りなんだ…♪=Today's your birthday, so I prepared a pumpkin dish for you.\nI hope they're to your liking...\nIt'd be nice if you enjoyed it.
+今日はあなたの誕生日だね\nカボチャの料理を用意したけど\nお口に合うかな…合えばいいな\n一応これ、手作りなんだ…♪=Today's your birthday, so I prepared a pumpkin dish for you.\nI hope they're to your liking...\nIt'd be nice if you enjoy it.♪
 
 
 TomoM
-誕生日おめでとう！\n魔法少女の役目が\n終わったあとで、\n二人でお祝いしようね♪=Happy Birthday!\nLet's celebrate together after my role as a magical girl is over, okay?
-今日はあなたの誕生日だよね\nだったら、私がケーキを焼いて\nあげよっか？　こう見えて、\n料理には自信があるんだよ♪=Today's your birthday, isn't it? Why don't I bake a cake for you? I may not look it, but I'm confident in my cooking skills♪
+誕生日おめでとう！\n魔法少女の役目が\n終わったあとで、\n二人でお祝いしようね♪=Happy Birthday!\nAfter my role as a magical girl is over, let’s celebrate together, just the two of us♪
+今日はあなたの誕生日だよね\nだったら、私がケーキを焼いて\nあげよっか？　こう見えて、\n料理には自信があるんだよ♪=Today's your birthday, isn't it? ...Why don't I bake a cake for you? I may not look it, but I'm confident in my cooking skills♪
 
 

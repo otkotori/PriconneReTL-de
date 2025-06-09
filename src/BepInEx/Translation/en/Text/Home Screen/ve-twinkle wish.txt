@@ -2,13 +2,13 @@
 ~1
 
 Hiyori
-お誕生日おめでとー！\nはいこれ！　猫のお守り！\nあたしがそばにいない時は、\nきっと代わりに守ってくれるよ！=Happy Birthday to you!\nHere, have this cat charm!\nIt'll watch over you even when I'm not around!
+お誕生日おめでとー！\nはいこれ！　猫のお守り！\nあたしがそばにいない時は、\nきっと代わりに守ってくれるよ！=Happy Birthday to you!\nHere, have this cat charm!\nIt'll watch over you\neven when I'm not around!
 ハッピーバースデー、騎士くん！\nプレゼントは何がいい？\nごはん？　装備？　それとも…\nそうだ！　修行に付き合うね！=Happy Birthday, Knight! What would you like as a present?\nRice? Equipment? Or...That's right! Let's do something special!
 
 
 HiyoriA
-騎士くん、お誕生日おめでとう！\n舞い上がる炎でお祝いするよ！\nあはは、楽しくなってきた！\n騎士くんも一緒に舞い上がろー♪=Happy Birthday, Knight!\nLet's celebrate with the dancing flames!!\nCome on, let's dance together!
-今日は騎士くんのお誕生日だから\nお祝いにケーキを用意したよ♪\n火をつけるのはあたしにお任せ…\nって、ケーキ焦げちゃったっ！！=Today's the knight's birthday, so I prepared a cake to celebrate♪\nLeave the lighting to me... Wait, the cake's burnt!!
+騎士くん、お誕生日おめでとう！\n舞い上がる炎でお祝いするよ！\nあはは、楽しくなってきた！\n騎士くんも一緒に舞い上がろー♪=Happy Birthday, Knight!\nLet's celebrate with\nthe dancing flames!!\nCome on, let's dance together♪
+今日は騎士くんのお誕生日だから\nお祝いにケーキを用意したよ♪\n火をつけるのはあたしにお任せ…\nって、ケーキ焦げちゃったっ！！=Today's the knight's birthday, so\nI prepared a cake to celebrate♪\nLeave the lighting to me...\nWait, the cake's burnt!!
 
 
 HiyoriNY
@@ -17,7 +17,7 @@ HiyoriNY
 
 
 HiyoriP
-ハッピーバースデー、騎士くん！\nあたしにしてほしいこと、ない？\n今日は騎士くんのためだけに\n超頑張っちゃうよ♪=Happy Birthday, Knight-kun!\nIs there anything you want me to do?\nI'll do my best today just for you!♪
+ハッピーバースデー、騎士くん！\nあたしにしてほしいこと、ない？\n今日は騎士くんのためだけに\n超頑張っちゃうよ♪=Knight-kun, Happy Birthday!\nIs there anything\nyou want me to do?\nI'll do my best today just for you!♪
 お誕生日おめでとう、騎士くん！\nお祝いになんでも食べて！\n串焼き…リンゴ飴…うーん、\nそうだ！　全部食べちゃおー！=Happy Birthday, Knight! Eat whatever you want to celebrate! Skewers... candy apples... Hmm, that's right! Let's eat all of them!
 
 
@@ -27,61 +27,61 @@ HiyoriS
 
 
 Rei
-キミの誕生日か。おめでとう\nせっかくだし今日の修業は\nなしにしよう。…あれ？\nどうして不満そうなの？=I hear it's your birthday, so let's take a break from training today. ...Hmm? Does that not make you happy?
+キミの誕生日か。おめでとう\nせっかくだし今日の修業は\nなしにしよう。…あれ？\nどうして不満そうなの？=I hear it's your birthday, so let's take a break from training today. ...Hmm?\nDoes that not make you happy?
 誕生日おめでとう\n実は何を渡せば喜んでくれるか\n分からなくて…良ければ\n一緒に選びにいかない？=Happy Birthday, I don't know what to give to you...\nIf you like, why not choose a present together?
 
 
 ReiA
-誕生日を迎えたお祝いをする…\n不思議だね、祝っている私まで\nうれしくなってしまうんだ\nキミとだから…なんだろうね=I'm going to celebrate your birthday... It's strange.\nEven I get happy when I celebrate with you, so... I wonder...
-キミ、誕生日おめでとう\n今日は手料理を作ったんだ\n頑張ってはみたんだけど…うん\n大事なのは見た目より味だからね=Happy Birthday. I made some home cooking today, so I tried my best, but... Yeah, what's more important is the taste than the appearance.
+誕生日を迎えたお祝いをする\n不思議だね、祝っている私まで\nうれしくなってしまうんだ\nキミとだから…なんだろうね=I'm going to celebrate your birthday... It's strange.\nEven I get happy when I celebrate with you, so... I wonder...
+キミ、誕生日おめでとう\n今日は手料理を作ったんだ\n頑張ってはみたんだけど…うん\n大事なのは見た目より味だからね=Happy Birthday to you... I made a home-cooked meal today... but it's not the appearance that counts... It's the taste that counts.
 
 
 ReiH
-キミの誕生日は私にとっても\nかけがえのない大切な日だよ\nキミと巡り会えた運命に\n感謝しなくちゃね=Your birthday is an irreplaceable day for me, too.\nI have to thank you for the fate of meeting me.
+キミの誕生日は私にとっても\nかけがえのない大切な日だよ\nキミと巡り会えた運命に\n感謝しなくちゃね=Your birthday is an\nirreplaceable day for me, too.\nI have to thank you\nfor the fate of meeting me.
 誕生日おめでとう。キミの成長が\n感じられて私もうれしいよ\n来年のキミが今から楽しみだ=Happy Birthday.\nI'm so happy I can feel your growth. I'll be looking forward to next year's growth.
 
 
 ReiNY
-今日はキミがこの世に生まれた\n特別な日だ。特別なお祝いを\nあげよう。なんでもいいよ\n…キスのフリ、以外なら…=Today is a special day for you to be born in this world. I'll give you a special celebration. Anything is fine, except pretending to kiss you...
-誕生日おめでとう！\nキミと一緒に過ごす日々は\nこれからも私にとって\n大切な宝物だよ=Happy Birthday!\nTo my suprise, spending time with you is a precious treasure to me.
+今日はキミがこの世に生まれた\n特別な日だ。特別なお祝いを\nあげよう。なんでもいいよ\n…キスのフリ、以外なら…=Today is a special day, the day you were born. So, I’ll give you a special gift. Anything is fine, except pretending to kiss...
+誕生日おめでとう！\nキミと一緒に過ごす日々は\nこれからも私にとって\n大切な宝物だよ=Happy Birthday!\nTo my surprise...\nSpending time with you is\na precious treasure to me.
 
 
 ReiP
 誕生日おめでとう！\nキミを祝えて私もうれしいよ\n次の誕生日もまた\nキミの隣で祝えるといいな=Happy Birthday!\nI'm happy to celebrate you too.\nI hope I can be next to you again on your next birthday.
-今日はキミの誕生日だ\nプレゼントを贈らせてほしいから\n一緒に買い物へいかない？\n…変身を解いてからね=Today's your birthday. I'd like to give you a present, so why don't we go shopping together? ...After you've undone your transformation.
+今日はキミの誕生日だ\nプレゼントを贈らせてほしいから\n一緒に買い物へいかない？\n…変身を解いてからね=Today's your birthday. I'd like to give you a present, so why don't we go shopping together?\n...After I've undone my form.
 
 
 ReiS
-今日はキミの誕生日だよね\n実はリゾートでおすすめの店を\n予約してるんだけど…少しの間\n私に付き合ってくれるかな？=Today's your birthday, isn't it? Actually, I've reserved a popular restaurant for you at the resort... Will you come with me?
-誕生日おめでとう\nその、ささやかなものだけど…\nプレゼントを用意してみたんだ\nぜひ受け取ってくれるとうれしい=Happy Birthday,\num, it's not much, but... I prepared a present for you.\nI hope you'll accept it.
+今日はキミの誕生日だよね\n実はリゾートでおすすめの店を\n予約してるんだけど…少しの間\n私に付き合ってくれるかな？=Today's your birthday, isn't it? ...Actually, I've reserved a popular restaurant for you at the resort... Will you come with me?
+誕生日おめでとう\nその、ささやかなものだけど…\nプレゼントを用意してみたんだ\nぜひ受け取ってくれるとうれしい=Happy Birthday.\nUm, it's not much, but... I prepared a present for you.\nI hope you'll accept it.
 
 
 Yui
-誕生日おめでとう、騎士クン\n今日はケーキの他にも\nいろんな料理を用意したから\nみんなでお祝いしようね！=Happy Birthday, Mr. Knight!\nI made a cake, and lots of other treats so we can all celebrate it together!
+誕生日おめでとう、騎士クン\n今日はケーキの他にも\nいろんな料理を用意したから\nみんなでお祝いしようね！=Mr. Knight, Happy Birthday!\nI made a cake, and\nlots of other treats so we\ncan all celebrate it together!
 騎士クン。お誕生日おめでとう\nあの…これ、お祝いのケーキ！\nその…良かったら食べてみて！\nえっと…これからも、よろしくね！=Mr. Knight. Happy Birthday, this is a celebration cake! If you like, try it! Um... Thank you for your continued support!
 
 
 YuiA
-お誕生日おめでとう！\nこれからの騎士クンの未来が\n光でいっぱいになるように…\nわたし、頑張るね！=Happy Birthday!\nI'll do my best so that your future will be filled with light!\nI'll prove it to you!
-あの…騎士クン\n何か欲しいものとか…あるかな？\nだって、お誕生日でしょ？\nわたしもできることをしたくって=Um... Is there anything you want, Mr. Knight?\nIt's your birthday, isn't it?\nI'll do what I can for you, too!♪
+お誕生日おめでとう！\nこれからの騎士クンの未来が\n光でいっぱいになるように…\nわたし、頑張るね！=Happy Birthday!\nI’ll do my best\nto make sure Mr. Knight’s\nfuture is filled with light!
+あの…騎士クン\n何か欲しいものとか…あるかな？\nだって、お誕生日でしょ？\nわたしもできることをしたくって=Um... Is there\nanything you want, Mr. Knight?\nIt's your birthday, isn't it...?\nI'll do what I can for you, too!♪
 
 
 YuiC
-お誕生日おめでとう！\nあ、あのね？　精霊から\n祝いの舞を教わったの\n踊ってみても…いい？=Happy Birthday, Knight-kun! And congratulations on your birthday, too! Heeheehee! You really are loved by everyone, aren't you?♪
+お誕生日おめでとう！\nあ、あのね？　精霊から\n祝いの舞を教わったの\n踊ってみても…いい？=Mr. Knight, Happy Birthday! And congratulations on your birthday, too! Heeheehee! You really are loved by everyone, aren't you?♪
 お誕生日おめでとう、騎士クン！\n精霊もおめでとうだって\nふふっ、やっぱり騎士クンは\nみんなに慕われてるんだね♪=Happy Birthday!\nY-You know what? The spirits taught me a dance to celebrate. Can I dance to celebrate?
 
 
 YuiNY
-騎士クン、お誕生日おめでとう！\nこれからも騎士クンが\n幸せな日々を過ごせますように…=Happy Birthday!\nI hope there are plenty more happy days waiting for you ahead.
-あ、あけましておめでとう！\nああっ、間違えちゃった…\nえっと…その…\nお誕生日おめでとう、騎士クン！=Oh, happy new year!\nOh, I made a mistake... uh... that...\nHappy Birthday, Mr. Knight!
+騎士クン、お誕生日おめでとう！\nこれからも騎士クンが\n幸せな日々を過ごせますように…=Happy Birthday!\nI hope there are\nplenty more happy days\nwaiting for you ahead.
+あ、あけましておめでとう！\nああっ、間違えちゃった…\nえっと…その…\nお誕生日おめでとう、騎士クン！=Ah, H-Happy New Year!\nWait—oh no, I messed up…\nUmm… uh…\nHappy Birthday, Mr. Knight!
 
 
 YuiP
-騎士クン、お誕生日おめでとう！\n…お祝いの気持ちだけじゃなくて\nもう一つ、伝えたいことがあるの\n…やっぱり言えないよぉ～！=Happy Birthday, Mr. Knight!\nNot just to congratulate you, but to tell you one more thing...\nBut, I still can't tell you!
+騎士クン、お誕生日おめでとう！\n…お祝いの気持ちだけじゃなくて\nもう一つ、伝えたいことがあるの\n…やっぱり言えないよぉ～！=Mr. Knight, Happy Birthday!\nNot just to congratulate you, but to tell you one more thing...\nBut, I still can't tell you!
 お誕生日おめでとう！\n今日はずっと騎士クンを\nお祝いしてあげたいの\nだから、そばにいてもいい…？=Happy Birthday!\nCan I stay by your side?\nI want to spend the whole day congratulating you.
 
 
 YuiS
-騎士クン、お誕生日おめでとう！\n実はね、花火を買ってきたの\nふ、ふたりで一緒に遊びたくて…\n火の扱いには気をつけようね！=Happy Birthday, Knight-kun!\nI bought some fireworks. I wanted to play with them together... so be really careful with the fire!
+騎士クン、お誕生日おめでとう！\n実はね、花火を買ってきたの\nふ、ふたりで一緒に遊びたくて…\n火の扱いには気をつけようね！=Mr. Knight, Happy Birthday!\nActually, I bought some fireworks.\nI-I wanted us to play with them...\nLet's be careful with the fire!
 誕生日プレゼントに\n特製のかき氷が食べたいの？\nわたしの魔法で作れるかな…\nちょっと試してみてもいい？=Do you want to eat my special shaved ice as a birthday present? I wonder if I can make it with my magic... Can I give it a try?
 

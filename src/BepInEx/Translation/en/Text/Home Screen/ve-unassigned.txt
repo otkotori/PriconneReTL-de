@@ -2,28 +2,33 @@
 ~1
 
 Ameth
-ハッピーバースデー。おめでとう\n覚えてない？　大丈夫。あたしが\nずっと忘れないでいてあげるわよ=Happy Birthday... You don't remember...?\nDon't worry, I'll always remember you.♪
+ハッピーバースデー。おめでとう\n覚えてない？　大丈夫。あたしが\nずっと忘れないでいてあげるわよ=Happy Birthday... You\ndon't remember...?\nDon't worry, I'll\nalways remember you.♪
 あんた今日誕生日じゃない\nプレゼント？　…忘れてた！\nな、何か買いに行きましょ！=Isn't today your birthday?\n...Ah, I forgot!\nL-let's go buy something!
 
 
 AmethS
-あんたの誕生日ね、おめでとう\nあたし自身にとっても特別な日よ\nこれからも一緒に\n歩んでいけるといいわね=Congratulations on your birthday. It's a special day for me too.\nI hope you can continue to walk with me together.
-はい、おめでと\n誕生日を海でお祝いなんて\nなんだか贅沢ね？\n遠慮なんてしなくていいわよ=Yes, congratulations on your birthday at the beach today.\nIt's kind of luxurious, isn't it?\nYou don't have to hold it back.
+あんたの誕生日ね、おめでとう\nあたし自身にとっても特別な日よ\nこれからも一緒に\n歩んでいけるといいわね=Congratulations on your birthday. It's a special day for me, too.\nI hope you can continue\nto walk with me together.
+はい、おめでと\n誕生日を海でお祝いなんて\nなんだか贅沢ね？\n遠慮なんてしなくていいわよ=Yes, congratulations on your birthday at the beach today.\nIt's kind of luxurious, isn't it?\nYou don't have to hold back.
 
 
 Creditta
 お誕生日、おめでとうございます\n陛下の騎士として、\n今後とも一層励んでくださいな\nわたくしも手助けいたしますゆえ=Happy Birthday. As a knight of Your Majesty, please continue to work hard from now on. I'll assist you as much as I can.
-貴方、誕生日ですって？\nそれはおめでとうございます\n何か食べたいものはありまして？\nご馳走くらいしてあげますわよ=It's your birthday?\nCongratulations. Is there anything you'd like to eat?\nI'll treat you to a meal.
+貴方、誕生日ですって？\nそれはおめでとうございます\n何か食べたいものはありまして？\nご馳走くらいしてあげますわよ=It's your birthday?\n...Congratulations. Is there\nanything you'd like to eat?\nI'll treat you to a meal.
 
 
 CredittaX
 お誕生日おめでとうございます\n本日ばかりはケチケチせずに\n貴方の希望を聞いて差し上げます\nさ、言ってごらんなさいな=Happy Birthday.\nJust for today, I won't be stingy.\nI'll listen to your wishes.\nGo ahead and tell me...
-わたくしの記憶によれば\n今日は貴方のお誕生日でしたわね\nおめでとうございます\nケーキの一つでもいかがかしら？=According to my memory, today is your birthday. Congratulations. Would you like to try one of those cakes?
+わたくしの記憶によれば\n今日は貴方のお誕生日でしたわね\nおめでとうございます\nケーキの一つでもいかがかしら？=According to my memory, today is your birthday. Congratulations. Would you like to\ntry one of those cakes?
 
 
 Eris
-お誕生日おめでとう、騎士クン\nさあ…願い事をなんでも言って\n必ず、叶えてみせるから\nたとえ…どんなことであっても=Happy Birthday, Knight-kun...\nI'll make your wish come true, no matter what it takes...\nI'll get it done for you...
-騎士クンが\n生まれてきてくれたこと…\nそれがわたしの何よりの幸せなの\nだから…ありがとう=The fact that you were born...\nThat's what makes me so happy... Thank you...
+お誕生日おめでとう、騎士クン\nさあ…願い事をなんでも言って\n必ず、叶えてみせるから\nたとえ…どんなことであっても=Mr. Knight, Happy Birthday.\nNow… make a wish, anything at all. I promise I’ll make it come true, no matter… what it may be.
+騎士クンが\n生まれてきてくれたこと…\nそれがわたしの何よりの幸せなの\nだから…ありがとう=The fact that you,\nMr. Knight, were born…\nThat is my greatest happiness.\nSo… thank you.
+
+
+Fio
+ハッピーバースデー！\n優秀なガイド妖精は\n記念日を忘れたりしないのよ？\n妖精の祝福を受け取りなさいっ♪=Happy Birthday!\nA top-tier guide fairy\never forgets special days!\nNow, accept this fairy’s blessing♪
+誕生日おめでとう♪\n長い付き合いだもの\n二人っきりのお祝いも\nいいものよね…♪=Happy Birthday♪\nWe’ve known each other for so long…A celebration with just the two of us sounds nice, doesn’t it?♪
 
 
 Karin
@@ -32,33 +37,33 @@ Karin
 
 
 KarinA
-今日はあなたのお誕生日ですね\nプレゼントは少々お待ちください\n今作っているところですので…\nえ？　危なくなんてないですよ？=Today is your birthday, isn't it? Please wait a moment for the present. I'm making it right now... Huh? It's not dangerous...
+今日はあなたのお誕生日ですね\nプレゼントは少々お待ちください\n今作っているところですので…\nえ？　危なくなんてないですよ？=Today's your birthday, isn't it? ...Please wait a moment for the present. I'm still making it...\nHuh? It's not dangerous...
 お誕生日おめでとうございます！\nお祝いに宝の地図をどうぞ\n私の錬金術による\n冒険のサポート付きですよ=Happy Birthday!\nHere's your treasure map to celebrate! It's with the support of my alchemy on your adventures!
 
 
 KaiserI
-あなた、今日が誕生日らしいけど\nいつまで祝えるかしらね…？\n来年まで生き延びてたら\nその時は祝福してあげるわ=I heard today's your birthday, but I wonder how long you'll be able to celebrate... If you survive next year, I'll give you my blessing then.
+あなた、今日が誕生日らしいけど\nいつまで祝えるかしらね…？\n来年まで生き延びてたら\nその時は祝福してあげるわ=So, today's your birthday, but I wonder how long you can to celebrate... If you survive next year, I'll bless you then.
 誕生日？　どうでもいいじゃない\nいつ世界に生まれたかじゃなくて\n何を成すかが大事なのだから=Birthday? It doesn't matter, does it? What's important is not when you were born into the world, but what you will accomplish.
 
 
 Muimi
 ハッピーバースデー！\nよーし！　ケーキ買いに行くぞ！\n今日はアタシのおごりだ！\nたぶん明日は雪が降るぞ！=Happy Birthday! C'mon, let's buy an awesome cake! Just this once, it's on me! Yeah, it'll be a cold day in hell tomorrow for sure!
-誕生日おめでとう！\nあんまり人に物あげたこと\nなくてさ…何が欲しいんだ？=Happy Birthday!\nI haven't given much to people...\nSo, what do you want?
+誕生日おめでとう！\nあんまり人に物あげたこと\nなくてさ…何が欲しいんだ？=Happy Birthday!\nI haven’t really given things\nto people that much before...\nSo... What do you want?
 
 
 MuimiL
-オマエに誕生日プレゼントを\n用意したぞ！　何かはまだ内緒だ\n悪党ってのは色々秘密がある\nものだからな！=I've prepared a birthday present for you!\n...It's still a secret!\nA villain has a lot of secrets!
-誕生日おめでとう！\n今日は一日アタシが\n一緒にいてやるよ！\nうれしいだろ？　うれしいよな！=Happy Birthday!\nI'll be with you all day today!\n...Aren't you happy?!
+オマエに誕生日プレゼントを\n用意したぞ！　何かはまだ内緒だ\n悪党ってのは色々秘密がある\nものだからな！=I've prepared a\nbirthday present for you!\n...It's still a secret!\nA villain has a lot of secrets!
+誕生日おめでとう！\n今日は一日アタシが\n一緒にいてやるよ！\nうれしいだろ？　うれしいよな！=Happy Birthday! Today,\nI’ll stay with you all day!\nYou’re happy, right?\n...You must be happy!
 
 
 MuimiNY
-ハッピーバースデー！\n今日はオマエの言う事を\nなんでも聞いてやるぞ！\nアタシに遠慮はするなよ！=Happy Birthday!\nI'll listen to anything you say today!\nDon't hold back on me!
-誕生日おめでとう！\nオマエのお祝いができて\nアタシもうれしいぞ！\nもっともっと祝わせろ！=Happy Birthday!\nI'm so happy to celebrate your birthday!\nLet me celebrate more and more!
+ハッピーバースデー！\n今日はオマエの言う事を\nなんでも聞いてやるぞ！\nアタシに遠慮はするなよ！=Happy Birthday!\nI'll listen to anything\nyou say today!\nDon't hold back on me!
+誕生日おめでとう！\nオマエのお祝いができて\nアタシもうれしいぞ！\nもっともっと祝わせろ！=Happy Birthday!\nI'm so happy to\ncelebrate your birthday!\nLet me celebrate more and more!
 
 
 Nebbia
 ハッピーバースデー！\nさ、誕生日プレゼントをどーぞ\nああ、そうそう…開ける前に\n心の準備はしっかりしてよね♪=Happy Birthday! Here's your birthday present! Oh, that's right... Make sure you're mentally prepared before you open it♪
-へぇ…誕生日なんだ？\nならそれにふさわしい、\n特別な悪戯をしなくちゃ！\n期待してくれていいわよ♪=Huh... So it's your birthday, huh?\nThen I'll have to pull off\na special prank!\nYou can look forward to it♪
+へぇ…誕生日なんだ？\nならそれにふさわしい、\n特別な悪戯をしなくちゃ！\n期待してくれていいわよ♪=Huh... So, it's your birthday?\n...Then, I'll have to\npull off a special prank!\nYou can look forward to it♪
 
 
 Neneka
@@ -66,9 +71,14 @@ Neneka
 今日が誕生日ですか\nおめでとうございます\n…これ以上何か必要ですか？=Is today your birthday?\n...Congratulations.\nDo you need anything more?
 
 
+NenekaA
+誕生日の祝祭を始めましょう\n貴方が生まれ、私のものとなる\nこの必然を祝うために=Let the celebration begin.\nTo honor the fate\nthat you were born\nto become mine.
+誕生日おめでとうございます\n…貴方にとっては私と出会った日\nこそが本当の誕生日と言えますね\nそちらもしっかりと祝うのですよ=Happy Birthday. …But for you,\nthe day you met me is\nyour true birthday, isn’t it?\nMake sure to celebrate that, too.
+
+
 NenekaNY
-誕生日おめでとうございます\nまた一つ成長した貴方を\n見せてくれることを\n期待していますよ=Happy Birthday.\nI'm looking forward to seeing you grow up again.
-今日は貴方の誕生日ですね\n私の独断で贈り物を用意しました\nありがたく受け取りなさい=Today is your birthday, isn't it?\nI've prepared a gift for you though my own initiative schedule.
+誕生日おめでとうございます\nまた一つ成長した貴方を\n見せてくれることを\n期待していますよ=Happy Birthday.\nI look forward to\nseeing how you’ve grown\nthrough another year.
+今日は貴方の誕生日ですね\n私の独断で贈り物を用意しました\nありがたく受け取りなさい=Today's your birthday, right?\n...I’ve prepared a gift\non my own discretion.\nPlease accept it gratefully.
 
 
 NenekaS
@@ -77,6 +87,6 @@ NenekaS
 
 
 Vikala
-誕生日おめでとう！　今日一日\nきみのお祝いをしてあげるよ！\nビッキィを独り占めできるなんて\nきみは幸せ者だね！=Happy Birthday!\nToday, I'll plan to celebrate you all day long! You're so lucky to have Vicky all to yourself!
+誕生日おめでとう！　今日一日\nきみのお祝いをしてあげるよ！\nビッキィを独り占めできるなんて\nきみは幸せ者だね！=Happy Birthday!\nToday, I’ll celebrate you all day!\nYou’re a lucky person, getting to have Vicky all to yourself!
 きみ、今日誕生日なんだって？\nそういうことなら早速お祝いだ！\nハッピー！　バースデー！\nトゥーユー！=You're having your birthday today...? If that's the case, let's celebrate right away!\n...Happy Birthday! Touyou!!
 

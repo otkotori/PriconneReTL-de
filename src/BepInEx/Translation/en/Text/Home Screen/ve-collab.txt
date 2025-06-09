@@ -3,12 +3,12 @@
 
 Arisa
 このままどんどん成長したら\nあなたはどうなっちゃうんだろ？\n…なんか、ずっと楽しみだね\nえへへ…お誕生日おめでと！=I'm really curious to see what you'll be like when you're older. Excited, even!\nEhehe, Happy Birthday!♪
-ちょっと自信ないけど…\nこれ！　作ったんだ！\n今日は特別な日だから…\nあーんってしてあげよっか…？=I'm not very confident, but... I made this!\nSince today is a special day... Should I feed it to you...?
+ちょっと自信ないけど…\nこれ！　作ったんだ！\n今日は特別な日だから…\nあーんってしてあげよっか…？=I'm not very confident,\nbut... I made this!\nSince today is a special day... Should I feed it to you...?
 
 
 Djeeta
 誕生日おめでとう！　お祝いに\nパーティーしようよ！　それと何か\n欲しいものがあったらプレゼント\nしてあげるから言ってね！=Happy Birthday!\nLet's throw a party!\nAnd if there's anything you want, I'll get it for you as a present!
-今日はあなたの誕生日だよね、\nおめでとう！\nいっぱいお祝いしないとね！=Today is your birthday,\nHappy Birthday!\nWe should celebrate a lot!
+今日はあなたの誕生日だよね、\nおめでとう！\nいっぱいお祝いしないとね！=Today is your birthday,\nHappy Birthday!\n...We should celebrate a lot!
 
 
 DjeetaW
@@ -17,18 +17,23 @@ DjeetaW
 
 
 Luna
-お誕生日なの？　すごいすごい！\nルナ、お誕生日大好き！\nだからいっぱいお祝いしようね！=Is it your birthday?\nWow, wow! Luna loves birthdays!\nSo let's celebrate lots!
-お誕生日だね！\nおにいさんが一番！\nふふっ、うれしいね！=It's your birthday!\nYou're the best!\nHehe, I'm so happy I met you!
+お誕生日なの？　すごいすごい！\nルナ、お誕生日大好き！\nだからいっぱいお祝いしようね！=Is it your birthday?\n...Wow, wow! That's amazing!\nLuna loves birthdays!\nSo let's celebrate lots!
+お誕生日だね！\nおにいさんが一番！\nふふっ、うれしいね！=It's your birthday!\nYou're the best!\nHehe, I'm really happy\nafter I've met you!
+
+
+Medusa
+アンタ、誕生日なんでしょ？\n蛇の抜け殻あげるわ！\nどう？　うれしいでしょ！\n…うれしいわよね？=It’s your birthday, right?\n...I’ll give you a shed snakeskin!\nWell? You’re happy, right?\n…You are happy, aren’t you?
+誕生日？　しょうがないわねー\nメドゥシアナに乗せてあげるから\n世界一周でもしに行くわよ！=Your birthday...? Well,\nI guess I have no choice...\nI’ll let you ride on Medusiana, so let’s go around the world!
 
 
 Vampy
-ヴァンピィちゃん知ってるよ～？\n今日はけんぞくのお誕生日！\nこれからもけんぞくのこと\n大切にするからね♪=Vampy knows, right? Today's Kenzoku's birthday!\nEhehe, I'll take good care of Kenzoku from now on!
+ヴァンピィちゃん知ってるよ～？\n今日はけんぞくのお誕生日！\nこれからもけんぞくのこと\n大切にするからね♪=Vampy-chan knows~!\nToday is Kenzoku's birthday!\nI'll keep cherishing you,\nmy Kenzoku, from now on too!♪
 けんぞくぅ～！\nお誕生日おめでとー♪\nケーキは作れないけど\nおいしいスープを作ってあげる♪=Kenzokuuu!\nHappy Birthday♪\nI can't make cake, but I'll make you some delicious soup today♪
 
 
 Anne
 ハッピーバースデー！\n一緒に楽しい一日にしようねっ！\nまず何からしよっか！？=Happy Birthday!\nLet's have a fun day together!\nWhat should we do first!?
-お誕生日おめでとうっ！\n今日は思いっきり幸せな\n一日になるといいね！=Happy Birthday!\nI hope today will be a day full of happiness for you!
+お誕生日おめでとうっ！\n今日は思いっきり幸せな\n一日になるといいね！=Happy Birthday!\nI hope today\nwill be a day\nfull of happiness for you!
 
 
 AnneGrea (Anne)
@@ -48,17 +53,17 @@ AnneGrea (Grea)
 
 Lou
 ルゥ、暗記は苦手ですが…\nお友だちの誕生日は\nばっちり覚えてるですぅ！\nお誕生日おめでとうですよ！=Lou's not good at memorizing... but, I remember my friend's birthday perfectly!\nHappy Birthday!
-今日はあなたの誕生日です？\nじゃあ、ルゥもお祝いするです！\nおめでとうですぅ！=Is today your birthday?\nWell then, Lou will celebrate too!\nCongratulations!
+今日はあなたの誕生日です？\nじゃあ、ルゥもお祝いするです！\nおめでとうですぅ！=Is today your birthday?\n...Well then, Lou\nwill celebrate too!\nCongratulations!
 
 
 EchidnaS
-めでたい日にボクからの贈り物だ\nこのお茶を飲むといい\nなに、悪い物は入っていないよ\n悪い物は……ね=It's a present from me on a happy day. You should drink this tea.\nThere's nothing bad in it. Something bad...
-今日は君の誕生日じゃないかな？\nもちろん知ってるさ。視たからね\nボクからは喝采と言葉を贈るよ\n誕生日おめでとう=Isn't today your birthday?\nOf course I know. I saw it.\nI'll give you words and applause. ...Happy Birthday.
+めでたい日にボクからの贈り物だ\nこのお茶を飲むといい\nなに、悪い物は入っていないよ\n悪い物は……ね=It's a present from me on a happy day. You should drink this tea.\nThere's nothing bad in it.\nNothing bad... really.
+今日は君の誕生日じゃないかな？\nもちろん知ってるさ。視たからね\nボクからは喝采と言葉を贈るよ\n誕生日おめでとう=Isn't today your birthday?\n...Of course I know. I saw it.\nI'll give you words and applause. ...Happy Birthday.
 
 
 Emilia
-お誕生日なんだね、おめでとう\nこうやってお祝いできて\nすごーくうれしいな=You're celebrating your birthday, right? ...Congratulations!\nI'm happy that we can celebrate together like this.
-こっちの世界だと\nはっぴーばーすでー\nでいいのかな？\nお誕生日おめでとう=I wonder if "happy birthday" works in this world...\nOh well, happy birthday!♪
+お誕生日なんだね、おめでとう\nこうやってお祝いできて\nすごーくうれしいな=You're celebrating your birthday, right? ...Congratulations!\nI'm so happy we can\ncelebrate together like this.
+こっちの世界だと\nはっぴーばーすでー\nでいいのかな？\nお誕生日おめでとう=In this world,\nwould 'Happy Birthday' be\nthe right way to say it?\n...Well then, happy birthday!
 
 
 EmiliaS
@@ -67,21 +72,29 @@ EmiliaS
 
 
 Ram
-何が欲しいの？\n言ってごらんなさい\nなんでって、誕生日なんでしょ？\nご褒美くらいくれてやるわ=What do you want?\nWhy don't you say it, is it your birthday?\nYou'll be rewarded gratefully!
-誕生日をラムに祝ってもらえる\nなんて光栄に思うことね\n誕生日プレゼント？　もちろん\n出来たての蒸かし芋よ！=Aren't you lucky to have me here to celebrate your birthday.\nMy present? ...A batch of hot steamed taters, of course!
+何が欲しいの？\n言ってごらんなさい\nなんでって、誕生日なんでしょ？\nご褒美くらいくれてやるわ=What do you want?\nWhy don't you say it,\nis it your birthday today?\n...You'll be rewarded gratefully!
+誕生日をラムに祝ってもらえる\nなんて光栄に思うことね\n誕生日プレゼント？　もちろん\n出来たての蒸かし芋よ！=Aren't you lucky to have Ram here to celebrate your birthday.\nMy present? ...A batch of\nhot steamed taters, of course!
 
 
 Rem
-お誕生日おめでとうございます！\n今日のために色々と\n用意させていただきましたので、\n精いっぱいお祝いいたしますね=Happy Birthday!\nI've prepared a lot for you today, so I'll do my best to celebrate!
+お誕生日おめでとうございます！\n今日のために色々と\n用意させていただきましたので、\n精いっぱいお祝いいたしますね=Happy Birthday!\nI’ve prepared a variety of things for this special day, so I’ll do my very best to celebrate with you!
 お誕生日おめでとうございます\nお祝いにケーキを焼きますね\nより豪華にするため、まずは\n飛竜の卵を調達してこなくては=Happy Birthday, I'll bake you a cake to celebrate. To make it more extravagant, I'll need to get some dragon eggs first.
 
 
 RemS
-親しい人のお祝いができる喜びは\n住んでいた世界が違っていても\n変わりありませんね\nお誕生日おめでとうございます！=The joy of being able to celebrate someone close to you is the same even if you live in a different world. Happy Birthday!♪
-お誕生日おめでとうございます\n日頃の感謝を込めて\nレムが腕によりをかけた\nおいしい海鮮料理をご用意します=Happy Birthday!\nToday, with your daily gratitude, Rem will prepare a delicious seafood dish with all her skills!
+親しい人のお祝いができる喜びは\n住んでいた世界が違っていても\n変わりありませんね\nお誕生日おめでとうございます！=The joy of being able to\ncelebrate someone dear to you is\nthe same, even if we live in\ndifferent worlds. Happy Birthday!♪
+お誕生日おめでとうございます\n日頃の感謝を込めて\nレムが腕によりをかけた\nおいしい海鮮料理をご用意します=Happy Birthday!\nWith my daily gratitude, I, Rem has prepared a delicious seafood dish with my love and skills.
 
 
 Mio
-誕生日、おっめでと～！\nまた一つ大人になったキミへ\nミオちゃんからのプレゼント！\nちゃーんと大事にしてよね☆=Happy Birthday!\nHere's another present from Mio to you as an adult! Make sure you take good care of it!♪
-パンパカパーン、おめでとー！\n今日はキミの誕生日なんでしょ？\nほら、おめでたい日なんだし\nみんなでレッツパーリーだよっ！=Today's your birthday, isn't it?\nHappy Birthday!\nCome on, it's a happy day, so let's all have a party!
+誕生日、おっめでと～！\nまた一つ大人になったキミへ\nミオちゃんからのプレゼント！\nちゃーんと大事にしてよね☆=Happy Birthday~!\nTo you, who's grown one year older, here's a present from Mio-chan!\nMake sure you cherish it, okay?♪
+パンパカパーン、おめでとー！\n今日はキミの誕生日なんでしょ？\nほら、おめでたい日なんだし\nみんなでレッツパーリーだよっ！=Ta-da-da-daa! Congratulations!\nToday’s your birthday, right?\n...Come on, it’s a special day,\nso let’s all party together!
+
+
+Rin
+
+
+
+Uzuki
+
 

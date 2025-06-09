@@ -7,8 +7,8 @@ Homare
 
 
 HomareNY
-今日、誕生日なんだよね？\nそれじゃあ私も、特別な\nサービスを提供しちゃおうかな☆\n…どんなこと、されると思う？=Today's your birthday, isn't it? Then maybe I'll give you a special service too.☆\n...What do you think they'll do to you?
-今日は君の誕生日だね～☆\nプレゼントとして、精一杯\nサービスさせてもらおうかな？\n忘れられない思い出になるよ♪=Today's your birthday, isn't it? Maybe I'll give you as much service as I can as a present? It'll be an unforgettable memory♪
+今日、誕生日なんだよね？\nそれじゃあ私も、特別な\nサービスを提供しちゃおうかな☆\n…どんなこと、されると思う？=Today's your birthday, isn't it? ...Then maybe I'll give\nyou a special service too☆\nWhat do you think I'll do to you?
+今日は君の誕生日だね～☆\nプレゼントとして、精一杯\nサービスさせてもらおうかな？\n忘れられない思い出になるよ♪=Today's your birthday, isn't it? ...Maybe I'll give you as much service as I can as a present? It'll be an unforgettable memory♪
 
 
 HomareS
@@ -17,23 +17,23 @@ HomareS
 
 
 Inori
-お誕生日おめでとうです！\nこのあたしに祝われるなんて\nそうそうない名誉ですからね！\n感謝して何かおごりやがれです！=Happy Birthday!\nIt's a rare honor to be celebrating with me!\nYou should be grateful!
-え？　なんです？　今日は\nお兄さんの誕生日ですか？\nじゃあ特別に、あたしに\n何かおごる権利をやるですよ！=Huh? What is it?\nIs today Onii-san's birthday?\nThen, I'll give you the right to treat me to something!
+お誕生日おめでとうです！\nこのあたしに祝われるなんて\nそうそうない名誉ですからね！\n感謝して何かおごりやがれです！=Happy Birthday!\nIt's a rare honor to\nbe celebrating with me!\nYou should be grateful!
+え？　なんです？　今日は\nお兄さんの誕生日ですか？\nじゃあ特別に、あたしに\n何かおごる権利をやるですよ！=Huh? What is it?\nIs today Onii-san's birthday?\n...Then, I'll give you the right to treat me to something!
 
 
 InoriNY
 さあ、バースデープレゼントは\nあたしの直筆サインです！\nこうやってたっぷりの墨で…\nふふっ、遠慮はいらねーですよ！=Now, the birthday present is my autograph!\nWith lots of ink like this...\nHehe, you don't have to hold back!
-お誕生日おめでとうですよ！\nさあ、このあたしの晴れ姿、\nプレゼント代わりに\n目に焼き付けとくがいいです！=Happy Birthday!\nNow, burn my radiance into your eyes as a present!
+お誕生日おめでとうですよ！\nさあ、このあたしの晴れ姿、\nプレゼント代わりに\n目に焼き付けとくがいいです！=Happy Birthday!\nNow, feast your eyes on my glorious appearance, and burn it into your memory as your present!
 
 
 InoriPT
 お誕生日おめでとうです！\nしょうがないからプレゼントを\n用意してあげてもいいですよ\nさあ、どーんと言ってみるです！=Happy Birthday!\nWell, since it can't be helped, I'll give you a present. Come on, let me hear you say 'thank you'!
-お兄さんの誕生日？\n覚えてるですよ、今日ですよね？\nほーら、どんなもんです！\nうたがったおわびをするですよ！=Onii-san's birthday?\nI remember now. It's today, isn't it? Here, I'm going to make up for everything!
+お兄さんの誕生日？\n覚えてるですよ、今日ですよね？\nほーら、どんなもんです！\nうたがったおわびをするですよ！=Your birthday, Onii-san?\nI remember, it’s today, right?\n...See, I didn’t forget!\nI’ll make up for doubting you!
 
 
 InoriTT
-お誕生日おめでとうです！\nあたしは部下想いのボスですから\nわがままを聞いてあげなくも…\nってなんですその本気の目は！？=Happy Birthday! As a boss who cares about her subordinates, I will indulge you now... Wait, why are you giving me such a serious look?!
-今日はお兄さんの誕生日？\n一億年前から知ってましたよ！\nタコスおごるので、お兄さんは\nあたしにタコスおごるですよ！=Is today Onii-san's birthday? I've now known! I'll treat you to some tacos, but then you'll have to treat me to some tacos too!
+お誕生日おめでとうです！\nあたしは部下想いのボスですから\nわがままを聞いてあげなくも…\nってなんですその本気の目は！？=Happy Birthday! As a boss who cares about her subordinates, I'll indulge you now... Wait, why are you giving me that look?!
+今日はお兄さんの誕生日？\n一億年前から知ってましたよ！\nタコスおごるので、お兄さんは\nあたしにタコスおごるですよ！=Is today Onii-san's birthday?\n...I've now known! I'll treat you to some tacos, but then you'll have to treat me to some tacos too!
 
 
 Kaya
@@ -42,8 +42,8 @@ Kaya
 
 
 KayaL
-ハッピーバースデー、ってな！\n今日は一日、遊び倒そうぜ\n夜が明けるまで\n付き合ってやるからさ=Happy Birthday!\nHehe, once you're done with your cake, come over to our hideout and celebrate together with us.
-誕生日、おめでとな！\nへへっ、ケーキ食ったら\nアジトまで遊びに来いよ\nファミリー総出で祝ってやるぜ=Happy Birthday, yeah!?\nLet's hang out all day today.\nI'll stick with you until dawn.
+ハッピーバースデー、ってな！\n今日は一日、遊び倒そうぜ\n夜が明けるまで\n付き合ってやるからさ=Happy Birthday, huh!\nLet’s have fun all day long today! I’ll hang out with you until the sun comes up!
+誕生日、おめでとな！\nへへっ、ケーキ食ったら\nアジトまで遊びに来いよ\nファミリー総出で祝ってやるぜ=Happy Birthday!\nHehe, once you're done with your cake, come over to our hideout and celebrate together with us.
 
 
 KayaTT

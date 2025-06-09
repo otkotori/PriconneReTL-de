@@ -6,33 +6,37 @@ Chieru
 お誕生日おめでとうございます！\n可愛い後輩から可愛い笑顔を\nプレゼント！　ちぇる～ん☆\n良かったですね、一生ものですよ=Happy Birthday!\nHere's a cute smile from a cute junior! I'm so happy for you, it will last a lifetime!
 
 
+┌┐
+└┘
+
+
 ChieruSF
 先輩、ハピバ～！\nじゃあ今日は特別なんでチエルが\n一緒にケーキ食べてあげますね！\nお祝いだから割り勘でいいですよ=Senpai, Hapiba~!\nToday's special, so Chieru'll eat cake with you! It's a celebration, so we can split the bill.
 お誕生日おめでとうございます！\n可愛い後輩から可愛いちぇるを\nプレゼント！　ちぇる～ん☆\n良かったですね、一生ものですよ=Happy Birthday! Here's a gift of a cute little baby from a cute little junior! I'm so happy for you, it will last a lifetime!
 
 
 Chloe
-いいけど、あんた、\n今日が誕生日なんだって？\nおめでと。よかったね\nキラーペンシルあげるよ=I heard today's your birthday, right? Congratulations, isn't that great. I'll give you this killer pencil as a gift.
+いいけど、あんた、\n今日が誕生日なんだって？\nおめでと。よかったね\nキラーペンシルあげるよ=I heard today's your birthday, right? ...Congratulations, isn't that great. I'll give you this killer pencil as a gift.
 あのさ。弟たちに作ったケーキ、\n余ってるから食べてくんない\nべつに無理にとは言わないけど\nあー…あと、おたおめ=So, you know. I made a cake for my little brother, but there's some left over. I'm not saying you have to eat it, but... Also, happy birthday.
 
 
 ChloeS
 あー、あのさ、暇だしメ団に道具\n借りてケーキ作ったんだけどさ\n今日あんた誕生日なんだって？\nあとでうちの部屋、食べに来なよ=Hey, I borrowed some tools from the group and made a cake, but I heard that it's your birthday today. Come eat at my room later.
-おたおめー。おばちゃんパイン\nあげるから。なんでって…いや\nかなりのパインフェチじゃなきゃ\n選ばんでしょ、その水着は=Hey, I'll give you a pin.\nWhy? ...No, unless you've got quite a pin fetish, you can't choose that swimsuit.
+おたおめー。おばちゃんパイン\nあげるから。なんでって…いや\nかなりのパインフェチじゃなきゃ\n選ばんでしょ、その水着は=Hey, I'll give you a pin.\nWhy? ...No, unless you've\ngot quite a pin fetish, you\ncan't choose that swimsuit.
 
 
 ChloeSF
-あんた今日、誕生日だよね\nああいや、さっきチエルに聞いて\nそだ、偶然ケーキ作ってきたから\nコレあげるわ。いや偶然だけど=Hey, it's your birthday today, right? I just asked Chieru a while ago. Oh, by the way, I happened to make a cake, so, here you go.
-あんた今日、誕生日だって？\nなんで言わんの、そーゆーこと…\nなんも用意してなかったじゃん\nじゃあ飴ちゃん多めにあげるわ=Today is your birthday, huh? Why didn't you tell me earlier? I didn't prepare anything for you, but, I'll give you extra candy.
+あんた今日、誕生日だよね\nああいや、さっきチエルに聞いて\nそだ、偶然ケーキ作ってきたから\nコレあげるわ。いや偶然だけど=Hey, it's your birthday today, right? ...I just asked Chieru a while ago. Oh, by the way, I happened to make a cake, so, here you go.
+あんた今日、誕生日だって？\nなんで言わんの、そーゆーこと…\nなんも用意してなかったじゃん\nじゃあ飴ちゃん多めにあげるわ=Today is your birthday, huh? ...Why didn't you tell me earlier? I didn't prepare anything for you, but, I'll give you extra candy.
 
 
 Yuni
-ハッピーバースデー\n今日は君がこの世に\n生まれ落ちた記念日らしいな\nぼくの情報は正しいんだ=Happy Birthday.\nToday is the anniversary of your birth. I've tested it, my information is correct.
-生命とは実に尊い\n存在自体が億分の一の奇跡だ\nつまり端的に換言すれば、\n誕生日おめでとう=Life itself is a miracle worth a billionth of many seconds.\nIn other words, happy birthday.
+ハッピーバースデー\n今日は君がこの世に\n生まれ落ちた記念日らしいな\nぼくの情報は正しいんだ=Happy Birthday!\nIt seems today is the anniversary of the day you were born into this world. My info is correct, right?
+生命とは実に尊い\n存在自体が億分の一の奇跡だ\nつまり端的に換言すれば、\n誕生日おめでとう=Life is truly precious. The very existence is a one-in-a-billion miracle. In other words, to put it simply, Happy Birthday.
 
 
 YuniS
-やあ同志、まずは座りたまえよ\n誕生祝いに学びを贈ってやろう\nなに、遠慮することはないさ\n端的に言えば、君と話したいんだ=Hey, comrade, sit down first.\nI'll give you a lesson to celebrate your birthday. To put it bluntly, I want to talk to you...
+やあ同志、まずは座りたまえよ\n誕生祝いに学びを贈ってやろう\nなに、遠慮することはないさ\n端的に言えば、君と話したいんだ=Hey, comrade, sit down first.\nI'll give you a lesson to celebrate your birthday. To put it bluntly,\nI want to talk to you...
 たしか都では、誕生日に物を\n贈る風習があったな\nこの謎ポーションをやろう\n飲んでみろ、飛ぶぞ=If I remember correctly, in the capital, there's a custom of giving gifts on your birthday. Let me give you this mysterious potion.
 
 

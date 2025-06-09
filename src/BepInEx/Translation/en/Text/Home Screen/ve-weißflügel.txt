@@ -6,6 +6,11 @@ Ayumi
 あっあの、先輩っ！\nお誕生日おめでとうございます！\nお祝いさせてくだひゃい！\nちゃ、ちゃんと言えましたっ！=U-um... Senpai! I want to wish you a very happy birthday!\nPlease let me celebrate with you! ...Ahhh, I actually said it!
 
 
+AyumiPT
+今日は先輩のお誕生日…なので\nいろんな人にお誕生会の予告状を\n送っておきました！　えへへ…\n盛り上がるといいんですけど…♪=Today is Senpai's birthday…\nSo I went ahead and sent invites to a bunch of people! Ehehe… I hope it'll be a super fun party…♪
+先輩…お誕生日…\nおめでとう…ござい、ます…！\nや、やった…ゆっくり喋ったら\n噛まずに言えましちゃ！　…あっ=Senpai… happy… birthday…\nto you…! Y-Yes! I said it\nwithout messing up… I just\nhad to speak slowly—wait, oops!
+
+
 AyumiW
 お誕生日おめでとうございます！\nこれ、プレゼントですぅ！\n…つ、ついに、\nかまないでちゃんと言えました♪=Happy Birthday!\nHere's a present for you!\n...F-finally, I was able to say it properly without being nervous♪
 せ、先輩！！\nえっと…その、お、お誕生日、\nおめでとうごじゃいまひゅ！\nうう、またかんじゃったよぉ…=S-senpai!!\nUmm... H-Happy Birthday!\nAh-, I got nervous again...
@@ -23,16 +28,16 @@ KuukaN
 
 KuukaOedo
 お誕生日おめでとうございます\nところでドＳさん、和服の帯って\nラッピングしてるみたいですよね\nプレゼントは私、なんて…ぐふふ=Happy Birthday! Also, Mr. Sadist, it looks like you're wrapping my sash around your neck.\nI'm your present... Heheheh.
-今日は大切な日ですね…\nドＳさんが生まれた日…じゅるり\nつまりクウカの体でお祝いしろと\nいうのですね！？=Today's an important day, isn't it? The day Sadist-san was born...\nYou want us to celebrate with Kuuka's body, right?!
+今日は大切な日ですね…\nドＳさんが生まれた日…じゅるり\nつまりクウカの体でお祝いしろと\nいうのですね！？=Today's an important day, isn't it? ...The day Sadist-san was born...\nYou want us to celebrate with Kuuka's body, right?!
 
 
 KuukaS
-おめでとうございます！\nドＳさんが生まれた日…\nクウカと一緒に痺れるような\n体験をしましょう～♪=Congratulations! The day you were born, Sadist-san...\nLet's have a numbing experience together with Kuuka~♪
+おめでとうございます！\nドＳさんが生まれた日…\nクウカと一緒に痺れるような\n体験をしましょう～♪=Congratulations! The day you were born, Sadist-san...\nLet's have a numbing experience\ntogether with Kuuka~♪
 ドＳさんのお誕生日を\n海でお祝いするなんて…！\nあっ、先ほど砂浜で拾った\nスゴい形の貝殻をどうぞ…♪=To celebrate Sadist-san's birthday at the beach...! Ah, here's the amazingly shaped shell I picked up on the beach earlier...♪
 
 
 Monika
-誕生日おめでとう\nプレゼント代わりに…\n今日は私が共に過ごしてやろう\nじ、時間を無駄にするでないぞ！=Happy Birthday! I didn't get a present, but, I'll allow you to spend the entire day with me instead. D-dont waste this opportunity, you hear?
+誕生日おめでとう\nプレゼント代わりに…\n今日は私が共に過ごしてやろう\nじ、時間を無駄にするでないぞ！=Happy Birthday...\nInstead of a present...I'll spend\nthe whole day with you...\nDon't waste my time with it!
 今日は貴公の誕生日らしいな\n大切な一日を共に祝えて、\n私も嬉しく思うぞ！\n心から祝おうじゃないか！=Today, we are happy to celebrate the precious day that seems to be your birthday! Let's celebrate from the bottom of our heart!
 
 
@@ -47,13 +52,13 @@ MonikaM
 
 
 MonikaNY
-貴公、年を経るごとに顔つきが\nよくなっていくな。いつか同じ\n部隊で背中を預けて戦えたら…\nなんて想像をしてしまうぞ=You look better as you get older. One day, you'll be able to fight with your back to the same unit...\nI can't help but imagine!
+貴公、年を経るごとに顔つきが\nよくなっていくな。いつか同じ\n部隊で背中を預けて戦えたら…\nなんて想像をしてしまうぞ=You look better as you get older. One day, I'll be able to fight with your back on the same unit...\nI can't help but imagine!
 誕生日おめでとう！　お祝いに\nとっておきの甘味処にご招待\nしよう。決して私が食べたい\nからではないぞ！=Happy Birthday!\nI'll invite you to a special sweets shop to celebrate.\nIt's not because I want to eat it!
 
 
 Ninon
 ショーグンのお祝いするデス！\n誕生日は、おジャシキ遊びで\nシュラシュシュシュデース！\nどんちゃん騒ぎデース！=A shogun's birthday is a big day! Allow me to entertain you with my incredible geisha techniques! Like a true ninja!
-誕生日おめでとうデス！\nお祝いの紅白マンジェウを\n用意したデス！　二人羽織で\n食べさせてあげるデス！=Happy Birthday, desu!\nI prepared red and white Manju for celebration! I'll let you eat it with two coats!
+誕生日おめでとうデス！\nお祝いの紅白マンジェウを\n用意したデス！　二人羽織で\n食べさせてあげるデス！=Happy Birthday, desu!\nI prepared red and white Manju for celebration!\nI'll let you eat it with two coats!
 
 
 NinonH
@@ -73,7 +78,7 @@ Yuki
 
 YukiC
 ハッピーバースデー！\n今日という日の記念に、\nボクを撮影する権利をあげるよ！\nさぁ、思う存分、ボクを撮って！=Happy Birthday! To celebrate this day, I'll give you the right to take a picture of me! Now, take as many pictures of me as you want!
-誕生日だって？　めでたいね♪\nそれはそうと、話があるんだ\n実は欲しい化粧品があってね\nボクにプレゼントする気はない？=Birthday? Happy Birthday♪ Anyway, there's something I want to talk to you about. I have all the cosmetics I want. Would you like to give me a present?
+誕生日だって？　めでたいね♪\nそれはそうと、話があるんだ\n実は欲しい化粧品があってね\nボクにプレゼントする気はない？=It's your birthday?\nI'd like to talk to you about something... There's actually some cosmetics I'd like to buy you.
 
 
 YukiOedo

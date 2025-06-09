@@ -3,12 +3,12 @@
 
 Kaori
 誕生日おめでとうさ～！\nお祝いに私が、\n24時間連続で祝いの踊りを\n踊り続けてあげるさ～！=Happy Birthday to you!\nFor your present, I'll be performing a non-stop birthday dance for 24 hours straight!
-おお～！\n今日はキミの誕生日なの～？\nそうと聞いたら\n全力でお祝いするさ～！=Wow~!\nIs today your birthday?\nIf that's the case, I'll celebrate it with all my might~!
+おお～！\n今日はキミの誕生日なの～？\nそうと聞いたら\n全力でお祝いするさ～！=Wow~!\nIs today your birthday?\n...If that's the case, I'll celebrate\nit with all my might~!
 
 
 KaoriH
 あは～、幽霊たちも\nおめでと～って言ってるさ～♪\n誕生日祝いに、\nみんなで一緒に踊るさ～♪=Aha~, the ghosts are congratulating you~♪\nLet's all dance together to celebrate your birthday~♪
-誕生日おめでと～！\nカボチャのサーターアンダギーを\nいーっぱい作ってきたんだ～\n遠慮せずたくさん食べるさ～♪=Happy Birthday!\nI made a lot of pumpkin andagi!\nDon't worry, I'll eat a lot!
+誕生日おめでと～！\nカボチャのサーターアンダギーを\nいーっぱい作ってきたんだ～\n遠慮せずたくさん食べるさ～♪=Happy Birthday!\nI made a lot\nof pumpkin andagi!\nDon't worry, I'll eat a lot!
 
 
 KaoriS
@@ -18,32 +18,37 @@ KaoriS
 
 Kasumi
 誕生日の余興に、今日は\n助手くんが探偵役をしてみよう\n…ねぇ先生、今日はどんな謎に\n挑まれるんですか？　ふふっ♪=It's your birthday, so I'll let you take over my role for today. ...So, Mr. Detective! What sort of case are you pursuing today? Hehe.
-今日は助手くんの誕生日\nなんだって？　おめでとう！\nなら、捜査は早めに切り上げて\nお祝いをしようじゃないか！=Today's Assistant's birthday? Congratulations!\nLet's wrap up the investigation and celebrate!
+今日は助手くんの誕生日\nなんだって？　おめでとう！\nなら、捜査は早めに切り上げて\nお祝いをしようじゃないか！=Today's Assistant's birthday? ...Congratulations!\nLet's wrap up the\ninvestigation and celebrate!
 
 
 KasumiM
 …魔法の力で捜査開始！\nた、誕生日のお祝いとして、\n君のためだけに変身して\nみたんだけど…ど、どうかな？=Start the investigation with the power of magic! I-I transformed just to celebrate your birthday with you... W-What do you think?
-今日は助手くんの誕生日だよね\n魔法少女の役目を\n早く終わらせてくるから、二人で\n一緒にお祝いしようじゃないか♪=Today is Assistant-kun's birthday? I'll finish my magical girl role as soon as possible, then we'll celebrate together♪
+今日は助手くんの誕生日だよね\n魔法少女の役目を\n早く終わらせてくるから、二人で\n一緒にお祝いしようじゃないか♪=Today is Assistant-kun's birthday? ...I'll finish my magical girl role as soon as possible, then we'll celebrate together♪
+
+
+KasumiNY
+ハッピーニューバースデー♪\nふふっ！　新年もめでたいけど\n今日もおめでたい日だよ\n助手くん…おめでとう♪=Happy New Year's Day♪\nHehe! Happy New Year, but today's another happy day, Assistant-kun... Congratulations♪
+君の誕生日を祝うには\nこの装いがぴったりだね\nほら…だってすごく\nおめでたい日…じゃないか？=This outfit is perfect for celebrating your birthday.\nSee… after all, it’s such a special and joyous day… isn’t it?
 
 
 KasumiS
-助手くん、誕生日だよね\nこれを受け取って欲しい\nこのプレゼントに込められた意味\n…解き明かしてみたまえ♪=Assistant-kun, it's your birthday, isn't it? I want you to take this.\nTry to figure out the meaning behind this present♪
+助手くん、誕生日だよね\nこれを受け取って欲しい\nこのプレゼントに込められた意味\n…解き明かしてみたまえ♪=Assistant-kun, it's your birthday, isn't it? ...I want you to take this.\nTry to figure out the meaning behind this present♪
 さて助手くん、\n呼ばれた理由は分かるかな？\nふふ、私にはお見通しなのさ…！\n誕生日、おめでとうっ♪=Now then, Assistant-kun, do you know why I called you here? Hehe, I can see right through you...! Happy Birthday♪
 
 
 Maho
-今日が誕生日なんどすか？\nそれは、ほんにめでたいなあ～\n今日をマホマホ王国の\n記念日にしたいぐらいやわあ♪=It's your birthday? Well, ain't that a big event! Big enough that I want today to be a national event in the Maho-Maho Kingdom!
+今日が誕生日なんどすか？\nそれは、ほんにめでたいなあ～\n今日をマホマホ王国の\n記念日にしたいぐらいやわあ♪=It's your birthday? Well, ain't that a big event! Big enough that I want today to be a national event in the Maho-Maho Kingdom!♪
 誕生日、おめでとうさん♪\n王子はんの誕生日を\n一緒にお祝いできて幸せやわぁ♪\nこれからもほっこりしようなぁ～=Congratulations, I'm happy to celebrate the birthday of Prince Han together♪ It looks like it will be relaxing in the future~
 
 
 MahoC
-今日は王子はんのお誕生日やね！\nそういうわけで…じゃーん！\nお花のシャワーや！\nふふっ、きれいやろう？=Today's the prince's birthday!\nSo... Ta-da! Let's shower him with a lot of flowers!\nEhehe, let's clean him up!
+今日は王子はんのお誕生日やね！\nそういうわけで…じゃーん！\nお花のシャワーや！\nふふっ、きれいやろう？=Today’s Prince-han's birthday!\nSo… ta-da!\nIt’s a shower of flowers!\nHehe, isn’t it beautiful?
 お誕生日おめでとう～\nうち王子はんのために\nケーキを用意したんよ\nおいしく召し上がってなぁ♪=Happy Birthday!\nI've prepared a special cake for the prince!\nPlease enjoy it to your liking!
 
 
 MahoDP
-今日は王子はんの誕生日やさかい\nうちがエスコートしますえ\n夢とメルヘンがいっぱいの時間を\n一緒にすごしまひょ♪=Today is the prince's birthday, so I'll escort you. Let's spend a lot of time together, dreaming and having fairy tales♪
-王子はん、誕生日おめでとさん♪\nうちからはお祝いとして\n特別なショーをプレゼントや\n楽しんでいっておくれやす♪=Happy Birthday, Prince!♪\nI hope you'll enjoy one of my special shows as a present to celebrate your birthday.♪
+今日は王子はんの誕生日やさかい\nうちがエスコートしますえ\n夢とメルヘンがいっぱいの時間を\n一緒にすごしまひょ♪=Today's your birthday, Prince-han, so I’ll be your escort. Let’s have a magical time together, filled with dreams and fairy tales!♪
+王子はん、誕生日おめでとさん♪\nうちからはお祝いとして\n特別なショーをプレゼントや\n楽しんでいっておくれやす♪=Prince-han, Happy Birthday!♪\nI hope you'll enjoy one of my special shows as a present to celebrate your birthday♪
 
 
 MahoEx
@@ -57,13 +62,13 @@ MahoS
 
 
 Makoto
-今日ってお前の誕生日だよな？\nぐ、偶然、たまたま作った\nケーキがあるんだけど…\n食わねぇか？=It's your birthday today, right?\nI-I just happened to, you know, bake a cake for no real reason, so... Wanna have some of it?
+今日ってお前の誕生日だよな？\nぐ、偶然、たまたま作った\nケーキがあるんだけど…\n食わねぇか？=It's your birthday today, right?\n...I-I just happened to, you know, bake a cake for no real reason, so... Wanna have some of it?
 へぇ、今日が誕生日だったのか\nおめでとさん！\nんじゃ、せっかくだし\nなんかおごってやるよ！=Huh, it was your birthday today. Congratulations!\nWell, it would be a great deal if I can treat you to something!
 
 
 MakotoC
-きょ、今日って誕生日だよな？\nおまえには世話になってるし、\nその…ケ、ケーキ焼いてきた\nから、さっさと受け取れ！=T-Today's your birthday, isn't it? You've been a big help to me, and... uh... I-I baked a cake for you, so hurry up and take it!
-今日はおまえの誕生日だよな\nせっかくだし、\nなんか飯でも作ってやるよ\nリクエストがあったら言ってくれ=Today's your birthday, isn't it? Since you're here, I'll make you something to eat. Let me know if you have any requests.
+きょ、今日って誕生日だよな？\nおまえには世話になってるし、\nその…ケ、ケーキ焼いてきた\nから、さっさと受け取れ！=T-Today's your birthday, isn't it? ...You've been a big help to me, and... uh... I-I baked a cake for you, so hurry up and take it!
+今日はおまえの誕生日だよな\nせっかくだし、\nなんか飯でも作ってやるよ\nリクエストがあったら言ってくれ=Today's your birthday, isn't it? ...Since you're here, I'll make you something to eat. Let me know if you have any requests.
 
 
 MakotoCo
@@ -72,6 +77,6 @@ MakotoCo
 
 
 MakotoS
-今日、誕生日なんだろ？\n食材の買い出し、付き合えよ\nあとでなんか作ってやるからさ\nおまえの好きなもの…教えろよな=It's your birthday, right? Then come help me do some grocery shopping. I'll make us something later, so tell me what you want to eat.
+今日、誕生日なんだろ？\n食材の買い出し、付き合えよ\nあとでなんか作ってやるからさ\nおまえの好きなもの…教えろよな=It's your birthday, right? ...Come help me do grocery shopping. I'll make us something later, so tell me what you want to eat.
 誕生日なんだってな。そうだな…\n砂浜特訓メニューのプレゼント、\nってのは冗談で、\nあとでカキ氷でもおごってやるよ=It's your birthday. That's right...\nI'll give you a special sandy beach training menu, just kidding, I'll buy you shaved ice later.
 

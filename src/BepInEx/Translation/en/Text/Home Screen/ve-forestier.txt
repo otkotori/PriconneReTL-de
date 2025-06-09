@@ -11,6 +11,11 @@ AoiCa
 お誕生日おめでとうございます！\n…あはは、やっぱり緊張しますね\n私の挨拶、大丈夫でしたか？\n声とか裏返ってませんでした？=Happy Birthday!\n…Ah, I'm still nervous. Was my greeting okay?\nMy voice wasn't shaking, was it...?
 
 
+AoiP
+大切な人のお誕生日を\nいっしょに祝うことができる\nそんな平和な日常を守るのも、\n大事なことなんですっ=Being able to celebrate the birthday of someone important to me, and protecting this peaceful everyday life, is very important!
+お誕生日おめでとうございます！\nここはクローチェさんに頼んで\nギガンティックな祝砲でも\n撃っちゃいますか！　やり過ぎ？=Happy Birthday!\nShall we ask Croce to fire a gigantic celebratory cannon?\n...Would that be overdoing it?
+
+
 AoiSt
 お誕生日おめでとうございます！\nこんな日に\nあなたと一緒に居られるなんて…\n友達ができるよりうれしいです♪=Happy Birthday!\nI'm glad I can spend this day with you... It makes me happier than making new friends♪
 お、おお、お誕生日\nおめでとうございます！\nああ…他の誰かの誕生日を\n祝えるだけでも幸せです…=Oh, Happy Birthday!\nAh... It makes me happy just to be able to celebrate someone else's birthday...
@@ -18,7 +23,7 @@ AoiSt
 
 AoiW
 今日はあなたのお誕生日をお祝い\nさせてください！　歌に、花束の\n贈呈…それと100通の手紙です\n…では心を込めて歌います！=Today, let me celebrate your birthday! With a song, a bouquet... and 100 letters...\nNow, I will sing with all my heart!
-あなたのお誕生日を祝う言葉を\nわ、私が…！？　し、幸せすぎて\nちょっと怖いですが…せーのっ\nお誕生日おめでとうございます！=I, me...? It's a little scary because I'm happy...\nHere goes nothing!\nHappy Birthday to you!
+あなたのお誕生日を祝う言葉を\nわ、私が…！？　し、幸せすぎて\nちょっと怖いですが…せーのっ\nお誕生日おめでとうございます！=I, me...? It's a little\nscary because I'm happy...\nHere goes nothing!\n...Happy Birthday to you!
 
 
 Hatsune
@@ -26,9 +31,14 @@ Hatsune
 お誕生日のお祝いに、\nハツネ膝枕をプレゼント！\n寝心地いいよ～☆\nん～なんだか私も眠く…すやぁ～=To celebrate your birthday, this Hatsune knee-pillow is my gift!\nIt's so comfortable~☆ Hm~\nI'm kind of sleepy too... Suyaa~
 
 
+HatsuneNY
+誕生日おめでとう！　キミに\n特別な景色をプレゼントなのだ～　\nえへへ、めでたいでしょ？\nこれで今日もいい日になるね☆=Happy Birthday!\nI'm giving you a special view as a present~ Ehehe, isn't that great? Today's going to be a great day☆
+誕生日おめでとう！\n振袖姿でお祝いなのだ～！\n今日はお正月以上に\n盛り上げていくよ～☆=Happy Birthday!\nLet's celebrate wearing furisode! Today's going to be even more exciting than New Year's~☆
+
+
 HatsuneS
 ハッピーバースデー☆\nお祝いに、今日は朝から晩まで、\nキミをずっと応援するのだ～！=To celebrate Happy Birthday to you...☆\nI'll be cheering you on from morning to night today!
-今日ってキミのお誕生日だよね！\nえへへ、忘れるわけないよ～！\nパーティの準備もばっちりだし、\nいっぱい楽しく過ごそうね！=Today's your birthday, isn't it?! Ehehe, how could I forget?!\nThe party preparations are perfect, so let's have lots of fun!
+今日ってキミのお誕生日だよね！\nえへへ、忘れるわけないよ～！\nパーティの準備もばっちりだし、\nいっぱい楽しく過ごそうね！=Today's your birthday, isn't it?! ...Ehehe, how could I forget?!\nThe party preparations are perfect, so let's have lots of fun!
 
 
 HatsuneShiori (Hatsune)
@@ -42,11 +52,11 @@ Misato
 
 
 MisatoNY
-お誕生日おめでとう♪\n先生、ちょっと趣向を凝らして\n誕生日雑煮を作ってみたの！\nあなたの好物、てんこ盛りよ～♪=Happy Birthday!♪ I've been trying to make zouni for your birthday!♪ Isn't your favorite food tenko zouni?♪
-お誕生日のお祝いに今日は一日\n先生のお膝、貸してあげますね♪\nふふふ、よしよしいい子〜♪\n着物がすべすべで気持ちいい？=To celebrate, I'll lend you my lap for the rest of the day♪ Hehehehe, does my kimono feel nice and smooth?
+お誕生日おめでとう♪\n先生、ちょっと趣向を凝らして\n誕生日雑煮を作ってみたの！\nあなたの好物、てんこ盛りよ～♪=Happy Birthday!♪\nI've been trying to make zouni for your birthday!♪ Isn't your favorite food tenko zouni?♪
+お誕生日のお祝いに今日は一日\n先生のお膝、貸してあげますね♪\nふふふ、よしよしいい子〜♪\n着物がすべすべで気持ちいい？=To celebrate, I'll lend you my lap for the rest of the day♪\nHehehehe, does my kimono\nfeel nice and smooth?
 
 
 MisatoS
 今日はあなたのお誕生日ね！\nずっと頑張ってきたいい子には\n先生から特別なお祝いよ♪\nほら、いい子いい子…♪=Today's your birthday!\nHere's a special celebration to the good boy that you've worked hard for all this time♪
-なんだかソワソワしてるわね？\nそれもそうよね、今日はあなたの\nお誕生日だもの。先生と一緒に\nいっぱいお祝いしちゃいましょ♪=You're kind of nervous, aren't you? You're right.\nIt's your birthday today.\nLet's celebrate a lot together♪
+なんだかソワソワしてるわね？\nそれもそうよね、今日はあなたの\nお誕生日だもの。先生と一緒に\nいっぱいお祝いしちゃいましょ♪=You're kind of nervous, aren't you? ...You're right.\nIt's your birthday today.\nLet's celebrate a lot together♪
 

@@ -6,29 +6,34 @@ Chika
 お誕生日おめでとうございます\n歌以外にいいプレゼントが\n思いつかなくて…\nよかったら聞いてください=Happy Birthday!\nI couldn't think of a better present than a song...\nPlease listen to me if you'd like.
 
 
+ChikaC
+お誕生日おめでとうございます\nあなたの生まれた日、全力で\nお祝いしますね。歌にケーキ\n膝枕で子守唄もしちゃいます…♪=Happy Birthday!\nI'll do everything I can celebrate your birth. I'll sing you a song, a cake, and a lullaby on my lap...♪
+ハッピーバースデー！　ケーキを\n里の皆さんと一緒に用意しました\nろうそくを消す前には、お祝いの\n歌を歌いましょう♪=Happy Birthday! I've prepared a cake with everyone in the village. Before you put out the candles, let's sing a celebratory song♪
+
+
 ChikaS
-お誕生日、おめでとうございます\n夏の太陽のようなあなたに贈る\nバースデーソングを作りました\n気に入ってくれるといいのですが=Happy Birthday, the summer I spent with you is a precious memory for me. I look forward to working with you in the future.
+お誕生日、おめでとうございます\n夏の太陽のようなあなたに贈る\nバースデーソングを作りました\n気に入ってくれるといいのですが=Happy Birthday. The summer I spent with you is a precious memory for me. I look forward to working with you in the future.
 ハッピーバースデー！\nあなたと過ごした夏は、\n私にとって大切な思い出です\n今後ともよろしくお願いしますね=Happy Birthday!\nI wrote you a birthday song,\nmade like the summer sun.\nI hope you like it.
 
 
 ChikaX
 誕生日、おめでとうございます\n子どもたちや精霊も一緒に\nお祝いしてくれるそうです\n素敵な一日にしましょうね=Happy Birthday.\nThe children and spirits are all going to celebrate your birthday.\nLet's make it a wonderful day.
-今日は誕生日ですよね、\nおめでとうございます\nプレゼントの他に、私の\n歌も贈らせてください=Today's your birthday, isn't it? Congratulations. In addition to your present, please let me sing you a song, too.
+今日は誕生日ですよね、\nおめでとうございます\nプレゼントの他に、私の\n歌も贈らせてください=Today's your birthday, isn't it? ...Congratulations. In addition to your present, please let me sing you a song, too.
 
 
 Nozomi
-ハッピーバースデー、トゥユー♪\nハッピーバースデー、トゥユー♪\nどう？　キミだけのための\nプライベートライブだよ！=Happy birthday to you♪\nHappy birthday to you♪\nNot everyone gets their own private concert from me!
+ハッピーバースデー、トゥユー♪\nハッピーバースデー、トゥユー♪\nどう？　キミだけのための\nプライベートライブだよ！=Happy Birthday to you♪\nHappy Birthday to you♪\nNot everyone gets their own private concert from me!
 おめでとう♪　キミの誕生日を\nお祝いできるように、\nずっと前からスケジュールを\n調整してたんだ！　うれしい？=Happy Birthday♪\nI've been adjusting my schedule so that I can celebrate with you!\nAren't you glad?
 
 
 NozomiA
 お誕生日のお祝いに、香水を\n作ってみたんだけど…え？\nいい匂いって、私が？　キミの\n方が断然いい匂いだよっ…=I tried making perfume to celebrate your birthday, but...\nHuh? I smell good?\nYou smell way better than me...
-お誕生日おめでとう！　これ、\nお手製のポーション詰め合わせ\nいつも元気でいてほしいからね=Happy Birthday!\nHere's your handmade potion assortment.\nI hope you're always doing well!
+お誕生日おめでとう！　これ、\nお手製のポーション詰め合わせ\nいつも元気でいてほしいからね=Happy Birthday! Here,\na set of handmade potions.\nI want you to always stay\nhealthy and full of energy!
 
 
 NozomiL
-キミが生まれてきてくれたから\n私たちは出会えたんだよ\nこの奇跡に、私は感謝してるんだ\n心を込めて…誕生日おめでとう！=It's because you were born that we met each other.\nI'm grateful for this miracle.\nHappy Birthday!
-ハッピーバースデー！\n今日はキミが主役の日だよ！\nいつも応援してもらってる分\n思いっきり目立たせてあげるね♪=Happy Birthday!\nToday's the day you're the star of the show! I'll try to make you stand out as much as I can♪
+キミが生まれてきてくれたから\n私たちは出会えたんだよ\nこの奇跡に、私は感謝してるんだ\n心を込めて…誕生日おめでとう！=Because you were born,\nwe were able to meet.\nI’m so grateful for this miracle. Ehehe... Happy Birthday!♪
+ハッピーバースデー！\n今日はキミが主役の日だよ！\nいつも応援してもらってる分\n思いっきり目立たせてあげるね♪=Happy Birthday!\nToday's your day to shine!\nSince you always support me,\nI’ll make sure you stand out♪
 
 
 NozomiS
@@ -42,8 +47,13 @@ NozomiX
 
 
 Tsumugi
-あの、おめでとうございます…\n騎士さんの誕生日ですよ！\nこれ…ハンカチです…え？\nプレゼントですっ！　バカっ！=H-happy birthday, Kishi-san...\nIt's your special day of the year! Here... take this handkerchief. What?! It's a present, obviously!
-た、誕生日なんですよね？\n一応おめでとうございます！\n…どこで知ったかなんて\nどうでもいいじゃないですか！=It's your birthday, isn't it?\nHappy Birthday to you!\nIt doesn't matter where I found out about it!
+あの、おめでとうございます…\n騎士さんの誕生日ですよ！\nこれ…ハンカチです…え？\nプレゼントですっ！　バカっ！=H-happy birthday, Mr. Knight...\nIt's your special day of the year! Here... take this handkerchief. What?! It's a present, obviously!
+た、誕生日なんですよね？\n一応おめでとうございます！\n…どこで知ったかなんて\nどうでもいいじゃないですか！=It's your birthday, isn't it?\n...Happy Birthday to you!\nIt doesn't matter where\nI found out about it!
+
+
+TsumugiGG
+今日が騎士さんの生まれた日…\nつまり私の悩みの種が生まれた日\n…なーんて、冗談ですよ！\n今日はたくさんお祝いしましょ！=Today is the knight’s birthday...\nOr, the day my source of trouble was born. ...Just kidding!\nLet’s celebrate lots today!
+誕生日おめでとうございます！\nプレゼントに服を作ってあげます\n…ぺ、ペアルックとかじゃない\nですからね！=Happy Birthday!\nI’ll make you some clothes as a gift. ...I-it's not like they’re matching outfits or anything!
 
 
 TsumugiH

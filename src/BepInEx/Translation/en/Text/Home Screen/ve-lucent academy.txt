@@ -13,17 +13,22 @@ IoN
 
 IoS
 お誕生日おめでとう～\n浜辺で見る君の顔が\nすっかり大人にみえるわ\nふふ、夏のせいかしらね=Happy Birthday~\nYou look so mature when I see your face on the beach~ Hehehe, I wonder if it's because of summer.
-今日は君のお誕生日ね\nふふ、もちろん忘れてないわ\n一つ大人になったお祝いに\n海の家でパーティーしましょ！=Today's your birthday, isn't it? Hehehe, of course I haven't forgotten. Let's have a party at the beach house to celebrate!
+今日は君のお誕生日ね\nふふ、もちろん忘れてないわ\n一つ大人になったお祝いに\n海の家でパーティーしましょ！=Today's your birthday, isn't it? ...Hehehe, of course I haven't forgotten. Let's have a party at the beach house to celebrate!
+
+
+IoX
+ハッピーバースデー！\n誕生日プレゼントとして、\n私がいい夢を見せてあげる♪\nきっと寝覚めもばっちりよ！=Happy Birthday!\nAs a birthday present,\nI'll show you a good dream♪\nI'm sure you'll wake up perfectly!
+お誕生日おめでとう！\nお祝いのパーティーは盛大にね♪\nケーキはもちろん、\nショートケーキにしましょう♪=Happy Birthday! Let's have\na big party to celebrate♪\nCake, of course, but\nlet's make it shortcake♪
 
 
 Misaki
-ハッピーバースデー！\nアタシが、大人なバースデーを\nプロデュースしてあげるわ\n楽しみにしてなさい♪=Happy Birthday!\nI'll organize a proper grown-up's party for you.\nI guarantee you'll enjoy it!
-誕生日、おめでと！\nプレゼントは…ア・タ・シ・よ♪\n…あれ？　引いてる？\n雑誌に書いてあったのに…？=Happy Birthday!\nI got you a present....\nAre you pulling out?\nI read about it in a magazine...
+ハッピーバースデー！\nアタシが、大人なバースデーを\nプロデュースしてあげるわ\n楽しみにしてなさい♪=Happy Birthday!\nI'll organize a proper\ngrown-up's party for you.\nI guarantee you'll enjoy it!
+誕生日、おめでと！\nプレゼントは…ア・タ・シ・よ♪\n…あれ？　引いてる？\n雑誌に書いてあったのに…？=Happy Birthday!\nI got you a present....\nAre you pulling out...?\nI read about it in a magazine...
 
 
 MisakiH
-お誕生日おめでと！\nプレゼントは何がいい？\n…え？　\nこのアイちゃんが欲しいの！？=Happy Birthday!\nWhat do you want for your birthday present?\n...Huh? You want this, Ai-chan?!
-ハッピーバースデー＆\nハッピーハロウィン♪\nというわけで、アンタへの\nプレゼントは…イタズラよ！=Happy Birthday, and Happy Halloween♪\nSo, the present for you is... a prank!
+お誕生日おめでと！\nプレゼントは何がいい？\n…え？　\nこのアイちゃんが欲しいの！？=Happy Birthday!\nWhat do you want\nfor your birthday present?\n...Huh? You want this, Ai-chan?!
+ハッピーバースデー＆\nハッピーハロウィン♪\nというわけで、アンタへの\nプレゼントは…イタズラよ！=Happy Birthday, and\nHappy Halloween♪\nSo, the present for you is...\na prank from me!
 
 
 MisakiSt
@@ -32,21 +37,21 @@ MisakiSt
 
 
 Suzuna
-今日はヒデサイの誕生日だよね！\n学院のみんなでパーティーしよ？\nあ、でも、二人きりのパーティー\nってのも楽しいかも♪=Today's Hidesai's birthday, isn't it?! Why don't we all have a party?! Oh, but having a party with just us two may be fun too♪
+今日はヒデサイの誕生日だよね！\n学院のみんなでパーティーしよ？\nあ、でも、二人きりのパーティー\nってのも楽しいかも♪=Today's Hidesai's birthday, isn't it?! ...Why don't we all have a party?! Oh, but having a party with just us two may be fun too♪
 ハッピーバースデー！\nうちがお祝いしてあげる☆\nん～誕生日に一緒なんて\nカップルみたいかも？=Happy Birthday! I'll congratulate you on your birthday!☆\n...Hmm~ Being together on your birthday makes us a couple?
 
 
 SuzunaH
-今日、ヒデサイの誕生日とか\nまじエモくない？\n最高の日じゃん！\nうちと一緒にお祝いしよ♪=Isn't today Hidesai's birthday seriously embarrassing for me? It's the best day ever!\nLet's celebrate it together♪
-ヒデサイ誕生日おめ～♪\nプレゼントなにがいい？\nあ、一緒に選びに行く？\nりょ！　そんじゃ行こー！=Happy Hidesai's Birthday~♪\nWhat do you want as a present? Oh, would you like to go pick it out with me? Alright! Let's go!
+今日、ヒデサイの誕生日とか\nまじエモくない？\n最高の日じゃん！\nうちと一緒にお祝いしよ♪=Isn't today Hidesai's birthday seriously embarrassing for me? ...It's the best day ever!\nLet's celebrate it together♪
+ヒデサイ誕生日おめ～♪\nプレゼントなにがいい？\nあ、一緒に選びに行く？\nりょ！　そんじゃ行こー！=Happy Hidesai's Birthday~♪\nWhat do you want as a present? Oh, would you like to go pick it out with me? ...Alright! Let's go!
 
 
 SuzunaS
 ちょす！　ヒデサイ、ハピバー☆\nお祝いしなきゃだよね！\nうちにしてほしいことがあったら\nなんでも言っていいよ！=Hey! Hidesai, we're going to celebrate Happibur☆!\nIf there's anything you want us to do, you can tell me!
-ちょすー！\nヒデサイ、誕生日なんだよね？\nおめでとー！\n今日はパーティーだね！=Hey, Hidesai! It's your birthday, right?\nHappy Birthday! We're having a party today!
+ちょすー！\nヒデサイ、誕生日なんだよね？\nおめでとー！\n今日はパーティーだね！=Hey, Hidesai!\nIt's your birthday, right?\n...Happy Birthday!\nWe're having a party today!
 
 
 SuzunaSt
-ヒデサイ、誕生日だよね\n今日はうちがハッピーな日に\nするから、覚悟してて！\nたくさんお祝いしちゃうよ♪=Hidesai, it's your birthday, isn't it? We're going to have a happy day today, so be prepared!\nWe'll celebrate a lot♪
+ヒデサイ、誕生日だよね\n今日はうちがハッピーな日に\nするから、覚悟してて！\nたくさんお祝いしちゃうよ♪=Hidesai, it's your birthday, isn't it? ...We're going to have a happy day today, so be prepared!\nWe'll celebrate a lot♪
 ヒデサイ、おたおめ～！\nこないだ、パないお店\n見つけたから、一緒いこーよ\nもち、今日はうちがおごるし！=Hidesai, you're such a spoiled brat! I found a nice place the other day, so let's go together!\nIt's on me today!
 

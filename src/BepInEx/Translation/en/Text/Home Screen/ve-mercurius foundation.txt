@@ -2,8 +2,8 @@
 ~1
 
 Akino
-誕生日、おめでとうございます\nあなたさまの誕生日の\n価値の前では、どんな宝石も\nかすんで見えてしまいますわね！=Congratulations on your birthday!\nAny jewel would look hazy in the face of your birthday's value!
-今日はあなたさまの誕生日？\nまあ、おめでとうございます！\nすぐにパーティーを\n開きましょう！=Is it your birthday today?\nWell then, happy birthday!\nLet's have a party right away!
+誕生日、おめでとうございます\nあなたさまの誕生日の\n価値の前では、どんな宝石も\nかすんで見えてしまいますわね！=Happy Birthday! In the\npresence of the value of your birthday, even the most precious jewels pale in comparison!
+今日はあなたさまの誕生日？\nまあ、おめでとうございます！\nすぐにパーティーを\n開きましょう！=Is it your birthday today?\n...Well then, happy birthday!\nLet's have a party right away!
 
 
 AkinoS
@@ -12,8 +12,8 @@ AkinoS
 
 
 AkinoX
-誕生日のお祝いに手料理を\nご用意してみましたわ！\n是非とも\n召し上がってくださいませ♪=I prepared homemade dishes to celebrate your birthday!\nPlease enjoy them to your heart's content♪
-今日はあなたさまの\n誕生日ですもの\nささやかに、とは言いません\n盛大にお祝いいたしましょう！=Since today is your birthday, let's celebrate it together in a grand way, not in a modest way!
+誕生日のお祝いに手料理を\nご用意してみましたわ！\n是非とも\n召し上がってくださいませ♪=I prepared homemade dishes\nto celebrate your birthday!\nPlease enjoy them\nto your heart's content♪
+今日はあなたさまの\n誕生日ですもの\nささやかに、とは言いません\n盛大にお祝いいたしましょう！=Since today's your birthday,\nlet's celebrate it together\nin a grand way, and\nnot in a modest way!
 
 
 AkinoSaren (Akino)
@@ -22,17 +22,17 @@ AkinoSaren (Akino)
 
 
 Mifuyu
-誕生日おめでとう\nお祝いの言葉なんて\n非効率的かもしれないけど…\nキミにはちゃんと言いたかったの=Happy Birthday.\nIt might be inefficient to say congratulations, but...\nI wanted to tell you.
+誕生日おめでとう\nお祝いの言葉なんて\n非効率的かもしれないけど…\nキミにはちゃんと言いたかったの=Happy Birthday.\nMy words of celebration\nmight be inefficient, but… I really\nwanted to say them to you.
 ケーキの準備よし！\nプレゼントもよし！\nさあ、効率的な\n誕生日パーティーを始めるわよ！=Cake and candles, check!\nPresents, check! All right!\nLet's have ourselves an efficient birthday party!
 
 
 MifuyuS
-誕生日おめでとう\n今日は二人で海を見ながら\n散歩したり…たまには非効率的に\n過ごしてみない？=Happy Birthday, since it's a special day, why don't we forget about efficiency and take a leisurely walk along the beach?
-今日がキミの誕生日だったのね\nだったらお祝いをしないと！\nさあ、海でパーティーの食材を\nゲットしてくるわよ！=It's your birthday today, isn't it? So we should celebrate! Come on! Let's get some materials for our party at the beach!
+誕生日おめでとう\n今日は二人で海を見ながら\n散歩したり…たまには非効率的に\n過ごしてみない？=Happy Birthday. Since it's a special day, why don't we forget about efficiency and take a leisurely walk along the beach?
+今日がキミの誕生日だったのね\nだったらお祝いをしないと！\nさあ、海でパーティーの食材を\nゲットしてくるわよ！=It's your birthday today, isn't it? ...So we should celebrate!\nCome on! Let's get some materials for our party at the beach!
 
 
 MifuyuW
-今日はキミの誕生日よね？\nお祝いのケーキを作ってみたの\n自分で作ると節約できるし、\n味にもけっこう自信あるのよ！=Today's your birthday, isn't it? I tried making a cake to celebrate. I'll make it myself, and I'm pretty confident in the taste!
+今日はキミの誕生日よね？\nお祝いのケーキを作ってみたの\n自分で作ると節約できるし、\n味にもけっこう自信あるのよ！=Today's your birthday, isn't it? ...I tried making a cake to celebrate. I'll make it myself, and I'm pretty confident in the taste!
 誕生日おめでとう！\nまた一歩大人になったわね\nキミの成長をそばで見てると\n私も師匠として鼻が高いわ！=Happy Birthday!\nYou've grown up again! Watching you grow up next to me makes me proud as your teacher!
 
 
@@ -48,30 +48,30 @@ TamakiCafe
 
 TamakiS
 ハッピーバースデー！\n今日は特別にキミのお願い事を\n聞いてあげるにゃ！　たとえば、\n無人島で二人っきり…なんてにゃ♪=Happy Birthday!\nToday, I'll grant you a special wish, nya! For example, we'll be alone on a deserted island... nya♪
-今日はキミの誕生日にゃ！\nキャットコインを献上してくれたら\nデートくらいは\n考えてやらなくもないにゃ♪=Today's your birthday, nya!\nIf you give me a rupi, I'll at least consider going on a date with you!
+今日はキミの誕生日にゃ！\nキャットコインを献上してくれたら\nデートくらいは\n考えてやらなくもないにゃ♪=Today's your birthday, nya!\nIf you give me a rupi,\nI'll at least consider\ngoing on a date with you!
 
 
 TamakiW
 今日はキミの誕生日にゃ！\n特別に0ルピで今日はあたしを\n貸し出ししてあげるにゃ！\nなんならデートするかにゃ♪=Today's your birthday, nya!\nI'll lend you mine for 0 rupi just for you, nya! If you want, I'll go on a date with you, nya♪
-誕生日おめでとうにゃ！\n特別にたい焼きケーキを\n作ってきたにゃ！\n食べさせてあげようかにゃ？=Happy Birthday, nya!\nI made a special taiyaki cake for you, nya!\nWant me to feed you?
+誕生日おめでとうにゃ！\n特別にたい焼きケーキを\n作ってきたにゃ！\n食べさせてあげようかにゃ？=Happy Birthday, nya!\nI made a special taiyaki\ncake for you, nya!\nWant me to feed you?
 
 
 Yukari
-キミの誕生日というわけで\nまずは…かんぱーい！\nねえ、今日はずっと\n一緒にいてもいいかな…？=Since it's your birthday, let's start with... Cheers!\nHey, can we stay together all day?
-誕生日おめでとう！\n今日はいっぱい\nお祝いしてあげるね！=Happy Birthday to you!\nI'll celebrate your birthday with you just for today!
+キミの誕生日というわけで\nまずは…かんぱーい！\nねえ、今日はずっと\n一緒にいてもいいかな…？=Since it’s your birthday…\nFirst things first—cheers!\nHey, is it okay if I stay\nwith you all day today...?
+誕生日おめでとう！\n今日はいっぱい\nお祝いしてあげるね！=Happy Birthday to you!\nI'll celebrate your birthday\nwith you just for today!
 
 
 YukariCa
 お誕生日おめでと～！\nとっておきのキャンプ飯を\n振る舞ってあげるね？\n特別なキャンプにしてあげる！=Happy Birthday!\nI'll give you a special camp meal, okay? We'll make it a special camping trip!
-ふふ、ハッピーバースデー！\nキャンプ場でケーキだなんて\n他には体験できないでしょ？\nほらほら、早速食べてみて！=Hehe, Happy Birthday!\nA cake at a campsite is a unique experience, isn't it?\nCome on, try it!
+ふふ、ハッピーバースデー！\nキャンプ場でケーキだなんて\n他には体験できないでしょ？\nほらほら、早速食べてみて！=Hehe, Happy Birthday!\nA cake at a campsite is\na unique experience, isn't it?\nCome on, try it!
 
 
 YukariS
-ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Happy Birthday, dear♪\nNow, it's a happy day, so we've gotta celebrate it with all our might! Here we go! Cheers!
+ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Happy Birthday to youuu♪\nCome on, it’s a special day,\nso we have to celebrate in style!\n...Alright then, cheers!♪
 お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Happy Birthday♪\nI came in a hurry, so I'm sorry I dressed like this, okay? I wanted to celebrate as soon as possible.
 
 
 YukariX
-お誕生日、おめでとう！\n後で二人きりでパーティー\nしちゃおっか♪=Happy Birthday!\nLet's have a party just the two of us afterwards♪
-今日はキミの誕生日だもの\nお祝いしないともったいないわ！\nそれじゃあ、かんぱ～い☆=Today's your birthday, so it'd be a waste if we didn't celebrate it!\nOkay then, cheers☆
+お誕生日、おめでとう！\n後で二人きりでパーティー\nしちゃおっか♪=Happy Birthday!\nHow about we\nhave a private party later,\njust the two of us?♪
+今日はキミの誕生日だもの\nお祝いしないともったいないわ！\nそれじゃあ、かんぱ～い☆=Today's your birthday,\nso it'd be a waste\nif we didn't celebrate it!\n...Okay then, cheers☆
 

@@ -2,12 +2,12 @@
 ~1
 
 Anna
-今日は貴様が転生した日か\n記念に私からこれを授けよう！\n見よ！　暗黒騎士の紋章を！\n…どうだ。かっこいいだろう？=Today is the day of your rebirth and I give you this to commemorate it! Behold! The emblem of the dark knight! What do you think?
 シグルドよ、誕生日おめでとう！\n私からは日記をプレゼントだ！\n我らの活動を書き残すがいい！\n…字は書ける、よな？=Ah, Sigurd! Happy Birthday! For your present. I bestow upon you a journal to record our exploits! You... can actually write, yes?
+今日は貴様が転生した日か\n記念に私からこれを授けよう！\n見よ！　暗黒騎士の紋章を！\n…どうだ。かっこいいだろう？=Today's the day of your rebirth, and I give you this to celebrate it! Behold! The emblem of the dark knight! What do you think?
 
 
 AnnaP
-今日は貴様の生誕祭だ、盟友よ！\nふふ、すでに饗宴の準備は\n整えてある…海賊流の宴で\n盛大に祝ってやろう！=Today is your birthday, sworn ally! The preparations for the feast are complete... Let's celebrate with a pirate-style feast!
+今日は貴様の生誕祭だ、盟友よ！\nふふ、すでに饗宴の準備は\n整えてある…海賊流の宴で\n盛大に祝ってやろう！=Today's your birthday, sworn ally! The preparations for the feast are complete... Let's celebrate with a pirate-style feast!
 シグルド、誕生日おめでとう！\nこの日のために財宝も用意した！\nわ、私の手作りなのだが…\nよければ受け取ってほしい！=Sieg, happy birthday! I've also prepared a treasure for this day! I-It's handmade, but... If you don't mind, I'd like you to have it!
 
 
@@ -18,11 +18,11 @@ AnnaS
 
 Eriko
 お誕生日おめでとうございます\nプレゼントを用意しましたわ\n婚姻届と、結婚指輪と、\n二人の新居です=Happy Birthday, my love. I got a few presents for you! A marriage application, a wedding ring, and a lovely new home for us.
-お誕生日を祝して、バースデー\nケーキをつくりましたわ\n隠し味は、睡眠薬としびれ薬と\n惚れ薬と媚薬と…私の愛情です=To celebrate, I made a birthday cake. The secret ingredient is pills, numbness, love potions, aphrodisiacs... and my love.
+お誕生日を祝して、バースデー\nケーキをつくりましたわ\n隠し味は、睡眠薬としびれ薬と\n惚れ薬と媚薬と…私の愛情です=To celebrate, I made a birthday cake. The secret ingredient is pills, numbness, love potions, aphrodisiacs... and, my love.
 
 
 ErikoC
-あなた様の誕生日、それすなわち\n奇跡が顕現した日ということ\nなのでこの日を記念日にすべく\n色々手を打っていますわ=Since it's your birthday, or in other words, the day a miracle manifests itself, I'll do everything I can to make this day our anniversary.
+あなた様の誕生日、それすなわち\n奇跡が顕現した日ということ\nなのでこの日を記念日にすべく\n色々手を打っていますわ=Your birthday, or in other words, the day a miracle manifests itself, I'll do everything I can to make this day our anniversary.
 お誕生日おめでとうございます\nというわけで本日は特別講習\n「エリコの全て」をしっかりと\nお教えいたしますわ=Happy Birthday.\nFor today, I will teach you the special course of mine.\nIt's called, All About Eriko.
 
 
@@ -32,17 +32,17 @@ ErikoS
 
 
 ErikoV
-誕生日おめでとうございます\nふたりきりでお祝いする準備は\nできていますわ\nそのあとは…クスクス=Happy Birthday.\nI'm ready to celebrate your birthday alone together.\nAfter that... *giggle*
+誕生日おめでとうございます\nふたりきりでお祝いする準備は\nできていますわ\nそのあとは…クスクス=Happy Birthday.\nI'm ready to celebrate\nyour birthday alone together.\nAfter that... *giggle*
 あなた様が生まれた日…つまり\n私たちの運命が始まった日ですわ\n祝杯をあげましょう\nさぁ、これをお飲みになって…=The day you were born... in other words, the day our fate began.\nLet us raise a toast.\nNow, please drink this.
 
 
 Mitsuki
-ハッピーバースデー！\n私からの贈り物は…これよ\n元気が出る特製ドリンク♪\n一気に飲んじゃだめよ…？=Happy Birthday! My present to you is... this special drink that will fill you with energy! Just be careful not to drink it all at once...
-君、今日が誕生日でしょう？\nはいこれ。私からのプレゼント\n特別に調合した薬なの。効能？\n…飲んでからのお楽しみ♪=Today's your birthday, isn't it? Here, take this. It's a special medicine I made.\nIt'll be fun after you drink it♪
+ハッピーバースデー！\n私からの贈り物は…これよ\n元気が出る特製ドリンク♪\n一気に飲んじゃだめよ…？=Happy Birthday!\nMy gift to you is… this!\nA special energy-boosting drink♪\nDon't chug it all at once, okay…?
+君、今日が誕生日でしょう？\nはいこれ。私からのプレゼント\n特別に調合した薬なの。効能？\n…飲んでからのお楽しみ♪=Today's your birthday, isn't it? ...Here, take this. It's a special medicine I made.\nIt'll be fun after you drink it♪
 
 
 MitsukiNY
-盆と正月がいっぺんにきたって\nこのおめでたさには敵わないわ\nさ、新薬で乾杯したら…\nバースデー治験を始めるわよ♪=Even if Bon Festival and New Year's come at the same time, here we are. Let's toast with a new drug... and start the birthday trial!♪
+盆と正月がいっぺんにきたって\nこのおめでたさには敵わないわ\nさ、新薬で乾杯したら…\nバースデー治験を始めるわよ♪=Even if Obon and New Year's come together, here we are.\nLet's toast with a new drug...\nand start the birthday trial!♪
 お誕生日おめでとう\n君の存在は私にとって\nまさに百薬の長\n今年も側に常備させてね=Happy Birthday to you!\nI'm the leader of a hundred medicines, and I'll always be by your side this year!
 
 
@@ -53,35 +53,35 @@ MitsukiOedo
 
 Nanaka
 お誕生日おめでとーっ！\n眼鏡をプレゼントだー！\nつけてみて！　…うん！\nパーペキ！　似合ってるよ！=Happy Birthday!\nI got you a pair of glasses!\nTry them on! ...Yeah! Perfect!\nThey look good on you!
-ハッピーバースデイッ！！\nキミへのプレゼントはこれだっ！\n私のおすすめ作品全185巻！\n…持って帰れるかな？=Happy Birthday! This is my present to you! 185 volumes of my top manga recs! ...Urn, you think you can carry them home?
+ハッピーバースデイッ！！\nキミへのプレゼントはこれだっ！\n私のおすすめ作品全185巻！\n…持って帰れるかな？=Happy Birthday!!\nHere’s my gift to you—\n185 volumes of my favorite series!\n…Think you can carry them all?
 
 
 NanakaH
 ハッピ～バースデ～♪\nプレゼントはナナカちゃんの\nコスプレ姿！　…なんちゃって～\n何か言ってよ、ハズイじゃんか～=Happy Birthday~♪ The present is Nanaka-chan's cosplay!\n...Just kidding~\nSay something, it's not right~
-お誕生日おっめでと～♪\n私ってば、推しのプロフィールは\n暗記する系のオタクなんだよね！=Happy Birthday~♪\nToday, I'll be an otaku who memorizes recommended profiles!
+お誕生日おっめでと～♪\n私ってば、推しのプロフィールは\n暗記する系のオタクなんだよね！=Happy Birthday~♪\nYou know, I’m the kind of\nfan who memorizes every\ndetail about my fave’s profile!
 
 
 NanakaS
-誕生日おめでとーっ！\nさぁ、ナナカちゃんお手製の\n変身グッズをプレゼントだよん☆\nこれで君も魔法少女になるのだ！=Happy Birthday! Nanaka-chan's got her own transforming item for you as a present☆\nNow you'll be a magical girl too!
-おたおめ～♪\nというわけで、君にはこの本を\nプレゼントしちゃいまーす！\n私のオススメ、選んでおいたぞ☆=Otadame~♪\nSince you're here, I'll give you this book as a present! I've picked out my recommendations☆
+誕生日おめでとーっ！\nさぁ、ナナカちゃんお手製の\n変身グッズをプレゼントだよん☆\nこれで君も魔法少女になるのだ！=Happy Birthday! Nanaka-chan's got her own transforming item for you as a gift☆\nNow you'll be a magical girl too!
+おたおめ～♪\nというわけで、君にはこの本を\nプレゼントしちゃいまーす！\n私のオススメ、選んでおいたぞ☆=Otadame~♪ Since you're here,\nI'll give you this book as a present! I've picked out my recommendations☆
 
 
 Ruka
 誕生日おめでとさん！\nいい釣竿が手に入ったんだ\nお前さんにあげるよ。今度二人で\n一緒にのんびり釣りに行こう=Happy Birthday!\nI got my hands on a neat fishing rod, so you can have it. Let's go fishing together soon, okay?
-お前さん、今日が誕生日なのか？\nそうか…めでたい日にはパーッと\n祝うに限る。そうと決まれば\n今日の飯はアタシのおごりだ！=Is it your birthday today? I see... On auspicious days, it's limited to a quick celebration. If so, today's meal is our treat!
+お前さん、今日が誕生日なのか？\nそうか…めでたい日にはパーッと\n祝うに限る。そうと決まれば\n今日の飯はアタシのおごりだ！=Is it your birthday today? ...I see... On auspicious days, it's limited to a quick celebration.\nIf so, today's meal is our treat!
 
 
 RukaNY
-お前さん、今日誕生日だって？\nふーん…いや、この一年で\n随分と見違えたなと思ってね\nなんだかうれしくなっちまうよ=Today's your birthday? Hmm... No, I was just thinking about how you've changed a lot over the past year. It makes me kinda happy.
-誕生日おめでとう、お前さん\n今日はお前さんの成長を祝って\nとっておきの釣りスポットに\n連れてってやるよ=Happy Birthday to you.\nToday, to celebrate your growth, I'll take you to your favorite fishing spot.
+お前さん、今日誕生日だって？\nふーん…いや、この一年で\n随分と見違えたなと思ってね\nなんだかうれしくなっちまうよ=Today's your birthday? ...Hmm... No, I was just thinking about how you've changed a lot over the past year. It makes me kinda happy.
+誕生日おめでとう、お前さん\n今日はお前さんの成長を祝って\nとっておきの釣りスポットに\n連れてってやるよ=Happy Birthday to you.\nToday, to celebrate your\ngrowth, I'll take you to\nyour favorite fishing spot.
 
 
 RukaS
-今日はお前さんの誕生日だよね\nお祝いとして、アタシの手料理を\nたくさん用意しておいたんだよ\nさ、向こうで一緒に食べようか=Today's your birthday, isn't it? To celebrate, I prepared a lot of my home cooking for you. Come on, let's eat over there together.
+今日はお前さんの誕生日だよね\nお祝いとして、アタシの手料理を\nたくさん用意しておいたんだよ\nさ、向こうで一緒に食べようか=Today's your birthday, isn't it?\n...To celebrate, I prepared a lot of my home cooking for you.\nCome on, let's eat here together.
 誕生日おめでとう\nあんまり大したものじゃないけど\nお祝いの品を用意しといたよ\nほら、受け取っておくれ=Happy Birthday!\nIt's not much, but I've got something for you to celebrate.\nHere, take it.
 
 
 RukaSal
-今日はお前さんの誕生日\nだったね。おめでとう\n出会った頃に比べたらずいぶん\n頼りになる男になってきたね♪=Today is your birthday, wasn't it? Congratulations, you've become a much more reliable man than you were when we first met♪
+今日はお前さんの誕生日\nだったね。おめでとう\n出会った頃に比べたらずいぶん\n頼りになる男になってきたね♪=Today's your birthday, isn't it? ...Congratulations, you've become a much more reliable man than you were when we first met♪
 誕生日おめでとう。無事に一年を\n過ごせたかい？　次の一年も\nアタシがついててやるから\n大船に乗ったつもりでいなよ♪=Happy Birthday. Did you make it through the year without issues? I'll be with you for the next year, so make sure you're on board!♪
 
