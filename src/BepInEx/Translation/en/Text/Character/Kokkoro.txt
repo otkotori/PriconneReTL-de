@@ -51,3 +51,25 @@ r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)�
 ##UE##
 アメスアミュレット=Ameth Amulet
 コッコロの精霊=Kokkoro Spirit
+
+##Comments##
+
+主さまのガイドを務めさせていただきます\n以後お見知りおきを=I will serve as your guide, my Lord.\nIt is a pleasure to make your acquaintance.
+ランドソルのような都会での生活には、\nまだ慣れません…ですが、ガイド役として、\nしっかりと主さまをご案内いたします=I still find it difficult to adjust to life in a city as large\nas Landosol... However, I will persevere in my duty to\nadvise you properly as your guide, my Lord.
+わたくし、故郷から遠く離れて過ごしておりますが、\n寂しくなどありませんよ\n主さまが傍にいてくださいますから=Despite being so far removed from my homeland,\nI don't feel lonely in the slightest.\nAll because I have you by my side, my Lord.
+主さまが困ったり心配したり迷ったりされた時には\nわたくしがお導きいたします、ガイド役として\nお任せくださいませ=My Lord, If you ever feel lost or worried or troubled,\nI shall give my utmost
+effort in guiding you.\nplease leave everything to me. 
+ガイド役がお世話をするのは、当然のこと\nむしろ、わたくしのようなものを傍に置いていただいて…\nお礼をいうのはわたくしの方でございます=It's only natural for a guide to take care of their lord.\nIn fact, it is I who should be thanking you\nfor allowing me to be by your side.
+いつもありがとう…ですか？\nそんな滅相もございません\nお礼をいわれるようなことなど、何もしておりませんよ=Thank you... as always?\nDon't be silly, my Lord.\nI haven't done anything deserving of your thanks.
+おはようございます、主さま\n素敵な朝ですよ。起きてください\n起きないと…イタズラしてしまいますよ♪=Good morning, my Lord.\nIt's so lovely out today. Please awaken.\nIf you don't... I'll tease you♪
+主さまに看病をしていただくなんて…\nガイド役失格、身が縮む思いです\nですが…とても、うれしいです。えへへ=How could I allow my Lord to care for me...?\nIt pains me to think of such a lapse of duty on my part.\nAnd yet... It also makes me very happy. Eheheh...
+山育ちですので、ずっと動物と触れ合って育ちました\nわんわんも、にゃんにゃんも、モーモーも、ブーブーも\n生き物はみんな愛らしいですね=Growing up in the mountains, I had much contact with\nanimals. I love doggies, kittens, piggies and moo-moos...\nAll living things are adorable.
+ですから今、このように主さまの\nお世話をさせていただけて、とてもうれしいのです\nこれからもずっとお傍にいさせてください=That's why it brings me such happiness to at last\ntake care of you as I am now.\nPlease allow me to be by your side forever.
+わたくし、小さな頃よりずっと、\n主さまにお仕えすることを\n夢見ておりました=To be truthful, I've dreamed of the day I would serve you, my Lord.\nEver since I was little.
+わたくしに至らぬ点などございませんでしょうか\n御不快なことがあれば、なんなりと\nおっしゃってください、主さま=Are there any inadequacies in my service?\nIf you should ever find anything not to your liking,\nplease Inform me at once, my Lord.
+主さまがアメスさまの託宣を受けられている最中、\n一人で暇ではないか、ですか？\n主さまの寝顔を見られて、むしろ幸せでございます♪=Do I not get bored while my Lord communicates\nwith Lady Ameth, you ask? Oh, no. The sight of your\nsleeping face fills me with nothing but happiness.♪
+主さま。もし寝つけないようなことがありましたら、\nわたくしが添い寝いたしますので仰ってくださいね\nそれにその…わたくしも独り寝は寂しいので…=My lord... If you ever have trouble falling asleep,\nplease let me know, and I will happily lay by your side,\nAfter all... I don't want to sleep alone, either...
+主さまも、随分と生活に慣れてこられましたね…\nわたくしなど居なくても…え、ずっと一緒だよって…\nはいっ！　これからも全身全霊でお仕えいたします♪=You've gotten quite used to life, haven't you,\nMy Lord...? Even if I'm not here...Eh?\nWe will always be together? Yes!\nI'll continue to serve you with all my might♪
+あ、だからといって、急になでるのをやめなくても…\nきょ、今日はこのままにしていただき、明日からは、\nわたくしががんばったときに甘やかしてくださいまし♪=Ah...l did not mean you must stop patting at once...\nI-I will allow it for today, but from now on, please\nsave It for when I have gone beyond the call of duty♪
+んもう…主さまは最近、わたくしを甘やかしすぎです\n主さまをお世話するのはわたくしにとって喜びであり、\nさらにご褒美をいただいていては天罰が下ります=Honestly... You've been spoiling me too much\nas of late. Taking care of you is already my greatest pleasure,\nso It would be wrong to accept additional rewards.
+今日も主さまにお仕えできて、充実した一日でした♪\nわわっ…あ、主さま、なぜ急に頭をなでて…\nえ、今日もお世話になったから？=Ah, another fulfilling day in service to my Lord♪\nAhh... Ah, my Lord, why are you patting my head\nall of a sudden...Huh? To thank me for all my help?
