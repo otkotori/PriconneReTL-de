@@ -1,0 +1,205 @@
+終了まであと=Ereignis endet in:
+日=Tag(e)
+時間=St
+分=M
+開演直前=Demnächst verfügbar
+r:"^神殿への参道([0-9\-\(\)\w （）]*)$"=Straße zum Tempel $1
+r:"^ランドソル郊外([0-9\-\(\)\w （）]*)$"=Landosol Außenrock $1
+r:"^光の裂け目([0-9\-\(\)\w （）]*)$"=Riss des Lichts $1
+r:"^エリザベスパーク([0-9\-\(\)\w （）]*)$"=Elizabeth Park $1
+r:"^エルピス島 開拓キャンプ一帯([0-9\-\(\)\w （）]*)$"=Insel Elpis: Reclamation Camp Bereich $1
+r:"^ゴーストグレイヴ([0-9\-\(\)\w （）]*)$"=Geisterklinge $1
+r:"^マホマホ王国避暑地？([0-9\-\(\)\w （）]*)$"=Sommerfrische Mahomaho Kingdom $1
+r:"^キッチンスタジアム([0-9\-\(\)\w （）]*)$"=Küchenstadion $1
+r:"^イルシオンの孤島([0-9\-\(\)\w （）]*)$"=Illusionsinsel $1
+r:"^マシーナ地方([0-9\-\(\)\w （）]*)$"=Masina-Gebeit $1
+r:"^タルグム地方([0-9\-\(\)\w （）]*)$"=Targum-Gebiet $1
+テラーハウス周辺=Rund um das Tellerhaus
+霊界=Geisterwelt
+ランドソル中央部=Zentrale Landosol
+
+r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Ereignis: $1 bis $2
+r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 bis $2
+r:"^([0-9/ :]+)まで$"=bis $1
+
+r:"^(\d+)日 (\d+)時間$"=$1T $2St
+r:"^(\d+)体撃破$"=$1 × Besiegt
+r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Besiegen Sie $1-Bosse, indem Sie\nSkip-Tickets und Boss-Tickets verbrauchen.\nIst das in Ordnung?
+討伐証を集めて、豪華報酬をGET!=Sammle Siegesmedaillen und erhalte eine Belohnung!
+
+[FFBB00,CE4F00]30[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]30[-][3C404E]-Tickets[-]
+[FFBB00,CE4F00]20[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]20[-][3C404E]-Tickets[-]
+登録中=Registriert
+ドロップ報酬=Belohnung abwerfen
+ボス詳細=Boss-Info
+信頼度=Intimität
+消費ボスチケット=Boss-Ticket-Kost.
+見放題=Alles, was man sehen kann
+まで開催中=Bis zum Ereignis
+r:"^推奨プレイヤーLv : (\d+)$"=Vorgeschla. St.: $1
+イベントへ=Zum Ereignis
+r:"^([0-9/: ]{11})に$"=$1
+イベント開催期間が終了します=Der Ereigniszeitraum wird beendet.
+イベント開催予定！=Kommende Ereignis!
+イベント開催決定！=Kommende Ereignis!
+イベント開催終了！=Das Ereignis ist vorbei!
+ボスバトルは終了しました。=Der Bosskampf ist beendet.
+イベントクエストは終了しました。=Die Ereignisquest ist beendet.
+r:"^開催日時:([0-9/: ]+)～([0-9/: ]+)$"=Zeitraum: $1 bis $2
+r:"^期間限定([0-9/: ]+)～([0-9/: ]+)$"=Zeitraum$1 bis $2
+
+リタイア確認=Bestätigung ausscheiden
+イベント=Ereignis
+討伐証=Medaille
+討伐証交換=Medaillen-Gacha
+イベントクエスト=Ereignisquest
+イベント\nミッション=Ereignis-\nMissionen
+ベントミッション=Ereignis-Mission
+所持上限を超えたアイテムはプレゼントに送られます。=Max. Artikel werden als Geschenk verschickt.
+スペシャル=Spezial
+SP=Geheimnis
+スキップ結果=Übersprung-Ergebnis
+スキップ完了=Alle überspringen
+合計獲得報酬=Gesamtbelohnung
+スキップチケット確認=Skip-Tickets
+r:"^イベントクエスト(.+)クリアで解放$"=Beende Ereignisquest $1 zum Freischalten.
+sr:"^(イベント|メイン)クエスト(.+)をクリアで解放されます。$"=Beende $1-Quest $2 zum Freischalten.
+r:"^ボスバトル(.+)クリアで解放$"=Schließe den Bosskampf von $1 ab.
+信頼度プレゼント一覧=Intimität-Geschenkeliste
+プレゼント一覧=Geschenkeliste
+r:"^信頼度を(\d+)まで到達させよう$"=Intimität auf $1 erhöhen
+信頼度をMAXにしよう=Max. Intimitätsstufe
+
+「VERY HARD」ボスは、１日１体討伐できます。=Der Boss „Sehr schwer“ kann nur einmal pro Tag besiegt werden.
+「VERY HARD」は、１日１回完了できます。=„SEHR SCHWER“ kann einmal pro Tag absolviert werden.
+ボスチケットの所持数が足りません。=Unzureichende Bosstickets
+残り討伐体数=Übrige Versuche
+ボスチケット枚数=Boss-Tickets
+合計討伐数=#Siege
+r:"^\[FF7C4E,D62146\]([0-9]+)体目出現！\[-\]$"="[FF7C4E,D62146]$1 Boss(e) erschienen![-]"
+[FF7C4E,D62146]ボス出現！[-]=[FF7C4E,D62146]Boss erschienen![-]
+r:"^【(\d+)回挑戦中】$"=[Herausfodern: $1]
+r:"^([0-9]+)回目の討伐証交換ラインナップ$"=Siegesmedaille Gachakiste Nr.$1
+挑戦途中のボスはスキップできません。=Bosse in der Mitte der Herausforderung können nicht übersprungen werden.
+EXHIBITION討伐数=Ausstellung-Anzahl
+EXHIBITION＋討伐数=Ausstellung+-Anzahl
+EXHIBITION＋ バトルログ=AUSSTELLUNG+ Kampfprotokoll
+
+獲得可能=Vorrätig
+スキップチケットとスタミナを消費してクエストを\n実行します。よろしいですか？=Verwenden Sie Skip-Tickets und\nAusdauer, um diese Quest zu spielen?
+消費スタミナ=Erfor. Ausdauer
+消費チケット=Ticketkosten
+限定キャラ加入\nミッション完了！=Ereignis-Charakter\nMission beendet!
+討伐証を集めて、メモリーピースをGET!=Sammle Medaillen, um Gedächtnissplittern zu erhalten!
+全ラインナップ詳細=Alle Aufstellungen
+便利設定=Optionen
+r:"^([1-9])回目の報酬をリセット$"=Belohnung $1 zur.
+報酬をリセット=Belohnungen zur.
+もう一度交換=Erneut tauschen
+獲得した報酬は所持アイテムに直接付与されます。=Die Belohnungen werden direkt ausgezahlt.
+現在のラインナップ=Aktuelle Aufstellung
+プリンノート=Pudding-Notizen
+スキップチケット解放=Skip-Ticket freischalten
+
+ダメージ割合=Schadensquote
+与えた総ダメージ=Gesamtschaden
+
+編成不可=Nicht\nverwenden
+
+前編へ=Zum Teil 1
+後編へ=Zum Teil 2
+[3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]Ihr könnt keine Bosskampf-Belohnungen verdienen, wenn ihr euch zurückzieht.\nBoss-Tickets werden nicht verbraucht. Ist das OK?[-]
+[3C404E]ボスチケットを[FFBB00,CE4F00]30[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Gib [FFBB00, CE4F00]30[-] aus, um eine andere Quest in derselben Gruppe zu spielen.\nIst das in Ordnung?
+ボスバトルリタイア=Bosskampf aufgeben
+あとボスを3回1バトルで撃破することで解放されます。=Kann übersprungen werden, indem man den Boss dreimal in einem Kampf besiegt.
+あとボスを2回1バトルで撃破することで解放されます。=Kann übersprungen werden, indem man den Boss zweimal in einem Kampf besiegt.
+あとボスを1回1バトルで撃破することで解放されます。=Kann übersprungen werden, indem man den Boss einmal in einem Kampf besiegt.
+イベントログインボーナス獲得=Erhaltener Ereignis-Anmeldebonus
+r:"^(\d+)日目のログインボーナスとして以下のアイテムを(?:獲得しま|受け取りま)した。$"=Sie haben die Artikel als Tag $1 Anmeldebonus erhalten.
+
+バトルログがまだありません。=Hier gibt es kein Kampfprotokoll.
+エキシビションモード バトルログ=Kampfprotokoll des Ausstellungsmodus
+バトルログは最大60件までしか保存できません。=Sie können nur bis zu 60 Kampfprotokolle speichern.
+バトルログがありません。=Hier gibt es kein Kampfprotokoll.
+推奨プレイヤーLv=Vorgeschlagene St.
+
+現在の挑戦回数=Versuche
+
+r:"^挑戦回数[\r]*\n(\d+)回$"=$1pan
+討伐日時=Zeit:
+
+r:"^挑戦(\d+)回目$"=Partei-$1
+交換=Rolle
+r:"^(\d+)枚消費$"=$1 austauschen
+全ラインナップの確認=Vollständiges Lineup
+リセット対象報酬=Belohnungen zurücksetzen
+通常報酬=Normale Belohnungen
+設定可能!=Konfigurierbar!
+まとめて交換=Alles auf einmal
+すべて交換=Austausch
+報酬ラインナップリセットについて=Belohnungsaufstellung zurücksetzen
+リセットする=Zurücksetzen
+獲得一覧へ=Zur Liste
+リセット確認=Reset-Bestätigung
+リセットすると元に戻すことはできません。\nリセットすることにより、\n新しい報酬ラインナップに切り替わります。\n\nよろしいですか？=Das Zurücksetzen kann nicht rückgängig gemacht werden.\nDurch das Zurücksetzen werden Sie auf die neue Prämie-Zusammenstellung umgestellt.\n\nSind Sie sicher?
+リセット完了=Vollständig zurücksetzen
+報酬ラインナップをリセットしました。=Die Prämienliste wurde zurückgesetzt.
+r:"^合計 (\d+)$"=$1 gesamt
+r:"^残り (\d+)/(\d+)$"=$1/$2 Übrig
+r:"^(\d+)回目の報酬ラインナップをすべて獲得しました。$"=Sie haben alle $1-Belohnungslinien erhalten.
+次の報酬ラインナップに切り替えます。=Wechseln zur neuen Prämienliste.
+
+討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n6回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Sobald ihr die Belohnungen für das Zurücksetzen der Aufstellung aus dem Siegesmedaillen-Gacha erhalten habt, könnt ihr die Aufstellung sofort zurücksetzen. Ihr habt auch die Möglichkeit, dieselbe Aufstellung weiter zu verwenden, ohne sie zurückzusetzen. Ab Aufstellung 6 könnt ihr sie erst zurücksetzen, wenn ihr die gesamte Siegesmedaillen-Aufstellung erhalten habt.
+討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n5回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Sobald du die Belohnungen für das Zurücksetzen der Aufstellung aus dem Siegesmedaillen-Gacha erhalten hast, kannst du die Aufstellung sofort zurücksetzen. Du hast auch die Möglichkeit, dieselbe Aufstellung weiter zu verwenden, ohne sie zurückzusetzen. Ab Aufstellung 5 kannst du die Aufstellung erst zurücksetzen, wenn du die gesamte Siegesmedaillen-Aufstellung erhalten hast.
+
+まとめて交換確認=Sofortiger Austausch-Bestätigung
+交換後のBOX状況=Kiste-Status
+リセットするBOX数=Kiste zurücksetzen
+r:"^([0-9,]+)枚の討伐証をまとめて交換しますか？$"=Wollen Sie\n$1 Siegesmedaillen\nsofort tauschen?
+
+r:"^討伐証([0-9,]+)枚を消費して、以下のアイテムを獲得できます。$"=Tauschte $1 Siegesmedaillen ein und erhielt die folgenden Artikel.
+確定で獲得できる報酬はありません。=Es gibt keine festen Belohnungen.
+まとめて交換詳細=Sofortiger Austausch-Info
+リセットされないBOXの報酬は、未確定のためこの一覧に含まれません。=Kiste-Belohnungen, die nicht zurückgesetzt werden, sind in dieser Liste nicht enthalten, da sie unentschieden sind.
+
+まとめて交換完了=Sofortiger Austausch abgeschlossen
+リセットしたBOX数=Kiste zurücksetzen
+交換結果は以下になりました。=Die Ergebnisse des Austauschs sind wie folgt.
+討伐証を所持していません。=Sie haben keine Siegesmedaillen.
+r:"^(\d+)回交換はできません。$"=Sie haben keine Siegesmedaillen.
+
+sr:"^\[3C404E\]([^\[]+)\[-\]$"=[3C404E]$1[-]
+ボスNORMAL討伐で解放！=Besiege den Boss\nzum Freischalten!
+解放条件=Freischaltbedingung
+[FFBB00,CE4F00]イベント限定キャラをGETしよう！[-]=[FFBB00,CE4F00]Erhalten Sie ereignisbeschränkte Zeichen![-]
+イベントを進めて、ボスに挑戦！\nボスNORMALを討伐すると、\n限定キャラ解放！！=Bringe das Ereignis voran und fordere den Boss heraus! Wenn du den Boss besiegst, wird der begrenzte Charakter verfügbar sein.
+アイテムが不足しています=Nicht genug Artikel
+未読EPISODE=Ungelesene Folge
+sr:"^(?:\[3C404E\])?(.+?)との信頼度エピソード\n「\[FFBB00,CE4F00\](.+?)\[-\]」が\n解放されました。(?:\[-\])?$"="[3C404E]$1s Intimitätsepisode\n„[FFBB00,CE4F00]$2[-]“\wurde freigeschaltet.[-]“
+sr:"^イベント「エピソード・オブ・パイレーツ　([\s\S]+)」のスペシャルエピソードが解放されました。$"=„Die besondere Folge des Ereignisses „Folge von\n$1“ wurde freigeschaltet.“
+sr:"^(.+)(（.{2,10}）)?が(\n)?解放されました。$"=$1$2$3 wurde freigeschaltet.
+
+イベント限定キャラ解放=Ereignisbegrenzter Charakter freigeschaltet
+条件を達成したためスキップチケットを使用することができるようになりました。=Da Sie die Bedingungen erfüllt haben,\nkönnen Sie jetzt Skip-Tickets verwenden.
+sr:"^(.+?)との信頼度(エピソード)?$"=$1s Intimität $2
+信頼度エピソード解放=Intimitätsfolge wurde freigeschaltet
+閲覧する=Siehen
+
+sr:"「([^」]+)」\nのスペシャルエピソードが解放されました。"=Die Sonderfolge von\n$1\nist freigeschaltet worden.
+
+お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Otsukaresama!\nHier kannst du Siegesmedaillen gegen Belohnungen eintauschen!
+受け取ることができる\n報酬があるようです\n確認してみてください=Sie haben Belohnungen,\ndie darauf warten,\neingesammelt zu werden!
+報酬がもらえますよ！\nチェックしてみてください=Deine Missionsbelohnung!\nVergiss nicht zu sammeln!
+終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=Das war's für dieses Ereignis! Die Siegesmedaille ist jedoch ein Beweis für eure Bemühungen, also vergesst nicht, sie einzutauschen!
+お疲れ様でした\n討伐証の交換、\nお忘れないように！=Willkommen zurück!\nLasst die Siegesmedaillen nicht uneingelöst liegen!
+ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=Grüße vom Gildenverband!\nHier könnt ihr Monster besiegen und sie gegen Belohnungen eintauschen.
+イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。=Dieses Ereignis bietet eine besondere Geschichte.\nNeue Episoden werden freigeschaltet, wenn ihr im Verlauf der Event-Quest vorankommt.
+強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。=Bei diesem Ereignis gibt es einen mächtigen Boss im Schwierigkeitsgrad „Sehr schwer“, der nur einmal am Tag besiegt werden kann. Ihr müsst euch gut vorbereiten, wenn ihr ihn besiegen wollt.
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラ{{A}}もあります。\nたくさん集めてキャラを仲間にしましょう。=Die Siegesmedaillentauschbörse ist eine Gelegenheit, Belohnungen zu erhalten. Unter diesen Belohnungen sind Gedächtnissplittern für Charaktere, die mit dem Ereignis in Verbindung stehen. Versuchen Sie, viele von ihnen zu sammeln, um neue Gruppenmitglieder freizuschalten!
+スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。=Spezialkampf ist ein Kampf, bei dem sich der Kampfmodus in 3 Modi ändert. Erhalten Sie mehr luxuriöse Belohnungen und Missionsbelohnungen. Nur einmal kann während des Zeitraums unterworfen werden, so lassen Sie uns eine Organisation und Herausforderung zu entwickeln.
+
+エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。=Im Ausstellungsmodus kannst du mehrmals gegen SPEZIELLE Bosse kämpfen. Du kannst auch speichern und auf die Kampfprotokolle zurückblicken, also finde deine eigene Strategie und experimentiere mit verschiedenen Formationen.
+イベントお疲れ様です！\n皆さんのご活躍ぶりには\nいつも感謝しています=Herzlichen Glückwunsch zu diesem Ereignis!\nIch bin immer dankbar für Ihren Erfolg!
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。=Siegesmedaillen-Gacha ist eine Chance, Belohnungen zu erhalten. Zu den Belohnungen gehört auch ein Gedächtnissplitter des Charakters, der im Ereignis auftaucht. Sammeln Sie eine Menge und schalten Sie einen begrenzten Charakter frei.
+イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。=Charaktere, die freigeschaltet werden können, erscheinen, wenn ihr ereignisbegrenzte Missionen abschließt. Ziel ist es, die Mission innerhalb des Zeitraums des Ereignisses abzuschließen.
+イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。=Wenn du Event-Quests und Bosse herausforderst, können Zuverlässigkeitsfolge auftreten. Je nach dem Ergebnis des Gesprächs erhöht sich die Zuverlässigkeit, und wenn du eine bestimmte Zuverlässigkeit erreichst, erhältst du ein Geschenk.

@@ -1,0 +1,6 @@
+ミツキの診察室　エピソード解放=Mitsukis Untersuchungszimmer - Folge freischalten
+麗しのレッスンが解放されました。=Schöne Lektionen wurden freigeschaltet.
+r:"^オーエド町([0-9\-\(\)\w （）]*)$"=Oedo-Stadt $1
+ドクターギグル=Doktor Gigle
+
+sr:"^([べ-ヺー＆＝]+)のカルテ　その([１２３])$"=$1s Krankenakte Teil $2

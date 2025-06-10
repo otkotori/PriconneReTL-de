@@ -1,0 +1,13 @@
+r:"^デビュタント・シャングリ・ラ会場([0-9\-\(\)\w （）]*)$"=Deventant Shangri-La Veranstaltungsort $1
+ドミネイテッドスノーマン=Beherrschter Schneemann
+
+空花、ぐふふなお部屋訪問=Sorahana, Gufufu Zimmer Besuch
+ライバル兼大親友の絆=Bande von Rivalen und guten Freunden
+スノーマンの暴走=Schneemanns Ausreißer
+愛の迷路=Labyrinth der Liebe
+波乱の料理対決=Turbulente Konfrontation beim Kochen
+白熱の雪合戦=Glühende Schneeballschlacht
+特別な招待状=Besondere Einladung
+恋愛ゲームの始まり=Der Beginn eines Liebesspiels
+シャルウィダンス=Anleitungen
+聖夜の奇跡=Das Wunder der Heiligen Nacht

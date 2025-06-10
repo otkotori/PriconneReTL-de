@@ -1,0 +1,10 @@
+r:"^ガストロス山([0-9\-\(\)\w （）]*)$"=Veranstaltungsort Gastros $1
+邪牛神モーモン=Böser Gott Ochse
+
+勝利のおせち=Siegreiches neues Jahr
+
+みんなでおせちパーティー=Jedermanns Neujahrsfeier
+
+ノーマルクエスト・ハードクエストのクリア時に出現することがあります=Sie kann erscheinen, wenn die normale / schwere Quest abgeschlossen ist.
+集合写真追加=Gruppenfoto hinzufügen
+「みんなでおせちパーティー」に\n集合写真が追加されました。=Der „Neujahrsfeier“ wurde ein Gruppenfoto hinzugefügt.

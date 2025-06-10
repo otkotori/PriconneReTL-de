@@ -1,0 +1,8 @@
+アンチビースト・トリニティ=Anti-Bestie: Trinity
+アンチビースト=Anti-Bestie
+シズル・ノワール=Shizuru Noir
+３人=3 Mitglieder
+
+ドMうっとりヒートアップ=Do M Enchanted Aufheizen
+
+r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=Bei Landosol $1
