@@ -37,6 +37,7 @@ Ayumi
 
 Chika
 集中しすぎて=Bezaubernde Melodie
+伝わる思い=Gefühle, die übertragen werden
 
 Christina
 退屈だ……=Verfluchtes Mühsal
@@ -243,6 +244,7 @@ Tomo
 
 Tsumugi
 最高の服を=Eine hingebungsvolle Schneiderin
+プロフェッショナル=Professionelle
 
 Yuni
 本の虫=Bücherwurm
@@ -257,6 +259,7 @@ Labyrista
 
 Ranpha
 時間切れ=Auszeit
+やっぱり……=Ich habe es gewusst...
 
 Yui
 まどろみのユイ=Süßer Traum
@@ -297,3 +300,24 @@ AnneGrea
 
 Grace
 お使いの端末は正常です=Ihr Gerät ist in gutem Zustand
+
+Medusa
+魔眼の力=Die Macht des magischen Auges
+
+Marie
+発作=Beschlagnahme
+
+Hooh
+カレーにしてゆうげ=Gehe zum Curry und hole Bon Voyage
+
+Fio
+ガイド役=Leitfaden
+
+Sono
+代償=Kosten
+
+Croce
+精密さＵＰ！=Präzision hoch!
+
+Violet
+パフューマー=Parfümeur

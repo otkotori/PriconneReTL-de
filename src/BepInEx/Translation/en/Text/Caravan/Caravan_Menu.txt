@@ -178,10 +178,10 @@ r:"^(\d+)ターン経過$"=$1 Runde(n) vergangen
 区間スキップ=Sektionsübersprung
 ボーナスレベル2=Bonusstufe 2
 所持ダイス=Würfel
-シーズン中、チェックポイント到達までにかかった\n最速ターン数に応じてボーナスが獲得できます！=Während der Saison können Sie Boni für die schnellste Runde\nverdienen, die Sie gebraucht haben, um einen Kontrollpunkt zu erreichen!
+シーズン中、チェックポイント到達までにかかった\n最速ターン数に応じてボーナスが獲得できます！=Während der Saison können Sie Boni für die schnellste Runde verdienen, die Sie gebraucht haben, um einen Kontrollpunkt zu erreichen!
 15ターン以内にチェックポイントに到達すると解放されます。=Erreichen Sie innerhalb von 15 Runden einen Kontrollpunkt, um freizuschalten.
 区間スキップを実行した場合、出現中の仲間効果、\nおよび発動中の料理効果、マス効果は消失します。\nまた、ライバル出現時は勝敗が無効となります。=Wenn du einen Sektion überspringst, entfernen alle Effekte\nder Gruppenmitglieder, Kocheffekte und Forelleneffekte.\nAußerdem werden Sieg oder Niederlage annulliert,\nwenn ein Rivale erscheint.
-[3C404E]ダイスを[FFBB00,CE4F00]15個[-]使って区間スキップを実行しますか？[3C404E]=[3C404E]Verwenden [FFBB00, CE4F0015[-]Würfel, um das\nSektionsübersprung durchzuführen?
+[3C404E]ダイスを[FFBB00,CE4F00]15個[-]使って区間スキップを実行しますか？[3C404E]=[3C404E]Verwende [FFBB00, CE4F00]15[-] Würfel, um das Sektionsübersprung durchzuführen?
 区間スキップの実行にはダイスが15個必要です。=Sie benötigen 15 Würfel, um das Sektionsübersprung durchzuführen.
 
 「ちかみちマス」でマイルを支払うと、チェックポイントまでの短縮\nルートが開かれるようです。「パーティマス」に止まった翌ターンは最大\n３品まで料理を召し上がれますよ。組み合わせが重要でございますね。=Wenn Sie an den „Abkürzungs-Kacheln“ Meilen bezahlen, wird eine Abkürzung zum Kontrollpunkt geöffnet. Wenn Sie an einem „Party-Plättchen“ anhalten, können Sie bei der nächsten Runde bis zu drei Gerichte genießen. Die Kombination ist wichtig.

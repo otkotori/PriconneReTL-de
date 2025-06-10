@@ -1,4 +1,4 @@
-[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]Wenn Sie HGM nicht einstellen oder nach der Option ändern,\nwerden die Daten gelöscht, wenn Sie die App starten.-]
+[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]Wenn Sie HGM nicht einstellen oder nach der Option ändern,\nwerden die Daten gelöscht, wenn Sie die App starten.[-]
 フェアリーテイルは\n夢の中=„Fairy Tail“ ist\nein Traum
 わくわくSUMMER\nTIME！=Ich bin so aufgeregt, SOMMERZEIT!
 ランドソル一期一会=Landosol-Eimerliste

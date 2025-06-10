@@ -1,5 +1,5 @@
 キャラバンショップ=Wohnwagen-Shop
-r:"^あと (\d{1,2})日$"=$1 tage übrig
+r:"^あと (\d{1,2})日$"=$1 tag(e) übrig
 r:"^シーズン(\d+)$"=Saison $1
 r:"^シーズン(\d+)は開催されていません。$"=Saison $1 ist noch nicht eröffnet.
 キャラバンコイン=Wohnwagen-Münze
@@ -43,4 +43,5 @@ r:"^トレジャーの清算で獲得できる特別\nな通貨。キャラバ�
 ようこそいらっしゃいませ\n…接客とは、このような\n振舞で宜しいでしょうか？=Willkommen, willkommen... Ist es das, was es bedeutet, Kunden zu bedienen?
 へい、らっしゃい\nさ、騎士氏。冥土の土産は\nなにがいいですか？=Hallo, Mr. Knight. Was möchten Sie als Souvenir aus der Unterwelt?
 商品をお買い上げ毎に\nグレイスちゃんポイントを\n差し上げます。嘘ですが=Ich gebe Ihnen für jeden Einkauf Grace-Punkte. Das ist allerdings eine Lüge.
+姫のご友人ならば\n礼儀を尽くすのが爺の務め\nさ、望みの物を言いたまえ=Wenn du ein Freund der Prinzessin bist, ist es deine Pflicht, höflich zu sein, also sag, was du willst.
 

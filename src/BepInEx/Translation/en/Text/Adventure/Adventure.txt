@@ -12,7 +12,7 @@ sr:"^(.+)が現れた！$"=$1 erschienen!
 メモリーピース対象=G.Splitterziel
 人数=Mitglieder
 人数:=Mitglieder
-10キャラ=10 Charaktere
+10キャラ=10 charaktere
 おまかせ=Zufall
 全選択解除=Alle abbrechen
 必要戦力=Anforderung
@@ -24,6 +24,7 @@ sr:"^(.+)が現れた！$"=$1 erschienen!
 以下のクエストが進行中です。\n状態を確認しますか？=Die folgenden Quests sind in Arbeit.\nSiehst du dir den Status an?
 アドベンチャー確認=Abenteuer bestätigt
 アドベンチャー画面に移動します。=Zum Abenteuerbildschirm wechseln.
+冒険中のパーティがいません。=Im Abenteuer gibt es keine Partei.
 
 まとめて出発確認 =Abfahrt prüfen
 時間短縮設定=Zeitreduzierung
@@ -93,14 +94,14 @@ r:"^本日のジュエルでの短縮残り回数　([0-9/]+)$"=Juwelen-Nutzung:
 r:"^本日のジュエルでの時間短縮可能回数 ([0-9/]+)$"=Juwelen-Nutzung: $1
 ジュエルを消費して\n時間短縮を行います。よろしいですか？=Verbrauche Juwelen und beschleunige den Prozess.\nIst das in Ordnung?
 [FD8F00]帰還[-]=[FD8F00]Ruckzug[-]
-[FF7C4E,D62146]0[-]/10キャラ=[FFF7C4E, D621466] 0 [-]/10 charaktere
+[FF7C4E,D62146]0[-]/10キャラ=[FFF7C4E, D621466]0[-]/10 charaktere
 
 r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Abenteuer, bei denen weniger als $1M verbleiben, werden mit Schnelltickets beschleunigt.\n※Zeitverkürzungen werden in Vielfachen von 1 Stunde vorgenommen.
 r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットとジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Abenteuer, bei denen weniger als $1M verbleiben, werden mit Schnelltickets beschleunigt.\n※Zeitverkürzungen werden in Vielfachen von 1 Stunde vorgenommen.
 r:"^本日のチケットでの短縮残り回数　([0-9/]+)$"=Schnellticket Nutzung: $1
 r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Heutige Schnellticket Nutzung: $1
 ファストチケットを消費して\n時間短縮を行います。よろしいですか？=Verbrauchen Sie Schnelltickets und verkürzen Sie die Zeit.\nIst das in Ordnung?
-ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Konsumieren Sie Schnelltickets und Juwelen, um die Zeit zu verkürzen.\nIst das in Ordnung?
+ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Verbrauchen Sie Schnelltickets und Juwelen, um die Zeit zu verkürzen.\nIst das in Ordnung?
 
 再出発しない=Rückkehr
 再出発する=Neu starten
