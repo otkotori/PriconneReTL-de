@@ -1,0 +1,7 @@
+超時空闘技大会、開催！=Das Superdimensionale Schlachtturnier ist eröffnet!
+さらなる闘いを求めて=Auf der Suche nach größeren Schlachten
+ミネルβ=Minerβ
+
+街を散策していた{playername}たちは奇妙な空間に迷い込む。そこは『バトルアリーナ』、人々が時空を超えて争う闘技場だった。管理人のミネルβに促され、一同は闘技大会への参加を決意する。=Als {playername} und seine Freunde durch die Stadt schlendern, kommen sie an einem geheimnisvollen Ort vorbei, der als Kampfarena bekannt ist. Nach einiger Ermutigung durch den Verwalter der Arena, Minerß, beschließt die Gruppe, sich dem Kampf anzuschließen.
+
+{playername}たちが闘技大会に慣れてきた頃、ミネルβに闘技大会の目的を問いただすと、ミネルβは質問には答えずに『バトルアリーナ』をさらに発展させた『プリンセスアリーナ』を紹介する。={playername} und die Bande haben sich an die Arenakämpfe gewöhnt und fragen Minerß nach ihrem wahren Zweck. Aber Minerß weicht ihren Fragen aus und führt stattdessen eine verstärkte Version der Kampfarena ein - die Prinzessinnen-Arena!

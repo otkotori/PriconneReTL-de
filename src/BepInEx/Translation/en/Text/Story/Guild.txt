@@ -1,0 +1,88 @@
+ギルドストーリー=Gildengeschichte
+ギルドメンバー=Gildenmitglied
+ギルド紹介=Gilden-Info
+ギルドメンバー確認=Liste der Gildenmitglieder
+特別な飲食店に入店するため、ペコリーヌが結成した\nギルド。主な目的は食べ歩き。=Die Gilde wurde von Pecorine gegründet, damit sie gemeinsam essen gehen können. Ihr Hauptziel ist es, neue Essenserfahrungen zu sammeln.
+ようこそ美食殿へ！=Willkommen bei der Gourmet-Gilde!
+蓼食う虫もいけますよ♪=Andere Leute, andere Sitten♪
+幸せの食卓をともに=Ein Tisch voller Glück
+
+きらめく願いが生まれた日=Geburt eines schillernden Wunsches
+小さな親切大きなお世話？=Barmherzigkeit und Bedrängnis
+火山に咲く花を君に=Liebe in voller Blüte
+ヒヨリがギルドマスターとなり、人助けを中心に活動\nしているギルド。本当の目的は、同じ夢を見てきた３\n人がともに願う「ソルの塔の頂上への到達」。=Eine von Hiyori geführte Gilde, die sich bemüht, jedem zu helfen, der in Not ist. Angestachelt von einem gemeinsamen Traum, ist ihr wahres Ziel, den Gipfel des Turms von Sol zu erreichen.
+
+デートは謎を解いてから=Erst Geheimnisse, dann Termine
+運命の輪は迷宮で廻る=Das Schicksalsrad dreht sich
+屋台では別の顔=Eine Dame mit vielen Gesichtern
+謎の人物・ラビリスタが結成した、世界の謎を探究す\nるギルド。クレープ屋を経営し、表向きは平凡なギル\nドを装う。いわば秘密結社。=Diese Gilde wurde von der mysteriösen Labyrista gegründet und versucht, die Geheimnisse der Welt zu lüften. Sie betreiben einen Crêpe-Laden, um ihre wahren Aktivitäten zu verschleiern.
+
+歌って踊って戦うアイドル=Singen! Tanzen! Kämpfen!
+目指せファーストライブ=Es ist Übungszeit
+カルミナ、オンステージ！=Carmina auf der Bühne!
+ソロアイドルだったノゾミが結成した、歌って踊って\n（日々の悲しい気持ちと）戦うアイドルギルド。ライ\nブなどの興行が主な活動内容。=Eine Gilde, die vom ehemaligen Solo-Idol Nozomi angeführt wird. Sie singen, tanzen und kämpfen und veranstalten Live-Auftritte und andere Unterhaltungsprogramme als Hauptaktivitäten der Gilde.
+
+リリカルキッズの出会い=Ein lyrisches Treffen
+みんなのおにいちゃん=Unser Onii-chan
+ピクニックハプニング=Picknick-Panik
+仲良し３人組による、実は非公認のギルド。ギルド\nごっこをしながらただ遊ぶことが目的。=Eine inoffizielle Gilde, die von 3 Lolies gegründet wurde. Ihr Hauptziel ist es, einfach Spaß zu haben, während das Gefühl, wie eine richtige Gilde.
+
+見習いのアオイです=Lehrling Aoi
+森のガイドの練習です=Waldführerseminar
+いつも頼れる先輩です=Ein verlässlicher Mentor
+エルフ族の森を管理、守護する歴史の長いギルド。エ\nルフの森でしか採れない薬草などの管理や、森のガイ\nドをしている。=Sie wurden vor langer Zeit gegründet, um den Elfenwald zu bewachen und zu schützen. Sie dienen als Waldführer für Besucher und verwalten die Kräuter, die es nur dort gibt.
+
+復活、伝説の吸血鬼！=Ein Vampir wird wiedergeboren!
+開催！　世界征服会議=Eroberungspläne!
+結成！　悪魔偽王国軍=Diabolos wird gegründet!
+イリヤが魔族の少女たちと結成したギルド。その名は\nかつてイリヤが率い、神々を相手に闘争を繰り広げ\nた、魔族の最強軍と同じである。=Eine von Illya und mehreren Dämonen gegründete Gilde. Ihr Name leitet sich von der Armee ab, die Illya in alten Zeiten anführte, um gegen die Götter selbst Krieg zu führen.
+
+秩序と混沌の騎士団=Verteidiger von Ordnung und Chaos
+金の卵は任務の中に=Goldenes Ei des Glücks
+王宮騎士団狂騒曲=Alptraum-Rhapsodie
+ランドソルの国軍であり、活動目的は「王宮」や王族\nの護衛、および勅命を受けての任務達成。街の治安を\n守る警察組織としての側面も強い。=Landosols nationale Armee, deren Aufgabe es ist, den Thron und seine Bewohner zu schützen. Sie sind auch die wichtigste Polizeieinheit der Stadt.
+
+笑顔の待つ場所=Zu Hause ist es am schönsten
+それぞれの役割=Die Rollen, die wir spielen
+いつか伝えたい言葉=Ich werde es dir eines Tages erzählen
+孤児院であるが、手広く商売なども行っている。王宮\nの警護という毎日に価値を見いだせずにいたサレン\nが、人の役に立つことをしたいと思い結成した。=Ein Waisenhaus, das auch in allen möglichen Geschäften seine Hände im Spiel hat. Gegründet von Saren, nachdem sie beschlossen hatte, dass sie den Menschen lieber direkt helfen wollte.
+
+勝手気ままな自警団の日常=Ein Tag im Leben von Caon
+獣人たちの胸騒ぎ=Eine bestialische Vorahnung
+『北風と太陽』作戦=Operation Nordwind und Sonne
+魔物たちの脅威から、同じ【動物苑】の仲間を守る武\n闘派ギルド。「シャドウ」などの、異変の調査や解決\nもする。【王宮騎士団】とは犬猿の仲。=Eine Kampfsportgilde, die hauptsächlich ihre Freunde in der Menagerie beschützt. Sie untersuchen und klären auch Vorfälle im Zusammenhang mit Schatten.
+
+自然な笑顔に囲まれて=Umgeben von Lächeln
+温かな背中に揺られて=Auf einem warmen Rücken
+小さな命との出会い=Ein kleines Leben retten
+山の上の牧場ギルド。活動内容はいわゆる牧場で、牛\nや馬などを飼育している。獣人たちが休暇を過ごすピ\nクニック場や病人の静養地でもある。=Eine Gilde, die sich auf einem nahe gelegenen Berg befindet. Ein traditioneller Bauernhof, aber auch ein beliebter Picknickplatz für das Biestvolk und ein Ort der Erholung für Kranke.
+
+メルクリウス財団始動！=Mercurius taucht auf!
+牧場からの依頼=Eine Anfrage des ländlichen Raums
+ギャンブルバトル=Glücksspiel-Gildeangehörige
+莫大な資金を元手に、さまざまな事業への融資や買収\nを行っているギルド。悪どい稼ぎ方をしている商売人\nたちをこらしめるのが、裏の活動目的。=Eine Gilde, die verschiedene Unternehmen finanziert und aufkauft. Sie arbeiten auch hinter den Kulissen, um diejenigen zu bekämpfen, die mit illegalen Machenschaften Geld verdienen.
+
+黄昏をさがして=Suche nach Dämmerung
+壺に潜む魔神=Erzfeinde in Vasen
+宝の地図は誰のもの？=Wem gehört die Karte?
+とある目的の元に結成された、危険な依頼も請け負う\n何でも屋ギルド。ほとんどのメンバーが二つ名を持\nつ、ランドソルで最も危険なギルドとのうわさも。=Mit einem bestimmten Ziel vor Augen gegründet, haben die Gerüchte und Spitznamen, die jedem Mitglied gegeben wurden, dazu geführt, dass sie als die gefährlichste Gilde in Landosol bezeichnet wird.
+
+廃校の危機=Das Ende ist nah
+転校生パニック！=Neue Studenten mischen sich!
+個人レッスンは誰が？=Wer darf unterrichten?
+ランドソルに存在する学舎の一つ。ギルド管理協会が\n運営する公立の教育機関。共学で、通学している生徒\nの年齢、種族、学力もさまざま。=Eine öffentliche Schule in Landosol, die von der Gildenvereinigung betrieben wird. Alter, Bildungsstand und Herkunft der Schüler sind sehr unterschiedlich.
+
+初めてのコンビネーション=Unsere erste Kombo
+泣いて貴公を斬る！=Sorry Genosse, du musst sterben!
+結成！　白翼のギルド=Pfingstflügel heben ab
+モニカをギルドマスターとして結成されたギルド。い\nつも間の抜けた行動で、ピンチを呼び込んではメン\nバー自らが華麗に解決している。=Die albernen Streiche ihrer Mitglieder stehen in krassem Gegensatz zu ihrer Fähigkeit, gefährliche Situationen mit Leichtigkeit zu meistern.
+
+歓迎、竜の巣へようこそ！=Willkommen im Drachennest!
+荒波を越えて竜の島へ=Hier sind die Drachen?
+試されるボスの器=An den Chef
+希少な種族、ドラゴン族の発見と保護を目的に結成。\n各地の探索などを行なっているが、裏ではギャングと\nつながっているという黒い噂も絶えないギルド。=Eine Gilde, die gegründet wurde, um Mitglieder der seltenen Ethnie des Drachenvolks zu finden und zu schützen. Zu ihren offiziellen Aktivitäten gehören Erkundungen, aber es kursieren dunkle Gerüchte über versteckte Verbindungen zu Gangsteraktivitäten.
+
+つかめ、奨学金！=Greif zu, Stipendium!
+ひらけ、新ギルド！=Eröffnung, neue Gilde!
+あげろ、集団制作！=Gib mir, Gruppenproduktion!
+奨学金審査に通過することを目的として、その達成条\n件である「親和性の高い共同体」をアピールするため\nノリで結成された、新感覚の部活風ギルド。=Eine neue Art von clubähnlicher Gilde, die auf kokette Art und Weise mit dem Ziel gegründet wurde, das Stipendien-Screening zu bestehen und die „Affinitätsgemeinschaft“ zu fördern, die eine Voraussetzung für das Erreichen dieses Ziels ist.

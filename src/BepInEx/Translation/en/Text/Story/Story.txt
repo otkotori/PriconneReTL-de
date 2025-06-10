@@ -1,0 +1,98 @@
+追加ストーリー情報=Untergeschichte-Info
+エンド オブ プロローグ=Prolog-Ende
+[3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E][FFBB00,CE4F00]Hauptgeschichte[-] ungelesen.\nLies die Geschichte und verdiene dir eine Belohnung.[-]
+未読ストーリー=Ungelesene Geschichte
+再生する場合、ボイスデータをダウンロードします。=Wenn Sie Charakterstimmen wünschen, werden Sprachdaten heruntergeladen.
+ボイスデータは、アプリ起動時に削除されます。=Sprachdaten werden beim Starten der App gelöscht.
+ボイスデータは、アプリ起動時に都度削除されます。=Die Sprachdaten für Geschichten werden bei jedem Start der App gelöscht.
+[FF7C4E,D62146]ボイスデータは、アプリ起動時に都度削除されます。[-]=[FF7C4E,D62146]Die Sprachdaten für Geschichten werden bei jedem Start der App gelöscht.[-]
+[FF7C4E,D62146]ボイスデータは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Sprachdaten werden beim Starten der App gelöscht.[-]
+
+[FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]Wenn Sie Charakterstimmen wünschen,\nwerden Sprachdaten heruntergeladen.[-]
+連続で閲覧できるサブストーリーがあります。=Es gibt Unterkategorien, die fortlaufend angezeigt werden können.
+追加データをダウンロードします。\nボイスを再生しますか?=Zusätzliche Daten werden heruntergeladen.\nAbstimmen?
+r:"^ボイスあり\n\(([.0-9]+) ([MG])B\)$"=Stimme EIN\n($1 $2B)
+r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Stimme AUS\n($1 $2B)
+エピローグ=Epilog
+ログ=Protokoll
+オート=Auto
+オートON=Automat.
+停止=Stopp
+全文表示=Skript
+ストーリー全文表示=Vollständige Anzeige des Story-Skripts
+このムービーをスキップしてもよろしいですか？=Sind Sie sicher, dass Sie diesen Film auslassen wollen?
+r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ka $1 Fg $2\nwurde freigeschaltet.
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Teil $1 Ka $2 Fg $3\nwurde freigeschaltet.
+r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Teil $1 Ka $2 Epilog\nwurde freigeschaltet.
+r:"^第(\d+)部 第(\d+)章$"=Teil $1 Kapitel $2
+r:"^第(\d+)章$"=Kapitel $1
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話$"=Teil $1 Kapitel $2 Folge $3
+r:"^幕間・(.{1,5})$"=Zwischenspiel $1
+
+r:"^サブストーリー(.{1,4})$"=Untergeschichte $1
+r:"^第([0-9.]+)話$"=Folge $1
+sr:"^(.+)が\n?解放可能になりました。$"=$1\nwurde freigeschaltet.
+メインクエスト2-1\n（NORMAL）クリア\nまたは期間限定\nイベント参加で解放=Freischalt durch das Abschließen der Hauptquest 2-1.
+メインクエスト2-1\n（NORMAL）クリア\nまたは特別な\nイベント視聴で解放=Freischalt durch das Abschließen der Hauptquest 2-1.
+r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 Hauptgeschichte\nwurde freigeschaltet.
+エクストラストーリーから閲覧できます。=Sie können die Extra-Geschichte durchblättern.
+このストーリーは閲覧済みの場合のみスキップ可能です。=Diese Geschichte kann nur übersprungen werden, wenn Sie eine Uhr haben.
+
+スキップしたストーリーは後から読み返せます。=Übersprungene Geschichten können später nachgelesen werden.
+個別にストーリーを閲覧することもできます。=Einzelne Geschichten kann durchblättern.
+メインシナリオ第2部 第16章 幕間までのストーリーを\nスキップして閲覧済みにしますか？\n\nスキップした場合、以下の報酬を獲得できます。=Willst du bis zum Hauptgeschichte Teil 2 Kapitel 16 überspringen und als gelesen markieren?\n\nWenn du es überspringst, bekommst du die folgenden Belohnungen.
+
+メイン=Haupt
+アストライア大陸を\n舞台にした物語を\n見ることができます=Die Geschichte spielt auf dem Kontinent Asteria.
+
+エクストラ=Extra
+エクストラストーリー=Extra-Geschichte
+ちょっと特別な\n物語を見ることが\nできます=Sie können einige ganz besondere Geschichten sehen.
+ちょっと特別な\\n物語を見ることが\\nできます=Sie können einige ganz besondere Geschichten sehen.
+
+ルナの塔 次元断層=Luna-Turm: Dimensionsstörung
+
+ギルド=Gilde
+女の子たちの日常を\n見ることができます=Das tägliche Leben der Mädchen.
+女の子たちの日常を\\n見ることができます=Das tägliche Leben der Mädchen.
+
+キャラクター=Charakter
+絆ランクUPで\n新しい物語が\n追加されます=Anleihenrang wird neue Geschichten hinzufügen.
+
+現在公開されているストーリーはここまでです。=Derzeit ist keine weitere Geschichte verfügbar.
+
+閲覧するストーリーを選択してください。=Wählen Sie die Geschichte aus, die Sie ansehen möchten.
+
+ストーリーへ=Zur Geschichte
+ストーリー紹介=Einleitung zur Geschichte
+ストーリー一覧=Liste der Geschichten
+
+解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Schauen Sie sich Geschichten über Inhalte an, die Sie freigeschaltet haben, und gewinnen Sie eine etwas andere Perspektive der Ereignisse aus Ihren Abenteuern.
+各ギルドのストーリーを見られます。\nギルドストーリーは、ギルドに所属するキャラを１人以上仲間にし、\nギルドメンバーの絆ランク合計を、一定以上にすると解放されます。=Erlebe die Geschichten der einzelnen Gilden. Neue Folgen werden freigeschaltet, wenn du Charaktere rekrutierst, die dieser Gilde angehören, und eine bestimmte Bindungsstufe mit ihren Mitgliedern erreichst.
+各キャラの専用ストーリーを見られます。絆ランクアップで、新しいストーリーが解放されます。ストーリーの中には、見ることでステータスアップするものもあります。=Sieh dir Geschichten an, die für jeden Charakter einzigartig sind. Neue Folgen werden freigeschaltet, wenn die Bindungsstufe steigt. Beim Ansehen einiger Folge erhältst du Boni auf deine Werte.
+メインクエストの名場面を、振り返ることができます。それぞれのストーリー初回閲覧で、ジュエルがもらえます。=Sieh dir verschiedene Szenen aus der Hauptquest an. Beim ersten Ansehen jeder Folge erhältst du Juwelen.
+専用装備はみなさまの秘められた力を解放して、\nさらにスキルもパワーアップするようです。\n主さま、さっそく必要なアイテムを探しに行きましょう。=Einzigartige Ausrüstung schaltet jedes unserer verborgenen Potenziale frei und macht unsere Fähigkeiten noch mächtiger. Lasst uns sofort nach den notwendigen Artikel suchen, mein Herr.
+
+ま～わ=Ma-Wa
+た～は=Ta-Ha
+あ～さ=A-Sa
+主を慕う、小さなガイド役=Ein kleiner Führer, der sich um seinen Herrn kümmert
+
+絆ランク=Anleihe
+r:"^第(\d+)話$"=Folge $1
+キャラストーリー=Charakter-Geschichte
+ステータスアップボーナス=Statuserhöhung Bonus
+絆ランクアップ=Anleihe Rangaufstieg
+ステータスアップ対象キャラクター=Zielcharaktere
+該当キャラのストーリー初回閲覧で、\nステータスアップボーナスを獲得できます。=Erhalten Sie Boni für Charaktere, die\nihre Geschichte zum ersten Mal sehen.
+
+対象のストーリーがありません。=Für sie gibt es (noch) keine Geschichte.
+r:"^第(\d+)話ステータスアップボーナス$"=Folge $1 Statistik-Bonus
+
+sr:"^([^ ]+)(?: |　)第(\d+)話$"=$1 Folge $2
+連続で閲覧できるストーリーがあります。=Es gibt eine nächste Geschichte, die sich ansehen kann.
+連続ストーリー閲覧確認=Marathon-Besichtigung
+
+ロード画面で表示された１コマ漫画を確認できます。=Sie können den auf dem Ladebildschirm angezeigten Ein-Panel-Manga überprüfen.
+
+ボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。=Nachdem du einen Boss herausgefordert hast, treten manchmal Vertrauensstufen auf. Je nach Ausgang des Gesprächs erhöhen sich die Vertrauenspunkte, und wenn Sie eine bestimmte Vertrauensstufe erreichen, erhalten Sie ein Geschenk.
