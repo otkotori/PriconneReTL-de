@@ -94,7 +94,7 @@ sr:"^(.{2,20})は環境効果によるダ(?:\n　)?メ(?:\n　)?ー(?:\n　)?ジ
 
 r:"^バトル開始時、自身にＴＰダウン(\d+)％カット効果を付与する。\n?$"=Gewährt sich zu Beginn des Kampfes einen um $1% verringerten TP-↓-Effekt.
 
-最もＨＰの割合が低い味方１キャラのＨＰを中回復させる。=Stellt die HP eines Verbündeten mit dem niedrigsten HP-Anteil mäßig wieder her.
+最もＨＰの割合が低い味方１キャラのＨＰを中回復させる。=Stellt die KP eines Verbündeten mit dem niedrigsten KP-Anteil mäßig wieder her.
 
 ワイバーンから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を特大ダウンさせる。
 sr:"^(.*)から受けるすべてのダメージで(?:\n　)?発(?:\n　)?生(?:\n　)?す(?:\n　)?る(?:\n　)?、(?:\n　)?パ(?:\n　)?ー(?:\n　)?テ(?:\n　)?ィ(?:\n　)?キ(?:\n　)?ャ(?:\n　)?ラ(?:\n　)?の(?:\n　)?Ｔ(?:\n　)?Ｐ(?:\n　)?回(?:\n　)?復(?:\n　)?量(?:\n　)?(?:が|を)(?:\n　)?(極大|絶大|特大|大|中|小|大幅)(?:\n　)?ダ(?:\n　)?ウ(?:\n　)?ン(?:\n　)?(?:する|させる)?。$"=Verringert die TP-Wiederherstellungsrate von Gruppencharakteren um $2 von jedem erlittenen Schaden um $1.

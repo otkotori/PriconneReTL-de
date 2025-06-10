@@ -48,8 +48,8 @@ Einzigartige Ausrüstung wurde zu $1$2 und $3$4s Schatten hinzugefügt.
 Einzigartige Ausrüstung wurde zu $1$2, $3$4, $5$6s Schatten hinzugefügt.
 ---
 
-バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 50%.
-バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ75%カット状態にさせる。=Zu Beginn des Kampfes reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 575.
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ50%カット状態にさせる。=Zu Kanpfbeginn reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 50%.
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ75%カット状態にさせる。=Zu Kanpfbeginn reduziert das Relikt des Wagens die M.SCH aller Verbündeten um 75%.
 
 ボスUB・スキル強化=Boss-UB-Fähigkeitsverbesserung
 ボスモンスターのユニオンバーストとスキルが強化される。=Union Burst und Fertigkeit des Bossmonsters werden verstärkt.
@@ -57,28 +57,28 @@ Einzigartige Ausrüstung wurde zu $1$2, $3$4, $5$6s Schatten hinzugefügt.
 開始時魔法ダメージカット=Magieschaden zu Beginn verringert
 モンスター強化=Monster-Erweiterung
 sr:"^(.+?)のスキルが強化される。$"=$1's Fähigkeit wird gestärkt.
-バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 50%.
-バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Beginn des Kampfes reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 75%.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Kanpfbeginn reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 50%.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Zu Kanpfbeginn reduziert „Relikt heilen“ die P.SCH aller Verbündeten um 75%.
 
-バトル開始時、ボスモンスターがＴＰダウン100％カット状態になる。=Zu Beginn des Kampfes wird der TP-↓-Schwächungseffekt auf das Bossmonster um 100% reduziert.
-バトル開始時、ボスモンスターがＴＰダウン50％カット状態になる。=Zu Beginn des Kampfes wird der TP-↓-Schwächungseffekt auf das Bossmonster um 50% reduziert.
+バトル開始時、ボスモンスターがＴＰダウン100％カット状態になる。=Zu Kanpfbeginn wird der TP-↓-Schwächungseffekt auf das Bossmonster um 100% reduziert.
+バトル開始時、ボスモンスターがＴＰダウン50％カット状態になる。=Zu Kanpfbeginn wird der TP-↓-Schwächungseffekt auf das Bossmonster um 50% reduziert.
 ボスＴＰダウンカット=Boss TP-↓-Schnitt
-バトル開始時、シールド・レリックのが味方全体に\n継続ＴＰ回復状態を付与する。=Zu Beginn des Kampfes führen Schildrelikte bei allen Verbündeten zu einer kontinuierlichen TP-Erholung.
+バトル開始時、シールド・レリックのが味方全体に\n継続ＴＰ回復状態を付与する。=Zu Kanpfbeginn führen Schildrelikte bei allen Verbündeten zu einer kontinuierlichen TP-Erholung.
 開始時ＴＰ継続回復付与=Kontinuierlicher TP-Erholungsbonus beim Start
-バトル開始時、アタック・レリックが味方全体の行\n動速度を特大アップさせるフィールドを展開する。=Zu Beginn des Kampfes setzt Angriffs-Relick ein Feld ein, das die Geschwindigkeit der Aktionen aller Verbündeten erhöht.
+バトル開始時、アタック・レリックが味方全体の行\n動速度を特大アップさせるフィールドを展開する。=Zu Kanpfbeginn setzt Angriffs-Relick ein Feld ein, das die Geschwindigkeit der Aktionen aller Verbündeten erhöht.
 開始時行動速度アップフィールド=Aktionsbeschleunigungsfeld beim Start
 開始時物理ダメージカット=Physischer SCH-Schnitt beim Start
 シャドウ最大ＨＰアップ=Schatten Max-KP-↑
 すべてのシャドウの最大ＨＰが大幅に上昇する。=Die maximalen KP aller Schatten werden stark erhöht.
-バトル開始時、シールド・レリックのが味方全体の\nＨＰを特大回復させる。=Zu Beginn des Kampfes werden die KP aller Verbündeten durch Schildrelikte wiederhergestellt.
+バトル開始時、シールド・レリックのが味方全体の\nＨＰを特大回復させる。=Zu Kanpfbeginn werden die KP aller Verbündeten durch Schildrelikte wiederhergestellt.
 開始時ＨＰ回復=KP-Wiederherstellung beim Start
 ボス物理防御力（ダウン不可）アップ=P.VER des Bosses ↑ (absolut)
 ボス魔法防御力（ダウン不可）アップ=M.VER des Bosses ↑ (absolut)
-バトル開始時、ボスモンスターの物理防御力を小\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Beginn des Kampfes geringfügig. Dieser Effekt wird von P.VER-↓ nicht beeinflusst.
-バトル開始時、ボスモンスターの魔法防御力を小\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Beginn des Kampfes geringfügig. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
+バトル開始時、ボスモンスターの物理防御力を小\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Kanpfbeginn geringfügig. Dieser Effekt wird von P.VER-↓ nicht beeinflusst.
+バトル開始時、ボスモンスターの魔法防御力を小\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Kanpfbeginn geringfügig. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
 
-バトル開始時、ボスモンスターの魔法防御力を中\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Beginn des Kampfes. Dieser Effekt wird nicht von P.VER-↓ beeinflusst.
-バトル開始時、ボスモンスターの物理防御力を中\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Beginn des Kampfes. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
+バトル開始時、ボスモンスターの魔法防御力を中\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Erhöht die P.VER des Bosses zu Kanpfbeginn. Dieser Effekt wird nicht von P.VER-↓ beeinflusst.
+バトル開始時、ボスモンスターの物理防御力を中\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Erhöht die M.VER des Bosses zu Kanpfbeginn. Dieser Effekt wird von M.VER-↓ nicht beeinflusst.
 
 r:"^バトル時間が(\d+)秒になる。$"=Die Kampfzeit beträgt $1 Sekunden.
 バトル時間制限=Kampfzeitbegrenzung
@@ -89,7 +89,7 @@ r:"^バトル時間が(\d+)秒になる。$"=Die Kampfzeit beträgt $1 Sekunden.
 ダメージ減衰=Beschädigung
 物理ダメージカット=Physischer Schadenschnitt
 魔法ダメージカット=Magieschadensreduktion
-バトル開始時、すべてのキャラのＨＰ吸収を特大ダウンさせる。=Zu Beginn des Kampfes wird die KP-Absorption aller Charaktere stark verringert.
+バトル開始時、すべてのキャラのＨＰ吸収を特大ダウンさせる。=Zu Kanpfbeginn wird die KP-Absorption aller Charaktere stark verringert.
 ＴＰダウン=TP-↓
 ＴＰダウンカット=TP-↓-Schnitt
 すべてのモンスター=Alle Ungeheuer
@@ -97,7 +97,7 @@ r:"^バトル時間が(\d+)秒になる。$"=Die Kampfzeit beträgt $1 Sekunden.
 魔法ダメージ=M.SCH
 物理ダメージ=P.SCH
 トレジャークエストはすべてクリアしました。=Alle Schatzquests erledigt.
-sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=Zu Beginn des Kampfes werden $2, die auf $1 gesetzt werden, in $3% umgewandelt.
+sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=Zu Kanpfbeginn werden $2, die auf $1 gesetzt werden, in $3% umgewandelt.
 
 編成キャラ数制限=Begrenzte Formationszeichen
 r:"^編成可能キャラ数が(\d+)キャラになる。$"=Zeichen, die organisiert werden können, sind $1 Zeichen.
@@ -107,7 +107,7 @@ r:"^編成可能キャラ数が(\d+)キャラになる。$"=Zeichen, die organis
 バトル開始後一定時間、ボスモンスターの魔法攻撃\n力が中アップする。=M.ANG des Bossmonsters wird für eine bestimmte Zeit nach Kampfbeginn auf mittel erhöht.
 開始時攻撃力アップ=Angriffsleistung beim Start
 
-バトル開始時、ボスモンスターが敵全員のTPを中\nアップさせる。=Zu Beginn des Kampfes erhöhen die Bossmonster die TP aller Feinde mäßig.
+バトル開始時、ボスモンスターが敵全員のTPを中\nアップさせる。=Zu Kanpfbeginn erhöhen die Bossmonster die TP aller Feinde mäßig.
 開始時TP回復=TP-Wiederherstellung starten
 
 ボスモンスターのユニオンバーストが強化される。=Der Union Burst des Bossmonsters wurde verbessert.
