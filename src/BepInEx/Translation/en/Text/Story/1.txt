@@ -1,4 +1,0 @@
-sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?のステータスアップボーナス$"=$1$2s Neue Status
-初回閲覧報酬=Erstbesucher-Belohnung
-ストーリー閲覧報酬として下記を受け取りました。=Belohnung für das Betrachten der Geschichte erhalten.
-ストーリー閲覧報酬として下記を受け取りました=Belohnung für das Betrachten der Geschichte erhalten.

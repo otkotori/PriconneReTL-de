@@ -1,3 +1,0 @@
-序章=Prolog
-前編=Teil 1
-後編=Teil 2

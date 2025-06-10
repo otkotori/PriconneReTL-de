@@ -1,8 +1,0 @@
-キャラクターストーリー=Charakter-Geschichte
-sr:"^([べ-・ー＆ ]{2,11})(（.+）)? 第(\d+)話を閲覧$"=$1$2 Folge $3
-メインストーリー=Hauptgeschichte
-r:"^第(\d+)部 第(\d+)章 第(\d+)話を閲覧$"=Hauptgeschichte ansehen: Teil $1 Kapitel $2 Folge $3
-r:"^第(\d+)部 第(\d+)章 幕間を閲覧$"=Hauptgeschichte ansehen: Teil $1 Kapitel $2 Epilog
-sr:"^([べ-・ー＆ ]{2,11})(（.+）)?の絆ランクが(\d+)以上$"=$1$2 Anleiherang $3 oder mehr
-
-このキャラクターのストーリーは今後解放予定です。=Geschichte dieser Zeichen wird in der Zukunft veröffentlicht werden.
