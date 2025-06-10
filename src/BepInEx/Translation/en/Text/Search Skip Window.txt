@@ -52,7 +52,7 @@
 
 まとめて挑戦回数回復=Reset-Bestätigung
 残り挑戦回数が0のクエストがあります。=Diese Quests haben noch 0 Versuche.
-ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復しますか？=Möchten Sie mit Jewels zurücksetzen?
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復しますか？=Mit Juwelen zurücksetzen?
 
 まとめてスキップ確認=Übersprungsbestätigung
 スキップチケットとスタミナを消費して、以下のクエストを実行します。よろしいですか？=Skip-Tickets und Ausdauer nutzen, um die folgenden Quests zu erledigen. Ist das in Ordnung?

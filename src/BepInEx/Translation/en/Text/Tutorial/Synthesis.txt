@@ -1,7 +1,7 @@
 決定することで即座に反映され、\n以前のステータスをもとに戻すことはできません。=Nach der Bestätigung werden die Änderungen sofort übernommen, und Sie können nicht zum vorherigen Status zurückkehren.
 苛烈な戦いを続ける冒険者さんに朗報です！\nこの度、特別な装備をさらに強化できる新しい秘術が発見されました！=Gute Nachrichten für Abenteurer, die ihre harten Kämpfe fortsetzen!\nEine neue geheime Technik zur weiteren Verbesserung der Spezialausrüstung wurde entdeckt!
 その秘術の名は『究極錬成』！\n編み出したのは、最近ランドソルに移住してきた錬金術ギルド。\n【アルケス錬金堂】のギルドマスター、ルイズマリーさんです♪=Der Name dieser geheimen Technik ist 'Ultimative Synthese'! Sie wurde von der Alchemiegilde entwickelt, die kürzlich nach Landosol gezogen ist. Die Gildenmeisterin von [Alces-Atelier], Louise Marie♪
-……どうも。\n【アルケス錬金堂】のギルドマスター\nそして、錬金術師のルイズマリーです。=...Hallo.\nIch bin Louise Marie, die Gildenmeisterin von [Atelier Alces], und eine Alchemistin.
+……どうも。\n【アルケス錬金堂】のギルドマスター\nそして、錬金術師のルイズマリーです。=...Hallo.\nIch bin Louise Marie, die Gildenmeisterin von [Alces-Atelier], und eine Alchemistin.
 ちょっとルイちゃん、なに斜に構えてんのよ思春期？\nせっかくギルド管理協会の社畜……ゴホン。\nカリンさんが紹介してくれてんだから、もっと愛想よくしなよ。=Hey, Rui-chan, warum bist du so launisch? Karin-san von der Gildenverbande war so freundlich, dich vorzustellen, also sei etwas fröhlicher.
 べ、別に斜に構えてないし。=Ich bin nicht launisch oder so.
 だよね！　ちょっと緊張してるだけだもんね！\nんじゃあイロハがほぐしてしんぜよう～♪\nほれ、角ぎゅ～～～～～っ！！=Oder? Du bist nur ein bisschen nervös! Dann lass Iroha dir helfen dich zu entspannen. Hier, Hupenquetscher~~~~!

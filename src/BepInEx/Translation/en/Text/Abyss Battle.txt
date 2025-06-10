@@ -42,7 +42,7 @@ r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バト
 深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Es scheint, dass bestimmte Elementarboni während des Kampfes zur Abyss-Schlacht verstärkt werden. Ihr könnt den Boss herausfordern, indem ihr das Unterwerfungszertifikat für die Unterwerfung in den Außenposten-Quests sammelt.
 ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=In Bosskämpfen wird Ihre Punktzahl auf der Grundlage des von Ihnen verursachten Schadens erhöht. Als Belohnung für den Abschluss der ersten Runde des Endgegners und die Erreichung der Endpunktzahl erhältst du ein Meisterwerk-Fragment. Stellen Sie sicher, dass Sie für die Herausforderung gut vorbereitet sind.
 
-[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404EVerwenden [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um ein anderes Abenteuer mit derselben Gruppe zu spielen. [-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404EVerwenden [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um ein anderes Abenteuer mit derselben Gruppe zu spielen.[-]
 [3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Benutze [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um eine andere Quest mit derselben Gruppe zu spielen.\nIst das in Ordnung?[-]
 
 き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=Notfall! Aus der tiefsten Region des „Abyss“ steigt ein ungeheuer mächtiges Monster auf!

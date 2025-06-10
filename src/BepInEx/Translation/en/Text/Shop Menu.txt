@@ -59,7 +59,7 @@ sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×
 限定ショップ=Bonusshop
 必要マナ=Mana-Anf.
 
-限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Dem Bonusshop wurden neue Artikel hinzugefügt.
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Der Bonusshop hat neue Artikel hinzugefügt.
 
 本日の出現数=Erscheint
 限定ショップは開かれていません。=Der Bonusshop ist nicht geöffnet.

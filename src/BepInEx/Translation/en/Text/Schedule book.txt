@@ -30,7 +30,7 @@
 マナを購入しよう=Einmal Mana kaufen
 
 限定ショップで買い物をしよう=Artikel im Bonusshop kaufen
-通常ショップで買い物をしよう=Artikel im Normal-Shop kaufen
+通常ショップで買い物をしよう=Artikel im Normaler-Shop kaufen
 
 スキップする項目がありません。=Es gibt keine Missionen zu überspringen.
 
@@ -44,6 +44,6 @@
 スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=Verbrauchen Sie Skip-Tickets und Versuche, EP-Quests zu lösen.\nIst das in Ordnung?
 
 スキップ失敗=Übersprung fehlgeschlagen
-ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Kerker konnte nicht übersprungen werden, weil du bereits einen Dungeon betreten hast.
+ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Kerker konnte nicht übersprungen werden, weil du bereits einen Kerker betreten hast.
 グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=Du kannst keine Prinzessinnen-Arena-Münzen erhalten, weil du die Prinzessinnen-Arena nicht mehr betreten hast, seit die Arenaklammern neu gemischt wurden.
 グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=Du kannst keine Arenamünzen erhalten, weil du die Kampfarena nicht betreten hast, seit die Arenaklammern neu gemischt wurden.
