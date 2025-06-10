@@ -1,6 +1,6 @@
 量産型フブキちゃんレンチ=Verbrauchermodell Fubuki-chan Schraubenschlüssel
-バトル中敵防御中ダウン=Feindliche DEF während des Kampfes ausgeschaltet
-バトル開始後90秒間敵全体の物理防御力を５％ダウンさせる。=Für 90sek nach Beginn des Kampfes wird die P.DEF aller Gegner um 5% verringert.
+バトル中敵防御中ダウン=Feindliche VER während des Kampfes ausgeschaltet
+バトル開始後90秒間敵全体の物理防御力を５％ダウンさせる。=Für 90sek nach Kanpfbeginn wird die P.VER aller Gegner um 5% verringert.
 
 量産型ワカナのフライパン=Wakana's Bratpfanne in Massenproduktion
 バトル中盤攻撃力中アップ=P.ATK-Bonus in der Mitte des Kampfes
@@ -110,7 +110,7 @@
 伝承に謳われる精霊の加護を宿した霊剣。風の元素をまとうその刃はあらゆる鎧を両断し、使い手に勝利をもたらしたという。=Ein Geisterschwert, das die Segnungen legendärer Geister trägt. Seine Klinge aus Windelementen kann jede Rüstung durchschneiden und seinem Träger den Sieg bringen.
 古代王国の伝承にも残る魔法書。あらゆる属性魔法について記されており、太古の魔法使いはそれらを駆使して敵の軍勢を打ち破ったという。=Ein magisches Buch mit Wissen über jeden Attributszauber. Alte Zauberer benutzten es, um ihre Feinde zu besiegen.
 幾千の人々の平和への祈りが形を成したローブ。その純粋な願いの力からもたらされる加護は、祈祷の効果を極限にまで高めるという。=Ein Gewand, das durch Gebete für den Frieden von Tausenden gebildet wird. Seine Segnungen verstärken die Wirkung der Gebete erheblich.
-虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=EMit viel Herzblut von erstklassigen Handwerkern verarbeitete Armbänder aus Mineralien, die in Regenbogenfarben leuchten. Er soll den Segen der majestätischen Natur bringen, wenn man gelobt, einen geliebten Menschen bis zum Ende zu schützen.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Mit viel Herzblut von erstklassigen Handwerkern verarbeitete Armbänder aus Mineralien, die in Regenbogenfarben leuchten. Er soll den Segen der majestätischen Natur bringen, wenn man gelobt, einen geliebten Menschen bis zum Ende zu schützen.
 非常に強力な癒しの力を有する耳飾り。結晶の形状も相まって、傷ついた者のために流された慈母の涙であると信じられている。=Ohrringe mit starken heilenden Fähigkeiten. Angeblich Tränen einer liebenden Mutter mit Kristallform an der Spitze.
 高位の占い師が身に着ける首飾り。運命を読み取る力があるといわれ、迷える者に進むべき正しい未来を示してくれる。=Eine Halskette für hochrangige Wahrsager. Sie kann das Schicksal vorhersagen und einer verlorenen Seele den Weg in die richtige Zukunft weisen.
 稀代の大道芸人が遺した手記。魔法を大道芸に応用する方法が記されている。その柔軟な発想は、既存の魔導書とは一線を画す。=Eine Aufzeichnung eines renommierten Straßenkünstlers über die Anwendung der Magie bei Straßenauftritten. Seine Ideen unterscheiden sich von bestehenden Zauberbüchern.
@@ -506,6 +506,11 @@
 優れた治世によって歴史に名を刻んだ王の耳飾り。膨大な知識と明晰な判断力を得られ、高度な魔法の行使を実現する。=Ohrringe eines berühmten Königs, der durch seine hervorragende Regierungsführung in die Geschichte eingegangen ist. Sie verleihen ein umfangreiches Wissen und ein scharfes Urteilsvermögen und ermöglichen den kompetenten Einsatz fortgeschrittener Magie.
 虹色に輝く鉱石を、職人が丁寧に加工した耳飾り。誰かとの絆を守りたいと願うと、呼応するかのように自然の力を授けてくれる。=Ohrringe, die von geschickten Kunsthandwerkern aus schimmernden regenbogenfarbenen Edelsteinen gefertigt wurden. Wenn man eine Verbindung schützen möchte, scheinen sie zu reagieren, indem sie dem Träger die Kraft der Natur verleihen.
 遥か東の国から伝わった、巫女がまとう法衣。全身をおおう神聖な気が邪悪な魔力から着用者を守ってくれる。=Gewänder, die von Schreinmädchen aus einem fernen östlichen Land getragen werden. Die heilige Aura, die den ganzen Körper umgibt, schützt die Trägerin vor bösartiger dunkler Magie.
+
 中級の攻撃魔法が多数収録されている書物。実用的でありながら修得は難しくないため、多くの魔法使いに読まれている。=Ein Foliant mit zahlreichen Angriffszaubern der mittleren Stufe. Es ist praktisch, aber nicht zu schwierig zu meistern, weshalb es von vielen Zauberern gelesen wird.
+
 特殊な魔法が記された本。基本の系統からは外れるが、使用者の能力を高めるための専門的な魔法を多種学ぶことができる。=Ein Buch mit spezialisierten Zaubersprüchen. Es weicht vom grundlegenden System ab, ermöglicht aber dem Benutzer, verschiedene spezialisierte Zaubersprüche zu erlernen, die seine Fähigkeiten verbessern.
+
 複数の弦を持つ特殊な弓。矢を放つだけではなく音楽も奏でられ、その音色は耳にした者の戦意を高揚させる効果がある。=Ein einzigartiger Bogen mit mehreren Saiten. Er schießt nicht nur Pfeile, sondern erzeugt auch Musik, deren Melodien den Kampfgeist derjenigen beflügeln, die sie hören.
+
+ある貴公子が戦に向けて作らせた、\n特注品の手甲。斬撃を防ぐことに\n特化しており、振り下ろされた刀身\nをへし折るほどの強度を誇る。=Ein maßgeschneiderter Handpanzer, der von einem bestimmten Adligen für die Kriegsführung hergestellt wurde. Er wurde speziell entworfen, um Hiebe zu verhindern und ist stark genug, um eine Schwertklinge zu brechen, wenn sie nach unten geschwungen wird.
