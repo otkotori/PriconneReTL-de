@@ -57,7 +57,7 @@ r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しま
 r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]に申請中です。\n申請を取り消しますか？\[-\]\[-\]$"=[3C404E]Beitrittsantrag\n[FFBB00,CE4F00]$1 stornieren[-]?[-]
 申請取り消し確認=Bewerbung abbrechen
 
-r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]Sie haben Ihren Antrag auf Beitritt zur\n[FFBB00,CE4F00]$1 storniert[-].[-]
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]Sie haben Ihren Antrag auf Beitritt zur\n[FFBB00,CE4F00]$1[-] storniert.[-]
 申請取り消し完了=Bewerbung abgebrochen
 
 [FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]Es konnten keine Clans gefunden werden, die Ihrer Suche entsprechen.[-]

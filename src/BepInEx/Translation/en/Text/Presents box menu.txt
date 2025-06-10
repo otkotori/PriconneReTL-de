@@ -14,7 +14,6 @@
 以下のプレゼントをまとめて受け取りますか？=Möchten Sie alle der folgenden Geschenke annehmen?
 プレゼント受け取り=Geschenk annehmen
 報酬はプレゼントに送られました。=Die Belohnung wurde an die Geschenkbox geschickt.
-所持上限を超えたアイテムはプレゼントに送られました。=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.
 「信頼度エピソード」で獲得したアイテムです。=Artikel, aus der „Intimität-Folge“ erworben.
 運営からのお詫びの品です。=Entschuldigung der Geschäftsleitung.
 ミニゲームで獲得したアイテムです。=Artikel, der in einem Minispiel erhalten wurde.
@@ -91,3 +90,9 @@ sr:"^(?:\[3C404E\])?(.+)のアイテムです。(?:\[-\])?$"="Artikel erworben v
 
 TANITAコラボ記念カスタムマイページ=Benutzerdefinierte Seite zur Erinnerung an die Zusammenarbeit mit Tanita
 TANITAコラボログイン=Anmeldung der Tanita-Kollaboration
+
+所持上限を超えたアイテムはプレゼントに送られました。=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.
+所持上限を超えたアイテムをプレゼントに送りました。=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.
+上限に達したアイテムは\\nプレゼントに送られます。=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.
+所持上限を超えたアイテムは、プレゼントに送られます。=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.
+所持上限を超えたアイテムはプレゼントに送られました=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt.

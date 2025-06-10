@@ -3,20 +3,20 @@
 10月=Okt
 09月=Sep
 08月=Aug
-07月=Jul
-06月=Jun
+07月=Juli
+06月=Juni
 05月=Mai
 04月=Apr
-03月=Mär
+03月=März
 02月=Feb
 01月=Jan
 9月=Sep
 8月=Aug
-7月=Jul
-6月=Jun
+7月=Juli
+6月=Juni
 5月=Mai
 4月=Apr
-3月=Mär
+3月=März
 2月=Feb
 1月=Jan
 

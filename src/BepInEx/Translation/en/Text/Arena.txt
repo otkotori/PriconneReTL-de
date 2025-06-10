@@ -41,7 +41,7 @@ r:"^プリセット(\d+)$"=Voreinstel. $1
 ログを削除=Protokoll entfernen
 バトルログ投稿完了=Kampfprotokollbuchung abgeschlossen
 [3C404E]パーティ編成を保存しました。[-]=[3C404E]Die Parteiformation wurde gespeichert.[-]
-[FF7C4E,D62146]マイパーティに保存されている数が上限に達しています。\n上書きして保存するパーティを選択してください。[-]=[FF7C4E,D62146]Es gibt keine freien Plätze mehr in Meine Partei.\nWählen Sie die zu ersetzende Partei aus. [-]
+[FF7C4E,D62146]マイパーティに保存されている数が上限に達しています。\n上書きして保存するパーティを選択してください。[-]=[FF7C4E,D62146]Es gibt keine freien Plätze mehr in Meine Partei.\nWählen Sie die zu ersetzende Partei aus.[-]
 ここに保存=Hier speichern
 上書きして保存するパーティを選択してください。=Wählen Sie die zu überschreibende Partei aus und speichern Sie.
 保存場所を選択=Wählen Sie einen Speicherort
@@ -57,7 +57,7 @@ r:"^パーティ(\d)にキャラが選択されていません。$"=Kein Zeichen
 フレンド以外のプレイヤーのキャラは、ステータスが\\n下方補正されている場合があります。=Charaktere von Spielern, die nicht auf eurer Freundesliste\nstehen, können in ihren Werten herabgestuft werden.
 別のパーティに編成中のキャラは選択できません。=Zeichen, die in einer anderen Gruppe verwendet werden, können nicht ausgewählt werden.
 
-[3C404E]対戦相手のランキングが更新されました。[-]=[3C404E] Die Rangliste des Gegners wurde aktualisiert. [-]
+[3C404E]対戦相手のランキングが更新されました。[-]=[3C404E]Die Rangliste des Gegners wurde aktualisiert.[-]
 sr:"^(?:\[3C404E\])?対戦相手のランキングが(\d+位)に変更されました。\n対戦しますか？(?:\[-\])?$"=[3C404E]Der Rang des Gegners wurde auf Platz $1 geändert. Willst du spielen?[-]
 相手の編成確認=Gegnerische Partei
 リスト更新まで=Zurücksetzen in
@@ -67,7 +67,7 @@ sr:"^(?:\[3C404E\])?対戦相手のランキングが(\d+位)に変更されま�
 1～50位のプレイヤーのため、表示できません。=Kann nicht angezeigt werden, da die Spieler auf den Plätzen 1-50 rangieren.
 対戦履歴はありません。=Es ist kein Spielverlauf verfügbar.
 r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]sieg:$1 verlieren:$2[-]"
-r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Aufsteigen [FFBB00,CE4F00]$1[-] Rang, Aktueller Rang: [FFBB00,CE4F00]$2[-].[-]
+r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D][FFBB00,CE4F00]$1[-] Rang aufsteigen, Aktueller Rang: [FFBB00,CE4F00]$2[-].[-]
 プリンセスアリーナではオートのみになります。=In der Prinzessinnen-Arena ist nur AUTO verfügbar.
 
 [FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]Dies ist ein Kampf, der nicht übersprungen werden kann, ohne dass sich der Rang ändert.[-]

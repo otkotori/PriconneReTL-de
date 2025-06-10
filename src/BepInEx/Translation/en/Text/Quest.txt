@@ -11,9 +11,11 @@ r:"^あと (\d+)$"=verbleibende $1
 情報が更新されるまで、時間がかかる場合があります。=Es kann einige Zeit dauern, bis die Informationen aktualisiert sind.
 　現在、対象プレイヤーの情報がありません。=Derzeit gibt es keine Informationen über den Zielspieler.
 [3C404E]残り挑戦回数が0になりました。\n回復しますか?[-]=[3C404E]Ihre verbleibenden Versuche haben\n0 erreicht. Wiederherstellen?
-ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復します。\nよろしいですか？=Verbrauche Juwelen und stelle die Anzahl der verbleibenden Versuche der folgenden Quests insgesamt wieder her.\n Ist das in Ordnung?
-r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設定をリセットし、撃破数を1体に戻しますか？\[-\]$"=[3C404E]Die Anzahl der zu verwendenden Skip-Tickets ist derzeit auf $1 festgelegt.\nDie Zahl auf 1 zurücksetzen? [-]
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復します。\nよろしいですか？=Verbrauche Juwelen und stelle die Anzahl der verbleibenden Versuche der folgenden Quests insgesamt wieder her.\nIst das in Ordnung?
+r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設定をリセットし、撃破数を1体に戻しますか？\[-\]$"=[3C404E]Die Anzahl der zu verwendenden Skip-Tickets ist derzeit auf $1 festgelegt.\nDie Zahl auf 1 zurücksetzen?[-]
 r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定されています。\n設定をリセットし、消費枚数を1枚に戻しますか？$"=Die Anzahl der zu verwendenden Skip-Tickets ist derzeit auf $1 festgelegt.\nDie Zahl auf 1 zurücksetzen?
+以下クエストの残り挑戦回数をまとめて回復しますか？=Wollt ihr die Anzahl der Versuche für die folgenden Quests wiederherstellen?
+以下クエストの残り挑戦回数をまとめて回復します。\nよろしいですか？=Die verbleibende Anzahl von Versuche für die folgenden Quests wird wiederhergestellt.\nIst das in Ordnung?
 1枚に戻す=Auf 1 zurücksetzen
 1体に戻す=Auf 1 zurücksetzen
 スキップチケット枚数リセット確認=Ticketnummer zurücksetzen
@@ -28,7 +30,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 深域クエスト=Talentsuche
 消費挑戦回数=Versuche nutzen
 メインクエスト=Hauptquest
-開催中=Unterwegs!
+開催中=Aktiv!
 クランバトル=Clankampf
 ダンジョン=Dungeon
 調査=Expedition
@@ -47,7 +49,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 報酬=Belohnung
 モンスター=Ungeheuer
 獲得アイテム=Verdiente Artikel
-フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Unterstützende Charaktere, die nicht auf der Freundes-\nliste stehen, können die Werte kompensiert bekommen.
+フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Hilfscharaktere, die nicht auf der Freundesliste\nstehen, können die Werte kompensiert bekommen.
 設定できるサポートキャラがいません。=Kein Mietzeichen kann eingestellt werden.
 消費したスタミナはマスターコインに変換されました。=Die verbrauchte Ausdauer wurde in Meistermünzen umgewandelt.
 Lv上限に達した状態で消費したスタミナは\nマスターコインに変換されます。=Das Stufencap wurde erreicht, verbrauchte Ausdauer wurde in Meistermünzen umgewandelt.
@@ -82,15 +84,15 @@ r:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nス�
 スタミナ回復単価一覧=Preisliste für Ausdaueraufladung
 スタミナ回復回数に応じて、スタミナ回復１回あたりの\nジュエルの必要数が異なります。詳細は下記をご覧ください。=Je nach der Anzahl der durchgeführten Ausdaueraufladungen variieren die Juwelenkosten pro Aufladung.\nEinzelheiten siehe unten.
 スタミナ回復すると、スタミナ上限を超えてしまうため回復できません。=Du kannst keine Ausdauer mehr erhalten, du hast bereits das Maximum erreicht.
-[3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Unzureichende Ausdauer.\nWollen Sie aufladen? [-]
+[3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Unzureichende Ausdauer.\nWollen Sie aufladen?[-]
 
-r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Nutze [FFBB00,CE4F00]$1[-] Juwelen \nzur Wiederherstellung von [FFBB00,CE4F00]$2[-] Ausdauer\n\nAufladungen heute übrig: $3[-]
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Nutze [FFBB00,CE4F00]$1[-] Juwelen \nzur Wiederherstellung von [FFBB00,CE4F00]$2[-] Ausdauer-\n\naufladungen heute übrig: $3[-]
 
-r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Nutze [FFBB00,CE4F00]$1[-] Jewels\nzur Wiederherstellung von [FFBB00,CE4F00]$2[-] Versuche\n\nAufladungen heute übrig: $3[-]
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Nutze [FFBB00,CE4F00]$1[-] Juwelen\nzur Wiederherstellung von [FFBB00,CE4F00]$2[-] Versuche\n\nAufladungen heute übrig: $3[-]
 
-r:"^\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個消費して、\n以下のクエストの残り挑戦回数を回復しました。\[-\]$"=[3C404E]Juwelen [FFBB00,CE4F00]$1[-] verbraucht.\nDie Anzahl der verbleibenden Versuche für die folgenden Quests wurde wiederhergestellt.[-]
+r:"^\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個消費して、\n以下のクエストの残り挑戦回数を回復しました。\[-\]$"=[3C404E][FFBB00,CE4F00]$1[-] Juwelen verbraucht.\n\nDie Anzahl der verbleibenden Versuche für die folgenden Quests wurde wiederhergestellt.[-]
 
-本日の回復可能回数上限に達しました。=Die heutige Erstattungsgrenze wurde erreicht.
+本日の回復可能回数上限に達しました。=Heutige Erstattungsgrenze erreicht.
 スキップ回数=Anzahl übersprungen
 対象=Thema
 以下のクエストはスタミナ不足のため実行しません。=Die folgenden Quests können aufgrund\nvon Ausdauermangel nicht ausgeführt werden.

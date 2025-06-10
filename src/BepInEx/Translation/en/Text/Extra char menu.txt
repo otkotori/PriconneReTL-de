@@ -28,7 +28,7 @@ r:"^最小単位は([0-9,]+)です。$"=Die Mindesteinheit beträgt $1.
 このアイテムはこれ以上セットできません。=Dieser Artikel kann nicht mehr gesetzt werden.
 合計消費数=Gesamtverbrauchszahl
 
-sr:"^セットする([べ-ヺー＆＝]+) ?(（.+）)?のメモリーピースの\n数を変更しますか？$"=Erinnerungsstücke von $1$2 einstellen?
+sr:"^セットする([べ-ヺー＆＝]+) ?(（.+）)?のメモリーピースの\n数を変更しますか？$"=Gedächtnissplitter von $1$2 einstellen?
 sr:"^([べ-・ー＆]{2,16})(（.+）)?解放 $"=$1$2 Freigeschaltet
 交換数確認=Schecknummernbestätigung
 

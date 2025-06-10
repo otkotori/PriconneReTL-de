@@ -1,2 +1,2 @@
-ダンジョンコインを手に入れましたね。\n獲得したダンジョンコインはショップで使えます。\nさっそくショップに行ってみましょう。=[3C404EFF]Du hast eine Dungeonmünze bekommen.\nVerdiente Dungeonmünzen können im Shop verwendet werden. Lass uns jetzt in den Shop gehen.
-ダンジョンコインを集めることで、\nキャラのメモリーピースや、\n装備と交換できます。=[3C404EFF]Wenn du Dungeonmünzen sammelst, kannst du sie gegen Erinnerungssplitter und Ausrüstung eintauschen.
+ダンジョンコインを手に入れましたね。\n獲得したダンジョンコインはショップで使えます。\nさっそくショップに行ってみましょう。=[3C404EFF]Du hast eine Kerkermünze bekommen.\nVerdiente Kerkermünzen können im Shop verwendet werden. Lass uns jetzt in den Shop gehen.
+ダンジョンコインを集めることで、\nキャラのメモリーピースや、\n装備と交換できます。=[3C404EFF]Wenn du Kerkermünzen sammelst, kannst du sie gegen Gedächtnissplitter und Ausrüstung eintauschen.

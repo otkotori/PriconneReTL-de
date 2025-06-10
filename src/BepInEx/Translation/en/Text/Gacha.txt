@@ -138,7 +138,7 @@ r:"^(\[[0-9A-F,]{6,13}\])10キャラ目は(\[[0-9A-F,]{6,13}\])★3キャラ確�
 [FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Nur Hauptcharaktere erscheinen im Prämie-Gacha![-].
 キャラ交換Ptの説明=Zeichentausch-Pkt-Beschr.
 
-[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]2★ Zeichen[-] ist bei jedem 10x Ziehen garantiert![-]
+[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]2★-Zeichen[-] ist bei jedem 10x Ziehen garantiert![-]
 
 [3C404E]対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Aufgestufte Charaktere erhalten einen Bonus von [FFBB00,CE4F00]200 Gedächtnissplittern[-]![-]
 [3C404E]対象キャラが加入する度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Aufgestufte Charaktere erhalten einen Bonus von [FFBB00,CE4F00]200 Gedächtnissplittern[-]![-]
@@ -252,9 +252,9 @@ sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?
 [FFBB00,CE4F00]有償ジュエル限定\n第2弾 限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Garantie 3★-Begrenzter Charakter\nGarantierte Gacha-Teil 2[-]
 [3C404E]10キャラ目は[FFBB00,CE4F00]限定★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Begrenztes 3★-Zeichen[-] ist mit einer 10x Ziehen garantiert!
 
-[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！[-]\n※選択したキャラはいつでも変更可能です[-]=[3C404E]A [FFBB00,CE4F00Begrenztes 3★-Zeichen[-] ist garantiert mit 10x ziehen!\n ►Die ausgewählten Zeichen können jederzeit geändert werden.[-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！[-]\n※選択したキャラはいつでも変更可能です[-]=[3C404E]Ein [FFBB00,CE4F00Begrenztes 3★-Zeichen[-] ist garantiert mit 10x ziehen!\n ►Die ausgewählten Zeichen können jederzeit geändert werden.[-]
 
-[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]=[3C404E]A [FFBB00,CE4F00]Begrenztes 3★-Zeichen[-] ist mit einem 10x Ziehen garantiert!\n1 Meisterstücke kann erhalten werden!\n[-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★-Zeichen[-] ist mit einem 10x Ziehen garantiert!\n1 Meisterstücke kann erhalten werden!\n[-]
 
 [3C404E]10キャラ目は[FFBB00,CE4F00]火属性の★3キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★-Feuerzeichen[-] ist mit einem 10x Ziehen garantiert!
 [3C404E]10キャラ目は[FFBB00,CE4F00]水属性の★3キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★-Wasserzeichen[-] ist mit einem 10x Ziehen garantiert!
@@ -263,15 +263,15 @@ sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?
 [3C404E]10キャラ目は[FFBB00,CE4F00]闇属性の★3キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★-Dunkelzeichen[-] ist mit einem 10x Ziehen garantiert!
 
 [FFBB00,CE4F00]有償ジュエル限定\nクリスマス★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Nur bezahlte Juwelen\nBegrenzte Weihnachts-Gacha 3★ Garantierte Platin-Gacha jetzt im Gange![-]
-[3C404E]10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Begrenztes 3★ Weihnachtszeichen[-] wird mit einer 10x Ziehung garantiert!
-10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Begrenztes 3★ Weihnachtszeichen[-] wird mit einer 10x Ziehung garantiert!
+[3C404E]10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★ Weihnachtszeichen[-] wird mit einer 10x Ziehung garantiert!
+10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]Ein [FFBB00,CE4F00]Begrenztes 3★ Weihnachtszeichen[-] wird mit einer 10x Ziehung garantiert!
 [FFBB00,CE4F00]有償ジュエル限定\nハロウィン★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Nur bezahlte Juwelen\nBegrenztes Halloween 3★ Garantiertes Platin-Gacha jetzt im Gange![-]
-10キャラ目は[FFBB00,CE4F00]ハロウィン★3キャラ確定！=A [FFBB00,CE4F00]Begrenzter 3★ Halloween-Charakter[-] ist mit einem 10x-Ziehen garantiert!
+10キャラ目は[FFBB00,CE4F00]ハロウィン★3キャラ確定！=Ein [FFBB00,CE4F00]Begrenzter 3★ Halloween-Charakter[-] ist mit einem 10x-Ziehen garantiert!
 
 [FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Nur bezahlte Juwelen\nGarantie 3★ Bezahlte Juwelen-Prämie-Gacha! [-]
 [FFBB00,CE4F00]有償ジュエル限定\n10キャラ目は選択した★3キャラ確定！[-]=[FFBB00,CE4F00]Nur bezahlte Juwelen\nBeschränkt 3★ Zeichen sind bei einer 10x Ziehung garantiert![-]
 有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Bezahlte Juwelen verbrauchen und 10-mal ziehen.\nIst das in Ordnung?
-有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Bezahlte Juwelen verbrauchen und 1-mal ziehen.\nIst das in Ordnung?
+有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Bezahlte Juwelen verbrauchen und ziehen.\nIst das in Ordnung?
 ※選択したキャラはいつでも変更可能です=※Ausgewählte Zeichen können jederzeit geändert werden.
 
 スペシャル キャラ交換ガチャセット=Sonderzeichenaustausch
@@ -329,7 +329,7 @@ sr:"^(.{2,12}ガチャ)「(\d+)回引く」$"="$1 „Ziehe $2-mal“."
 メモリーピース、マスターピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピース、マスターピースが所持上限に達している場合、プレゼントボックスに贈られます。=Wenn Gedächtnissplitter und Meisterwerke erworben werden können, werden sie direkt gewährt. Erreichen die erworbenen Gedächtnissplitter und Meisterwerke jedoch das Besitzlimit, werden sie in die Geschenkbox gelegt.
 キャラ交換の有効期間、内容は予告なく変更する場合があります。=Die Dauer und der Inhalt des Zeichentauschs können ohne Vorankündigung geändert werden.
 アイテム:=Artikel:
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\n獲得アイテムは直接付与されます。[-]=[FF7C4E,D62146]Doppelte Zeichen werden in göttliche Amulette\numgewandelt. Der erworbene Artikel wird erhalten. [-]
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\n獲得アイテムは直接付与されます。[-]=[FF7C4E,D62146]Doppelte Zeichen werden in göttliche Amulette\numgewandelt. Der erworbene Artikel wird erhalten.[-]
 マスターピース=Meisterstücke
 獲得済み=Holen
 対象キャラ=Charakter

@@ -82,10 +82,12 @@ r:"^(68\.)?思索樹海(.*)$"=$1 Meer der Gedanken $2
 r:"^(69\.)?鬼ノ膝元(.*)$"=$1 Knie des Dämons $2
 
 r:"^(70\.)?炎縄河(.*)$"=$1 Flammenseil-Fluss $2
-r:"^(71\.)?崩豹峠(.*)$"=$1 Einsturz des Leopard Mountain Passes $2
+r:"^(71\.)?崩豹峠(.*)$"=$1 Leopardenbergpass-Einsturz $2
 r:"^(72\.)?怒錐ヶ岳(.*)$"=$1 Dokusui-Berg $2
 r:"^(73\.)?久遠氷河・南端(.*)$"=$1 Ewiger Gletscher (Süden) $2
-r:"^(74\.)?久遠氷河・北端(.*)$"=$1 Ewiger Gletscher (Norden) $2
+r:"^(74\.)?幽魂湿原(.*)$"=$1 Geistersumpf $2
+r:"^(75\.)?巨鯨城・近隣(.*)$"=$1 Riesenwalburg Umgebung $2
+r:"^(76\.)?忘却された町(.*)$"=$1 Vergessene Stadt $2
 
 sr:"^([べ-ヺー＆＝]+)(（.+）)?の解放クエスト$"=$1$2 Aufstiegsquest
 sr:"^(.+)（(.+)）$"=$1 ($2)

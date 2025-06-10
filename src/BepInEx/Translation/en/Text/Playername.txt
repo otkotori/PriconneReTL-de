@@ -282,5 +282,9 @@ AEUのエース様=Master Ace of the A EU
 もぶひこ=Mobuhiko
 すばるん=Subarun
 しりうす=Shiriusu
+トーチ=Torch
+ユキカゼ=Yukikaze
+ゴマシオモドキ=Gomashiomodoki
+レミール=Lemir
 
 

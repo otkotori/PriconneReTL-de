@@ -1,4 +1,4 @@
-r:"^ゲーム起動中　([0-9.]+)％$"=Wird gestartet... $1%
+r:"^ゲーム起動中　([0-9.]+)％$"=$1% Geladen
 r:"^\[3C404E\]追加データをダウンロードします。\n\(([.0-9]+) ([MG])B\)\[-\]$"=[3C404E]Zusätzlicher Daten wurde\nheruntergeladen.\n($1 $2b)[-]
 r:"^追加データをダウンロードします。\n追加データは、保存されます。\n\(([.0-9]+) ([MG])B\)$"=Zusätzlicher Daten wurde heruntergeladen.\nZusätzlicher Daten wurde gespeichert.\n($1 $2b)
 

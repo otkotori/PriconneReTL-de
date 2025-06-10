@@ -1,7 +1,7 @@
 5:00にリセット=Zurücksetzen um 05:00
 購入回数=Käufenanzahl
 r:"^無償([0-9,]+)で$"=Gratis $1 verwenden
-r:"^有償([0-9,]+)で$"=Bezahlte $ 1 verwenden
+r:"^有償([0-9,]+)で$"=Bezahlte $1 verwenden
 
 r:"^([0-9,]+)セット購入$"=$1-Satz kaufen
 {0}セット購入={0}-Satz kaufen

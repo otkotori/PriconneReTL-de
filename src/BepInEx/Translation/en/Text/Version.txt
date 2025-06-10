@@ -1,1 +1,1 @@
-r:"^Ver([0-9.]+)$"=Ver$1\n\nBuild: 7. Januar\n\n\n🌸🎵🌸🎵🌸
+r:"^Ver([0-9.]+)$"=Ver$1\n\nBuild: 10.Juni\n\n\n🌸🎵🌸🎵🌸

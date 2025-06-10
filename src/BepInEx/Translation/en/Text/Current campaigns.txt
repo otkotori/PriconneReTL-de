@@ -6,11 +6,11 @@ r:"^メインクエスト エリア([0-9～ ]+)$"=Hauptquestbereich $1
 イベントクエスト（NORMAL）=Ereignisquest (NORMAL)
 イベントクエスト（HARD）=Ereignisquest (SCHWER)
 サイドストーリークエスト=Nebengeschichte-Quest
-SPダンジョン=Geheimer-Dungeon
+SPダンジョン=Geheimer-Kerker
 聖跡調査クエスト=Sanctum-Umfrage-Quest
-神殿調査クエスト=Tempeltrekking-Quest
+神殿調査クエスト=Tempeltrek-Quest
 スキップ確認 =Bestätigungsübersprung 
-全バトルをスキップして、報酬を獲得しますか？=Willst du die Dungeon überspringen und Belohnungen erhalten?
+全バトルをスキップして、報酬を獲得しますか？=Willst du die Kerker überspringen und Belohnungen erhalten?
 
 r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Verbrauchsausdauer halbiert\nfür Hauptquest $1[-]
 消費スタミナ半減=Verbrauchsausdauer halbiert

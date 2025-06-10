@@ -40,7 +40,7 @@
 スキル効果=Fähigkeiten-Effekt
 スキル=Fähigkeiten
 EXスキル=EX-Fähigkeiten
-r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Ab RANG $2 Freischalten!
+r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Ab RANG $2 freischalten.
 中断=Ende
 [3C404E]リプレイを中断しますか？\nリプレイはクリアパーティ一覧から\n再度見ることができます。[-]=[3C404E]Wiederholung beenden?\nWiederholungen können erneut\nangesehen werden aus\nder Parteienliste.[-]
 
@@ -51,10 +51,10 @@ r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Ab RANG $2 Freischalten!
 確認画面=Bestätigung
 [3C404E]タイトルに戻りますか？[-]=[3C404E]Möchten Sie zum Titel zurückkehren?[-].
 
-[3C404E]アプリを終了してもよろしいですか？[-]=[3C404E]Bist du sicher, dass du aufhören willst? [-]
+[3C404E]アプリを終了してもよろしいですか？[-]=[3C404E]Bist du sicher, dass du aufhören willst?[-]
 アプリ終了確認=Bestätigung
 
-[3C404E]日付が変わりました。[-]=[3C404E]Es ist 05:00 der nächsten tag.\nDas Spieltag wurde geändert.[-].
+[3C404E]日付が変わりました。[-]=[3C404E]Es ist 05:00 der nächsten tag.\nDas Spieltag wurde geändert.[-]
 日付変更=Uhr-Weschel
 
 このストーリーをスキップしてもよろしいですか？=Sind Sie sicher, dass Sie diese Geschichte\nauslassen wollen?
@@ -66,7 +66,7 @@ r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Ab RANG $2 Freischalten!
 [FF7C4E,D62146]このストーリーをスキップしてもよろしいですか？[-]=[FF7C4E,D62146]Diese Geschichte überspringen?[-]
 
 レベルアップ=Stufe-Erhöung!
-スタミナが回復しました！=Der Ausdauer wurde wiederhergestellt!
+スタミナが回復しました！=Ausdauer wurde wiederhergestellt!
 スタミナ最大値=Max. Ausdauer
 
 sr:"^「(.+)」で挑戦してみてね！$"=Versuchen Sie $1

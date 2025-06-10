@@ -9,7 +9,7 @@ r:"^所持数：(\d+)$"=Besitz: $1
 sr:"^(\d+月)(\d+)日まで販売中$"=Verkaufen bis $2 $1
 残り0回=Ausverkauft
 r:"^残り(\d+)回$"=$1 verbleibend
-ダンジョンショップ=Dungeon-Shop
+ダンジョンショップ=Kerker-Shop
 残り購入回数=Bleiben
 すべて選択=Alle wählen
 全て解除=Entfernen
@@ -23,13 +23,13 @@ r:"^残り(\d+)回$"=$1 verbleibend
 所持コイン=Münzen:
 これ以上購入回数を減らせません。=Die Anzahl der Käufe kann nicht weiter reduziert werden.
 ポーション=EP-Trank
-r:^"([0-9,]+)でまとめて購入する$"=Alle kaufen mit: $1
+r:^"([0-9,]+)でまとめて購入する$"=Mit $1 kaufen
 まとめて購入する=Alle kaufen
-sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Verwenden Sie $1 × [FFBB00,CE4F00]$2[-],\n um die folgenden Artikel zu kaufen?[-]
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Verwenden Sie [FFBB00,CE4F00]$2[-] $1,\num die folgenden Artikel zu kaufen?[-]
 
-sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]Sie haben $1 × [FFBB00,CE4F00]$2[-]\n verwendet, um die folgenden Artikel zu kaufen.[-]
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]Sie haben [FFBB00,CE4F00]$2[-] $1\nverwendet, um die folgenden Artikel zu kaufen.[-]
 
-sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]Sie haben $1 × [FFBB00,CE4F00]$2[-] verwendet, um $3 × [FFBB00,CE4F00]$4[-] zu kaufen.[-]
+sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]Sie haben [FFBB00,CE4F00]$2[-] $1\nverwendet, um [FFBB00,CE4F00]$4[-] $3 zu kaufen.[-]
 
 ピュアメモリー\nピースのみ=Nur reines\nGedächtnissplittern
 メモリーピースのみ=Nur Gedächtnissplittern
@@ -51,15 +51,15 @@ sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×
 マスターコイン獲得で解放=Wird durch den Erhalt von Meistermünzen freigeschaltet
 限定ショップ （準備中）=Bonusshop (geschlossen)
 
-限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=Die maximale Anzahl von Erscheinungen des Bonus-Shops ist erreicht, und der Bonus-Shop wird um 05:00 zurückgesetzt.
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=Die maximale Anzahl von Erscheinungen des Bonusshops ist erreicht, und der Bonusshop wird um 05:00 zurückgesetzt.
 
 ショップ閉店確認=Shop schließen
-[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Möchten Sie den Bonus-Shop von heute schließen?\n\nDie nächste Öffnung ist [FFBB00,CE4F00]nach 05:00.[-][-]
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Möchten Sie den Bonusshop von heute schließen?\n\nDie nächste Öffnung ist [FFBB00,CE4F00]nach 05:00.[-][-]
 
-限定ショップ=Bonus-Shop
+限定ショップ=Bonusshop
 必要マナ=Mana-Anf.
 
-限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Dem Bonus-Shop wurden neue Artikel hinzugefügt.
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Dem Bonusshop wurden neue Artikel hinzugefügt.
 
 本日の出現数=Erscheint
 限定ショップは開かれていません。=Der Bonusshop ist nicht geöffnet.
@@ -82,9 +82,9 @@ sr:"^(.{4,20})不足$"=Ungenügend $1
 sr:"^購入に必要な(.{4,20})が不足しています。$"=Nicht genügend $1 zum Kauf.
 バトルアリーナへ=Zur Kampfarena
 プリンセスアリーナへ=Zur Prinzessinnen-Arena
-ダンジョンへ移動しますか?=In den Dungeon umziehen?
-プリンセスアリーナへ移動しますか?=In den Prinzessinnen-Arena umziehen?
-バトルアリーナへ移動しますか?=In die Kampfarena umziehen?
+ダンジョンへ移動しますか?=Zur Kerker umziehen?
+プリンセスアリーナへ移動しますか?=Zur Prinzessinnen-Arena umziehen?
+バトルアリーナへ移動しますか?=Zur Kampfarena umziehen?
 
 主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=Mein Herr, es sieht so aus, als könnten Sie Meistermünzen gegen Artikel eintauschen, die im Meistershop nur schwer zu bekommen sind. Sobald Sie die maximale Spielerstufe erreicht haben, können Sie Meistermünzen durch den Verbrauch von Ausdauer bei Erreichen der EP-Obergrenze erhalten.
 在のメモリーピース1個あたりの単価=Preise pro Gedächtnissplitter: 
@@ -105,9 +105,9 @@ r:"^([0-9,]+)で購入$"=$1 kaufen
 [FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FF7C4E,D62146]Verfügt über die notwendige Menge, um EA-2 zu erstellen.[-]
 
 使用可能なスロットがありません。=Keine nutzbaren Steckplätze.
-sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11}|)(\（.{2,10}\）)?の専用装備２を\n(.)段階強化するのに必要な数を所持しています。\[-]$"=[FFF7C4E,D621446]Du hast die erforderliche Menge, um die Einzigartige Ausrüstung 2\nvon $1$2 zu verbessern von $3 Stufe(n).[-]
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11}|)(\（.{2,10}\）)?の専用装備２を\n(.)段階強化するのに必要な数を所持しています。\[-]$"=[FFF7C4E,D621446]Du hast die erforderliche Menge, um die EA-2\nvon $1$2 zu verbessern von $3 Stufe(n).[-]
 
-キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Enthält die Anzahl, die benötigt wird, um den Charakter zu brechen\nSie können die Anzahl kaufen, die benötigt wird, um die Einzigartige Ausrüstung 1 zu entkappen.
+キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Enthält die Anzahl, die benötigt wird, um den Charakter zu brechen\nSie können die Anzahl kaufen, die benötigt wird, um die EA-1 zu entkappen.
 特定の強化分の購入数を超えています。\nそのまま購入しますか？=Die für die EA-Verbesserung erforderliche Anzahl wurde überschritten.\nMöchten Sie den Kauf fortsetzen?
 ★5に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 5★ benötigen.
 ★4に必要な個数まで指定できます。=Kann bis zu der Anzahl angeben, die Sie für 4★ benötigen.
@@ -124,17 +124,20 @@ r:"^(\d)個になります。$"=$1 pro Splitter
 
 対象アイテム1個あたりの単価が=Der Einheitspreis pro Zielposition beträgt
 sr:"^([べ-ヺー＆＝]+)(（.+）)?の\nメモリーピースの購入数が(\d+)になりました。$"=Die Gesamtzahl der Käufe von $1$2 ist $3.
-一部毎日5:00更新=Täglich um 05:00 zurücksetzen
 
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Verwenden Sie $1 ×[FFBB00,CE4F00]$2[-],\n um den Inhalt des Shops zurückzusetzen?[-]
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Verwenden Sie [FFBB00,CE4F00]$2[-] $1,\num den Inhalt des Shops zurückzusetzen?[-]
 
-r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]Verwenden Sie Meistermünzen ×[FFBB00,CE4F00]$1[-],\n um die folgenden Artikel zurückzusetzen?[-]
+r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]Verwenden Sie [FFBB00,CE4F00]$1[-] Meistermünzen,\num die folgenden Artikel zurückzusetzen?[-]
 [FF7C4E,D62146]リセット対象外のアイテムはリセットされません。[-]=[FF7C4E,D62146]Artikel, die nicht für eine Rücknahme in Frage kommen, werden nicht zurückgenommen.[-]
 リセット対象外のアイテム=Artikel, die nicht zurückgesetzt werden
 リセット対象のアイテム=Zurückzusetzende Artikel
 r:"^次回ラインナップは(\d+):00更新$"=Zurücksetzen um $1:00
 毎日5:00ラインナップ更新=Zurücksetzen um 05:00
+一部毎日5:00更新=Zurücksetzen um 05:00
 r:"^毎日5:00更新　出現数(\d)/5$"=Zurücksetzen um 05:00: $1/5 aktiv
 
 r:"^本日の出現数　([0-9/]+)回$"=Erscheinung heute: $1
 メインクエストのクリア時に\n出現することがあります。=Erscheint gelegentlich nach\ndem Lösen von Hauptquests.
+メインクエスト18-1（NORMAL）クリア\nまたはコイン獲得で解放=Freigegeben nach Abschluss der Hauptquest 18-1 oder dem Sammeln von Meistermünzen.
+EX装備ショップ =EX-Ausrüstungsshop 
+開店準備中=Eröffnung wird vorbereitet.

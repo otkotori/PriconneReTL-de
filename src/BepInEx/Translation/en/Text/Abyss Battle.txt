@@ -34,12 +34,12 @@ r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バト
 討伐依頼証枚数=Anzahl der Jagdscheine
 スキップダメージ=Überspringen von Schäden
 
-[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Unterwerfung“.[-]
-深淵討伐戦の前哨クエストを1回クリアしよう=Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Unterwerfung“.
+[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Schlacht“.[-]
+深淵討伐戦の前哨クエストを1回クリアしよう=Erledige 1 Mal die Aufgabe „Außenposten der Abyss-Schlacht“.
 [FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF]Besiege alle Bosse in der Abyss-Schlacht auf SEHR SCHWER.[-]
 深淵討伐戦で全ボスのVERY HARDをクリアしよう=Besiege alle Bosse in der Abyss-Schlacht auf SEHR SCHWER.
 
-深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Es scheint, dass bestimmte Elementarboni während des Kampfes zur Abyss-Unterwerfung verstärkt werden. Ihr könnt den Boss herausfordern, indem ihr das Unterwerfungszertifikat für die Unterwerfung in den Außenposten-Quests sammelt.
+深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Es scheint, dass bestimmte Elementarboni während des Kampfes zur Abyss-Schlacht verstärkt werden. Ihr könnt den Boss herausfordern, indem ihr das Unterwerfungszertifikat für die Unterwerfung in den Außenposten-Quests sammelt.
 ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=In Bosskämpfen wird Ihre Punktzahl auf der Grundlage des von Ihnen verursachten Schadens erhöht. Als Belohnung für den Abschluss der ersten Runde des Endgegners und die Erreichung der Endpunktzahl erhältst du ein Meisterwerk-Fragment. Stellen Sie sicher, dass Sie für die Herausforderung gut vorbereitet sind.
 
 [3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404EVerwenden [FFBB00,CE4F00]1[-] Unterwerfungsantragsformular, um ein anderes Abenteuer mit derselben Gruppe zu spielen. [-]

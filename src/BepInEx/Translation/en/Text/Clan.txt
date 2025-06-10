@@ -2,7 +2,7 @@
 対象クエスト一覧=Verfügbare Questliste:
 対象のクエストは以下のものとなります。=Die verfügbaren Quests, die Mietchara.\nverwenden kann, sind wie folgt.
 
-クエスト・イベント=Quest und Ereignis
+クエスト・イベント=Quest/Ereignis
 メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト=Hauptquest (NORMAL)\nHauptquest (SCHWER)\nHauptquest (SEHR SCHWER)\nUnterfragen\nGrotte-EP\nGrotte-Mana\nSanctum-Umfrage\nTempeltrek\nEreignis-Quest (NORMAL)\nEreignis-Quest (SCHWER)\nNebengeschichte-Quest (NORMAL)\nNebengeschichte-Quest (SCHWER)\nEvent-Bosskampf (Ausstellung+)\nTalentsuche
 
 メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦=Hauptquest (NORMAL)\nHauptquest (SCHWER)\nHauptquest (SEHR SCHWER)\nUnterfragen\nGrotte-EP\nGrotte-Mana\nSanctum-Umfrage\nTempeltrek\nEreignis-Quest (NORMAL)\nEreignis-Quest (SCHWER)\nNebengeschichte-Quest (NORMAL)\nNebengeschichte-Quest (SCHWER)\nEvent-Bosskampf (Ausstellung+)\nTalentsuche
@@ -31,7 +31,7 @@ r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]vor $1M[-
 
 r:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを(\d+)獲得しました。(\[-\])?$"=$1Du mochtest $2-san gefallt\nund Sie haben $3 Ausdauer.$4
 
-r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan-Mitglied mag dich,\nErhalte Mana × [FFBB00,CE4F00]$2[-][-]
+r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan-Mitglied mag dich,\nErhalte [FFBB00,CE4F00]$2[-] Mana[-]
 
 月間=Monat
 [FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Gewürdigte Clanmitglieder erhalten Mana.[-]
@@ -76,13 +76,12 @@ r:"^以下の装備をx(\d+)獲得しました。\n8時間経過したため、�
 [FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Versuch verwendet werden und die Verwendung von Charas außer[-]
 
 [3C404E][3C404E]クランを[-][FF7C4E,D62146]脱退[-][3C404E]します。\nよろしいですか？[-][-]=[3C404E]Du wirst [FF7C4E,D62146]aus dem Clan austreten.\nIst das in Ordnung?
-[FF7C4E,D62146]脱退後24時間はクランに所属・結成ができません。[-]=[FF7C4E,D62146]Du kannst einem Clan erst 24 Stunden nach\ndem Verlassen des Clans beitreten oder ihn gründen..[-]
+[FF7C4E,D62146]脱退後24時間はクランに所属・結成ができません。[-]=[FF7C4E,D62146]Du kannst einem Clan erst 24 Stunden nach\ndem Verlassen des Clans beitreten oder ihn gründen.[-]
 
-残り挑戦回数が0回です。=Verbleibende Versuch ist 0.
+残り挑戦回数が0回です。=Nicht herausgefordert.
 現在の装備リクエストの状況です。=Status der aktuellen Ausrüstungsanfrage.
-r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=Sie haben die folgenden AusrüstungsArtikel für $1 erhalten. Status der aktuellen Ausrüstungsanfrage.
+r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=Sie haben die folgenden Ausrüstungsartikel für $1 erhalten. Status der aktuellen Ausrüstungsanfrage.
 難易度変更したバトルでは使用できません。=Kann nicht in Kämpfen mit verändertem Schwierigkeitsgrad verwendet werden.
-所持上限を超えたアイテムはプレゼントに送られました=Artikel, die die Besitzgrenze überschreiten,\nwurden als Geschenke verschickt
 前回のリクエスト結果=Ergebnis der vorherigen Anfrage
 リクエスト結果=Ergebnis anfordern
 sr:"^([0-9]{1,2}月)の順位：$"=$1 Rang:
@@ -145,7 +144,7 @@ r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D6
 sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Globale Rangliste($1)[-]
 CPと挑戦回数は毎日05:00にリセットされます。=CPte und Versuche werden um 05:00 zurückgesetzt.
 r:"^\[3C404E\]クランバトルの挑戦回数が\n?\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Ihre CK-Versuche haben sich um [FFBB00,CE4F00]$1 erhöht[-].[-]
-r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Verdient [FFBB00,CE4F00]$1 [-]CP,[-]
+r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Verdient [FFBB00,CE4F00]$1 [-]CPte[-]
 [3C404E]マイログに保存しますか?[-]=[3C404E]Möchten Sie es in Mein Logbuch speichern?[-]
 マイログ保存確認=Mein Protokoll Speichern-Bestätigung
 模擬戦中=Ausbildung
@@ -157,7 +156,7 @@ r:"^\[3C404E\]モンスターを撃破したため\n残り時間を\[FF7C4E,D621
 前回の編成メンバー=Bisherige Parteimitglieder
 現在の編成メンバー=Aktuelle Parteimitglieder
 [FF7C4E,D62146]発生中の持越しバトルがありません。[-]=[FF7C4E,D62146]Keine übrig gebliebene Party.[-]
-r:"^\[3C404E\]オーバーキルが発生したため\nモンスターの実際の残りHPと\n与えたダメージから換算して\n持越し時間\[FF7C4E,D62146\]([0-9:]+)\[-\]が発生します。\[-\]$"=[3C404E]Aufgrund des Overkills wurde die verbleibende Zeit von [FF7C4E,D62146]$1[-] durch Umrechnung der tatsächlich verbleibenden HP des Monsters und des verursachten Schadens generiert.[-]
+r:"^\[3C404E\]オーバーキルが発生したため\nモンスターの実際の残りHPと\n与えたダメージから換算して\n持越し時間\[FF7C4E,D62146\]([0-9:]+)\[-\]が発生します。\[-\]$"=[3C404E]Aufgrund des Overkills wurde die verbleibende Zeit von [FF7C4E,D62146]$1[-] durch Umrechnung der tatsächlich verbleibenden KP des Monsters und des verursachten Schadens generiert.[-]
 オーバーキル通知=Overkill-Meldung
 sr:"^(\d+月)クランバトル開始！！$"=CK-$1 hat begonnen!
 r:"^期間 ([0-9/ :]+)～([0-9/ :]+)$"=Beginn $1\nEnde $2
@@ -256,7 +255,7 @@ r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 Spieler h
 [FF7C4E,D62146]保存時と★設定が違うキャラがいます。[-]=[FF7C4E,D62146]Einige Zeichen haben andere ★-Optionen als beim Speichern.[-]
 ・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・Meine Partei-Kampfarena/Prinzessin Arena-Verteidigung
 挑戦回数を消費してクランバトルを開始しますか？=Verwenden Sie Ihren Versuch, den Kampf zu beginnen?
-[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Die Anzahl der Versuche wird beim Start verbraucht.\nBitte spielen Sie an einem Ort mit einer guten Verbindung..[-]
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Die Anzahl der Versuche wird beim Start verbraucht.\nBitte spielen Sie an einem Ort mit einer guten Verbindung.[-]
 
 [FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Die Ergebnisse von Trainingskämpfen werden nicht in den Ergebnissen von Clankämpfen berücksichtigt.[-]
 
@@ -300,7 +299,7 @@ r:"^持越し(\d)回目$"=ÜG-Partie $1
 持越し時間を使用する=Verbleibende Zeit nutzen
 持越し時間を使用しない=Nicht verwendete Restlaufzeit
 持越し時間を使用するとき、\n参加済キャラを編成する。=Verwenden Sie die Zeichen\nvon übrig gebliebenen Team
-サポートキャラのEX装備は変更できません。=Unterstützungszeichen EX-Ausrüstung kann nicht geändert werden.
+サポートキャラのEX装備は変更できません。=EX-Ausrüstung von Hilfscharktere kann nicht geändert werden.
 r:"^あと(\d+)回$"=$1 übrig
 r:"^(\d)戦目\n本戦参加済$"=Verwendet bei\nPartei $1
 
@@ -447,14 +446,14 @@ sr:"^\(クラン内ランキング　(\d+位)\)$"=(Claninterner Rang $1)
 模擬戦の戦績もアンタが\n気に入ったものがあれば\n記録しておけるのね=Sieht so aus, als könntest du Kampfaufzeichnungen deiner Lieblingsübungen speichern.
 
 まだ誰も挑戦していません=Bisher wurden keine Versuche\nunternommen.
-r:"^([^\n、\\\.\,。\?\!]{2,10})が$"="[00ff00AA]$1[-] treffe"
+r:"^([^\n、\\\.\,。\?\!]{2,10})が$"="[00ff00AA]$1[-] treffer"
 sr:"^([べ-ヺー＆＝・]+)に$"=[0055FFAA]$1[-] für
 r:"^\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Schaden[-]
 r:"^\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Schaden[-][FF7C4E,D62146] (getötet)[-]
 
 削除=Löschen
 トレーニングマイログ削除確認=Mein Logbuch Trainingslöschung-Bestätigung
-[FF7C4E,D62146]一度削除するとログ情報は元に戻りません。[-]=[FF7C4E,D62146] Nach dem Löschen werden die Protokollinformationen gelöscht..[-]
+[FF7C4E,D62146]一度削除するとログ情報は元に戻りません。[-]=[FF7C4E,D62146]Nach dem Löschen werden die Protokollinformationen gelöscht.[-]
 このログを削除してもよろしいですか?=Darf dieses Protokoll gelöscht werden?
 
 クラン・クランバトル=Clankampf

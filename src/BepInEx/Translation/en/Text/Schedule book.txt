@@ -5,12 +5,12 @@
 リストの設定=Liste-Optionen
 実行=Gehen
 
-メインかイベントクエストを10回クリアしよう=Schließe „Hauptquest“ oder „Ereignisquest“ 10-mal ab
-メインかイベントクエストを20回クリアしよう=Schließe „Hauptquest“ oder „Ereignisquest“ 20-mal ab
-イベントクエストを10回クリアしよう=Schließe „Ereignisquest“ 10-mal ab
-メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Schließe Haupt-/Ereignisaufgabe SCHWER/SEHR SCHWER 3-mal ab
-バトルアリーナで1回戦おう=Nimm einmal an der „Kampfarena“ teil
-プリンセスアリーナで1回戦おう=Nimm einmal an der „Prinzessinnen-Arena“ teil
+メインかイベントクエストを10回クリアしよう=Schließe einen Quest 10-mal ab
+メインかイベントクエストを20回クリアしよう=Schließe einen Quest 20-mal ab
+イベントクエストを10回クリアしよう=Schließe Ereignisquest 10-mal ab
+メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Schließe einen SCHWERER Quest 3-mal ab
+バトルアリーナで1回戦おう=Nimm einmal an Kampfarena teil
+プリンセスアリーナで1回戦おう=Nimm einmal an Prinzessinnen-Arena teil
 アリーナコインを1回受け取ろう=Sammle einmal Kampfarena-Münze(n)
 プリンセスアリーナコインを1回受け取ろう=Sammle einmal Prinzessin-Arena-Münze(n)
 ギルドハウスでアイテムを受け取ろう=Artikel im Gildehaus abholen
@@ -24,18 +24,18 @@
 装備強化で装備の★を1つ増やそう=Verfeinere die Ausrüstung eines Charakters einmal
 マナを1回購入しよう=Einmal Mana kaufen
 クランメンバーに「いいね」しよう=Ein Clanmitglied gefällen
-ルナの塔に1回挑戦しよう=Fordere den Turm von Luna einmal heraus
-クランバトルに1回挑戦しよう=Nimm einmal an der Clankampf teil
-ダンジョンに1回挑戦しよう=Versuche einen Dungeon einmal
-マナを購入しよう=Einsatz Mana kaufen
+ルナの塔に1回挑戦しよう=Fordere den Luna-Turm einmal heraus
+クランバトルに1回挑戦しよう=Nimm einmal an Clankampf teil
+ダンジョンに1回挑戦しよう=Versuche einen Kerker einmal
+マナを購入しよう=Einmal Mana kaufen
 
-限定ショップで買い物をしよう=Artikel im Bonus-Shop kaufen
+限定ショップで買い物をしよう=Artikel im Bonusshop kaufen
 通常ショップで買い物をしよう=Artikel im Normal-Shop kaufen
 
 スキップする項目がありません。=Es gibt keine Missionen zu überspringen.
 
-ダンジョンスキップ確認=Dungeon-Sprungbestätigung
-ダンジョンの全バトルをスキップして、報酬を獲得しますか？=Wollt ihr alle Dungeon-Kämpfe überspringen und Belohnungen erhalten?
+ダンジョンスキップ確認=Kerker-Sprungbestätigung
+ダンジョンの全バトルをスキップして、報酬を獲得しますか？=Wollt ihr alle Kämpfe in Kerker überspringen und Belohnungen erhalten?
 
 マナクエストスキップ確認=Mana-Quest-Sprungbestätigung
 経験値クエストスキップ確認=EP-Quest-Sprungbestätigung
@@ -44,6 +44,6 @@
 スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=Verbrauchen Sie Skip-Tickets und Versuche, EP-Quests zu lösen.\nIst das in Ordnung?
 
 スキップ失敗=Übersprung fehlgeschlagen
-ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Der Dungeon konnte nicht übersprungen werden, weil du bereits einen Dungeon betreten hast.
+ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Kerker konnte nicht übersprungen werden, weil du bereits einen Dungeon betreten hast.
 グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=Du kannst keine Prinzessinnen-Arena-Münzen erhalten, weil du die Prinzessinnen-Arena nicht mehr betreten hast, seit die Arenaklammern neu gemischt wurden.
 グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=Du kannst keine Arenamünzen erhalten, weil du die Kampfarena nicht betreten hast, seit die Arenaklammern neu gemischt wurden.

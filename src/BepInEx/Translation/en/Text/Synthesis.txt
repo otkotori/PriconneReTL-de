@@ -68,10 +68,12 @@ EX装備錬成結果反映の確認ダイアログ=Bestätigung der Syntheseerge
 ハツネは眠くなりたくない=Ein Fuchs will nicht schläfrig sein
 夢の中だけにしとけ=Behalte sie einfach in deinen Träumen
 イロハの体力づくり法=Irohas Technik zum Kraftaufbau
+よいではないか～♪=Ist das nicht toll~♪
 うっふん、大人ソノ？=Aha, ein erwachsener Sono?
 千変万化の秘薬=Die Geheimmedizin der tausend Variationen
 やりがいのあるお仕事です=Eine Arbeit, die es wert ist
 素材じゃない=Es ist kein Material
+イロハだってできるもん=Iroha kann es auch
 ルイズマリーの贈り物①=Louise Maries Geschenk 1
 ルイズマリーの贈り物②=Louise Maries Geschenk 2
 ルイズマリーの贈り物③=Louise Maries Geschenk 3
@@ -84,6 +86,14 @@ EX装備錬成結果反映の確認ダイアログ=Bestätigung der Syntheseerge
 ソノの贈り物④=Sonos Geschenk 4
 よしよししたげるから=Okay, okay, ich geb's dir
 み俺誇=Ich bin stolz auf mich
+恋はいつでも=Liebe ist immer
+くー…\nくー…\n…むにゃ=Kuu...kuu...munya
+妖艶女子の温泉旅行計画=Bezaubernde Pläne für Wellnessurlaub für Mädchen
+美、限界突破=Schönheit, Grenzen überschreiten
+そろそろ卒業できるかな？=Ist es Zeit für den Abschluss?
+大人になったソノさん=Herr Sono als Erwachsener
+大人の特権=Erwachsenenprivileg
+
 
 究極錬成が解放され、アルケス錬金堂に遊びに行けるようになりました。\nここでは、ギルド【アルケス錬金堂】のみなさまの日常を楽しみつつ、\nEX★5装備を錬成して更なる強化をいたしましょう。=Die ultimative Alchemie ist freigeschaltet, und du kannst Alkes Alchemie-Shop besuchen. Hier kannst du das tägliche Leben aller in der Gilde [Alkes Alchemie-Shop] genießen, während du EX5★-Ausrüstung für weitere Verbesserungen schmiedest.
 EX装備錬成Ptを消費することで錬成を行うことが可能です。錬成を\n行うと、ランダムなサブステータスが４つまで装備に付与されます。\n錬成Ptは、『追憶の戦域』や装備品の分解などで入手できますよ。=Durch den Verbrauch von EX-Ausrüstungs-Schmiedepunkten können Sie Schmieden durchführen. Beim Schmieden werden der Ausrüstung bis zu vier zufällige Substats hinzugefügt. Schmiedepunkte können in der „Gedächtnisbereich“ oder durch das Zerlegen von Ausrüstung erworben werden.

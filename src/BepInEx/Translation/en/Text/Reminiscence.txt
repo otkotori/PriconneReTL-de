@@ -10,9 +10,9 @@
 受け取り=Empfangs-\nschein
 次の報酬まで\n--:--=Zur nächsten Belohnung:
 
-ゼーンの領域=Zane's Domäne
+ゼーンの領域=Zanes Domäne
 r:"^ゼーンの領域(\d+)層$"=Zane St.$1
-覇瞳皇帝の領域=Allwissende Kaiser's\nDomäne
+覇瞳皇帝の領域=Allwissende\nKaisers\nDomäne
 r:"^覇瞳皇帝の領域(\d+)層$"=Allwissende Kaiser St.$1
 
 r:"^記憶領域(\d+)層$"=Erinnerungsphase.$1

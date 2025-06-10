@@ -1,5 +1,5 @@
-ダンジョン・追憶の戦域=Dungeon/Erinnerungen
-ダンジョン解放=Dungeon/Erinnerungen
+ダンジョン・追憶の戦域=Kerker/Erinnerungen
+ダンジョン解放=Kerker/Erinnerungen
 サイドストーリー解放=Nebengeschichte-Freigabe
 ミッション用=Für Missionszwecke
 メインクエスト バトル速度4倍=4-fach Kampfgeschwindigkeit

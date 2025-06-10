@@ -18,7 +18,7 @@ sr:"^あと(\d+)?時?間(\d+分)で利用できます。$"=$1St$2 verbleiben, um
 
 全てのキャラのHPを全回復します。=Stellt die KP aller Charaktere wieder her.
 編成したキャラのTPもリセットされます。=TP wird ebenfalls zurückgesetzt.
-サポートキャラはリセット対象外です。=Unterstützungszeichen können nicht zurückgesetzt werden.
+サポートキャラはリセット対象外です。=Hilfscharakter können nicht zurückgesetzt werden.
 
 クリア済み=Gelöscht
 この階はすでにクリアしています。=Dieses Stockwerk wurde bereits gelöscht.
@@ -42,7 +42,7 @@ EXクエスト一覧=EX-Böden
 
 今後このメッセージを表示しない=Diese Meldung nicht mehr anzeigen
 
-r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Das Zurückziehen verbraucht [FFBB00,CE4F00]$1[-] Ausdauer und bringt die KP und TP deines Charakters auf den Zustand vor dem Kampf zurück..\n\nSind Sie sicher?[-]
+r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Das Zurückziehen verbraucht [FFBB00,CE4F00]$1[-] Ausdauer und bringt die KP und TP deines Charakters auf den Zustand vor dem Kampf zurück.\n\nSind Sie sicher?[-]
 
 模擬戦では報酬は獲得できません。= \u2800    In einem Scheingefecht können keine Belohnungen erzielt werden.
 
@@ -129,4 +129,4 @@ r:"^回廊探索 wave(\d)$"=Phantompassage-Erkundungswelle$1
 塔は育てたキャラ全員を編成することが可能で、何回でも挑戦できます。\n1日に1回、KPを全回復できる「キャラ全回復」ボタンが使えます。=Der Turm kann so oft wie gewünscht mit Gruppen aus beliebigen Charakteren angegangen werden, die du hast. Du kannst auch einmal pro Tag „Volle Heilung“ verwenden, um die KP deines Teams vollständig wiederherzustellen.
 塔に出現するシャドウは、バトル開始時にTPが溜まっています。\n加えて、バトルの制限時間を過ぎると全滅してしまいます。\n残り時間にもお気を付けくださいませ。=Die Schatten im Turm beginnen den Kampf mit gefüllter TP-Anzeige. Außerdem wird deine Gruppe ausgelöscht, wenn das Zeitlimit für den Kampf überschritten wird. Bitte achten Sie auf die verbleibende Zeit.
 70階までクリアすると、特殊なボスが出現する「EXクエスト」に\n挑戦できます。これは3パーティで挑む特別なクエストです。\n主さま、しっかりと準備を整えて挑みましょう。=Wenn ihr S70 abschließt, könnt ihr eine „EX-Quest“ herausfordern. Du kannst 3 Parteien benutzen, um gegen diesen Spezialboss anzutreten. Mein Herr, bereiten wir uns entsprechend vor, bevor wir uns diesem Feind stellen.
-ルナの塔に出現する強敵を倒すと「プリンセスハート」が手に入ります。\nこちらはキャラ専用装備の作成に必要ですので、\nなくさないように大事に持っておきましょう。=Du kannst Prinzessinnenherzen verdienen, indem du die mächtigen Gegner besiegst, die im Luna-Turm erscheinen. Diese sind notwendig, um die einzigartige Ausrüstung der Charaktere zu erstellen, also pass gut auf, dass du sie nicht verlierst.
+ルナの塔に出現する強敵を倒すと「プリンセスハート」が手に入ります。\nこちらはキャラ専用装備の作成に必要ですので、\nなくさないように大事に持っておきましょう。=Du kannst Prinzessinnenherzen verdienen, indem du die mächtigen Gegner besiegst, die im Luna-Turm erscheinen. Diese sind notwendig, um die EA der Charaktere zu erstellen, also pass gut auf, dass du sie nicht verlierst.

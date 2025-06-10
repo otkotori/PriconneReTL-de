@@ -58,21 +58,6 @@
 ギルドレース　３区→４区 1-13=Gildenrennen Bezirk 3 > Bezirk 4 1-13
 ギルドレース　３区→４区 1-14=Gildenrennen Bezirk 3 > Bezirk 4 1-14
 ギルドレース　３区→４区 1-15=Gildenrennen Bezirk 3 > Bezirk 4 1-15
-久遠氷河・南端 73-1=Ewiger Gletscher (Süden) 73-1
-久遠氷河・南端 73-2=Ewiger Gletscher (Süden) 73-2
-久遠氷河・南端 73-3=Ewiger Gletscher (Süden) 73-3
-久遠氷河・南端 73-4=Ewiger Gletscher (Süden) 73-4
-久遠氷河・南端 73-5=Ewiger Gletscher (Süden) 73-5
-久遠氷河・南端 73-6=Ewiger Gletscher (Süden) 73-6
-久遠氷河・南端 73-7=Ewiger Gletscher (Süden) 73-7
-久遠氷河・南端 73-8=Ewiger Gletscher (Süden) 73-8
-久遠氷河・南端 73-9=Ewiger Gletscher (Süden) 73-9
-久遠氷河・南端 73-10=Ewiger Gletscher (Süden) 73-10
-久遠氷河・南端 73-11=Ewiger Gletscher (Süden) 73-11
-久遠氷河・南端 73-12=Ewiger Gletscher (Süden) 73-12
-久遠氷河・南端 73-13=Ewiger Gletscher (Süden) 73-13
-久遠氷河・南端 73-14=Ewiger Gletscher (Süden) 73-14
-久遠氷河・南端 73-15=Ewiger Gletscher (Süden) 73-15
 サレンディア救護院 1-1=Sarendia-Krankenhaus 1-1
 サレンディア救護院 1-2=Sarendia-Krankenhaus 1-2
 サレンディア救護院 1-3=Sarendia-Krankenhaus 1-3
@@ -88,3 +73,4 @@
 サレンディア救護院 1-13=Sarendia-Krankenhaus 1-13
 サレンディア救護院 1-14=Sarendia-Krankenhaus 1-14
 サレンディア救護院 1-15=Sarendia-Krankenhaus 1-15
+

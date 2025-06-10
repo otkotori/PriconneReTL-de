@@ -23,7 +23,7 @@
 残り挑戦回数がありません。=Keine Versuche mehr.
 [FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]Keine Versuche mehr.[-]
 実行可能なクエストがありません。=Es sind keine Quests verfügbar.
-本日挑戦できないクエストのみ選択されています。=Es werden nur Quests ausgewählt,die\nnicht herausgefordert werden können.
+本日挑戦できないクエストのみ選択されています。=Es werden nur Quests ausgewählt, die\nnicht herausgefordert werden können.
 装備済み=Ausgerüstet
 装備可能キャラ=Ausrüstbar
 装備可能なキャラがいません=Keine Zeichen verfügbar.
