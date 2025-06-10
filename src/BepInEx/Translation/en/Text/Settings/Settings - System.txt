@@ -6,14 +6,14 @@
 通知=Benachrichtigung
 
 ボイスデータダウンロード=Sprachdaten-Download
-ボイスデータのダウンロード設定です。\n設定をOFFにすると、ダウンロードしていないボイスは再生されなくなります。=Einstellung für das Herunterladen von Sprachdaten.\nWenn AUS, werden nicht heruntergeladene Stimmen nicht wiedergegeben.
+ボイスデータのダウンロード設定です。\n設定をOFFにすると、ダウンロードしていないボイスは再生されなくなります。=Option für das Herunterladen von Sprachdaten.\nWenn AUS, werden nicht heruntergeladene Stimmen nicht wiedergegeben.
 
 ムービー画質=Filmqualität
 各ムービーの画質を設定します。=Legt die Grafikqualität für Filme fest.
 高画質版=Höhe
 標準版=Niedrig
 
-他プレイヤーのキャラ表示切替=Aussehen anderer Spieler auf ihres Sternwerts
+他プレイヤーのキャラ表示切替=Anderer Spieler auf ihres Sternwerts aussehen
 他プレイヤーのキャラ表示切替を反映するか選択できます。\n※「反映しない」を選択すると、他プレイヤーの設定が無効になります。=Wenn „Nicht reflektieren“ ausgewählt ist, sehen Sie das Charaktersymbol eines anderen\nSpielers nicht auf Basis des Sternwerts.
 反映する=Reflektieren
 反映しない=Nicht reflektieren
@@ -37,10 +37,10 @@
 マイパーティで編成できないキャラがいた場合、通知を表示するか設定します。=Sie können wählen, ob eine Benachrichtigung angezeigt werden soll, wenn der Teilnehmer Zeichen\nenthält, die nicht verwendet werden können.
 
 ランクアップ時の確認ダイアログ表示=Aufstiegsbestätigung
-消費する装備やマナがない場合、ランクアップ実行の確認ダイアログを表示するか設定します。=Legt fest, ob ein Bestätigungsdialog für die Einstufung angezeigt werden soll
+消費する装備やマナがない場合、ランクアップ実行の確認ダイアログを表示するか設定します。=Legt fest, ob ein Bestätigungsdialog für die Einstufung angezeigt werden soll.
 
 まとめてランクアップ時の確認ダイアログ表示=Rangaufstiegsbestätigung für 1+ Rang
-キャラクターのランクアップをまとめて行うとき、ランクアップ実行の確認ダイアログを表示するか設定します。=Legt fest, ob bei der Einstufung mehrerer Ränge ein Bestätigungsdialog angezeigt werden soll oder nicht
+キャラクターのランクアップをまとめて行うとき、ランクアップ実行の確認ダイアログを表示するか設定します。=Legt fest, ob bei der Einstufung mehrerer Ränge ein Bestätigungsdialog angezeigt werden soll oder nicht.
 
 アイテム交換セット時ダイアログ表示=Extra-Char-Austausch
 エクストラキャラのアイテムをセットする場合、交換確認ダイアログを表示するか設定します。=Legen Sie fest, ob der Bestätigungsdialog beim Austausch von Artikel gegen zusätzliche Zeichen\nangezeigt werden soll oder nicht.
@@ -86,8 +86,8 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 再生する=Abspielen
 再生しない=Nicht\nabspielen
 
-限定ショップ遷移設定=Bonus-Shop Übergang
-限定ショップ出現中、ショップボタンを選択した際に開くタブを設定します。=Stellen Sie die Registerkarte so ein, dass sie beim Besuch des Shops geöffnet wird, solange der\nBonus-Shop noch läuft.
+限定ショップ遷移設定=Bonusshop-Übergang
+限定ショップ出現中、ショップボタンを選択した際に開くタブを設定します。=Stellen Sie die Registerkarte so ein, dass sie beim Besuch des Shops geöffnet wird, solange der\nBonusshop noch läuft.
 通常ショップ=Regulärer-Shop
 
 絆ランク演出再生確認=Bindungsrangs-Animation

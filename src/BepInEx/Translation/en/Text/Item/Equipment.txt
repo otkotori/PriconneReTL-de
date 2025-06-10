@@ -4,7 +4,7 @@
 の設計図= Blaupause
 の\n設計図= Blaupause
 sr:"^(.+)（欠片）$"=$1 (Stück)
-sr:"^(.+)の設計図$"=$1 Blaupause
+sr:"^(.+)の設計図$"=Blaupause von $1
 
 sr:"^必要Lv(\d+)\n「(.+)」([の欠片設計図\n]+)。$"=Erforderliche St.$1\n$3 von $2.
 sr:"^「(.+)」([の設計図欠片\n]+)。$"="$2 von $1."
@@ -635,20 +635,59 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="$2 von $1."
 巨峰の徽章=Weintrauben-Emblem
 
 錬成工房=Alchemie-Werkstatt
-オートマトンエグゾシェル=Automat-Exoshell
+オートマトンエグゾシェル=Automat Exoshell
 オートマトンエグゾスカル=Exoskull-Automat
 オートマトンエグゾスーツ=Automat Exo-Anzug
-オートマトンバイザー=Automatenvisier
+オートマトンバイザー=Automat-Vsier
 オートマトンジャケット=Automat-Jacke
 オートマトンフルフェイス=Automat Vollgesicht
-オートマトンエクスランス=Automat Exlanze
+オートマトンエクスランス=Automat Ex-Lanze
 オートマトンエクスソード=Automat Ex-Schwert
 オートマトンエクスロッド=Automat Explosion
-オートマトンエクスボウ=Automat Exbogen
-オートマトンエクスカタナ=Automat Exkatana
-オートマトンエクスバトン=Automat Exbaton
-オートマトンエクス\nバトン（欠片）=Automat Exbaton (Stück)
-オートマトンエクスエッジ=Automat Exrand
+オートマトンエクスボウ=Automat Ex-Bogen
+オートマトンエクスカタナ=Automat Ex-Katana
+オートマトンエクスバトン=Automat Ex-Baton
+オートマトンエクスエッジ=Automat Ex-Rand
 オートマトンエクスダガー=Automat Dolch
 ヴェルデスクエア=Verde-Platz
 アズールサーキュラー=Azur-Rundschreiben
+クリムゾンデルタ=Karmesin-Delta
+
+撃滅鱗装ギガント=Vernichtungsschuppenpanzer Gigant
+絶滅骸装タイラント=Aussterbender Knochenpanzer-Tyrann
+激突重盾トライセラ=Kollision-Schwerschild Tricera
+幻蝦霊装アノーマリー=Illusorische Garnelen-Geistesrüstung Anomalie
+翼竜額冠ロンギケプス=Pterosaurier-Stirnkrone Longiceps
+餓竜疾靴デュアルラプター=Hungerdrache Mauersegler Stiefel
+
+蛮骨剣ケントロ=Barbarisches Knochenschwert Kentro
+竜杖ゲオステルンベルギア=Drachenstab Geosternbergia
+秘封杖アンバーコフィン=Versiegelter Stab Bernsteinsarg
+鼎角拳サンジャオロン=Dreibein-Hornfaust Sanjaoron
+黒帝牙剣チノチタ=Schwarzer-Kaiser-Schwert Chinochita
+滅鱗大刀ミラガイア=Aussterbeschuppen-Großschwert Miragaia
+滑空葬弓プテロダ=Gleitender Bestattungsbogen Pteroda
+渦殻斧アンモクラッシャー=Wirbelschleuder-Axt Ammoncrusher
+穿角槍モノクロニウス=Durchbohrender Hornspeer Monoclonius
+
+紅飾ラディオドンタ=Karminrote Verzierung Radiodonta
+碧飾ケロニオイデア=Jadeschmuck Cheloniodea
+蒼飾フィロセラス=Azurblaue Verzierung Philoceras
+
+バイオレットアーマーＲ=R-Violette Rüstung
+クルセイダープレートＲ=R-Kreuzritterplatte
+聖者のローブＲ=R-Heiligengewand
+ガーディアンシールドＲ=R-Wächterschild
+ネクロマンサーブーツＲ=R-Nekromantenstiefel
+蒼天のローブＲ=R-Azurblaue Himmelsrobe
+ミントチョココロネ=Minz-Schoko-Hörnchen
+
+ダークマターエッジＲ=R-Dunkle Materie Rand
+戦女王の烈斧Ｒ=R-Flammende Axt der Schlachtkönigin
+ブリザードクローＲ=R-Blizzardkralle
+ストームブリンガーＲ=R-Sturmbrecher
+フェニックスロッドＲ=R-Phoenix-Rute
+アルテミスボウＲ=R-Artemisbogen
+アイスクレイモアＲ=R-Eisclaymore
+鷹神の煌剣Ｒ=R-Strahlendes Schwert des Falkengottes
+司法神の錫杖Ｒ=R-Zepter des Gottes der Gerechtigkeit

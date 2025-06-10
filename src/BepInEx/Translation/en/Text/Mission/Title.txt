@@ -1,5 +1,10 @@
-sr:"^(\[[0-9A-F]{6}\])?([べ-ヺー＆＝]+)(（.+）)?を★([1-6])にしよう(\[-\])?$"="$1Aufsteigen $2$3 zu $4★[-]"
+sr:"^(\[[0-9A-F]{6}\])?([べ-ヺー＆＝]+)(（.+）)?を★([1-6])にしよう(\[-\])?$"="$1$2$3 zu $4★ aufsteigen[-]"
 sr:"^(\[[0-9A-F]{6}\])?(.+)の合計絆ランクを([0-9]+)にしよう(\[-\])?$"="$1Erreichen die Gesamtanleihevolumen von $2 zu $3[-]"
 sr:"^(\[[0-9A-F]{6}\])?([べ-ヺー＆＝]+) ?(（.+）)?を仲間にしよう(\[-\])?$"="$1$2$3$4 Rekrutieren"
 r:"^(\[[0-9A-F]{6}\])?メインストーリー第([0-9]+)章第([0-9]+)話を読もう(\[-\])?$"="$1Kapitel $3 Folge $2 im Hauptgeschichte lesen[-]"
 r:"^(\[[0-9A-F]{6}\])?([0-9]+)人とフレンドになろう(\[-\])?$"="$1Sei ein Freund von $2 Spieler[-]"
+
+聖テレサ女学院（なかよし部）の合計絆ランクを10にしよう=Erreichen die Gesamtanleihevolumen von Freundschaftsclub zu 10
+エリザベスパークの合計絆ランクを10にしよう=Erreichen die Gesamtanleihevolumen von Elizabeth-Park zu 10
+
+回勝利しよう=Die Runde gewinnen

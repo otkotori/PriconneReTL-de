@@ -1,0 +1,20 @@
+マスタリーガチャレベル=Meisterschafts-Gacha-Stufe
+マスタリーチケットを集めて、マスタリーをGET！=Sammle Meisterschaftskarten und erhalte Meisterschaften!
+マスタリーガチャ=Meisterschafts-Gacha
+次のレベルまで=Zur nächsten Stufe
+はい、お疲れ様。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Ja, gute Arbeit. Hier können Sie die Meisterschaftskarte verwenden, um Artikel zur Verbesserung der Meisterschaft zu erhalten.
+マスタリーチケットが付与されました。=Meisterschaftskarten wurden vergeben.
+ガチャ演出のスキップの設定です。=Option zum Überspringen der Gacha-Zwischensequenzen.
+演出スキップ設定=Zwischensequenz übersprungs-Option
+「まとめて引く」で引くガチャの回数の設定です。=Hier wird die Anzahl der Gacha-Ziehungen festgelegt, die Sie durch Auswahl\nvon „Mehrfache Ziehung“ vornehmen können.
+まとめてガチャ回数設定=Anzahl der Gachas auf einmal einstellen
+スキップ設定をONにすると全ての演出が再生されなくなります。=Wenn Sie Übersprung aktivieren, werden alle Szenen nicht mehr wiedergegeben.
+所持マスタリーチケット=Meisterschaftskarte
+マスタリーガチャLvアップまで=Meisterschafts-Gacha-Stufe
+ガチャ結果へ=Zu Gacha-Ergebnisse
+入手マスタリー 一覧=Liste der erlangten Meisterschaften
+オールマスタリー=Alle Meisterschaften
+ガチャ結果詳細=Details der Gacha-Ergebnisse
+マスタリーチケットが不足しています。=Die Meisterschaftskarten gehen aus.
+
+r:"^([0-9\,]+)回$"=$1-mal

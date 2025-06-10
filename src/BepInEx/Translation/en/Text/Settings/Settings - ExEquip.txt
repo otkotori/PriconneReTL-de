@@ -1,4 +1,4 @@
-EX装備ショップアイテム表示順=Ex-Ausrüstung Shop Artikel-Auftrag
+EX装備ショップアイテム表示順=EX-Ausrüstung Shop Artikel-Auftrag
 EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Legen Sie fest, ob die im EX-Ausrüstungsladen verkauften Artikel in aufsteigender Reihenfolge der\nMenge des Besitzes oder in absteigender Reihenfolge der Seltenheit angezeigt werden sollen.
 
 アドベンチャーおまかせ編成=Abenteuer-Autogründung

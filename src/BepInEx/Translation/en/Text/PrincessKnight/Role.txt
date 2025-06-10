@@ -1,0 +1,61 @@
+全ロール\\nまとめて強化=Alle Rollen\nverbessern
+全ロール\nまとめて強化=Alle Rollen\nverbessern
+強化設定=Anreicherung-Option
+このマスタリーの強化段階は最大です。=Diese Beherrschung ist auf der höchsten Stufe der Verbesserung.
+ロールマスタリー=Rollenbeherrschung
+今後のアップデートで解放予定です。=Sie wird in einem zukünftigen Update veröffentlicht.
+
+必要なアイテムを所持していません。=Sie verfügen nicht über die erforderlichen Artikel.
+オールマスタリーを使用する=Alle Meisterschaft verwenden
+強化の条件を設定します。=Legen Sie die Anreicherungsbedingungen fest.
+強化条件設定=Erweiterung Bedingungsoption
+マスタリーを強化していません。=Die Beherrschung wurde nicht verbessert
+必要なアイテムを所持していません。=Sie verfügen nicht über die erforderlichen Artikel.
+マスタリー強化詳細=Meisterschaftsverbesserung-Infos
+
+アタッカー=Angreifer
+ブレイカー=Brecher
+バッファー=Puffer
+デバッファー=Entpuffer
+ブースター=Verstärker
+ヒーラー=Heiler
+タンク=Tank
+ジャマー=Jammer
+
+【アタッカー】=[Angreifer]
+【ブレイカー】=[Brecher]
+【バッファー】=[Puffer]
+【デバッファー】=[Entpuffer]
+【ブースター】=[Verstärker]
+【ヒーラー】=[Heiler]
+【タンク】=[Tank]
+【ジャマー】=[Jammer]
+
+マスタリー=Meisterschaft
+クリダメ=Kritischer Schaden
+クリティカル=Kritischer Satz
+通常攻撃強化=Normaler Angriff
+与ダメージ=Ausgeführter Schaden
+与ダメ=Ausgeführter Schaden
+バフ強化=Puff
+デバフ強化=Entpuff
+ＴＰチャージ=TP-Ladung
+TPチャージ=TP-Ladung
+HPチャージ=KP-Ladung
+回復強化=Erholung
+状態異常抵抗=Krankheitsresistenz
+状態異常命中=Unpässlichkeit Akkuratheit
+与ダメアップ=Beschädigung ↑
+クリダメアップ=Kritischen Schaden ↑
+r:"^オールマスタリーLv(\d+)$"=Alleskönner St.$1
+sr:"^【(.+)】(.+?)(?:アップ)?(マスタリー)?Lv(\d+)$"=[$1] $2 ↑ $3 St.$4
+r:"^(\d+)\(\+変換可能数 (\d+)\)$"=$1 (+$2 Wandelbar)
+累計強化=Gesamterweiterung
+
+以下のアイテムを消費して強化しますか？=Möchten Sie die folgenden Artikel zur Verstärkung einsetzen?
+
+キャラ全員に、バトル中の特徴を表すロールが解放されましたよ。\nロールはアタッカー・ブレイカー・バッファー・デバッファー・\nブースター・ヒーラー・タンク・ジャマーの８つがございます。=Alle Charaktere haben nun Zugang zu Rollen, die ihre Eigenschaften im Kampf repräsentieren. Die Rollen sind: Angreifer, Brecher, Puffer, Entpuffer, Verstärker, Heiler, Tank und Jammer.
+各ロールにはステータス上昇に繋がる「マスタリー」が備わっておりま\nす。ロールマスタリーでは専用アイテムを用いてマスタリーの強化が行\nえますよ。低レベルアイテムは集めて高レベルに変換できるのだとか。=Jede Rolle hat eine „Meisterschaft“, die die Werte verbessert. Die Rollenbeherrschung kann durch exklusive Artikel verstärkt werden. Niedrigstufige Artikel können gesammelt und in höherstufige Artikel umgewandelt werden.
+マスタリー強化アイテムは、様々なコンテンツから獲得できるマスタリー\nチケットを消費して、マスタリーガチャから入手できます。全てのマスタ\nリーの強化に使える「オールマスタリー」もこちらから入手できますよ。=Artikel zur Stärkung der Meisterschaft können in der Meisterschafts-Gacha erworben werden, indem man Meisterschaftskarten ausgibt, die man bei verschiedenen Inhalten erhält. Auch die „Alle Meisterschaften“, mit der alle Meisterschaften gestärkt werden können, ist hier erhältlich.
+
+はい、お疲れさま。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Gut gemacht. Sie können Ihre Meisterschaftskarte hier verwenden, um Artikel zur Verbesserung der Meisterschaft zu erhalten.

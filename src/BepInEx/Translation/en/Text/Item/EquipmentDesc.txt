@@ -1,5 +1,5 @@
 sr:"^必要Lv(\d+)([^「」]{20,})$"=Erforderlich St\n$2
-sr:"^(?:\[3C404E\])?(.+?)(の設計図|（欠片）)?×\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]を売却しますか？(?:\[-\])?$"=[3C404E]Möchten Sie die$1$2 × [FFBB00,CE4F00]$3 verkaufen[-]？[-]
+sr:"^(?:\[3C404E\])?(.+?)(の設計図|（欠片）)?×\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]を売却しますか？(?:\[-\])?$"=[3C404E]Möchten Sie $1$2 × [FFBB00,CE4F00]$3 verkaufen[-]?[-]
 
 覇瞳皇帝の残響を撃ち破りし勇者に与えられる弓。獄に繋がれし神狐は唯々瞑想を続けやがて肥大化した自我と世界の境界を認知していく。=A bow given to the brave who defeats the echoes of the Overpowered Emperor. The fox god, chained in prison, continues to meditate and eventually becomes aware of the boundaries between his enlarged self and the world.
 覇瞳皇帝の残響を撃ち破りし勇者に与えられる槍。運命に抗いし神狐は天楼の果てに眠る可能性を求め塔を上り世界の秘密を知ることになる。=A spear given to the brave who defeats the reverberation of the Overpowered Emperor. The Divine Fox who resists fate climbs the tower in search of the possibility that lies at the end of the Sky Tower and learns the secrets of the world.

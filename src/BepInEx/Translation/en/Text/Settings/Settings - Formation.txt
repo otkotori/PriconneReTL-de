@@ -4,4 +4,5 @@
 
 同名キャラ編成=Gleichnamige Charaktere
 同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Legen Sie fest, ob Zeichen mit demselben Namen in derselben Partei verwendet werden können.
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。\nアメスとフィオは同名キャラとして扱います。=Legt fest, ob Charaktere mit demselben Namen in derselben Gruppe organisiert werden können.\nAmeth und Fio werden als Charaktere mit demselben Namen behandelt.
 編成可能=Kann gruppiert\nwerden

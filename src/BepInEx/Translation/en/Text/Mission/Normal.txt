@@ -20,26 +20,26 @@ r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階をクリアしよう(\[-\])?$"="$1Kla
 r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階EXクエストをクリアしよう(\[-\])?$"="$1Freimachen boden $2 EX-Quest des Luna-Turms$3"
 r:"^(\[[0-9A-F]{6}\])?★([1-6])のキャラを獲得しよう(\[-\])?$"="$1Rekrutiere einen $2★ Charakter$3"
 r:"^(\[[0-9A-F]{6}\])?ギルドハウスアイテムを(\d+)個設置しよう(\[-\])?$"="$1$2 Gildenhaus-Artikel installieren$3"
-sr:"^(\[[0-9A-F]{6}\])?ダンジョン「(.+)」を制覇しよう(（追加）)?(\[-\])?$"="$1Beende Dungeon „$2“$3$4"
+sr:"^(\[[0-9A-F]{6}\])?ダンジョン「(.+)」を制覇しよう(（追加）)?(\[-\])?$"="$1Beende Kerker „$2“$3$4"
 
 r:"^(\[[0-9A-F]{6}\])?アドベンチャーを(\d+)回完了させよう(\[-\])?$"=$1Schließe das Abenteuer $2-mal ab $3
 r:"^(\[[0-9A-F]{6}\])?【期間限定】メインストーリー第(\d+)部 第(\d+)章の第(\d+)話を閲覧しよう(\[-\])?$"=$1[Begrenzte Zeit] Hauptgeschichte Teil $2 Kapitel $3 Episode ansehen$4$5
 
 （追加）=(Sub)
-[3C404E]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[3C404E]Beende Dungeon EX-V Modi 1[-]
-[3C404E]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[3C404E]Beende Dungeon EX-V Modi 2[-]
+[3C404E]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[3C404E]Beende Kerker EX-V Modi 1[-]
+[3C404E]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[3C404E]Beende Kerker EX-V Modi 2[-]
 [3C404E]チュートリアルをクリアしよう[-]=[3C404E]Der Anleitung beenden[-]
-[3C404E]クランでダンジョンのサポートキャラを設定しよう[-]=[3C404E]Leihcharakter für Dungeon im Clan einstellen[-]
+[3C404E]クランでダンジョンのサポートキャラを設定しよう[-]=[3C404E]Leihcharakter für Kerker im Clan einstellen[-]
 [3C404E]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[3C404E]Leihcharakter für CK/Luna in Clan einstellen[-]
 [3C404E]フレンドでクエストのサポートキャラを設定しよう[-]=[3C404E]Leihcharakter für Quest in Clan einstellen[-]
 [3C404E]フレンドをつくろう[-]=[3C404E]Einen Freund hinzufügen[-]
 [3C404E]データ連携、またはアカウント連携を設定しよう[-]=[3C404E]Der Datenverbindung setzen[-]
 [3C404E]称号を受け取ろう[-]=[3C404E]Einen Titel erhalten[-]
 
-[FFFFFF]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[FFFFFF]Beende Dungeon EX-V Modi 1[-]
-[FFFFFF]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[FFFFFF]Beende Dungeon EX-V Modi 2[-]
+[FFFFFF]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[FFFFFF]Beende Kerker EX-V Modi 1[-]
+[FFFFFF]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[FFFFFF]Beende Kerker EX-V Modi 2[-]
 [FFFFFF]チュートリアルをクリアしよう[-]=[FFFFFF]Der Anleitung beenden[-]
-[FFFFFF]クランでダンジョンのサポートキャラを設定しよう[-]=[FFFFFF]Leihcharakter für Dungeon im Clan einstellen[-]
+[FFFFFF]クランでダンジョンのサポートキャラを設定しよう[-]=[FFFFFF]Leihcharakter für Kerker im Clan einstellen[-]
 [FFFFFF]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[FFFFFF]Leihcharakter für CK/Luna in Clan einstellen[-]
 [FFFFFF]フレンドでクエストのサポートキャラを設定しよう[-]=[FFFFFF]Leihcharakter für Quest in Clan einstellen[-]
 [FFFFFF]フレンドをつくろう[-]=[FFFFFF]Einen Freund hinzufügen[-]

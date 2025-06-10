@@ -1,4 +1,4 @@
-ルナの塔 通常階＆ボス階バトルスキップ=Luna-Turm Normaler Boden & Boss-Boden Kampf überspringen
+ルナの塔 通常階＆ボス階バトルスキップ=Luna-Turm Normaler und Boss-Boden Kampf überspringen
 ルナの塔の通常階とボス階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Einstellen, ob der Gruppenauswahlprozess auf den normalen\nund Boss-Etagen des Luna-Turms sofort nach der Entscheidung übersprungen werden soll.\n※Während des Überspringens werden Kämpfe automatisch mit „AUTO“ ausgeführt.
 通常階=Normale Stockwerke
 ボス階=Boss-Stokwerk

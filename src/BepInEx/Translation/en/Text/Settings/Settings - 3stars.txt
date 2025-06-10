@@ -10,8 +10,8 @@
 ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\\n\n※この設定は後から【設定】で変更できます。=Legen Sie den Effekt fest, wenn Sie 3★ Charaktere im Gacha erhalten und den Charaktereffekt auf Start.\nDiese Option kann später in [Optionen] geändert werden.
 
 ガチャの★3キャラ獲得時の演出設定=Download-Leiste für 3★ Zeichen aus Gacha
-★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Einstellung „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
-★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Einstellung „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
+★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Option „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
+★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。=Bei der Option „Animiert“ wird vor der Wiedergabe ein Balken zum Herunterladen der Daten angezeigt.
 リッチ版=Animierte
 
 マイページのキャラ演出設定=Grafikanimation auf Start

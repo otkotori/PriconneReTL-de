@@ -3,6 +3,6 @@
 売却マナ=Manawert
 
 確認したいアイテムを選択してください=Wählen Sie den gewünschten Artikel aus.
-所持していません。=Du hast es nicht.
+所持していません。=Nicht erhalten.
 
 アイテム詳細=Artikel-Info

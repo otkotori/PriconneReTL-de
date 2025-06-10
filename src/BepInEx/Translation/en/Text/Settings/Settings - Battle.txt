@@ -55,7 +55,7 @@
 バトルのAUTOとSETとSPEEDの設定です。\n「引き継ぐ」に設定するとバトル中に変更したAUTO・SET・SPEEDの設定を引き継ぎます。\n※AUTOとSETとSPEEDを個別に引き継ぎ設定はできません。=Mit „Umschalten“ werden die während des Kampfes geänderten Optionen für AUTO, SET und SPEED\nübernommen. ※AUTO, SET und SPEED können nicht einzeln übernommen werden.
 
 属性ボーナス演出=Elementar-Bonusstufe
-バトルを開始した際の属性ボーナス演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回属性ボーナス時のみ表示されます。=Diese Option legt fest, ob Elementar-Bonus-Effekt angezeigt werden sollen, wenn ein Kampf begonnen\nwird. Wenn Sie „Einmal pro Tag“ einstellen, wird er nur angezeigt, wenn der erste Elementar-Bonus\nproTag erhalten wird.
+バトルを開始した際の属性ボーナス演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回属性ボーナス時のみ表示されます。=Legt fest, ob Elementar-Bonus-Effekt angezeigt werden sollen, wenn ein Kampf begonnen\nwird. Wenn Sie „Einmal pro Tag“ einstellen, wird er nur angezeigt, wenn der erste Elementar-Bonus\nproTag erhalten wird.
 
 引き継がない=Nicht umschalten
 引き継ぐ=Schalten

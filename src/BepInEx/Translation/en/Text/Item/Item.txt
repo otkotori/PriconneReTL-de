@@ -54,14 +54,19 @@ r:"^キャラのLv強化に使用すると、キャラEXPが([0-9,]+)加算さ�
 r:"^ギルドハウス内で使用すると、キャラの絆Ptが([0-9,]+)加算される。$"=Wird im Gildenhaus verwendet. Erhöht die Bindungspunkte des Charakters um $1.
 r:"^キャラの装備強化に使用すると、装備強化Ptが([0-9,]+)加算される。$"=Wird verwendet, um die Ausrüstung eines Charakters zu verfeinern. Fügt $1 Ausrüstungsveredelungspunkte hinzu.
 
-r:"^ギルドハウスやキャラの強化画面で\n使用すると、キャラの絆Ptが([0-9,]+)\n?加\n?算\n?される。$"=Benutze ihn im Gildenhaus oder auf dem Charakterverbesserungsbildschirm, um dem Charakter $1 Bindungspunkte hinzuzufügen.
+r:"^ギルドハウスやキャラの強化画面で\n使用すると、キャラの絆Ptが([0-9,]+)\n?加\n?算\n?される。$"=Benutze ihn im Gildenhaus oder im Charakter-Verbesserung, um dem Charakter $1 Bindungspunkte hinzuzufügen.
 クリアランク★3を獲得したクエス\nトの、プレイ時間をスキップするチケット。=Ein Ticket, mit dem Quests übersprungen werden können, die einen 3★ haben.
-プラチナガチャやピックアップガ\nチャを1回引くことができるガチャチケット。=Ein Gacha-Ticket, mit dem man das Premium- oder Fokus-Gacha ziehen kann.
+プラチナガチャやピックアップガ\nチャを1回引くことができるガチャチケット。=Ein Gacha-Ticket, mit dem man das Prämie- oder Fokus-Gacha ziehen kann.
 アドベンチャーのクエストにかかる\n時間を短縮することができるチケッ\nト。=Ein Ticket, das die Zeit für den Abschluss einer Abenteueraufgabe verkürzt.
 
-キャラ専用装備の作成に必要なアイ\nテム。=Ein Artikel, der für die Erstellung von charakterexklusiver Ausrüstung erforderlich ist.
-古より伝わる、装備者の力の極限を\n超えて引き上げるとされる指輪。装\n備するとプレイヤーLvを超えてキャ\nラLv限界突破が可能。=Ein seit der Antike überlieferter Ring, der die Macht des Trägers über das Maximum hinaus anheben soll. Wenn er ausgerüstet ist, kann der Charakter seine Stufengrenze über die Spieler-Stufe hinaus durchbrechen.
+マスタリーチケット=Meisterschaftskarte
+マスタリーガチャを1回引くことが\nできるチケット。=Ein Ticket, das eine Ziehung aus dem Meisterschafts-Gacha ermöglicht.
+sr:"^(.+?)ロールのマスタリー強化用素材。(.+?)(?:アップ)?の強化に使用できる。$"=Ein Artikel, das zur Verbesserung der $1-Rollenbeherrschung verwendet wird. Kann verwendet werden, um $2 zu verbessern.
+マスタリー強化用素材。全てのロールの強化に使用できる。=Ein Artikel, das zur Verbesserung der Beherrschung verwendet wird. Kann zur Verbesserung aller Rollen verwendet werden.
 
-アルケス錬金堂の最高の秘術である究極錬成において使用される宝玉。装備の効果自体を物質化したもので特殊な武具に付与することが可能。=Ein Juwel, das in der Ultimativen Synthese verwendet wird, der mächtigsten Technik des Atelier Alces. Es ist eine materialisierte Version der Effekte der Ausrüstung selbst und kann auf spezielle Waffen angewendet werden.
+キャラ専用装備の作成に必要なアイ\nテム。=Ein Artikel, der für die Erstellung von charakterexklusiver Ausrüstung erforderlich ist.
+古より伝わる、装備者の力の極限を\n超えて引き上げるとされる指輪。装\n備するとプレイヤーLvを超えてキャ\nラLv限界突破が可能。=Ein seit der Antike überlieferter Ring, der die Macht des Trägers über das Maximum hinaus anheben soll. Wenn er ausgerüstet ist, kann der Charakter seine Stufengrenze über die Spielerstufe hinaus durchbrechen.
+
+アルケス錬金堂の最高の秘術である究極錬成において使用される宝玉。装備の効果自体を物質化したもので特殊な武具に付与することが可能。=Ein Juwel, das in der Ultimativen Synthese verwendet wird, der mächtigsten Technik des Alces-Atelier. Es ist eine materialisierte Version der Effekte der Ausrüstung selbst und kann auf spezielle Waffen angewendet werden.
 
 アストラルの顕在化により発生した宝珠。未確認物質でできており使用するとなぜかプリンセスナイトの　権能を強化拡張することができる。=Schatzperlen, die durch die Manifestation von Astral erzeugt werden. Sie bestehen aus unbekanntem Material und verbessern und erweitern die Fähigkeiten der Prinzessinnenritter.

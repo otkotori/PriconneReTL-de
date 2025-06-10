@@ -34,3 +34,5 @@ sr:"^(\[[0-9A-F]{6}\])?(.+)のシャドウを倒そう(\[-\])?$"=$1Besiege den S
 
 sr:"^(.+)を(\d)体倒そう　（(.+)限定）$"="Beende $1 ($3 begrenzt) $2-mal."
 sr:"^(\[[0-9A-F]{6}\])?(.+)を()体倒そう（([\w ]+)限定）(\[-\])?$"="$1Besiege $2 einmal ($3)."
+
+スペシャルダンジョンに1回挑戦しよう=Fordere den Spezialkerker einmal heraus

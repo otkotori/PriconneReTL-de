@@ -25,5 +25,4 @@ sr:"^(.+)をクリアで解放されます。$"=Beende $1 zum Freischalten.
 闇属性キャラ=Alle Dunkel-Charak.
 
 チェック引継ぎ確認=Übergabebestätigung prüfen
-
 新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Letzten abgeschlossenen Quests wurde überprüft, da eine neue tiefe Quest abgeschlossen wurde.

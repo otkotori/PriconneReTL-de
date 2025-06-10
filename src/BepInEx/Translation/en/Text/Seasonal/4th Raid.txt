@@ -24,9 +24,8 @@ r:"^魔蜘の金糸獲得まで　([0-9/])+ \(本日の残り獲得可能数：(
 
 魔蜘の金糸獲得まで=Bis du eine Goldspinnenseide bekommst
 本日の魔蜘の金糸の獲得上限に達しています。=Du hast die maximale Menge an Goldspinnenseide erreicht, die du heute erhalten kannst.
-[3C404E]魔蜘の金糸を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Verzehre den Goldspinnenseide [FFBB00,CE4F00]1 [-], um eine weitere Quest in derselben Gruppe zu spielen. May I?
+[3C404E]魔蜘の金糸を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Verzehre den Goldspinnenseide [FFBB00,CE4F00]1[-], um eine weitere Quest in derselben Gruppe zu spielen.\nSind Sie sicher?
 アラクネを撃退しよう=Kämpfen wir gegen die Arachne
-
 
 リタイアすると報酬を\n獲得することができません。\nスタミナは消費されません。\n\nよろしいですか？=Wenn du aufgibst, erhältst du keine Belohnungen.\nAusdauer wird nicht verbraucht.\nSind Sie sicher?
 このバトルからは　逃げられない！=Du kannst diesem Kampf nicht entkommen!
@@ -42,7 +41,7 @@ r:"^魔蜘の金糸獲得まで　([0-9/])+ \(本日の残り獲得可能数：(
 ──お兄。=⁇ Onii.
 いと。ほどいた。\nなんとか。お兄だけ。=Mein Cousin. Ich habe ihn losgebunden. Irgendwie. Nur mein Bruder.
 {playername}くん！？\n危険です、一人じゃっ……={playername}?! Es ist gefährlich, allein zu sein...
-……！\nあれはっ──=...! That's...!
+……！\nあれはっ──=...! Das ist...!
 『晶さまから託された、大切なプログラム……\n必ずや、主さまにお届けいたします。』=Ein wertvolles Programm, das mir von Akira-sama anvertraut wurde... Ich werde es Euch liefern, Meister.
 『……お父さまといい、晶さまといい。\nわたくしはどうも、大事なものを預かることが多いように思いますね。』=...Vater und Akira-sama. Ich denke, ich neige dazu, mich um Dinge zu kümmern, die mir wichtig sind.
 『──そう。\nキミにとって、そしてアタシたちにとって、\nと～っても大事なものさ。』=『 ⁇ Das ist richtig. Für Sie und für uns ist es extrem wichtig.』
@@ -91,17 +90,17 @@ r:"^魔蜘の金糸獲得まで　([0-9/])+ \(本日の残り獲得可能数：(
 
 期間限定ミッション：2024/08/16 12:00～2024/08/21 11:59=Zeitlich begrenzter Einsatz: 2024.16.8 12:00-2024.21.8 11:59
 受け取り期限：2024/08/26 14:59=Annahmeschluss für die Belohnung: 2024.26.8 14:59
-全プレイヤーでフレイヤを合計500,000回倒そう=Besiegen Sie Freya insgesamt 500.000-mal mit allen Spielern.
+全プレイヤーでフレイヤを合計500,000回倒そう=Besiegen Sie Frejya insgesamt 500.000-mal mit allen Spielern.
 全プレイヤーでバンディ・シスターズを合計750,000回倒そう=Besiegen Sie die Bandy-Schwestern insgesamt 750.000-mal mit allen Spielern.
 全プレイヤーでバンディ・シスターズを合計500,000回倒そう=Besiegen Sie die Bandy-Schwestern insgesamt 500.000-mal mit allen Spielern.
 期間限定=Zeitlich begrenzt
-全プレイヤーでフレイヤを合計750,000回倒そう=Besiegen Sie Freya insgesamt 750.000-mal mit allen Spielern.
-全プレイヤーでフレイヤを合計1,000,000回倒そう=Besiegen Sie Freya insgesamt 1.000.000-mal mit allen Spielern.
+全プレイヤーでフレイヤを合計750,000回倒そう=Besiegen Sie Freyja insgesamt 750.000-mal mit allen Spielern.
+全プレイヤーでフレイヤを合計1,000,000回倒そう=Besiegen Sie Freyja insgesamt 1.000.000-mal mit allen Spielern.
 全プレイヤーでアラクネを合計1,000,000回倒そう=Besiegen Sie Arachne insgesamt 1.000.000-mal mit allen Spielern.
 全プレイヤーでアラクネを合計1,500,000回倒そう=Besiegen Sie Arachne insgesamt 1.500.000-mal mit allen Spielern.
 バンディ・シスターズを1回倒そう=Besiege die Bandy-Schwestern einmal.
 宝石蜘蛛の群れに1回挑戦しよう=Fordere den Juwelenspinnenschwarm einmal heraus.
 全プレイヤーでアラクネを合計2,000,000回倒そう=Besiegen Sie Arachne insgesamt 2.000.000-mal mit allen Spielern.
-フレイヤを1回倒そう=Besiege Freya einmal.
+フレイヤを1回倒そう=Besiege Freyja einmal.
 アラクネを1回倒そう=Besiege Arachne einmal.
 煉獄のリベリオン クリア！=Rebellion des Fegefeuers beendet!

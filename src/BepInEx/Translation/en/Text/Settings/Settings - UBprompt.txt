@@ -1,8 +1,8 @@
 UB即発動モードを使用するか設定できます。=Sie können den Eingabemodus „Union Burst“ verwenden, sobald der TP voll ist, genau wie den Schnellklick.
 UB即発動モードの設定=Option des UB-Eingabemodus (Set-Modus)
 UB即発動モードを有効にする=UB-Eingabemodus einschalten
-各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Jedes Mal, wenn ein Zeichen UB aktiviert, können Sie festlegen, ob der UB-Eingabemodus\nabgebrochen werden soll.
+各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Jedes Mal, wenn ein Charakter UB aktiviert, können Sie festlegen, ob der\nUB-Eingabemodus abgebrochen werden soll.
 ユニオンバースト発動時にUB即発動モードを解除=Aufhebung des UB-Eingabemodus bei aktiviertem Union Burst
-ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Du kannst im Luna-Turm eine Obergrenze für die Kampfgeschwindigkeit festlegen. Die Option werden ab dem nächsten Kampf übernommen.
-次元断層において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Sie können eine Obergrenze für die Kampfgeschwindigkeit in der Dimensionsstörung festlegen.\n Die Option werden ab dem nächsten Kampf übernommen.
+ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Du kannst im Luna-Turm eine Obergrenze für die Kampfgeschwindigkeit festlegen.\nDie Option werden ab dem nächsten Kampf übernommen.
+次元断層において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Sie können eine Obergrenze für die Kampfgeschwindigkeit in der Dimensionsstörung festlegen.\nDie Option werden ab dem nächsten Kampf übernommen.
 UB即発動モードが無効になっています。=UB-Eingabemodus deaktiviert.
