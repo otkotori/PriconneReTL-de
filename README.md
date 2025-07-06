@@ -1,6 +1,8 @@
 <h2 align="center">
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
+As of 6. July 2025, this project will be discontinued by otkotori.
+
 <i>A Conversion patch for Princess Connect! Re:Dive on DMM</i>
 </h2>
 
