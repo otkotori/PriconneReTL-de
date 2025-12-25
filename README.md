@@ -1,8 +1,6 @@
 <h2 align="center">
 <img src=".github/assets/logo.png" style="vertical-align: bottom">
 
-As of 6. July 2025, this project will be discontinued by otkotori.
-
 <i>A Conversion patch for Princess Connect! Re:Dive on DMM</i>
 </h2>
 
@@ -10,7 +8,7 @@ As of 6. July 2025, this project will be discontinued by otkotori.
 
 ⚠️ **Warnung:** _Bitte benutzen Sie es auf eigene Gefahr! ImaterialC (Cornelia), otkotori oder das normale Re:TL-Team sind nicht verantwortlich für irgendwelche Aktionen, die in Bezug auf Ihr Konto unternommen werden, wenn Sie dieses Übersetzungstool verwenden._
 
-The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Princess Connect Re:Dive](https://dmg.priconne-redive.jp/). It's main focus is to translate the game's user interface from Japanese to German so that german people can play it easier.
+The DE variant of 'Priconne Re:TL' is an unofficial patch for [Princess Connect Re:Dive](https://dmg.priconne-redive.jp/). It's main focus is to translate the game's user interface from Japanese to German so that german people can play it easier.
 
 ---
 
@@ -18,7 +16,7 @@ The DE variant of 'Priconne Re:TL' is an unofficial patch / mod for [Princess Co
 - [ Bei der Installation](#-bei-der-installation)
 - [ Beim Aktualisieren](#-beim-aktualisieren)
 - [ Beim Löschen](#-beim-löschen)
-- [ Einstellungen und Funktionen ](#-einstellungen-und-funktionen)
+- [ Funktionen ](#-funktionen)
 
 
 ## ![Nozomi](https://static.wikia.nocookie.net/princess-connect/images/4/46/Nozomi_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925084658) BEI DER INSTALLATION
@@ -58,13 +56,10 @@ Der Vanilla-Status des Ordners „priconner“ sieht wie folgt aus:
 ![normal](https://github.com/user-attachments/assets/eee6872a-b8c1-478e-b949-6a6e3963d95a)
 
 
-## ![Kyouka](https://static.wikia.nocookie.net/princess-connect/images/3/39/Kyouka_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113712) EINSTELLUNGEN UND FUNKTIONEN
+## ![Kyouka](https://static.wikia.nocookie.net/princess-connect/images/3/39/Kyouka_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113712) FUNKTIONEN
 
 - Die Verwendung von [BepInEx Bleeding Edge](https://github.com/krulci/BepInEx) als Rahmen für die Injektion von [XUnity AutoTranslator](https://github.com/Kevga/XUnity.AutoTranslator).
 - Die Konfiguration finden Sie hier:
   - [BepInEx Config](https://docs.bepinex.dev/articles/user_guide/configuration.html)
   - [AutoTranslator Config](https://github.com/bbepis/XUnity.AutoTranslator#configuration)
-- [BepInEx FullScreenizer](https://github.com/krulci/FullScreenizer). Die Standardtaste für den Vollbildmodus ist F11.
-- 16:9-Seitenverhältnis und kann Client-Größen größer als 1280 x 720 maximieren oder anpassen, um ein besseres Erlebnis auf modernen Bildschirmanzeigen zu ermöglichen.
-- 2 Strategien für Texturen basierend auf Größe für Atlanten und Name für andere, es wird automatisch zurückgesetzt, wenn Texturen geändert werden und unbrauchbar sind. **Leider müssen AMD-GPU-Benutzer Atlas-Texturen aufgrund der unterschiedlichen
-  Komprimierungsgrößen manuell ersetzen.**
+- Der Tasten für Vollbildmodus ist nun F11 oder Alt+Eingabetaste.
